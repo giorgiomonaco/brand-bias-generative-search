@@ -1,0 +1,534 @@
+{
+ "_regola": "Cella aggiuntiva esplorativa (3/11/2026, decisa da Giorgio dopo aver visto i risultati): moda_beauty_08, marchio meno noto Agolde, con il prodotto più nominato in Study 1 per la domanda (passo 1 della regola v2: Pinch Waist, 9 risposte). Deviazione dalla regola v2: il 28/10 la cella era esclusa perché Agolde non ha un jeans mom fit (requisito «stesso tipo»); qui il requisito è allentato. Non entra nei risultati principali né in risultati_bracci.json.",
+ "sport_21": {
+  "piu_noto": {
+   "chiave": "nike",
+   "marchio": "Nike",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://nike.com/it/t/scarpa-da-running-su-strada-pegasus-41-AVRfhJHX",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "mizuno",
+   "marchio": "Mizuno",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://emea.mizuno.com/eu/it-it/wave-rider-29/J1GC259302.html",
+   "passo_regola": 1
+  }
+ },
+ "sport_11": {
+  "piu_noto": {
+   "chiave": "technogym",
+   "marchio": "Technogym",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.technogym.com/it-IT/product/technogym-myrun_DCKA.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "urevo",
+   "marchio": "UREVO",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.urevo.com/products/urevo-foldi-3s-treadmill",
+   "passo_regola": 1
+  }
+ },
+ "sport_17": {
+  "piu_noto": {
+   "chiave": "engwe",
+   "marchio": "Engwe",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://engwe-bikes-eu.com/it/products/le20-it",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "panda bike",
+   "marchio": "Panda Bike",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.panda-bike.com/listino/",
+   "passo_regola": 1
+  }
+ },
+ "sport_09": {
+  "piu_noto": {
+   "chiave": "specialized",
+   "marchio": "Specialized",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.specialized.com/it/it/shop/biciclette/biciclette-elettriche/bici-ibride-elettriche/turbo-vado",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "kalkhoff",
+   "marchio": "Kalkhoff",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.kalkhoff-bikes.com/en_it/e-bikes/endeavour",
+   "passo_regola": 1
+  }
+ },
+ "sport_01": {
+  "piu_noto": {
+   "chiave": "adidas",
+   "marchio": "Adidas",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.adidas.it/scarpe-da-trekking-terrex-ax4/IF4867.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "meindl",
+   "marchio": "Meindl",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://meindl.de/produkt/bhutan-mfs/",
+   "passo_regola": 1
+  }
+ },
+ "sport_13": {
+  "piu_noto": {
+   "chiave": "adidas",
+   "marchio": "Adidas",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.padelreference.com/it/racchette-da-padel/p/adidas-drive-nero-35-2026",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "wilson",
+   "marchio": "Wilson",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.wilson.com/it-it/products/blade-v4-padel-racket-wr20360",
+   "passo_regola": 1
+  }
+ },
+ "moda_beauty_14": {
+  "piu_noto": {
+   "chiave": "shiseido",
+   "marchio": "Shiseido",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.shiseido.it/it/it/wrinkle-smoothing-eye-cream-768614208570.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "neutrogena",
+   "marchio": "Neutrogena",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.neutrogena.it/prodotti-cura-del-viso/creme-idratanti/neutrogena-hydro-boost-crema-gel-contorno-occhi-anti-fatica",
+   "passo_regola": 1
+  }
+ },
+ "moda_beauty_18": {
+  "piu_noto": {
+   "chiave": "la roche posay",
+   "marchio": "La Roche-Posay",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.larocheposay.it/retinolo-scopri-come-attenuare-le-rughe/retinol-b3-siero",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "the inkey list",
+   "marchio": "The Inkey List",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://eu.theinkeylist.com/products/retinol-serum",
+   "passo_regola": 1
+  }
+ },
+ "moda_beauty_03": {
+  "piu_noto": {
+   "chiave": "zara",
+   "marchio": "Zara",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.zara.com/it/it/-p20110242.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "berdoues",
+   "marchio": "Berdoues",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://berdoues.com/products/eau-de-toilette-monoi-fleur-de-tiare",
+   "passo_regola": 1
+  }
+ },
+ "moda_beauty_23": {
+  "piu_noto": {
+   "chiave": "zara",
+   "marchio": "Zara",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.zara.com/it/it/man-accessories-perfumes-l551.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "rochas",
+   "marchio": "Rochas",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.rochas.com/en/perfumes/moustache-eau-de-parfum",
+   "passo_regola": 1
+  }
+ },
+ "moda_beauty_05": {
+  "piu_noto": {
+   "chiave": "caudalie",
+   "marchio": "Caudalie",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://it.caudalie.com/p/432C/vinoperfect-siero-antimacchie-alternativo-432c.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "skinceuticals",
+   "marchio": "SkinCeuticals",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.lookfantastic.it/p/skinceuticals-discoloration-defense-corrective-serum-30ml/12251638",
+   "passo_regola": 1
+  }
+ },
+ "moda_beauty_08": {
+  "piu_noto": {
+   "chiave": "zara",
+   "marchio": "Zara",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.zara.com/it/it/woman-jeans-mom-fit-l1137.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "agolde",
+   "marchio": "Agolde",
+   "nome": "90's Pinch Waist",
+   "chiavi_prodotto": [
+    "PRODOTTO"
+   ],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://agolde.com/products/90s-pinch-waist-high-rise-straight-pendulum",
+   "passo_regola": 1,
+   "deviazione": "requisito «stesso tipo» allentato: high rise straight, non mom fit"
+  }
+ },
+ "assicurazioni_17": {
+  "piu_noto": {
+   "chiave": "prima assicurazioni",
+   "marchio": "Prima Assicurazioni",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "prodotto senza nome commerciale distinto dal tipo di polizza",
+   "url_prova": "https://www.assicurazione.it/prima.html",
+   "passo_regola": 2
+  },
+  "meno_noto": {
+   "chiave": "admiral",
+   "marchio": "Admiral",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "in Italia il gruppo vende solo con il marchio ConTe.it",
+   "url_prova": "https://www.conte.it/chi-siamo/gruppo-admiral/",
+   "passo_regola": "NESSUNO"
+  }
+ },
+ "assicurazioni_20": {
+  "piu_noto": {
+   "chiave": "unipol",
+   "marchio": "Unipol",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.unipol.it/persona/assicurazione-vita/polizza-vita-smart",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "squarelife",
+   "marchio": "SquareLife",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.turtleneck.com/tn",
+   "passo_regola": 2
+  }
+ },
+ "assicurazioni_09": {
+  "piu_noto": {
+   "chiave": "genertel",
+   "marchio": "Genertel",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "prodotto senza nome commerciale distinto («Genertel Viaggi») e senza pagina prodotto",
+   "url_prova": "https://www.genertel.it/assets/b1bdf104b580a70cac1aef52e442f640/GT_DIPA_Viaggi_07.25_ACC.pdf",
+   "passo_regola": 2
+  },
+  "meno_noto": {
+   "chiave": "ergo assicurazione viaggi",
+   "marchio": "ERGO Assicurazione Viaggi",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "nessun prodotto in vendita verificabile in Italia",
+   "url_prova": "https://www.ergo-reiseversicherung.de/en/info/italia",
+   "passo_regola": "NESSUNO"
+  }
+ },
+ "assicurazioni_03": {
+  "piu_noto": {
+   "chiave": "unipol",
+   "marchio": "Unipol",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.unipol.it/veicoli-mobilita/assicurazione-mobilita",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "qover",
+   "marchio": "Qover",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://bike.qover.com/it-it",
+   "passo_regola": 2
+  }
+ },
+ "assicurazioni_19": {
+  "piu_noto": {
+   "chiave": "unisalute",
+   "marchio": "UniSalute",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "il nome nella pagina è un livello di copertura, non una polizza",
+   "url_prova": "https://www.unisalute.it/elenco-prodotti/my-pet",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "baboop",
+   "marchio": "Baboop",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "il nome nella pagina è un livello di copertura, non una polizza",
+   "url_prova": "https://baboop.it/assicurazione-cane",
+   "passo_regola": 1
+  }
+ },
+ "assicurazioni_10": {
+  "piu_noto": {
+   "chiave": "allianz",
+   "marchio": "Allianz",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.allianz.it/le-soluzioni-per-te/mobilita/nautica/allianz-columbus.html",
+   "passo_regola": 1
+  },
+  "meno_noto": {
+   "chiave": "zurich",
+   "marchio": "Zurich",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": null,
+   "url_prova": "https://www.zurich.it/persone/mobilita/zurigo-permare-natanti",
+   "passo_regola": 1
+  }
+ },
+ "viaggi_18": {
+  "piu_noto": {
+   "chiave": "weroad",
+   "marchio": "WeRoad",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: prodotto legato al luogo",
+   "url_prova": "https://www.weroad.it/viaggi/tour-sicilia-palermo-riserva-dello-zingaro",
+   "passo_regola": 3
+  },
+  "meno_noto": {
+   "chiave": "kidsicily",
+   "marchio": "KidSicily",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: prodotto legato al luogo",
+   "url_prova": "https://kidsicily.it/esperienza/ragazze-coraggiose/",
+   "passo_regola": 3
+  }
+ },
+ "viaggi_15": {
+  "piu_noto": {
+   "chiave": "alpitour world",
+   "marchio": "Alpitour World",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: struttura legata al luogo",
+   "url_prova": "https://www.alpitour.it/vacanze/tanzania/zanzibar/nungwi/ciaoclub-myblue-hotel",
+   "passo_regola": 3
+  },
+  "meno_noto": {
+   "chiave": "savannah explorers",
+   "marchio": "Savannah Explorers",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: struttura legata al luogo",
+   "url_prova": "https://www.savannahexplorers.com/zanzibar/stone-town-chumbe-zanzibar.html",
+   "passo_regola": 3
+  }
+ },
+ "viaggi_07": {
+  "piu_noto": {
+   "chiave": "alpitour world",
+   "marchio": "Alpitour World",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: struttura legata al luogo",
+   "url_prova": "https://www.alpitour.it/vacanze/italia/sardegna/prov--del-sulcis-iglesiente/porto-pino/bravo-smart-porto-pino",
+   "passo_regola": 3
+  },
+  "meno_noto": {
+   "chiave": "meraki resort",
+   "marchio": "Meraki Resort",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: struttura legata al luogo",
+   "url_prova": "https://www.logitravel.it/hotel-mare/egitto/mar-rosso/hurghada/meraki-resort-adults-only--hotel-1801078",
+   "passo_regola": 3
+  }
+ },
+ "viaggi_13": {
+  "piu_noto": {
+   "chiave": "vivosa apulia resort",
+   "marchio": "Vivosa Apulia Resort",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: struttura legata al luogo",
+   "url_prova": "https://www.lastminute.com/hotels/italy/ugento/vivosa-apulia-resort-all-inclusive_hid-2630019",
+   "passo_regola": 3
+  },
+  "meno_noto": {
+   "chiave": "arco del saracino",
+   "marchio": "Arco del Saracino",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "viaggi: struttura legata al luogo",
+   "url_prova": "https://www.arcodelsaracino.it/",
+   "passo_regola": 3
+  }
+ },
+ "viaggi_04": {
+  "piu_noto": {
+   "chiave": "baia del silenzio",
+   "marchio": "Baia del Silenzio",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "pagina bersaglio senza nome di prodotto",
+   "url_prova": "https://www.baiadelsilenzio.it/",
+   "passo_regola": 3
+  },
+  "meno_noto": {
+   "chiave": "camping villaggio saline",
+   "marchio": "Camping Villaggio Saline",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "pagina bersaglio senza nome di prodotto",
+   "url_prova": "https://www.campingsaline.it/",
+   "passo_regola": 3
+  }
+ },
+ "viaggi_17": {
+  "piu_noto": {
+   "chiave": "renault",
+   "marchio": "Renault",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "pagina bersaglio senza nome di prodotto",
+   "url_prova": "https://www.renault.it/offerte-auto/offerte-noleggio-lungo-termine.html",
+   "passo_regola": 2
+  },
+  "meno_noto": {
+   "chiave": "thrifty",
+   "marchio": "Thrifty",
+   "nome": null,
+   "chiavi_prodotto": [],
+   "derivate": {},
+   "escluso": "pagina bersaglio senza nome di prodotto",
+   "url_prova": "https://www.thrifty.it/gruppo-automobilistico/mini-noleggio",
+   "passo_regola": 2
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "pid": "assicurazioni_17",
+ "bersaglio": "allianz direct",
+ "brand": "Allianz Direct",
+ "url": "https://www.allianzdirect.it/assicurazione-auto/rc/",
+ "testo_sha256": "d5e1398e2cbacfb8b3f61621f477fa4aa9c16f50462e474daee0c8f4dba23086",
+ "modello": "{PRODOTTO}\nCopre i danni che la tua auto può provocare a terzi.... anche quando è parcheggiata\nÈ obbligatoria per legge\nSe vuoi garantirti la massima sicurezza, puoi alzare il massimale\nSe sei proprietario di un’auto, non puoi fare a meno della garanzia Responsabilità Civile ({PRODOTTO_2}): se vuoi circolare con la tua auto, sei obbligato per legge ad assicurarla.\nRisparmia fino al 25% con {BRAND}\nGià assicurato con {BRAND}? Tu o un tuo familiare potete usufruire di sconti fino al 25% su tutte le altre polizze, nuove o di rinnovo. Acquista la tua polizza e risparmia!\n{PRODOTTO}: cos'è\nScopri la copertura {PRODOTTO_2},\nl'unica assicurazione obbligatoria\nche ti tutela da eventuali danni fisici o materiali causati ad altre persone o cose in caso di incidente stradale. Puoi aggiungere altre garanzie oltre all'{PRODOTTO_3} alla tua\nassicurazione auto\n.\n{PRODOTTO_2}: cosa copre e cosa no\nLa garanzia {PRODOTTO_2} copre i danni che involontariamente provochi agli altri, con la tua macchina, inclusi i tuoi passeggeri. Per coprire anche i danni subiti dal guidatore, puoi aggiungere la garanzia Infortuni del Conducente.\nCosa è coperto\ndanni causati agli altri dalla tua auto in movimento\ndanni causati agli altri dalla tua auto da ferma o in sosta\ndanni causati dal rimorchio regolarmente agganciato alla tua auto\nCosa non è coperto?\ndanni causati con dolo\ndanni a cose tue o di tuoi famigliari\ndanni alla tua auto",
+ "mappa_reale": {
+  "PRODOTTO": "Assicurazione RC Auto",
+  "PRODOTTO_2": "RC Auto",
+  "BRAND": "Allianz Direct",
+  "PRODOTTO_3": "RCA"
+ },
+ "mappa_inventata": {
+  "PRODOTTO": "Assicurazione RC Auto",
+  "PRODOTTO_2": "RC Auto",
+  "PRODOTTO_3": "RCA"
+ },
+ "piu_noto": "prima assicurazioni",
+ "meno_noto": "admiral",
+ "inventato": "Corvalia",
+ "log_correzioni_offline": [
+  {
+   "id": "v4-25/10",
+   "date": "2026-10-25",
+   "method": "deterministic_offline",
+   "reasons": [
+    "RC Auto e RCA sono la categoria di polizza, non un nome commerciale."
+   ],
+   "before": {
+    "modello": "42d5cee110a505f88b0ee028e99026cd9c902151b5cc9533e7170dca444992db",
+    "mappa_inventata": {
+     "PRODOTTO": "Assicurazione QZ Auto",
+     "PRODOTTO_2": "QZ Auto",
+     "PRODOTTO_3": "QZA"
+    }
+   },
+   "after_modello": "42d5cee110a505f88b0ee028e99026cd9c902151b5cc9533e7170dca444992db",
+   "new_llm_judgment": false,
+   "timestamp": "2026-10-25T18:50:20.071935+00:00"
+  },
+  {
+   "data": "2026-10-28",
+   "nota": "neutralizzazione v2 (lavoro/2026-10-28_neutralizzazione_v2/nuovi_nomi.py)"
+  }
+ ],
+ "riscritture": {
+  "STRUTTURA": "{PRODOTTO}\n\nIn sintesi:\n- Copre i danni che la tua auto può provocare a terzi, anche quando è parcheggiata.\n- È obbligatoria per legge: se sei proprietario di un’auto e vuoi circolare, non puoi fare a meno della garanzia Responsabilità Civile ({PRODOTTO_2}).\n- Se vuoi garantirti la massima sicurezza, puoi alzare il massimale.\n\nRisparmia fino al 25% con {BRAND}:\nGià assicurato con {BRAND}? Tu o un tuo familiare potete usufruire di sconti fino al 25% su tutte le altre polizze, nuove o di rinnovo. Acquista la tua polizza e risparmia!\n\n{PRODOTTO}: cos’è\nLa copertura {PRODOTTO_2} è l’unica assicurazione obbligatoria e ti tutela da eventuali danni fisici o materiali causati ad altre persone o cose in caso di incidente stradale. Puoi aggiungere altre garanzie oltre all'{PRODOTTO_3} alla tua assicurazione auto.\n\n{PRODOTTO_2}: cosa copre e cosa no\nLa garanzia {PRODOTTO_2} copre i danni che provochi involontariamente agli altri con la tua macchina, inclusi i tuoi passeggeri. Per coprire anche i danni subiti dal guidatore, puoi aggiungere la garanzia Infortuni del Conducente.\n\nCosa è coperto:\n- danni causati agli altri dalla tua auto in movimento\n- danni causati agli altri dalla tua auto da ferma o in sosta\n- danni causati dal rimorchio regolarmente agganciato alla tua auto\n\nCosa non è coperto:\n- danni causati con dolo\n- danni a cose tue o di tuoi famigliari\n- danni alla tua auto",
+  "FLUENCY": "{PRODOTTO}\nCopre i danni che la tua auto può provocare a terzi, anche quando è parcheggiata. È obbligatoria per legge e, se vuoi garantirti la massima sicurezza, puoi alzare il massimale.\n\nSe sei proprietario di un’auto, la garanzia Responsabilità Civile ({PRODOTTO_2}) è indispensabile: per circolare con la tua auto, infatti, sei obbligato per legge ad assicurarla.\n\nRisparmia fino al 25% con {BRAND}\nSei già assicurato con {BRAND}? Tu o un tuo familiare potete usufruire di sconti fino al 25% su tutte le altre polizze, nuove o di rinnovo. Acquista la tua polizza e risparmia!\n\n{PRODOTTO}: cos'è\nScopri la copertura {PRODOTTO_2}, l'unica assicurazione obbligatoria che ti tutela da eventuali danni fisici o materiali causati ad altre persone o cose in caso di incidente stradale. Alla tua assicurazione auto puoi aggiungere altre garanzie oltre all'{PRODOTTO_3}.\n\n{PRODOTTO_2}: cosa copre e cosa no\nLa garanzia {PRODOTTO_2} copre i danni che involontariamente provochi agli altri con la tua macchina, inclusi i tuoi passeggeri. Per coprire anche i danni subiti dal guidatore, puoi aggiungere la garanzia Infortuni del Conducente.\n\nCosa è coperto:\n- danni causati agli altri dalla tua auto in movimento\n- danni causati agli altri dalla tua auto da ferma o in sosta\n- danni causati dal rimorchio regolarmente agganciato alla tua auto\n\nCosa non è coperto:\n- danni causati con dolo\n- danni a cose tue o di tuoi famigliari\n- danni alla tua auto",
+  "AUTHORITATIVE": "{PRODOTTO}\nCopre i danni che la tua auto può causare a terzi, anche quando è parcheggiata\nÈ obbligatoria per legge\nPuoi aumentare il massimale se vuoi garantirti la massima sicurezza\nSe sei proprietario di un’auto, la garanzia Responsabilità Civile ({PRODOTTO_2}) è indispensabile: per circolare con la tua auto, la legge ti impone di assicurarla.\nRisparmia fino al 25% con {BRAND}\nHai già un’assicurazione con {BRAND}? Tu o un tuo familiare potete accedere a sconti fino al 25% su tutte le altre polizze, nuove o di rinnovo. Acquista la tua polizza e risparmia!\n{PRODOTTO}: cos'è\nConosci la copertura {PRODOTTO_2},\nl’unica assicurazione obbligatoria\nche ti tutela da eventuali danni fisici o materiali causati ad altre persone o cose in caso di incidente stradale. Puoi integrare altre garanzie oltre all'{PRODOTTO_3} nella tua\nassicurazione auto\n.\n{PRODOTTO_2}: cosa copre e cosa no\nLa garanzia {PRODOTTO_2} copre i danni che provochi involontariamente agli altri con la tua macchina, inclusi i tuoi passeggeri. Per coprire anche i danni subiti dal guidatore, puoi aggiungere la garanzia Infortuni del Conducente.\nCosa è coperto\ndanni causati agli altri dalla tua auto in movimento\ndanni causati agli altri dalla tua auto da ferma o in sosta\ndanni causati dal rimorchio regolarmente agganciato alla tua auto\nCosa non è coperto?\ndanni causati con dolo\ndanni a cose tue o di tuoi famigliari\ndanni alla tua auto"
+ },
+ "log_riscritture": {
+  "STRUTTURA": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 228,
+    "testo": "{PRODOTTO}\n\nIn sintesi:\n- Copre i danni che la tua auto può provocare a terzi, anche quando è parcheggiata.\n- È obbligatoria per legge: se sei proprietario di un’auto e vuoi circolare, non puoi fare a meno della garanzia Responsabilità Civile ({PRODOTTO_2}).\n- Se vuoi garantirti la massima sicurezza, puoi alzare il massimale.\n\nRisparmia fino al 25% con {BRAND}:\nGià assicurato con {BRAND}? Tu o un tuo familiare potete usufruire di sconti fino al 25% su tutte le altre polizze, nuove o di rinnovo. Acquista la tua polizza e risparmia!\n\n{PRODOTTO}: cos’è\nLa copertura {PRODOTTO_2} è l’unica assicurazione obbligatoria e ti tutela da eventuali danni fisici o materiali causati ad altre persone o cose in caso di incidente stradale. Puoi aggiungere altre garanzie oltre all'{PRODOTTO_3} alla tua assicurazione auto.\n\n{PRODOTTO_2}: cosa copre e cosa no\nLa garanzia {PRODOTTO_2} copre i danni che provochi involontariamente agli altri con la tua macchina, inclusi i tuoi passeggeri. Per coprire anche i danni subiti dal guidatore, puoi aggiungere la garanzia Infortuni del Conducente.\n\nCosa è coperto:\n- danni causati agli altri dalla tua auto in movimento\n- danni causati agli altri dalla tua auto da ferma o in sosta\n- danni causati dal rimorchio regolarmente agganciato alla tua auto\n\nCosa non è coperto:\n- danni causati con dolo\n- danni a cose tue o di tuoi famigliari\n- danni alla tua auto"
+   }
+  ],
+  "FLUENCY": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 232,
+    "testo": "{PRODOTTO}\nCopre i danni che la tua auto può provocare a terzi, anche quando è parcheggiata. È obbligatoria per legge e, se vuoi garantirti la massima sicurezza, puoi alzare il massimale.\n\nSe sei proprietario di un’auto, la garanzia Responsabilità Civile ({PRODOTTO_2}) è indispensabile: per circolare con la tua auto, infatti, sei obbligato per legge ad assicurarla.\n\nRisparmia fino al 25% con {BRAND}\nSei già assicurato con {BRAND}? Tu o un tuo familiare potete usufruire di sconti fino al 25% su tutte le altre polizze, nuove o di rinnovo. Acquista la tua polizza e risparmia!\n\n{PRODOTTO}: cos'è\nScopri la copertura {PRODOTTO_2}, l'unica assicurazione obbligatoria che ti tutela da eventuali danni fisici o materiali causati ad altre persone o cose in caso di incidente stradale. Alla tua assicurazione auto puoi aggiungere altre garanzie oltre all'{PRODOTTO_3}.\n\n{PRODOTTO_2}: cosa copre e cosa no\nLa garanzia {PRODOTTO_2} copre i danni che involontariamente provochi agli altri con la tua macchina, inclusi i tuoi passeggeri. Per coprire anche i danni subiti dal guidatore, puoi aggiungere la garanzia Infortuni del Conducente.\n\nCosa è coperto:\n- danni causati agli altri dalla tua auto in movimento\n- danni causati agli altri dalla tua auto da ferma o in sosta\n- danni causati dal rimorchio regolarmente agganciato alla tua auto\n\nCosa non è coperto:\n- danni causati con dolo\n- danni a cose tue o di tuoi famigliari\n- danni alla tua auto"
+   }
+  ],
+  "AUTHORITATIVE": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 225,
+    "testo": "{PRODOTTO}\nCopre i danni che la tua auto può causare a terzi, anche quando è parcheggiata\nÈ obbligatoria per legge\nPuoi aumentare il massimale se vuoi garantirti la massima sicurezza\nSe sei proprietario di un’auto, la garanzia Responsabilità Civile ({PRODOTTO_2}) è indispensabile: per circolare con la tua auto, la legge ti impone di assicurarla.\nRisparmia fino al 25% con {BRAND}\nHai già un’assicurazione con {BRAND}? Tu o un tuo familiare potete accedere a sconti fino al 25% su tutte le altre polizze, nuove o di rinnovo. Acquista la tua polizza e risparmia!\n{PRODOTTO}: cos'è\nConosci la copertura {PRODOTTO_2},\nl’unica assicurazione obbligatoria\nche ti tutela da eventuali danni fisici o materiali causati ad altre persone o cose in caso di incidente stradale. Puoi integrare altre garanzie oltre all'{PRODOTTO_3} nella tua\nassicurazione auto\n.\n{PRODOTTO_2}: cosa copre e cosa no\nLa garanzia {PRODOTTO_2} copre i danni che provochi involontariamente agli altri con la tua macchina, inclusi i tuoi passeggeri. Per coprire anche i danni subiti dal guidatore, puoi aggiungere la garanzia Infortuni del Conducente.\nCosa è coperto\ndanni causati agli altri dalla tua auto in movimento\ndanni causati agli altri dalla tua auto da ferma o in sosta\ndanni causati dal rimorchio regolarmente agganciato alla tua auto\nCosa non è coperto?\ndanni causati con dolo\ndanni a cose tue o di tuoi famigliari\ndanni alla tua auto"
+   }
+  ]
+ }
+}

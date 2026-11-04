@@ -1,0 +1,1339 @@
+chiave,nome,dominio,stato,evidenza
+msc crociere,MSC Crociere,msccrociere.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+costa crociere,Costa Crociere,costacrociere.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+prima assicurazioni,Prima Assicurazioni,prima.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+nike,Nike,nike.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+zara,Zara,zara.com,mapped_explicit,https://www.zara.com/it/
+allianz direct,Allianz Direct,allianzdirect.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+genertel,Genertel,genertel.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+allianz,Allianz,allianz.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+adidas,Adidas,adidas.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+h and m,H&M,hm.com,mapped_explicit,https://www2.hm.com/it_it/index.html
+conte it,ConTe.it,conte.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+assicurazioni generali,Assicurazioni Generali,generali.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+axa,AXA,axa.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+mango,Mango,mango.com,mapped_explicit,Mango Italia | Moda online
+mango,Mango,mangooutlet.com,mapped_explicit,Moda online fino al -85% | Mango Outlet Italia 2026
+puma,Puma,puma.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+asics,ASICS,asics.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+uniqlo,Uniqlo,uniqlo.com,mapped_explicit,https://www.uniqlo.com/it/it/
+verti,Verti,verti.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+brooks,Brooks,brooksrunning.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+levis,Levi’s,levi.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+saucony,Saucony,saucony.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+ovs,OVS,ovs.it,mapped_explicit,https://www.ovs.it/
+norwegian cruise line,Norwegian Cruise Line,ncl.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+norwegian cruise line,Norwegian Cruise Line,norwegian.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+the ordinary,The Ordinary,theordinary.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+domyos,Domyos,,no_verified_domain,unknown is not zero
+unipolsai,UnipolSai,,shared_domain_not_attributable,unknown is not zero
+kiabi,Kiabi,kiabi.it,mapped_explicit,https://www.kiabi.it/
+head,Head,head.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+cube,Cube,cube.eu,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+cerave,CeraVe,cerave.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+alpitour world,Alpitour World,alpitour.it,mapped_explicit,Pacchetti vacanza all inclusive viaggio 2026 | Alpitour Tour Operator
+salomon,Salomon,salomon.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+royal caribbean,Royal Caribbean,royalcaribbean.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+linear,Linear,linear.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+kiprun,Kiprun,kiprun.com,mapped_explicit,"https://www.kiprun.com/?no-animation=true — KIPRUN | Running & Trail Shoes, Apparel"
+unipol,Unipol,unipol.it,mapped_explicit,"Unipol Assicurazioni, Sempre un passo avanti"
+babolat,Babolat,babolat.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+new balance,New Balance,newbalance.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+fiat,Fiat,fiat.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+wilson,Wilson,wilson.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+weroad,WeRoad,weroad.it,mapped_explicit,Viaggi di gruppo organizzati on the road nel mondo | WeRoad
+furla,Furla,furla.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+hertz,Hertz,hertz.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+fiido,Fiido,fiido.com,mapped_explicit,Best Electric Bike Brand Online Shop - Fiido Company
+quixa,Quixa,quixa.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+metlife,MetLife,metlife.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+avis,Avis,avisautonoleggio.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+calvin klein,Calvin Klein,calvinklein.it,mapped_explicit,https://www.calvinklein.it/
+eden viaggi,Eden Viaggi,edenviaggi.it,mapped_explicit,Offerte viaggi e pacchetti vacanze | Eden Viaggi Tour Operator
+centauro,Centauro,centauro.net,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+toorx,Toorx,toorx.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+artengo,Artengo,,no_verified_domain,unknown is not zero
+guess,Guess,guess.eu,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+hoka,Hoka,hoka.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+primark,Primark,primark.com,mapped_explicit,https://www.primark.com/it-it
+coccinelle,Coccinelle,coccinelle.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+geox,Geox,geox.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+michael kors,Michael Kors,michaelkors.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+trek,Trek,trekbikes.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+veratour,Veratour,veratour.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+tern,Tern,ternbicycles.com,mapped_explicit,"Tern Bicycles | Electric Bikes, Cargo eBikes, and Folding"
+avventure nel mondo,Avventure nel Mondo,viaggiavventurenelmondo.it,mapped_explicit,Avventure nel Mondo - Viaggi di gruppo in oltre 150 paesi
+stradivarius,Stradivarius,stradivarius.com,mapped_explicit,https://www.stradivarius.com/it/store-locator.html
+zurich connect,Zurich Connect,,shared_domain_not_attributable,unknown is not zero
+xiaomi,Xiaomi,mi.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+xiaomi,Xiaomi,walkingpad.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+tommy hilfiger,Tommy Hilfiger,tommy.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+drivalia,Drivalia,drivalia.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+massimo dutti,Massimo Dutti,massimodutti.com,mapped_explicit,https://www.massimodutti.com/it/
+c and a,C&A,c-and-a.com,mapped_explicit,Fashion and clothing to feel good | C&A
+la roche posay,La Roche-Posay,larocheposay.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+goldcar,Goldcar,goldcar.es,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+quechua,Quechua,,no_verified_domain,unknown is not zero
+sixt,Sixt,sixt.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+columbia,Columbia,columbiasportswear.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+sicily by car,Sicily by Car,sicilybycar.it,mapped_explicit,Noleggio auto e furgoni in tutta Italia | Sicily by Car
+locauto,Locauto,locautorent.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+garnier,Garnier,garnier.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+renault,Renault,renault.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+poste italiane,Poste Italiane,poste.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+vivosa apulia resort,Vivosa Apulia Resort,vivosaresort.com,mapped_explicit,https://www.vivosaresort.com/
+rockrider,Rockrider,,no_verified_domain,unknown is not zero
+europcar,Europcar,europcar.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+liu jo,Liu Jo,liujo.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+kipsta,Kipsta,,no_verified_domain,unknown is not zero
+kuikma,Kuikma,,no_verified_domain,unknown is not zero
+yuba,Yuba,yubabikes.com,mapped_explicit,Yuba - Cargo Bikes for Families and Professionals
+bravo,Bravo,,no_verified_domain,unknown is not zero
+pull and bear,Pull&Bear,pullandbear.com,mapped_explicit,https://www.pullandbear.com/it/
+coach,Coach,coach.com,mapped_explicit,https://it.coach.com/it_IT — Sito ufficiale COACH | Marchio di lusso moderno di New York dal 1941
+btwin,BTWIN,,no_verified_domain,unknown is not zero
+jack and jones,Jack & Jones,jackjones.com,mapped_explicit,JACK & JONES Abbigliamento e scarpe uomo | Sito ufficiale
+benetton,Benetton,benetton.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+the north face,The North Face,thenorthface.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+maybelline,Maybelline,maybelline.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+zurich,Zurich,zurich.it,mapped_explicit,"Assicurazioni Auto, Moto, Casa e Servizi Finanziari - Zurich Italia Assicurazioni"
+dimensione sicilia,Dimensione Sicilia,dimensionesicilia.com,mapped_explicit,https://www.dimensionesicilia.com/it/ — Viaggi organizzati in Sicilia - Dimensione Sicilia Incoming & DMC
+ok mobility,OK Mobility,okmobility.com,mapped_explicit,OK Mobility - La Plataforma de Movilidad Global
+toyota,Toyota,toyota.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+francorosso,Francorosso,,shared_domain_not_attributable,unknown is not zero
+sivola,SiVola,sivola.it,mapped_explicit,Viaggi di Gruppo - Tour Organizzati | SiVola.it
+davidoff,Davidoff,zinodavidoff.com,mapped_explicit,"DAVIDOFF Official | Men's Accessories, Perfumes & More"
+nordictrack,NordicTrack,nordictrack.com,mapped_explicit,"Home and Exercise Equipment by NordicTrack - Treadmills, Ellipticals, and More - NordicTrack"
+budget,Budget,budgetautonoleggio.it,mapped_explicit,Noleggio Auto e Furgoni Economico | Budget
+heymondo,Heymondo,heymondo.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+catrice,Catrice,catrice.eu,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+merrell,Merrell,merrell.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+clarks,Clarks,clarks.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+noleggiare it,Noleggiare.it,noleggiare.it,mapped_explicit,https://www.noleggiare.it/it/ — Noleggio auto con noleggiare.it
+calzedonia,Calzedonia,calzedonia.com,mapped_explicit,"https://www.calzedonia.com/it/ — Calze, collant, leggings e moda mare | Calzedonia"
+nautica,Nautica,,no_verified_domain,unknown is not zero
+columbus,Columbus,columbusassicurazioni.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+ryanair,Ryanair,ryanair.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+balea,Balea,,no_verified_domain,unknown is not zero
+reale mutua,Reale Mutua,realemutua.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+record go,Record Go,recordrentacar.com,mapped_explicit,Alquiler de coches | Rent a car | Alquilar un vehículo | Record go
+specialized,Specialized,specialized.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+easyjet holidays,EasyJet Holidays,easyjet.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+elizabeth arden,Elizabeth Arden,elizabetharden.es,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+citysports,Citysports,,no_verified_domain,unknown is not zero
+yonex,Yonex,yonex.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+lefties,Lefties,lefties.com,mapped_explicit,"https://www.lefties.com/it/ — LEFTIES Italia | Moda da donna, uomo, bambino e neonato"
+costa del salento village,Costa del Salento Village,,no_verified_domain,unknown is not zero
+schott nyc,Schott NYC,schott.it,mapped_explicit,Schott Italia - Storm S.r.l
+schott nyc,Schott NYC,schottnyc.com,mapped_explicit,Schott NYC Leather Jackets and Motorcycle Apparel – Schott N.Y.C.
+dior,Dior,dior.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+loreal paris,L’Oréal Paris,loreal-paris.it,mapped_explicit,"Skincare, Makeup, Colorazione e Cura Capelli - L'Oréal Paris"
+tenways,Tenways,tenways.com,mapped_explicit,TENWAYS E-Bike: Electric Bike of Superior Value
+numana blu resort,Numana Blu Resort,numanablu.it,mapped_explicit,https://www.numanablu.it/ — Resort nelle Marche in Riviera del Conero | Numana Blu Resort
+lattafa,Lattafa,lattafa.com,mapped_explicit,Best Lattafa Perfumes for Men & Women | Top-Selling Lattafa Fragrances.
+tamaris,Tamaris,tamaris.com,mapped_explicit,Tamaris Online - Scarpe da donna - Borse - Gioielli
+enterprise,Enterprise,,no_verified_domain,unknown is not zero
+europ assistance,Europ Assistance,,no_verified_domain,unknown is not zero
+fitfiu fitness,Fitfiu Fitness,fitfiu-fitness.com,mapped_explicit,https://www.fitfiu-fitness.com/it/ — FITFIU Fitness | Negozio online de máquinas y attrezzatura da palestra a casa
+nivea,Nivea,nivea.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+thule,Thule,thule.com,mapped_explicit,Thule | Italia
+tesori d oriente,Tesori d'Oriente,tesoridoriente.com,mapped_explicit,Tesori d’Oriente: Riscopri la tua Essenza
+bershka,Bershka,bershka.com,mapped_explicit,https://www.bershka.com/it/?msockid=140d70691cd667743eda66021df2661b — Ultime tendenze moda Donna e Uomo | Bershka
+salsa jeans,Salsa Jeans,salsajeans.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+g adventures,G Adventures,gadventures.com,mapped_explicit,G Adventures | G Adventures
+loreal,L’Oréal,,shared_domain_not_attributable,unknown is not zero
+engwe,Engwe,engwe.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+proform,ProForm,,no_verified_domain,unknown is not zero
+chicco,Chicco,chicco.it,mapped_explicit,Sito Ufficiale Chicco Italia | Chicco.it
+voi,VOI,voihotels.com,mapped_explicit,"VOIhotels | Villaggi, Resort e Hotel sul mare in Italia e nel mondo"
+utravel,Utravel,utravel.it,mapped_explicit,Viaggi di gruppo organizzati per giovani 2026 | Utravel
+horizon,Horizon,horizonfitness.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+chanel,Chanel,chanel.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+lalique,Lalique,lalique.com,mapped_explicit,Lalique France
+longchamp,Longchamp,longchamp.com,mapped_explicit,"Longchamp, a luxury French brand | Longchamp"
+la sportiva,La Sportiva,lasportiva.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+armani,Armani,armani.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+cdshotels,CDSHotels,,shared_domain_not_attributable,unknown is not zero
+wizz air,Wizz Air,wizzair.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+intrepid travel,Intrepid Travel,intrepidtravel.com,mapped_explicit,Best Small Group Tours & Adventure Travel | Intrepid Travel EU
+virgin voyages,Virgin Voyages,,no_verified_domain,unknown is not zero
+eleglide,Eleglide,eleglide.com,mapped_explicit,Eleglide Official: Best City Electric Bikes & Mountain E-bikes
+versace,Versace,versace.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+freddy,Freddy,freddy.com,mapped_explicit,https://help.freddy.com/it-IT — Centro assistenza Freddy
+hamax,Hamax,hamax.com,mapped_explicit,Hamax Fahrradanhänger: Sicher & Komfortabel für Kinder
+selected homme,Selected Homme,selected.com,mapped_explicit,Selected® | Moda uomo e donna | Store online ufficiale
+sportstech,Sportstech,sportstech.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+nilox,Nilox,nilox.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+wrangler,Wrangler,wrangler.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+green garden village,Green Garden Village,,no_verified_domain,unknown is not zero
+kinomap,Kinomap,,no_verified_domain,unknown is not zero
+nox,Nox,noxsport.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+villaggio camping spiaggia lunga,Villaggio Camping Spiaggia Lunga,,no_verified_domain,unknown is not zero
+essence,Essence,essence.eu,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+riese and muller,Riese & Müller,,no_verified_domain,unknown is not zero
+boscolo,Boscolo,boscolo.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+ysl,YSL,ysl.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+club del sole,Club del Sole,clubdelsole.com,mapped_explicit,I Migliori Villaggi Vacanze in Italia | Club del Sole
+patagonia,Patagonia,patagonia.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+turisanda,Turisanda,turisanda.it,mapped_explicit,Tour e viaggio organizzati in tutto il mondo | Turisanda
+vitesicure,viteSicure,vitesicure.it,mapped_explicit,https://polizza.vitesicure.it/ — viteSicure
+conero azzurro,Conero Azzurro,coneroazzurro.it,mapped_explicit,Conero Azzurro – Il Tuo Giardino in Riva al Mare | Numana
+volkswagen,Volkswagen,volkswagen.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+robinson,ROBINSON,robinson.com,mapped_explicit,ROBINSON Cluburlaub: die besten Angebote
+lego,LEGO,,no_verified_domain,unknown is not zero
+legnano,Legnano,,no_verified_domain,unknown is not zero
+giant,Giant,,no_verified_domain,unknown is not zero
+montblanc,Montblanc,montblanc.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+blu salento village,Blu Salento Village,blusalentovillage.it,mapped_explicit,Villaggio 4 Stelle in Salento | Blu Salento Village | Sito Ufficiale
+lee,Lee,lee.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+haibike,Haibike,haibike.com,mapped_explicit,HAIBIKE eBikes | We are ePerformance
+ford,Ford,,no_verified_domain,unknown is not zero
+prada,Prada,prada.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+esperia palace hotel,Esperia Palace Hotel,esperiapalacehotel.it,mapped_explicit,Esperia Palace Hotel - Villaggio sul mare Lido Marini Salento
+geek and gorgeous,Geek & Gorgeous,geekandgorgeous.com,mapped_explicit,Geek & Gorgeous
+peugeot,Peugeot,peugeot.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+nicolaus,Nicolaus,nicolaus.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+ncm,NCM,,no_verified_domain,unknown is not zero
+kipling,Kipling,kipling.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+club family hotel,Club Family Hotel,clubfamilyhotel.it,mapped_explicit,Club Family Hotel: vacanze in Romagna con i bambini da sogno - Club Family Hotel | https://www.clubfamilyhotel.it/
+rad power bikes,Rad Power Bikes,,no_verified_domain,unknown is not zero
+24hassistance,24hAssistance,24hassistance.com,mapped_explicit,"Assicurazioni Online: Moto, Sci, Sport e Barca | 24hassistance"
+creed,Creed,creedfragrance.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+cos,COS,,no_verified_domain,unknown is not zero
+diadora,Diadora,diadora.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+joma,Joma,joma-sport.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+camping village bellamare,Camping Village Bellamare,,no_verified_domain,unknown is not zero
+baia del silenzio,Baia del Silenzio,baiadelsilenzio.it,mapped_explicit,Baia del Silenzio
+santevet,Santévet,santevet.it,mapped_explicit,Assicurazione animali domestici: polizze per cani e gatti - Santévet
+bata,Bata,,no_verified_domain,unknown is not zero
+cmp,CMP,cmpsport.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+riva di ugento beach camping resort,Riva di Ugento Beach Camping Resort,rivadiugento.it,mapped_explicit,https://www.rivadiugento.it/it/ — Riva di Ugento Beach Camping Resort | Beach Camping Resort in Salento - Riva Di Ugento
+mandarina duck,Mandarina Duck,mandarinaduck.com,mapped_explicit,Mandarina Duck Official Website
+camping la medusa,Camping La Medusa,campinglamedusa.it,mapped_explicit,https://www.campinglamedusa.it/en/ — Home | Camping la Medusa
+futura vacanze,Futura Vacanze,futuravacanze.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+eucerin,Eucerin,eucerin.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+everfit,Everfit,everfit.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+allsaints,AllSaints,allsaints.com,mapped_explicit,"ALLSAINTS Official Site: Menswear, Womenswear & Accessories"
+atala,Atala,atala.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+orbea,Orbea,orbea.com,mapped_explicit,https://www.orbea.com/it/ — Orbea | Sito in manutenzione
+technogym,Technogym,technogym.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+armaf,Armaf,,no_verified_domain,unknown is not zero
+bullpadel,Bullpadel,bullpadel.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+zwift,Zwift,zwift.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+alamo,Alamo,,no_verified_domain,unknown is not zero
+only,ONLY,only.com,mapped_explicit,ONLY® Italia | Abbigliamento donna | Sito ufficiale
+centro vacanze de angelis,Centro Vacanze De Angelis,villaggiocentrovacanzedeangelis.com,mapped_explicit,https://villaggiocentrovacanzedeangelis.com/en/ — Home – Centro Vacanze De Angelis
+anna field,Anna Field,,no_verified_domain,unknown is not zero
+carpisa,Carpisa,carpisa.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+coverwise,Coverwise,coverwise.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+biodance,Biodance,biodance.com,mapped_explicit,Biodance | Unmask Your Own Glow
+ralph lauren,Ralph Lauren,ralphlauren.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+urban arrow,Urban Arrow,urbanarrow.com,mapped_explicit,https://www.urbanarrow.com/ — Urban Arrow
+belstaff,Belstaff,belstaff.com,mapped_explicit,Belstaff – Belstaff.com
+scott,Scott,,no_verified_domain,unknown is not zero
+reebok,Reebok,reebok.eu,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+celebrity cruises,Celebrity Cruises,celebritycruises.com,mapped_explicit,Cruises: Award-Winning Premium Cruise Line | Celebrity Cruises
+lacoste,Lacoste,lacoste.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+amtrust,AmTrust,,no_verified_domain,unknown is not zero
+ym,YM,yourmove.it,mapped_explicit,Your Move | La palestra a casa tua | Tapis Roulant e attrezzi Fitness – YourMove
+kalenji,Kalenji,,no_verified_domain,unknown is not zero
+color holiday,Color Holiday,colorholiday.com,mapped_explicit,Hotel Riviera Romagnola: Hotel in Romagna | Color Holiday | https://www.colorholiday.com/
+sara assicurazioni,Sara Assicurazioni,sara.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+ifit,iFit,,no_verified_domain,unknown is not zero
+villaggio le diomedee,Villaggio Le Diomedee,,no_verified_domain,unknown is not zero
+pinko,Pinko,pinko.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+parfois,Parfois,parfois.com,mapped_explicit,Parfois | Moda e Accessori da Donna | Negozio Online
+celestyal cruises,Celestyal Cruises,celestyal.com,mapped_explicit,Celestyal Cruises | Greece & Mediterranean Cruise Vacations
+grimaldi lines,Grimaldi Lines,grimaldi-lines.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+estee lauder,Estée Lauder,esteelauder.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+moma,Moma,momabikes.com,mapped_explicit,Tienda de bicicletas â Moma Bikes
+moma,Moma,momabikes.eu,mapped_explicit,Online bike shop & accesoires â Moma Bikes
+moma,Moma,momabikes.it,mapped_explicit,Negozio di bici online â Moma Bikes
+nerogiardini,NeroGiardini,nerogiardini.it,mapped_explicit,Footwear and Accessories Made in Italy | NeroGiardini
+pugnochiuso resort,Pugnochiuso Resort,pugnochiuso.com,mapped_explicit,Pugnochiuso: le tue Vacanze nel Mare del Gargano
+pugnochiuso resort,Pugnochiuso Resort,pugnochiusoresort.it,mapped_explicit,Pugnochiuso Resort - Resort a Vieste (FG)
+groupama,Groupama,groupama.it,mapped_explicit,"https://www.groupama.it/ — Groupama Assicurazioni. La soluzione, in persona."
+wiber,Wiber,,no_verified_domain,unknown is not zero
+villaggio elea,Villaggio Elea,villaggioelea.it,mapped_explicit,Villaggio Turistico Ascea Marina sul Mare nel Cilento | Villaggio Elea
+leasys,Leasys,leasys.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+cannondale,Cannondale,cannondale.com,mapped_explicit,"https://www.cannondale.com/it-it — Cannondale Bikes | Road, Mountain, Kids, Electric Bikes"
+amazon essentials,Amazon Essentials,,no_verified_domain,unknown is not zero
+lancia,Lancia,lancia.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+yolo,Yolo,yolo-insurance.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+explora journeys,Explora Journeys,explorajourneys.com,mapped_explicit,Viaggi di lusso | Explora Journeys
+hermes,Hermès,hermes.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+under armour,Under Armour,,no_verified_domain,unknown is not zero
+carnival,Carnival,,no_verified_domain,unknown is not zero
+revolut,Revolut,revolut.com,mapped_explicit,https://www.revolut.com/it-IT/ — Revolut | L'app finanziaria per tutto ciò che riguarda il tuo denaro | Revolut Italia
+hyundai,Hyundai,hyundai.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+napapijri,Napapijri,,no_verified_domain,unknown is not zero
+cesenatico camping village,Cesenatico Camping Village,campingcesenatico.com,mapped_explicit,https://www.campingcesenatico.com/ — Cesenatico Camping Village: il miglior villaggio a Cesenatico per le tue vacanze
+nicolaus club,Nicolaus Club,,no_verified_domain,unknown is not zero
+intesa sanpaolo,Intesa Sanpaolo,intesasanpaolo.com,mapped_explicit,"Banca Intesa Sanpaolo - Conto Corrente per Famiglie, Giovani e Aziende"
+speed vacanze,Speed Vacanze,speedvacanze.it,mapped_explicit,"Vacanze per Single, Crociere e Viaggi dal 1999 | Speed Vacanze"
+cien,Cien,,no_verified_domain,unknown is not zero
+converse,Converse,converse.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+kalkhoff,Kalkhoff,kalkhoff-bikes.com,mapped_explicit,https://www.kalkhoff-bikes.com/ — KALKHOFF • Premium E-Bikes • Made in Germany
+tramundi,Tramundi,tramundi.it,mapped_explicit,Tramundi: viaggi organizzati in Europa e nel Mondo | Tramundi
+futura club,Futura Club,,no_verified_domain,unknown is not zero
+green motion,Green Motion,greenmotion.com,mapped_explicit,https://checkin.greenmotion.com/ — Green Motion | Car Rental
+antonio banderas,Antonio Banderas,,no_verified_domain,unknown is not zero
+woolrich,Woolrich,woolrich.com,mapped_explicit,Store online ufficiale Woolrich. Collezione Autunno/Inverno | Woolrich IT
+altra,Altra,altrarunning.eu,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+babboe,Babboe,babboe.de,mapped_explicit,"https://www.babboe.de/ — Das Lastenfahrrad für Alle: Familie, Hund, Betrieb | Babboe"
+bentley,Bentley,bentleymotors.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+telepass,Telepass,telepass.com,mapped_explicit,Telepass: i Servizi di Mobilità per Viaggiare Comodamente
+color green village,Color Green Village,,no_verified_domain,unknown is not zero
+petit bateau,Petit Bateau,,no_verified_domain,unknown is not zero
+tom ford,Tom Ford,tomford.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+bene assicurazioni,Bene Assicurazioni,beneassicurazioni.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+mediheal,Mediheal,,no_verified_domain,unknown is not zero
+camping village internazionale,Camping Village Internazionale,,no_verified_domain,unknown is not zero
+4711,4711,,no_verified_domain,unknown is not zero
+scarpa,Scarpa,scarpa.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+darienzo,D’Arienzo,darienzocollezioni.it,mapped_explicit,Giacche e Giubbotti in pelle Uomo Donna - Made In Italy | D'Arienzo
+the inkey list,The Inkey List,theinkeylist.com,mapped_explicit,The INKEY List | Free UK Delivery over £30
+robinson club apulia,Robinson Club Apulia,,no_verified_domain,unknown is not zero
+opel,Opel,opel.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+vans,Vans,vans.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+robinson apulia,Robinson Apulia,,no_verified_domain,unknown is not zero
+mobvoi,Mobvoi,,no_verified_domain,unknown is not zero
+allianz global assistance,Allianz Global Assistance,allianz-assicurazioneviaggio.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+lloyd s di londra,Lloyd's di Londra,,no_verified_domain,unknown is not zero
+nicolaus club la giurlita,Nicolaus Club La Giurlita,nicolausclublagiurlita.com,mapped_explicit,Nicolaus Club La Giurlita - Hotel Club Marina di Ugento
+monotheme venezia,Monotheme Venezia,,no_verified_domain,unknown is not zero
+timberland,Timberland,timberland.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+villaggio baia della tufara,Villaggio Baia della Tufara,villaggiobaiadellatufara.it,mapped_explicit,Baia della Tufara - Villaggio a Vieste per famiglie e bambini con piscina e animazione
+berebel,BeRebel,berebel.it,mapped_explicit,Assicurazione Auto a Chilometri | Polizza Auto Mensile | BeRebel
+canyon,Canyon,,no_verified_domain,unknown is not zero
+firefly,Firefly,,no_verified_domain,unknown is not zero
+terranova,Terranova,,no_verified_domain,unknown is not zero
+only and sons,Only & Sons,onlyandsons.com,mapped_explicit,https://www.onlyandsons.com/it-it — ONLY & SONS Abbigliamento uomo | Negozio Ufficiale
+quality,Quality Group,qualitygroup.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+cala saracena resort,Cala Saracena Resort,calasaracena.it,mapped_explicit,Cala Saracena Resort - Torre Vado
+zanzibar viaggi,Zanzibar Viaggi,zanzibarviaggi.it,mapped_explicit,Viaggi a Zanzibar e Safari in Tanzania - Zanzibar Viaggi
+camping village riviera,Camping Village Riviera,,no_verified_domain,unknown is not zero
+valtur,Valtur,valtur.com,mapped_explicit,Villaggi e Vacanze All Inclusive | Valtur
+aon,Aon,,no_verified_domain,unknown is not zero
+dollar,Dollar,dollar.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+vw,VW,,no_verified_domain,unknown is not zero
+skinceuticals,SkinCeuticals,skinceuticals.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+waze,Waze,,no_verified_domain,unknown is not zero
+mizuno,Mizuno,mizuno.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+fruit village,Fruit Village,fruitvillage.it,mapped_explicit,FRUIT VILLAGE | I Villaggi in Italia e all’Estero
+carhartt,Carhartt,carhartt-wip.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+marco tozzi,Marco Tozzi,marcotozzi.com,mapped_explicit,MARCO TOZZI online shop - scarpe da donna e da uomo
+camping riviera village,Camping Riviera Village,campingriviera.it,mapped_explicit,"Camping Numana, Campeggi sul Conero nelle Marche | Camping Riviera Village"
+unisalute,UniSalute,unisalute.it,mapped_explicit,https://intermediari.unisalute.it/ — UniSalute - Login Intermediari
+pier one,Pier One,,no_verified_domain,unknown is not zero
+arval,Arval,arval.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+azzaro,Azzaro,azzaro.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+ita,ITA,,no_verified_domain,unknown is not zero
+diesel,Diesel,diesel.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+thrifty,Thrifty,thrifty.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+gucci,Gucci,gucci.com,mapped_explicit,https://www.gucci.com/it/it/ — Sito Ufficiale GUCCI® IT | Celebra l'Heritage Italiano
+italiana assicurazioni,Italiana Assicurazioni,,no_verified_domain,unknown is not zero
+filorga,Filorga,filorga.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+baia degli aranci,Baia degli Aranci,baiadegliaranci.it,mapped_explicit,Baia degli Aranci - Villaggi a Vieste
+avene,Avène,avene.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+roc,RoC,,no_verified_domain,unknown is not zero
+admiral,Admiral,admiral.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+etna tribe,Etna Tribe,,no_verified_domain,unknown is not zero
+blue marine,Blue Marine,bluemarinevillage.it,mapped_explicit,"Blue Marine Village - Villaggio turistico sul Gargano, Puglia, direttamente sul mare"
+maggiore,Maggiore,maggiore.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+postepay,Postepay,,shared_domain_not_attributable,unknown is not zero
+jeep,Jeep,jeep-official.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+jean paul gaultier,Jean Paul Gaultier,jeanpaulgaultier.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+tory burch,Tory Burch,toryburch.com,mapped_explicit,https://www.toryburch.com/it-it// — Moda di Lusso per Donna | Tory Burch IT
+lowa,Lowa,lowa.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+tour of sicily,Tour of Sicily,tourofsicily.com,mapped_explicit,Best of Sicily Tours and Travel to Sicily ✈ - Tour of Sicily
+go etna,Go-Etna,go-etna.it,mapped_explicit,GO-ETNA: Escursioni Etna e Visita Etna in Fuoristrada - Tour Etna
+l erbolario,L'Erbolario,erbolario.com,mapped_explicit,https://www.erbolario.com/ — L’Erbolario - Cosmetici per una bellezza naturale
+caprice,Caprice,capriceshoes.com,mapped_explicit,https://brand.capriceshoes.com/en/
+sicilia incoming,Sicilia Incoming,siciliaincoming.com,mapped_explicit,Sicilia Incoming - Tour Operator - Viaggi per gruppi e individuali
+ayvens,Ayvens,ayvens.es,mapped_explicit,"https://ayvens.es/ — Renting de Coches: Particulares, Empresas y Autónomos | Ayvens"
+dunlop,Dunlop,dunlopsports.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+vagabondo,Vagabondo,,no_verified_domain,unknown is not zero
+geniallife,GenialLife,geniallife.it,mapped_explicit,GenialLife
+la casarana wellness eco resort,La Casarana Wellness Eco Resort,,no_verified_domain,unknown is not zero
+eastpak,Eastpak,,no_verified_domain,unknown is not zero
+kel 12,Kel 12,,no_verified_domain,unknown is not zero
+villaggio camping odissea,Villaggio Camping Odissea,odisseavillage.com,mapped_explicit,https://www.odisseavillage.com/ — Villaggio Odissea a Marina di Camerota
+arco naturale club,Arco Naturale Club,arconaturaleclub.it,mapped_explicit,Vacanze Indimenticabili sul Mare di Palinuro | Arco Naturale Club | Vacanze Indimenticabili sul Mare di Palinuro | Arco Naturale Club
+tezenis,Tezenis,tezenis.com,mapped_explicit,"https://www.tezenis.com/it/?y_source=1_NDA0ODkzMTEtNzU4LWxvY2F0aW9uLndlYnNpdGU%3D — Intimo, pigiami e abbigliamento donna, uomo e bambini | Tezenis"
+vittoria,Vittoria,vittoriaassicurazioni.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+enjoy,Enjoy,,no_verified_domain,unknown is not zero
+barkibu,Barkibu,barkibu.com,mapped_explicit,Barkibu - Assicurazione sanitaria per animali
+the bridge,The Bridge,thebridge.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+dacia,Dacia,dacia.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+consulcesi,Consulcesi,consulcesi.it,mapped_explicit,Supporto consulenziale per le Professioni Mediche | Consulcesi
+neos,Neos,neosair.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+simplesurance,Simplesurance,,no_verified_domain,unknown is not zero
+arcteryx,Arc’teryx,arcteryx.com,mapped_explicit,"Outdoor Clothing, Technical Outerwear, & Accessories | Arc'teryx Italy"
+sole,Sole,,no_verified_domain,unknown is not zero
+moschino,Moschino,moschino.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+cattolica assicurazioni,Cattolica Assicurazioni,cattolica.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+corte del salento,Corte del Salento,cortedelsalento.net,mapped_explicit,Villaggi Turistici Salento: Scopri Corte del Salento Club - Sito Ufficiale
+villaggio camping capo vieste,Villaggio Camping Capo Vieste,capovieste.it,mapped_explicit,https://capovieste.it/ — Villaggio Camping Capo Vieste | Vacanze sul Mare nel Gargano
+kiko,KIKO,kikocosmetics.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+boss,Boss,hugoboss.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+cacharel,Cacharel,,no_verified_domain,unknown is not zero
+lululemon,Lululemon,lululemon.com,mapped_explicit,https://corporate.lululemon.com/?lang=en — lululemon
+piazza,Piazza Italia,piazzaitalia.it,mapped_explicit,"https://www.piazzaitalia.it/it-it/?lang=it — Abbigliamento e accessori donna, uomo e bambini | Piazza Italia"
+club med,Club Med,,no_verified_domain,unknown is not zero
+veraclub,Veraclub,,no_verified_domain,unknown is not zero
+vamonos vacanze,Vamonos Vacanze,,no_verified_domain,unknown is not zero
+jo malone,Jo Malone,jomalone.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+pantaenius,Pantaenius,pantaenius.com,mapped_explicit,Pantaenius | Specialist for Yacht and Boat Insurance
+rimmel,Rimmel,rimmellondon.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+sicilian secrets,Sicilian Secrets,,no_verified_domain,unknown is not zero
+bluserena,Bluserena,bluserena.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+messapia hotel and resort,Messapia Hotel & Resort,messapiaresidencehotel.com,mapped_explicit,https://www.messapiaresidencehotel.com/ — Messapia Residence Hotel camere appartamenti per soggiorni Santa Maria DI leuca Strutture ricettive con piscine spa e ristorante Salento Lecce Puglia Italia – La tu vacanza al sud Salento in strutture ricettive 4 stelle
+club village and hotel spiaggia romea,Club Village & Hotel Spiaggia Romea,spiaggiaromea.it,mapped_explicit,Villaggio turistico in Emilia Romagna sul mare - Spiaggia Romea
+life5,Life5,life5.es,mapped_explicit,https://life5.es/ — Seguro de Vida Online | Protección Familiar 3€/mes - Life5
+travelsingle,TravelSingle,travelsingle.it,mapped_explicit,Viaggi e Vacanze per Single - Weekend per single - Travelsingle
+going,Going,going.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+gymshark,Gymshark,gymshark.com,mapped_explicit,https://www.gymshark.com/?clickref=1100lzDrIX67 — Gymshark Official Store - Gym Clothes & Workout Clothes
+residence trivento,Residence Trivento,trivento.it,mapped_explicit,Residence Palinuro Trivento – Villaggio nel Cilento
+paulas choice,Paula’s Choice,paulaschoice.com,mapped_explicit,Paula's Choice | Shop Paula's Choice
+paulas choice,Paula’s Choice,paulaschoice.it,mapped_explicit,Paula’s Choice | Prodotti skincare basati sulla ricerca
+borbonese,Borbonese,borbonese.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+kate spade,Kate Spade,katespade.com,mapped_explicit,"https://www.katespade.com/?region=italy — kate spade new york® Official Site | Designer Handbags, Clothing, Jewelry & More"
+villaggio camping punta lunga,Villaggio Camping Punta Lunga,puntalunga.it,mapped_explicit,https://puntalunga.it/ — Villaggio & Camping a Vieste | Punta Lunga
+arket,Arket,,no_verified_domain,unknown is not zero
+bellelli,Bellelli,bellelli.com,mapped_explicit,Home - Bellelli
+champion,Champion,,no_verified_domain,unknown is not zero
+settemari,Settemari,settemari.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+cecotec,Cecotec,,no_verified_domain,unknown is not zero
+unisa,Unisa,unisa-europa.com,mapped_explicit,Comprar zapatos UNISA- Tienda Online Oficial
+share now,Share Now,,no_verified_domain,unknown is not zero
+bonprix,Bonprix,bonprix.it,mapped_explicit,"Abbigliamento, scarpe e mobili: acquistali online su bonprix.it"
+neutrogena,Neutrogena,neutrogena.it,mapped_explicit,Prodotti per la cura della pelle | NeutrogenaÂ®
+citroen,Citroën,citroen.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+poseidone beach resort,Poseidone Beach Resort,villaggioposeidone.it,mapped_explicit,Poseidone Beach Resort - Villaggio sul mare nel Salento | Vacanze Puglia
+nars,NARS,narscosmetics.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+hillmiles,HillMiles,hillmiles.com,mapped_explicit,https://hillmiles.com/ — Electric bike for commuting: begin with ease – HillMiles – Hillmiles.com
+la saponaria,La Saponaria,lasaponaria.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+sicily activities,Sicily Activities,sicilyactivities.com,mapped_explicit,Sicily Tour Operator - Sicily Activities
+revox b77,Revox B77,revoxb77.com,mapped_explicit,REVOX B77 – Revox B77
+il diamante,Il Diamante,,no_verified_domain,unknown is not zero
+assimedici,Assimedici,assimedici.it,mapped_explicit,ASSIMEDICI | https://corporate.assimedici.it/vicini-a-chi-cura.html
+hotel club astor,Hotel Club Astor,hotelclubastor.it,mapped_explicit,Hotel Club Astor Ugento
+pickalbatros,Pickalbatros,pickalbatros.com,mapped_explicit,https://www.pickalbatros.com/ — Pickalbatros Hotels & Resorts | Luxury Hotel in Egypt & Morocco
+evadict,Evadict,,no_verified_domain,unknown is not zero
+ergo assicurazione viaggi,ERGO Assicurazione Viaggi,ergo.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+colmar,Colmar,colmar.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+gianni chiarini,Gianni Chiarini,giannichiarini.com,mapped_explicit,Gianni Chiarini Firenze Bags and Accessories | GIANNI CHIARINI
+kia,Kia,kia.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+nissan,Nissan,nissan.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+touring club italiano,Touring Club Italiano,touringclub.it,mapped_explicit,"https://www.touringclub.it/home — Touring Club Italiano | Viaggi, Itinerari, Cultura e Territori"
+villaggio san pablo,Villaggio San Pablo,villaggiosanpablovieste.it,mapped_explicit,https://www.villaggiosanpablovieste.it/en/home/ — Villaggio San Pablo – VIESTE
+gabor,Gabor,gabor.com,mapped_explicit,Gabor Shoes GmbH | Offizieller Online-Shop für Gabor Schuhe
+caldana europe travel,Caldana Europe Travel,caldana.it,mapped_explicit,Caldana Europe Travel: viaggi organizzati in Europa
+rent smart 24,Rent Smart 24,,no_verified_domain,unknown is not zero
+hogl,Högl,,no_verified_domain,unknown is not zero
+polizzacristalli com,PolizzaCristalli.com,,no_verified_domain,unknown is not zero
+fjallraven,Fjällräven,fjallraven.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+name it,Name It,,no_verified_domain,unknown is not zero
+clinique,Clinique,clinique.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+centro vacanze oriente,Centro Vacanze Oriente,centrovacanzeoriente.it,mapped_explicit,Centro Vacanze Oriente - Villaggio turistico a Vieste con piscina e accesso diretto alla spiaggia
+das,DAS,,no_verified_domain,unknown is not zero
+riva marina resort,Riva Marina Resort,villaggiorivamarinaresort.it,mapped_explicit,https://www.villaggiorivamarinaresort.it/ — Villaggio Riva Marina Resort - Villaggio Resort a Specchiolla (BR)
+gipsy,Gipsy,,no_verified_domain,unknown is not zero
+geomar,Geomar,,no_verified_domain,unknown is not zero
+save the duck,Save The Duck,savetheduck.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+sicilvision,Sicilvision,sicilvision.it,mapped_explicit,Sicilvision
+canada goose,Canada Goose,canadagoose.com,mapped_explicit,Luxury Performance Outerwear & Clothing | Canada Goose
+villaggio baia del monaco,Villaggio Baia del Monaco,baiadelmonaco.it,mapped_explicit,Villaggio sul mare per vacanze a Mattinata Gargano - Villaggio Baia del Monaco
+desigual,Desigual,desigual.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+squarelife,SquareLife,squarelife.eu,mapped_explicit,https://www.squarelife.eu/it/ — Squarelife - More than just Life Insurance
+shiseido,Shiseido,shiseido.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+gap,GAP,,no_verified_domain,unknown is not zero
+jk fitness,JK Fitness,jkfitness.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+wopta,Wopta,wopta.it,mapped_explicit,"https://www.wopta.it/it/ — Wopta Assicurazioni: assicurazioni vita, danni e auto | Wopta"
+valentino,Valentino,valentino.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+dermal korea,Dermal Korea,,no_verified_domain,unknown is not zero
+genialloyd,Genialloyd,,no_verified_domain,unknown is not zero
+barbour,Barbour,barbour.com,mapped_explicit,Barbour Official IT Website
+asos design,ASOS Design,,no_verified_domain,unknown is not zero
+touroll,Touroll,touroll.com,mapped_explicit,https://touroll.com/ — Touroll Electric Bikes: Ride Beyond Boundaries
+beauty of joseon,Beauty of Joseon,beautyofjoseon.com,mapped_explicit,Beauty of Joseon - Shop Hanbang Korean Skincare Products
+villaggio arco naturale club,Villaggio Arco Naturale Club,,shared_domain_not_attributable,unknown is not zero
+unipolglass,UnipolGlass,,no_verified_domain,unknown is not zero
+piquadro,Piquadro,piquadro.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+viaggi dell elefante,Viaggi dell'Elefante,,no_verified_domain,unknown is not zero
+afnan,Afnan,afnan.com,mapped_explicit,https://www.it.afnan.com/ — Afnan Perfumes Italia
+th resorts,TH Resorts,th-resorts.com,mapped_explicit,TH Resorts - Hotel e Villaggi nelle Più belle Destinazioni Turistiche | https://www.th-resorts.com/it/strutture/
+rhodium,Rhodium,,no_verified_domain,unknown is not zero
+crz yoga,CRZ YOGA,,no_verified_domain,unknown is not zero
+club esse,Club Esse,clubesse.it,mapped_explicit,Club Esse - Hotel & Resort
+missoni,Missoni,,no_verified_domain,unknown is not zero
+gattarella resort,Gattarella Resort,gattarella.it,mapped_explicit,Family Hotel a Vieste nel Gargano | Gattarella Family Resort
+samsonite,Samsonite,,no_verified_domain,unknown is not zero
+primigi,Primigi,,no_verified_domain,unknown is not zero
+boggi milano,Boggi Milano,boggi.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+next,Next,,no_verified_domain,unknown is not zero
+centro turistico san nicola,Centro Turistico San Nicola,,no_verified_domain,unknown is not zero
+sinsay,Sinsay,sinsay.com,mapped_explicit,"Sinsay - Great fashion, great prices | Acquista online"
+romagna family village,Romagna Family Village,,no_verified_domain,unknown is not zero
+ethiopian airlines,Ethiopian Airlines,ethiopianairlines.com,mapped_explicit,https://www.ethiopianairlines.com/it/it — Prenota il tuo volo online e vola con Ethiopian Airlines Italy | IT
+louis vuitton,Louis Vuitton,louisvuitton.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+freaky nation,Freaky Nation,freaky-nation.it,mapped_explicit,https://www.freaky-nation.it/ — Home | FREAKY NATION B2C
+helly hansen,Helly Hansen,,no_verified_domain,unknown is not zero
+arco del saracino,Arco del Saracino,arcodelsaracino.it,mapped_explicit,"Villaggio Arco del Saracino, hotel resort, Salento"
+bicicapace,Bicicapace,,no_verified_domain,unknown is not zero
+medicube,Medicube,,no_verified_domain,unknown is not zero
+color dolmen family village,Color Dolmen Family Village,colordolmenvillage.it,mapped_explicit,Villaggio in Salento per famiglie in Puglia | Color Dolmen Village
+bambiniconlavaligia,BambiniConLaValigia,,no_verified_domain,unknown is not zero
+forclaz,Forclaz,,no_verified_domain,unknown is not zero
+marbella club,Marbella Club,marbellaclub.com,mapped_explicit,https://intranet.marbellaclub.com/ — Marbella Club
+metasalute,Metasalute,fondometasalute.it,mapped_explicit,https://www.fondometasalute.it/ — Fondo sanitario lavoratori metalmeccanici - Metasalute
+last minute rent,Last Minute Rent,,no_verified_domain,unknown is not zero
+caudalie,Caudalie,caudalie.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+free2move,Free2move,free2move.com,mapped_explicit,"Free2move App • Drive by the minute, hour, day or month"
+marc jacobs,Marc Jacobs,marcjacobs.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+wi zone broker,Wi Zone Broker,wizonebroker.com,mapped_explicit,https://www.wizonebroker.com/ — Wi Zone Broker
+torre rinalda beach camping and resort,Torre Rinalda Beach Camping & Resort,torrerinalda.it,mapped_explicit,Torre Rinalda Beach Camping & Resort • Vacanze a 4 stelle sul mare in Puglia
+national,National,,no_verified_domain,unknown is not zero
+azemar,Azemar,azemar.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+happy village,Happy Village,happyvillage.it,mapped_explicit,Villaggio Resort 4 Stelle a Marina di Camerota | Happy Village
+rimini vacanze,Rimini Vacanze,rimini-vacanze.com,mapped_explicit,"Villaggio Rimini Vacanze, mare Riviera Romagnola"
+bakfiets nl,Bakfiets.nl,,no_verified_domain,unknown is not zero
+adriano family camping village,Adriano Family Camping Village,,no_verified_domain,unknown is not zero
+villaggio turistico internazionale manacore,Villaggio Turistico Internazionale Manacore,,no_verified_domain,unknown is not zero
+interrent,InterRent,,no_verified_domain,unknown is not zero
+ise,ISE,,no_verified_domain,unknown is not zero
+qatar airways,Qatar Airways,,no_verified_domain,unknown is not zero
+est,Est,,no_verified_domain,unknown is not zero
+nu car,NU Car,,no_verified_domain,unknown is not zero
+medical insurance brokers,Medical Insurance Brokers,,no_verified_domain,unknown is not zero
+fenty beauty,Fenty Beauty,fentybeauty.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+gnv,GNV,,no_verified_domain,unknown is not zero
+vueling,Vueling,vueling.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+lombardo,Lombardo,,no_verified_domain,unknown is not zero
+camping la masseria,Camping La Masseria,lamasseria.net,mapped_explicit,https://www.lamasseria.net/ — Campeggio Gallipoli: camping Salento Puglia | Camping La Masseria
+mistral tour,Mistral Tour,,no_verified_domain,unknown is not zero
+baboop,Baboop,baboop.it,mapped_explicit,baboop l'Assicurazione Cane e Gatto che Protegge Ciò che Ami
+alyssa ashley,Alyssa Ashley,,no_verified_domain,unknown is not zero
+moncler,Moncler,moncler.com,mapped_explicit,"https://www.moncler.com/it-it/ — Store Ufficiale Moncler — Piumini, Abbigliamento e Accessori"
+viaggi sicuri,Viaggi Sicuri,viaggisicuri.com,mapped_explicit,Viaggi Sicuri: assicurazione viaggio e polizza annullamento
+vero moda,Vero Moda,,no_verified_domain,unknown is not zero
+streaty,Streaty,streaty.com,mapped_explicit,Street food tours in Italy - Streaty
+national geographic,National Geographic,,no_verified_domain,unknown is not zero
+etna experience,Etna Experience,etnaexperience.com,mapped_explicit,https://www.etnaexperience.com/it/ — Etna Experience Excursions: tours in jeeps and hiking on the Etna volcano | Etna Experience
+oysho,Oysho,oysho.com,mapped_explicit,https://www.oysho.com/it/ — OYSHO Italia | Sport e tempo libero | Sito ufficiale®
+federspecializzandi,Federspecializzandi,,no_verified_domain,unknown is not zero
+abus,Abus,,no_verified_domain,unknown is not zero
+kryptonite,Kryptonite,kryptonitelock.it,mapped_explicit,https://www.kryptonitelock.it/ — Kryptonite | Home
+helvetia,Helvetia,helvetia-baloise.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+yeep me,YEEP.ME,yeep.me,mapped_explicit,https://download.yeep.me/ — YEEP.ME Download Center
+keddy,Keddy,,no_verified_domain,unknown is not zero
+viaggi sicilia,Viaggi Sicilia,viaggisicilia.net,mapped_explicit,Viaggi Sicilia. Le migliori offerte di Tour in Sicilia!
+bianchi,Bianchi,bianchi.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+allianz travel,Allianz Travel,,no_verified_domain,unknown is not zero
+gazelle,Gazelle,,no_verified_domain,unknown is not zero
+campoverde village,Campoverde Village,,no_verified_domain,unknown is not zero
+shein,Shein,shein.com,mapped_explicit,"Moda donna, uomo e bambini, articoli per casa e tanto altro | SHEIN ITALIA"
+sicilissimo incoming,Sicilissimo Incoming,sicilissimoincoming.com,mapped_explicit,Tour Operator - Palermo - Sicilissimo Incoming
+kiehls,Kiehl’s,kiehls.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+grisport,Grisport,grisport.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+adolfo dominguez,Adolfo Domínguez,,no_verified_domain,unknown is not zero
+skechers,Skechers,skechers.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+original marines,Original Marines,originalmarines.com,mapped_explicit,Abbigliamento bambini e neonati: Original Marines
+villaggio camping oasi,Villaggio Camping Oasi,,no_verified_domain,unknown is not zero
+villaggio turistico grotta dellacqua,Villaggio Turistico Grotta dell’Acqua,grottadellacqua.com,mapped_explicit,Villaggio Turistico Grotta dell'Acqua | Gargano - Puglia
+jacadi,Jacadi,,no_verified_domain,unknown is not zero
+pineta sul mare camping village,Pineta sul Mare Camping Village,pinetasulmarecampingvillage.com,mapped_explicit,https://www.pinetasulmarecampingvillage.com/en/ — Camping Cesenatico Pineta sul Mare: the campsite on the Romagna Riviera in touch with nature
+silversea cruises,Silversea Cruises,silversea.com,mapped_explicit,Experience All-Inclusive Luxury Cruises | Silversea
+motoplatinum,Motoplatinum,motoplatinum.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+parfums de marly,Parfums de Marly,parfums-de-marly.com,mapped_explicit,https://parfums-de-marly.com/ — Parfums de Marly | Official Online Boutique
+villaggio costa del mito,Villaggio Costa del Mito,costadelmito.it,mapped_explicit,https://www.costadelmito.it/ — Villaggio Camping Costa del Mito a Pisciotta - Palinuro
+american express,American Express,,no_verified_domain,unknown is not zero
+bikeplatinum,Bikeplatinum,bikeplatinum.it,mapped_explicit,Assicurazione Bici ed eBike: Polizza su misura | Bikeplatinum
+camping village san michele,Camping Village San Michele,,no_verified_domain,unknown is not zero
+ferragamo,Ferragamo,ferragamo.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+color bay village,Color Bay Village,,no_verified_domain,unknown is not zero
+calliope,Calliope,calliope.style,mapped_explicit,Seleziona la tua lingua - Calliope
+poste vita,Poste Vita,,shared_domain_not_attributable,unknown is not zero
+blu hotels,Blu Hotels,bluhotels.it,mapped_explicit,Blu Hotels – Catena di Hotel 4 e 4 Stelle Superior in Italia | Ospitalità Made in Italy
+addiopizzo travel,Addiopizzo Travel,addiopizzotravel.it,mapped_explicit,Addiopizzo Travel
+aero leather,Aero Leather,,no_verified_domain,unknown is not zero
+aida,AIDA,,no_verified_domain,unknown is not zero
+ald automotive,ALD Automotive,,no_verified_domain,unknown is not zero
+toputure,Toputure,,no_verified_domain,unknown is not zero
+peloton,Peloton,,no_verified_domain,unknown is not zero
+prokennex,ProKennex,prokennex.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+elops,Elops,,no_verified_domain,unknown is not zero
+crivit,Crivit,crivit.com,mapped_explicit,https://crivit.com/ — CRIVIT – Find your move | Sports gear & activewear for every lifestyle
+cattier,Cattier,cattier-paris.com,mapped_explicit,https://www.cattier-paris.com/ — Cattier Paris - Cosmétique française et bio
+medik8,Medik8,medik8.com,mapped_explicit,Official Medik8 UK Site
+polisport,Polisport,,no_verified_domain,unknown is not zero
+ecco,Ecco,ecco.com,mapped_explicit,"ECCO is a global leader in innovative comfort footwear for men, women, and kids. - ECCO.com"
+arag,ARAG,,no_verified_domain,unknown is not zero
+bh fitness,BH Fitness,bhfitness.com,mapped_explicit,BH Fitness
+denver,Denver,,no_verified_domain,unknown is not zero
+jovan,Jovan,,no_verified_domain,unknown is not zero
+winora,Winora,winora.com,mapped_explicit,https://www.winora.com/it-it — Winora - Bikes for Life
+rimini family camping village,Rimini Family Camping Village,,no_verified_domain,unknown is not zero
+missha,Missha,missha.com,mapped_explicit,MISSHA
+direct line,Direct Line,directline.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+leaseplan,LeasePlan,leaseplan.com,mapped_explicit,https://usedcars.leaseplan.com/ — LeasePlan | LeasePlan
+marsh,Marsh,,no_verified_domain,unknown is not zero
+bikeprotection,BikeProtection,bikeprotection.it,mapped_explicit,Assicurazione Bici | Polizza e-bike | Bike Protection
+viaggigiovani it,Viaggigiovani.it,viaggigiovani.it,mapped_explicit,Viaggi Organizzati e Viaggi su Misura | Viaggigiovani.it
+dainese,Dainese,dainese.com,mapped_explicit,"Abbigliamento Moto, Bici e Sci professionali Uomo Donna | Dainese"
+valentino bags,Valentino Bags,,no_verified_domain,unknown is not zero
+steigenberger,Steigenberger,,no_verified_domain,unknown is not zero
+target,Target Italy,,no_verified_domain,unknown is not zero
+hotel and resort baia delle zagare,Hotel & Resort Baia delle Zagare,,no_verified_domain,unknown is not zero
+maritalia hotel club village,Maritalia Hotel Club Village,maritalia.it,mapped_explicit,"Hotel Maritalia Club Village 4* a Peschici, Gargano | Sito Ufficiale"
+regatta,Regatta,,no_verified_domain,unknown is not zero
+sicilia family tour,Sicilia Family Tour,siciliafamilytour.it,mapped_explicit,Escursioni Etna e Sicilia per famiglie con bambini - SICILIA FAMILY TOUR
+lancome,Lancôme,lancome.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+african explorer,African Explorer,africanexplorer.com,mapped_explicit,"African Explorer | Specialisti dei Viaggi, Tour e Safari in Africa"
+riu,RIU,,no_verified_domain,unknown is not zero
+tesla,Tesla,tesla.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+bubblebum,BubbleBum,,no_verified_domain,unknown is not zero
+valstar,Valstar,,no_verified_domain,unknown is not zero
+aig,AIG,aig.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+prince,Prince,princetennis.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+tally weijl,Tally Weijl,tally-weijl.com,mapped_explicit,Tally Weijl | TALLY WEiJL
+gant,Gant,,no_verified_domain,unknown is not zero
+armani exchange,Armani Exchange,,no_verified_domain,unknown is not zero
+peuterey,Peuterey,peuterey.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+bottega veneta,Bottega Veneta,bottegaveneta.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+wheego,Wheego,wheego-mobility.com,mapped_explicit,https://www.wheego-mobility.com/en/ — Discover rental cars for you | wheego
+melluso,Melluso,melluso.com,mapped_explicit,Scarpe artigianali Made in Italy | Melluso
+autovia,Autovia,autovia.it,mapped_explicit,Noleggio Auto Breve e Lungo Termine | Check-in Online · Nessuna Fila — Autovia
+dolce and gabbana,Dolce & Gabbana,dolcegabbana.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+zipro,Zipro,,no_verified_domain,unknown is not zero
+even and odd,Even&Odd,,no_verified_domain,unknown is not zero
+villaggio la giurlita,Villaggio La Giurlita,,no_verified_domain,unknown is not zero
+inditex,Inditex,,no_verified_domain,unknown is not zero
+ck,CK,,no_verified_domain,unknown is not zero
+club medici,Club Medici,,no_verified_domain,unknown is not zero
+bourjois,Bourjois,bourjois.fr,mapped_explicit,https://bourjois.fr/ — Bourjois Site Officiel | Maquillage Bourjois
+homcom,Homcom,,no_verified_domain,unknown is not zero
+agolde,Agolde,agolde.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+david jones,David Jones,,no_verified_domain,unknown is not zero
+flydubai,Flydubai,flydubai.com,mapped_explicit,https://news.flydubai.com/ — flydubai - Pressroom
+romagna camping village,Romagna Camping Village,,no_verified_domain,unknown is not zero
+assimoco,Assimoco,assimoco.it,mapped_explicit,"Tutto per la tua assicurazione auto, moto e sulla vita | Assimoco"
+life fitness,Life Fitness,lifefitness.com,mapped_explicit,Commercial & Home Fitness Equipment | Life Fitness
+allianz global life,Allianz Global Life,,no_verified_domain,unknown is not zero
+keen,Keen,,no_verified_domain,unknown is not zero
+villaggio bellariva,Villaggio Bellariva,villaggiobellariva.it,mapped_explicit,"Villaggi Gargano, Villaggi Peschici, Campeggi Gargano, Villaggi Turistici Puglia, Campeggi Peschici, Village Residence Puglia - Villaggio Bellariva Peschici Gargano"
+graceland,Graceland,,no_verified_domain,unknown is not zero
+argento,Argento,,no_verified_domain,unknown is not zero
+ado,ADO,,no_verified_domain,unknown is not zero
+valentini family village,Valentini Family Village,brorafamilyvillage.com,mapped_explicit,Hotel Lido di Savio sul mare | Brora Family Village
+valentini family village,Valentini Family Village,valentinifamilyvillage.it,mapped_explicit,"Valentini Family Village, Bellaria Igea Marina - villaggio per famiglie proprio di fronte al mare"
+revlon,Revlon,revlon.com,mapped_explicit,"Makeup, Hair Color, Nails, Beauty Products & Tools | Revlon – Revlon US"
+dockers,Dockers,dockers.com,mapped_explicit,"Men's Clothing, Pants, Shorts, Shirts | Dockers US – Dockers™"
+bottecchia,Bottecchia,,no_verified_domain,unknown is not zero
+princess,Princess,,no_verified_domain,unknown is not zero
+tui,TUI,tui.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+tuvalum,Tuvalum,tuvalum.it,mapped_explicit,https://tuvalum.it/ — Biciclette di seconda mano certificate al 100%. – tuvalum
+conad,Conad,conad.it,mapped_explicit,https://www.conad.it/ — Conad.it: il sito ufficiale dedicato ai nostri clienti
+easy zanzibar,Easy Zanzibar,,no_verified_domain,unknown is not zero
+villaggio turistico internazionale,Villaggio Turistico Internazionale,,no_verified_domain,unknown is not zero
+villaggio gargano,Villaggio Gargano,villaggiogargano.it,mapped_explicit,https://villaggiogargano.it/en/ — Villaggio Gargano | Il villaggio vacanze a Vieste nel Gargano
+relais masseria le cesine,Relais Masseria Le Cesine,,no_verified_domain,unknown is not zero
+weekday,Weekday,,no_verified_domain,unknown is not zero
+arche travel,Archè Travel,,no_verified_domain,unknown is not zero
+baia santa barbara village,Baia Santa Barbara Village,baiasantabarbara.it,mapped_explicit,Vacanze al Mare a Rodi Garganico - Hotel e Villaggi Baia Santa Barbara
+villaggio uliveto,Villaggio Uliveto,villaggiouliveto.com,mapped_explicit,"Villaggio Uliveto Family Experience | Vacanze per famiglie sul Gargano, Puglia"
+riverside,Riverside,,no_verified_domain,unknown is not zero
+herno,Herno,herno.com,mapped_explicit,"Official Herno® Boutique: Clothing for Women, Men & Kids"
+dan john,Dan John,,no_verified_domain,unknown is not zero
+brunello cucinelli,Brunello Cucinelli,,no_verified_domain,unknown is not zero
+viktor and rolf,Viktor&Rolf,viktor-rolf.com,mapped_explicit,https://www.viktor-rolf.com/ — Viktor&Rolf | Avant-Garde Luxury Fashion House | Designer Clothing
+chie mihara,Chie Mihara,chiemihara.com,mapped_explicit,https://www.chiemihara.com/it/ — Chie Mihara | Negozio Ufficiale
+stellantis,Stellantis,stellantis.com,mapped_explicit,https://www.stellantis.com/it — Sito Ufficiale | Stellantis
+berdoues,Berdoues,berdoues.com,mapped_explicit,https://berdoues.com/ — Berdoues I Parfums et cosmétiques
+vichy,Vichy,vichy.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+naturalizer,Naturalizer,naturalizer.com,mapped_explicit,"https://www.naturalizer.com/ — Women’s Shoes | Sandals, Heels, Flats & More | Naturalizer"
+bikini tropicana,Bikini Tropicana,bikinitropicana.it,mapped_explicit,Bikini Tropicana All inclusive hotel a Lido di Savio
+car rent,Italy Car Rent,,no_verified_domain,unknown is not zero
+araba fenice village,Araba Fenice Village,arabafenicevillage.it,mapped_explicit,Villaggio Turistico Araba Fenice a Torre dell'Orso in Salento - Bambini Gratis
+villaggio degli olivi,Villaggio degli Olivi,,no_verified_domain,unknown is not zero
+acty mask,ACTY MASK,actymask.com,mapped_explicit,https://www.actymask.com/ — Cosmetici | Acty Mask
+conbipel,Conbipel,conbipel.com,mapped_explicit,Conbipel.com
+mayoral,Mayoral,mayoral.com,mapped_explicit,"https://www.mayoral.com/it/it/ — Mayoral ® Italia | Abbigliamento Online per Neonati, Bambine e Bambini"
+villaggio punta grossa,Villaggio Punta Grossa,puntagrossa.it,mapped_explicit,Punta Grossa - Villaggio Resort a due passi da Porto Cesareo
+alcott,Alcott,alcott.eu,mapped_explicit,Alcott | Abbigliamento Uomo e Donna | Saldi
+camping village baia san nicola,Camping Village Baia San Nicola,,shared_domain_not_attributable,unknown is not zero
+reiss,Reiss,reiss.com,mapped_explicit,"Reiss UK - Womenswear, Menswear, & Accessories"
+sicily in travel,Sicily in Travel,sicilyintravel.com,mapped_explicit,Vacanze in Sicilia | Offerte Viaggi in Sicilia | Sicilyintravel.it
+villaggio camping internazionale manacore,Villaggio Camping Internazionale Manacore,,no_verified_domain,unknown is not zero
+oakwood,Oakwood,oakwood.fr,mapped_explicit,https://www.oakwood.fr/ — La marque experte du vêtements en cuir – OAKWOOD
+ktm,KTM,,no_verified_domain,unknown is not zero
+viaggi e miraggi,Viaggi e Miraggi,viaggiemiraggi.org,mapped_explicit,ViaggieMiraggi | Tour operator di Turismo Responsabile
+camping village rubicone,Camping Village Rubicone,,no_verified_domain,unknown is not zero
+jaguar,Jaguar,,no_verified_domain,unknown is not zero
+burley,Burley,,no_verified_domain,unknown is not zero
+lynk and co,Lynk & Co,,no_verified_domain,unknown is not zero
+axieme,Axieme,axieme.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+green village,Green Village,greenvillage.it,mapped_explicit,Villaggi Marina di Camerota - Villaggio Residence Green Village
+the jacket maker,The Jacket Maker,thejacketmaker.com,mapped_explicit,The Jacket Maker: Authentic Custom Leather Jackets For Men & Women
+the jacket maker,The Jacket Maker,thejacketmaker.it,mapped_explicit,The Jacket Maker | Finest Leather Jackets In Italy
+rab,Rab,,no_verified_domain,unknown is not zero
+police,Police,,no_verified_domain,unknown is not zero
+iberostar,Iberostar,iberostar.com,mapped_explicit,"https://www.iberostar.com/it/ — Iberostar Hotels & Resorts, sito ufficiale"
+charlotte tilbury,Charlotte Tilbury,charlottetilbury.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+cerruti,Cerruti,,no_verified_domain,unknown is not zero
+unipolrental,UnipolRental,unipolrental.it,mapped_explicit,https://www.unipolrental.it/ — UnipolRental: Noleggio Auto a Lungo Termine | UnipolRental
+sicilia da scoprire,Sicilia da Scoprire,siciliadascoprire.it,mapped_explicit,"Sicilia da scoprire | Viaggi organizzati, tour e trekking in Sicilia"
+the village salento,The Village Salento,thevillagesalento.com,mapped_explicit,Villaggio Turistico The Village Salento a Torre Dell'Orso - Villaggio per famiglie Puglia
+jacquemus,Jacquemus,jacquemus.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+chloe,Chloé,chloe.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+meindl,Meindl,meindl.de,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+futura club torre rinalda,Futura Club Torre Rinalda,,no_verified_domain,unknown is not zero
+stella del sud,Stella del Sud,villaggiostelladelsud.it,mapped_explicit,Home - Stella del Sud
+arco del saracino resort,Arco del Saracino Resort,,shared_domain_not_attributable,unknown is not zero
+sunrise,Sunrise,,no_verified_domain,unknown is not zero
+mirabilandia,Mirabilandia,mirabilandia.it,mapped_explicit,https://www.mirabilandia.it/en — Mirabilandia | The Biggest Theme Park in Italy
+villaggio taunus,Villaggio Taunus,,no_verified_domain,unknown is not zero
+nikos,Nikos,,no_verified_domain,unknown is not zero
+frecciarossa,Frecciarossa,,no_verified_domain,unknown is not zero
+rilastil,Rilastil,rilastil.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+sais autolinee,SAIS Autolinee,saisautolinee.it,mapped_explicit,https://www.saisautolinee.it/ — Viaggi in Autobus per la Sicilia: Prenota con SAIS Autolinee
+lufthansa,Lufthansa,lufthansa.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+coppi,Coppi,bicicoppi.it,mapped_explicit,"https://www.bicicoppi.it/ — Bici Coppi: Biciclette da Corsa, Gravel ed E-bike | Dall’Italia a tutto il Mondo"
+tecnifibre,Tecnifibre,tecnifibre.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+trenitalia,Trenitalia,trenitalia.com,mapped_explicit,Home Trenitalia | Trenitalia
+jeanne arthes,Jeanne Arthes,,no_verified_domain,unknown is not zero
+barcelo,Barceló,,no_verified_domain,unknown is not zero
+disney cruise line,Disney Cruise Line,go.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+olimpia cilento resort,Olimpia Cilento Resort,olimpiacilentoresort.com,mapped_explicit,Hotel sul Mare del Cilento a Marina di Ascea | Olimpia Cilento Resort
+naturino,Naturino,naturino.com,mapped_explicit,https://www.naturino.com/it_it/ — Naturino | Scarpe Bambini e Neonati Autunno Inverno 2026
+rcpolizza,RCPolizza,rcpolizza.it,mapped_explicit,RCPolizza.it - Assicurazione RC Professionale Online | https://www.rcpolizza.it/dove-siamo
+villaggio le palme,Villaggio Le Palme,,no_verified_domain,unknown is not zero
+villaggio la giara,Villaggio La Giara,,no_verified_domain,unknown is not zero
+cuba paris,Cuba Paris,,no_verified_domain,unknown is not zero
+villaggio baia turchese,Villaggio Baia Turchese,villagebaiaturchese.it,mapped_explicit,Villaggio Turistico a Vieste per vacanze nel Gargano - Residence Village Baia Turchese
+woom,Woom,,no_verified_domain,unknown is not zero
+black marlin club,Black Marlin Club,blackmarlin.it,mapped_explicit,Black Marlin Club
+holland america,Holland America,,no_verified_domain,unknown is not zero
+5th avenue,5th Avenue,,no_verified_domain,unknown is not zero
+apple,Apple,apple.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_software.csv
+mac,MAC,maccosmetics.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+roland,Roland,,no_verified_domain,unknown is not zero
+turkish airlines,Turkish Airlines,,no_verified_domain,unknown is not zero
+klarna,Klarna,,no_verified_domain,unknown is not zero
+omia,Omia,,no_verified_domain,unknown is not zero
+interbus,Interbus,,no_verified_domain,unknown is not zero
+volotea,Volotea,volotea.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+oleandri resort,Oleandri Resort,oleandriresort.com,mapped_explicit,Home - Oleandri Resort
+burberry,Burberry,burberry.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+medical brokers,Medical Brokers,,no_verified_domain,unknown is not zero
+wimbi tour operator,Wimbi Tour Operator,,no_verified_domain,unknown is not zero
+dino bikes,Dino Bikes,dinobikes.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+flixbus,Flixbus,flixbus.it,mapped_explicit,Viaggi in autobus low-cost in Italia ed Europa | FlixBus
+carnielli,Carnielli,carnielli.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+credit agricole,Crédit Agricole,ca-assicurazioni.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+sicily voyages,Sicily Voyages,sicilyvoyages.com,mapped_explicit,https://www.sicilyvoyages.com/it/ — Home Sicily Voyages - Tour per famiglie in Sicilia
+park hotel valle clavia,Park Hotel Valle Clavia,hotelvalleclavia.it,mapped_explicit,https://www.hotelvalleclavia.it/en/ — Park Hotel Valle Clavia in Peschici - Gargano - Italy
+ima assistance,IMA Assistance,imaitalia.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+la redoute,La Redoute,,no_verified_domain,unknown is not zero
+tui cruises,TUI Cruises,,no_verified_domain,unknown is not zero
+cartorange,CartOrange,cartorange.com,mapped_explicit,https://www.cartorange.com/ — CartOrange: viaggi su misura e viaggi di nozze | CartOrange
+nakamura,Nakamura,,no_verified_domain,unknown is not zero
+villaggio camping rubicone,Villaggio Camping Rubicone,campingrubicone.com,mapped_explicit,https://campingrubicone.com/en/ — Campsite village with bungalows Rimini - Camping Rubicone
+beauty blender,Beauty Blender,,no_verified_domain,unknown is not zero
+cetaphil,Cetaphil,cetaphil.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+barney s originals,Barney's Originals,,no_verified_domain,unknown is not zero
+topshop,Topshop,,no_verified_domain,unknown is not zero
+uber,Uber,,no_verified_domain,unknown is not zero
+nyx,NYX,nyxcosmetics.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+equilibra,Equilibra,equilibra.it,mapped_explicit,Equilibra – Equilibra Store
+la bussola,La Bussola,labussola.it,mapped_explicit,"Agenzia di Viaggi ""La Bussola"" per Scuole, Famiglie, Ragazzi"
+world face,World Face,worldface.it,mapped_explicit,World Face | Viaggi di Gruppo al Miglior Prezzo del Web
+britney spears,Britney Spears,,no_verified_domain,unknown is not zero
+th,TH,,shared_domain_not_attributable,unknown is not zero
+lotto,Lotto,lotto.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+arianna club,Arianna Club,ariannaclub.com,mapped_explicit,https://www.ariannaclub.com/ — Home page - Arianna Family Club
+clinians,Clinians,clinians.it,mapped_explicit,https://clinians.it/ — Clinians
+wedze,Wedze,,no_verified_domain,unknown is not zero
+kappa,Kappa,,no_verified_domain,unknown is not zero
+alfa romeo,Alfa Romeo,alfaromeo.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+baia di campi,Baia di Campi,,no_verified_domain,unknown is not zero
+xerjoff,Xerjoff,xerjoff.com,mapped_explicit,https://www.xerjoff.com/it — Xerjoff - Negozio online di profumi
+lido del mare,Lido del Mare,lidodelmare.com,mapped_explicit,Lido del Mare – Vivi il Gargano
+garlando,Garlando,,no_verified_domain,unknown is not zero
+celio,Celio,,no_verified_domain,unknown is not zero
+the real mccoys,The Real McCoy’s,,no_verified_domain,unknown is not zero
+ikos resorts,Ikos Resorts,,no_verified_domain,unknown is not zero
+fay,Fay,fay.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+avirex,Avirex,avirex-usa.com,mapped_explicit,https://www.avirex-usa.com/ — AVIREX OFFICIAL SITE｜アヴィレックスオフィシャルサイト
+imperatore travel,Imperatore Travel,imperatoretravel.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+matrix,Matrix,matrixfitness.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+mapfre,MAPFRE,,no_verified_domain,unknown is not zero
+it cosmetics,IT Cosmetics,itcosmetics.com,mapped_explicit,"https://www.itcosmetics.com/ — Shop Our Best Makeup, Skincare & Brushes | IT Cosmetics"
+miss and queen,Miss & Queen,missqueenoftheworld.com,mapped_explicit,https://missqueenoftheworld.com/ — Miss Queen of the World — 6ta Edición · Sept 2026
+blueberry travel,Blueberry Travel,blueberrytravel.it,mapped_explicit,Home | Blueberry Travel
+genialclick,GenialClick,,no_verified_domain,unknown is not zero
+mauritius,Mauritius,,no_verified_domain,unknown is not zero
+color king marte family village,Color King Marte Family Village,,no_verified_domain,unknown is not zero
+romagna family resort,Romagna Family Resort,,no_verified_domain,unknown is not zero
+famiglie in tour,Famiglie in Tour,famiglieintour.com,mapped_explicit,Viaggi di Gruppo per famiglie - Famiglie In Tour
+aquolina,Aquolina,aquolina.it,mapped_explicit,https://www.aquolina.it/ — Aquolina | Beauty Routine Gourmand
+karl lagerfeld,Karl Lagerfeld,karllagerfeld.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+idee per viaggiare,Idee per Viaggiare,,no_verified_domain,unknown is not zero
+max factor,Max Factor,maxfactor.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+sperax,Sperax,,no_verified_domain,unknown is not zero
+givenchy,Givenchy,givenchy.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+camping villaggio rubicone,Camping Villaggio Rubicone,,shared_domain_not_attributable,unknown is not zero
+salewa,Salewa,salewa.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+benno,Benno,bennobikes.com,mapped_explicit,https://bennobikes.com/ — The Original Sport Cargo Bike - Benno Bikes LLC
+lupilu,Lupilu,,no_verified_domain,unknown is not zero
+pineta family camping village,Pineta Family Camping Village,,no_verified_domain,unknown is not zero
+sarah jessica parker,Sarah Jessica Parker,,no_verified_domain,unknown is not zero
+surprice,Surprice,,no_verified_domain,unknown is not zero
+hotel club ravezzo,Hotel Club Ravezzo,,no_verified_domain,unknown is not zero
+pini beach village,Pini Beach Village,,no_verified_domain,unknown is not zero
+sant agostino,Sant'Agostino,,no_verified_domain,unknown is not zero
+sandals resorts,Sandals Resorts,sandals.com,mapped_explicit,https://www.sandals.com/?referral=150201 — Sandals® Resorts: Made Of Caribbean [Official Website]
+lemonade,Lemonade,,no_verified_domain,unknown is not zero
+norse atlantic,Norse Atlantic,,no_verified_domain,unknown is not zero
+villaggio camping nessuno,Villaggio Camping Nessuno,,shared_domain_not_attributable,unknown is not zero
+isoleinviaggio,IsoleInViaggio,,no_verified_domain,unknown is not zero
+costa del salento,Costa del Salento,,no_verified_domain,unknown is not zero
+axa partners,AXA Partners,,no_verified_domain,unknown is not zero
+skoda,Skoda,skoda-auto.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+jack wolfskin,Jack Wolfskin,,no_verified_domain,unknown is not zero
+bergamont,Bergamont,bergamont.com,mapped_explicit,https://www.bergamont.com/it/it/ — Homepage | Bergamont
+villaggio copacabana,Villaggio Copacabana,villaggiocopacabana.com,mapped_explicit,Villaggio Copacabana
+manacore,Manacore,,no_verified_domain,unknown is not zero
+la rive,La Rive,,no_verified_domain,unknown is not zero
+sanitassicura,SanitAssicura,,no_verified_domain,unknown is not zero
+contiki,Contiki,contiki.com,mapped_explicit,Group Travel & Adventure Holidays | Contiki AU
+sephora collection,Sephora Collection,,no_verified_domain,unknown is not zero
+vogue,Vogue,,no_verified_domain,unknown is not zero
+lewis leathers,Lewis Leathers,lewisleathers.com,mapped_explicit,https://www.lewisleathers.com// — Lewis Leathers
+urevo,UREVO,urevo.com,mapped_explicit,https://www.urevo.com/ — Walking Pads & Foldable Treadmills for Home & Office – UREVO.US
+hispanitas,Hispanitas,hispanitas.com,mapped_explicit,HISPANITAS ® | Tienda Online de Zapatos para Mujer
+superga,Superga,superga.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+n26,N26,,no_verified_domain,unknown is not zero
+margo,Margò,,no_verified_domain,unknown is not zero
+belardo broker,Belardo Broker,,no_verified_domain,unknown is not zero
+olehenriksen,Olehenriksen,,no_verified_domain,unknown is not zero
+ast,AST,,no_verified_domain,unknown is not zero
+tap,TAP,flytap.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+zuiki,Zuiki,,no_verified_domain,unknown is not zero
+stonefly,Stonefly,stonefly.it,mapped_explicit,Stonefly: Calzature Comode da Uomo e Donna - Sito Ufficiale
+internazionale manacore,Internazionale Manacore,,no_verified_domain,unknown is not zero
+etude,ETUDE,,no_verified_domain,unknown is not zero
+jaz,Jaz,,no_verified_domain,unknown is not zero
+topo athletic,Topo Athletic,topoathletic.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+lookatme,lookATME,,no_verified_domain,unknown is not zero
+villaggio internazionale manacore,Villaggio Internazionale Manacore,,no_verified_domain,unknown is not zero
+baia falcone camping village,Baia Falcone Camping Village,baiafalcone.it,mapped_explicit,Camping Village Baia Falcone | Camping Village Baia Falcone
+camping village internazionale manacore,Camping Village Internazionale Manacore,,no_verified_domain,unknown is not zero
+valleverde,Valleverde,valleverde.it,mapped_explicit,"Calzature comode uomo, donna e bambino | Valleverde"
+assur o poil,Assur O'Poil,assuropoil.it,mapped_explicit,"Migliore Assicurazione Cane e Gatto, Online - Assur O'Poil"
+victor village,Victor Village,victorvillage.it,mapped_explicit,Victor Village - Villaggio turistico sul mare in Puglia
+wet n wild,Wet n Wild,wetnwildbeauty.com,mapped_explicit,https://www.wetnwildbeauty.com/ — wet n wild Beauty – Beauty and Makeup Products
+ara,Ara,,no_verified_domain,unknown is not zero
+moustache,Moustache,,no_verified_domain,unknown is not zero
+mg,MG,mgmotor.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+miu miu,Miu Miu,miumiu.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+intimissimi,Intimissimi,intimissimi.com,mapped_explicit,"https://www.intimissimi.com/it/ — Raffinata lingerie, intimo e pigiami donna e uomo | Intimissimi"
+revolution skincare,Revolution Skincare,revolutionbeauty.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+dickies,Dickies,dickies.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+gusmay resort,Gusmay Resort,,no_verified_domain,unknown is not zero
+gloria vanderbilt,Gloria Vanderbilt,,no_verified_domain,unknown is not zero
+emirates,Emirates,emirates.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+cassa galeno,Cassa Galeno,,no_verified_domain,unknown is not zero
+elizavecca,Elizavecca,,no_verified_domain,unknown is not zero
+chevignon,Chevignon,,no_verified_domain,unknown is not zero
+elemis,Elemis,elemis.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+villaggio camping sentinella,Villaggio Camping Sentinella,,no_verified_domain,unknown is not zero
+sicily active,Sicily Active,,no_verified_domain,unknown is not zero
+villaggio camping dellisola,Villaggio Camping dell’Isola,,no_verified_domain,unknown is not zero
+sisley,Sisley,sisley.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+camping village vieste marina,Camping Village Vieste Marina,viestemarina.com,mapped_explicit,Centro Vacanze Vieste Marina *** | Villaggio Vacanze per Famiglie nel Gargano
+ellesse,Ellesse,ellesse.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+e l f,e.l.f.,elfcosmetics.com,mapped_explicit,e.l.f. Cosmetics: Affordable Makeup & Skincare - Cruelty Free | e.l.f. Cosmetics
+color perla village,Color Perla Village,colorperlavillage.com,mapped_explicit,Hotel a Igea Marina sul mare | Color Perla Village
+carwiz,Carwiz,,no_verified_domain,unknown is not zero
+avril,Avril,avril-beaute.fr,mapped_explicit,https://www.avril-beaute.fr/ — Cosmétiques Plus Naturels Certifiés Bio | Avril
+ecovia,Ecovia,,no_verified_domain,unknown is not zero
+stone island,Stone Island,stoneisland.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+vie di sicilia,Vie di Sicilia,viedisicilia.it,mapped_explicit,Escursioni e Tour in Sicilia - Vie di Sicilia
+single in vacanza,Single in Vacanza,,no_verified_domain,unknown is not zero
+villaggio la siesta,Villaggio La Siesta,villaggiolasiesta.it,mapped_explicit,Villaggio La Siesta Marina di Camerota: camping 3 stelle Cilento
+atlantica,Atlantica,,no_verified_domain,unknown is not zero
+ikea,IKEA,,no_verified_domain,unknown is not zero
+max mara,Max Mara,maxmara.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+villaggio camping adria,Villaggio Camping Adria,campingadria.com,mapped_explicit,Campeggi Riccione Vacanze Camping Con Animazione Romagna | Camping Adria Riccione
+zity,Zity,,no_verified_domain,unknown is not zero
+suitsupply,Suitsupply,suitsupply.com,mapped_explicit,https://appointment.suitsupply.com/ — Suitsupply — Book an appointment
+bobike,Bobike,,no_verified_domain,unknown is not zero
+okbaby,Okbaby,okbaby.it,mapped_explicit,https://www.okbaby.it/en/ — Ok Baby - Articoli innovativi per bambini - Home
+bowflex,Bowflex,bowflex.com,mapped_explicit,https://global.bowflex.com/ — BowFlex - Premium Home Exercise Equipment – BowFlex Global
+america world,America World,,no_verified_domain,unknown is not zero
+sezane,Sézane,sezane.com,mapped_explicit,https://www.sezane.com/it-it — Sézane | Sito ufficiale | Moda e Accessori da Donna
+biomecanics,Biomecanics,,no_verified_domain,unknown is not zero
+shotgun,Shotgun,,no_verified_domain,unknown is not zero
+alleanza,Alleanza,alleanza.it,mapped_explicit,"https://www.alleanza.it/?trk=public_post-text — Alleanza Assicurazioni | Previdenza, Risparmio, Protezione e Investimenti"
+pepe jeans,Pepe Jeans,pepejeans.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+adriano camping village,Adriano Camping Village,,no_verified_domain,unknown is not zero
+villaggio san lorenzo,Villaggio San Lorenzo,villaggiosanlorenzo.com,mapped_explicit,https://www.villaggiosanlorenzo.com/ — Villaggio Vacanze a Vieste in Puglia | Villaggio San Lorenzo
+sicily4you,Sicily4You,sicily4you.com,mapped_explicit,https://www.sicily4you.com/ — SICILY4YOU - TAORMINA TOUR - MESSINA TOUR - ETNA TOUR
+spidi,Spidi,,no_verified_domain,unknown is not zero
+jeanne en provence,Jeanne en Provence,,no_verified_domain,unknown is not zero
+ulric de varens,Ulric de Varens,,no_verified_domain,unknown is not zero
+rimini family resort,Rimini Family Resort,,no_verified_domain,unknown is not zero
+italo,Italo,italotreno.com,mapped_explicit,https://www.italotreno.com/it — Sito Ufficiale Italo Treno - Acquista biglietti online
+evvai club eurovillage,Evvai Club Eurovillage,,no_verified_domain,unknown is not zero
+joystar,JOYSTAR,,no_verified_domain,unknown is not zero
+homefitnesscode,Homefitnesscode,homefitnesscode.com,mapped_explicit,https://us.homefitnesscode.com/ — HomeFitnessCode - United States
+dryyve,Dryyve,,no_verified_domain,unknown is not zero
+motivi,Motivi,motivi.com,mapped_explicit,https://www.motivi.com/it_IT?reset=true — Motivi – Abbigliamento Donna & Tendenze Stagionali
+singleup,SingleUp,,no_verified_domain,unknown is not zero
+gyada,Gyada,gyadacosmetics.com,mapped_explicit,Gyada Cosmetics | Every Day Every You
+camper,Camper,camper.com,mapped_explicit,Camper Shoes - Official Online Shop Spain
+kidsicily,KidSicily,kidsicily.it,mapped_explicit,https://kidsicily.it/ — Vacanze con bambini in Sicilia | KidSicily
+hdi,HDI,,no_verified_domain,unknown is not zero
+bike and life,Bike&Life,bikeandlife.com,mapped_explicit,Assicurazione bicicletta e monopattino elettrico - Bike&Life
+alpinestars,Alpinestars,alpinestars.com,mapped_explicit,Alpinestars® Official Site
+sairon village,Sairon Village,,no_verified_domain,unknown is not zero
+pikolinos,Pikolinos,,no_verified_domain,unknown is not zero
+esi,ESI,,no_verified_domain,unknown is not zero
+armedangels,Armedangels,armedangels.com,mapped_explicit,Zeitlose Mode für Damen & Herren | ARMEDANGELS
+bioderma,Bioderma,bioderma.it,mapped_explicit,BIODERMA | La biologia al servizio della salute della pelle nel tempo
+baia di manaccora,Baia di Manaccora,baiadimanaccora.it,mapped_explicit,Villaggio Turistico a Peschici nel Gargano | Villaggio Turistico Baia di Manaccora
+eurogarden village,Eurogarden Village,eurogardenvillage-sanfoca.it,mapped_explicit,https://www.eurogardenvillage-sanfoca.it/ — Euro Garden Village - Villaggio in totale Relax nel Salento – San Foca Otranto (LE)
+villaggio club degli ulivi,Villaggio Club degli Ulivi,villaggioclubdegliulivi.com,mapped_explicit,Club degli Ulivi - Villaggio Pet Friendly a Vieste - Puglia
+emporio armani,Emporio Armani,,no_verified_domain,unknown is not zero
+reserved,Reserved,reserved.com,mapped_explicit,Reserved & Shop Online
+cockpit usa,Cockpit USA,,no_verified_domain,unknown is not zero
+nihola,Nihola,,no_verified_domain,unknown is not zero
+riccione family camping village,Riccione Family Camping Village,,no_verified_domain,unknown is not zero
+trespass,Trespass,,no_verified_domain,unknown is not zero
+marella cruises,Marella Cruises,,no_verified_domain,unknown is not zero
+villaggio costa del salento,Villaggio Costa del Salento,,no_verified_domain,unknown is not zero
+moorer,Moorer,,no_verified_domain,unknown is not zero
+marina family village,Marina Family Village,,no_verified_domain,unknown is not zero
+siux,Siux,siuxpadel.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+veja,Veja,veja-store.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+chopard,Chopard,chopard.com,mapped_explicit,"https://www.chopard.com/it-it — Chopard® | Orologi e Gioielli di Lusso Svizzeri, Dal 1860"
+oman air,Oman Air,omanair.com,mapped_explicit,https://services.omanair.com/ — Oman Air | The New Wings of Oman
+cosrx,COSRX,,no_verified_domain,unknown is not zero
+leon cycle,Leon Cycle,,no_verified_domain,unknown is not zero
+real techniques,Real Techniques,,no_verified_domain,unknown is not zero
+unicredit,Unicredit,unicredit.it,mapped_explicit,"UniCredit Banca: Conti correnti, Prestiti, Carte e Investimenti"
+audi,Audi,audi.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+munich re,Munich Re,,no_verified_domain,unknown is not zero
+bikestar,Bikestar,,no_verified_domain,unknown is not zero
+sicily lifestyle,Sicily Lifestyle,sicilylifestyle.com,mapped_explicit,"https://www.sicilylifestyle.com/ — Sicily Lifestyle - Wedding, Travel, and Event Planning"
+fissan,Fissan,,no_verified_domain,unknown is not zero
+dr jart,Dr. Jart+,,no_verified_domain,unknown is not zero
+atmosphere,Atmosphere,,no_verified_domain,unknown is not zero
+laneige,Laneige,,no_verified_domain,unknown is not zero
+radon,Radon,radon.it,mapped_explicit,https://www.radon.it/ — Radon: Tecniche di Misura e risanamento – Il tuo partner accreditato per le misure di gas Radon
+sicily touring,Sicily Touring,,no_verified_domain,unknown is not zero
+riviera camping village,Riviera Camping Village,,no_verified_domain,unknown is not zero
+camping surabaja la playa,Camping Surabaja – La Playa,campingsurabaja.it,mapped_explicit,https://campingsurabaja.it/de/ — Camping Surabaja La Playa – Camping Surabaja-La Playa geniesst um eine optimale Lage.
+sicily4u,Sicily4U,sicily4u.com,mapped_explicit,https://sicily4u.com/ — Sicily Villas for Rent | Luxury Vacation Villas | Sicily4U
+cala blanca resort,Cala Blanca Resort,,no_verified_domain,unknown is not zero
+maison margiela,Maison Margiela,,no_verified_domain,unknown is not zero
+meraki resort,Meraki Resort,meraki-resort.com,mapped_explicit,Meraki Resorts – Do it the Meraki way!
+balenciaga,Balenciaga,balenciaga.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+la giurlita,La Giurlita,,no_verified_domain,unknown is not zero
+car sharing roma,Car Sharing Roma,,no_verified_domain,unknown is not zero
+saline camping village,Saline Camping Village,,no_verified_domain,unknown is not zero
+hotel christian,Hotel Christian,,no_verified_domain,unknown is not zero
+gutteridge,Gutteridge,gutteridge.com,mapped_explicit,"Gutteridge 1878: Abbigliamento, accessori e Calzature da Uomo"
+catwalk,Catwalk,,no_verified_domain,unknown is not zero
+villaggio acquamarina,Villaggio Acquamarina,villaggioacquamarina.it,mapped_explicit,"Villaggio Acquamarina, Resort e Case Mobili Premium a Palinuro (SA) - Cilento"
+maison francis kurkdjian,Maison Francis Kurkdjian,,no_verified_domain,unknown is not zero
+patrizia pepe,Patrizia Pepe,patriziapepe.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+baia dei faraglioni,Baia dei Faraglioni,apuliabaiadeifaraglioni.it,mapped_explicit,https://www.apuliabaiadeifaraglioni.it/en/ — Hotel with 4 Stars in Mattinata | Hotel Baia dei Faraglioni
+denim,Denim,denimforman.com,mapped_explicit,https://www.denimforman.com/it — Homepage | Denim
+safari avventura,Safari Avventura,safariavventura.com,mapped_explicit,Safari in Tanzania: Tour Organizzati All Inclusive | Safari Avventura
+torre saracena,Torre Saracena,villaggiotorresaracena.it,mapped_explicit,Villaggio sul mare a Marina di Camerota - Torre Saracena
+muji,Muji,,no_verified_domain,unknown is not zero
+malizia,Malizia,,no_verified_domain,unknown is not zero
+christiania bikes,Christiania Bikes,,no_verified_domain,unknown is not zero
+purederm,Purederm,,no_verified_domain,unknown is not zero
+fischer,Fischer,,no_verified_domain,unknown is not zero
+maps me,Maps.me,,no_verified_domain,unknown is not zero
+croozer,Croozer,croozer.com,mapped_explicit,https://www.croozer.com/ — Croozer
+camicissima,Camicissima,camicissima.com,mapped_explicit,https://www.camicissima.com/it_it — Camicissima - Sito Ufficiale | Camicissima
+aquafan,Aquafan,,no_verified_domain,unknown is not zero
+camping village cesenatico,Camping Village Cesenatico,,no_verified_domain,unknown is not zero
+flash pack,Flash Pack,,no_verified_domain,unknown is not zero
+esprit,Esprit,esprit.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+picard,Picard,,no_verified_domain,unknown is not zero
+villaggio arco del saracino,Villaggio Arco del Saracino,,shared_domain_not_attributable,unknown is not zero
+holins,Holins,holins.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_assicurazioni.csv
+alo yoga,Alo Yoga,,no_verified_domain,unknown is not zero
+transavia,Transavia,transavia.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+deerrun,DeerRun,,no_verified_domain,unknown is not zero
+uncovered sicily,Uncovered Sicily,uncoveredsicily.com,mapped_explicit,https://www.uncoveredsicily.com/it/ — Uncovered Sicily | Tour culturali ed Enogastronomici con Esperti
+babaco,Babaco,,no_verified_domain,unknown is not zero
+finn,FINN,,no_verified_domain,unknown is not zero
+camping internazionale sirolo,Camping Internazionale Sirolo,,no_verified_domain,unknown is not zero
+intrend,Intrend,intrend.it,mapped_explicit,https://it.intrend.it/info/company/about-us
+grover,Grover,,no_verified_domain,unknown is not zero
+terra del sole sicilia,Terra del Sole Sicilia,,no_verified_domain,unknown is not zero
+pellein,Pellein,pellein.com,mapped_explicit,https://www.pellein.com/ — Pellein - Le migliori Giacche in pelle ed Accessori dell'artigianato Italiano.
+eurovita,Eurovita,,no_verified_domain,unknown is not zero
+etihad,Etihad,etihad.com,mapped_explicit,https://www.etihad.com/it-it// — Etihad Airways – Prenota e gestisci i tuoi voli ed effettua il check-in online
+mifold,Mifold,,no_verified_domain,unknown is not zero
+labisi,Labisi,labisi.it,mapped_explicit,https://www.labisi.it/ — Labisi – Bus Operator
+hotel fantini,Hotel Fantini,,no_verified_domain,unknown is not zero
+acqua di gio,Acqua di Giò,,no_verified_domain,unknown is not zero
+tucano,Tucano,,no_verified_domain,unknown is not zero
+themoire,THEMOIRè,the-moire.com,mapped_explicit,https://the-moire.com/ — THEMOIRè – THEMOIRÈ
+vitanuova,Vitanuova,vitanuova.it,mapped_explicit,Home | Vitanuova Previdenza e Protezione
+morganti,Morganti,,no_verified_domain,unknown is not zero
+the travel family,The Travel Family,thetravelfamily.it,mapped_explicit,The Travel Family - Viaggi family e di gruppo
+i grandi viaggi,I Grandi Viaggi,igrandiviaggi.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+villaggio san matteo resort,Villaggio San Matteo Resort,villaggiosanmatteo.it,mapped_explicit,"Villaggio San Matteo, Vacanze in Puglia a 4 stelle per famiglie."
+rouvy,Rouvy,rouvy.com,mapped_explicit,https://eshop.rouvy.com/it/ — Shop ROUVY – Tutto quello che ti serve per pedalare indoor
+camping villaggio saline,Camping Villaggio Saline,campingsaline.com,mapped_explicit,"https://landing.campingsaline.com/ — Bungalow, campeggio sulla spiaggia a Palinuro | Camping Saline"
+mappamondo,Mappamondo,mappamondo.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_viaggi.csv
+savannah explorers,Savannah Explorers,savannahexplorers.com,mapped_explicit,Safari in Tanzania | Tour Operator Savannah Explorers
+tui magic life,TUI MAGIC LIFE,,no_verified_domain,unknown is not zero
+twinset,Twinset,twinset.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+camping villaggio internazionale,Camping Villaggio Internazionale,,no_verified_domain,unknown is not zero
+frontier,Frontier,,no_verified_domain,unknown is not zero
+alpha industries,Alpha Industries,,no_verified_domain,unknown is not zero
+the kooples,The Kooples,thekooples.com,mapped_explicit,https://www.thekooples.com/en/en/ — The Kooples | Fall/Winter 2026 collection
+skip hop,Skip Hop,,no_verified_domain,unknown is not zero
+frog,Frog,,no_verified_domain,unknown is not zero
+le cale dotranto beach resort,Le Cale d’Otranto Beach Resort,lecaledotranto.com,mapped_explicit,https://www.lecaledotranto.com/ — Le Cale d'Otranto - Futura Club | Official site of Le Cale d’Otranto - Beach Resort
+seabel,Seabel,,no_verified_domain,unknown is not zero
+lanvin,Lanvin,lanvin.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+myprotein,Myprotein,,no_verified_domain,unknown is not zero
+rixos,Rixos,,no_verified_domain,unknown is not zero
+rochas,Rochas,rochas.com,mapped_explicit,https://www.rochas.com/ — Homepage - Rochas Site Officiel
+aku,Aku,aku.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv | /path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+vertbaudet,Vertbaudet,,no_verified_domain,unknown is not zero
+coty,Coty,,no_verified_domain,unknown is not zero
+villaggio camping arco naturale,Villaggio Camping Arco Naturale,,no_verified_domain,unknown is not zero
+panda bike,Panda Bike,panda-bike.com,mapped_explicit,https://www.panda-bike.com/en/ — Panda Bike - Customized 2 and 3 wheel cargo bikes made in Italy
+intercity,Intercity,,no_verified_domain,unknown is not zero
+villaggio campo verde,Villaggio Campo Verde,,no_verified_domain,unknown is not zero
+i provenzali,I Provenzali,iprovenzali.it,mapped_explicit,https://iprovenzali.it/ — i Provenzali Home - I Provenzali
+royal padel,Royal Padel,,no_verified_domain,unknown is not zero
+bhs travel,BHS Travel,,no_verified_domain,unknown is not zero
+qover,Qover,qover.com,mapped_explicit,https://www.qover.com/ — Qover | Ensure your success
+licorne bike,Licorne Bike,,no_verified_domain,unknown is not zero
+ah premium isola di pazze,Ah Premium Isola di Pazze,,no_verified_domain,unknown is not zero
+rentalcover,RentalCover,rentalcover.com,mapped_explicit,https://b2capp.rentalcover.com/it — Assicurazione noleggio auto | Risparmia fino al 50% — RentalCover
+villaggio nessuno,Villaggio Nessuno,villaggionessuno.com,mapped_explicit,https://www.villaggionessuno.com/ — Villaggio Nessuno | Residence – Villaggio a Marina di Camerota
+renata travel,Renata Travel,renatatraveldmc.com,mapped_explicit,"Incoming Italy & DMC Sardinia, Sicily, Corsica | Renata Travel"
+iopitour,Iopitour,iopitour.it,mapped_explicit,"Iopitour - Tour Operator incoming Sicilia: viaggi, vacanze, offerte, hotel"
+klm,KLM,,no_verified_domain,unknown is not zero
+leather trend,Leather Trend,leathertrend.it,mapped_explicit,Giacche e accessori in pelle - Leather Trend
+auto presto and bene,Auto Presto & Bene,,no_verified_domain,unknown is not zero
+jo loves,Jo Loves,joloves.com,mapped_explicit,https://www.joloves.com/?site=pc — Jo Loves - Official Site
+baia dei turchi resort,Baia dei Turchi Resort,,no_verified_domain,unknown is not zero
+farfallina,Farfallina,,no_verified_domain,unknown is not zero
+avon,Avon,,no_verified_domain,unknown is not zero
+camping saline,Camping Saline,campingsaline.it,mapped_explicit,Camping Saline Palinuro
+bimbo travel,Bimbo Travel,bimbotravel.it,mapped_explicit,Bimbo Travel Viaggi e Vacanze per Bambini e Famiglie
+porto cesareo camping village,Porto Cesareo Camping Village,portocesareocamping.it,mapped_explicit,"Porto Cesareo Camping Salento, Campeggio Villaggio Salento Puglia"
+taunus vacanze,Taunus Vacanze,,no_verified_domain,unknown is not zero
+bhei,BHEI,,no_verified_domain,unknown is not zero
+consulbrokers,Consulbrokers,consulbrokers.it,mapped_explicit,https://www.consulbrokers.it/ — Consulbrokers | brokeraggio assicurativo
+approdo resort thalasso,Approdo Resort Thalasso Spa,approdothalassospa.com,mapped_explicit,https://approdothalassospa.com/ — Approdo Resort Thalasso Spa - Benessere in Cilento
+color palace lido family village,Color Palace Lido Family Village,,no_verified_domain,unknown is not zero
+iana,Iana,,no_verified_domain,unknown is not zero
+u save,U-Save,,no_verified_domain,unknown is not zero
+inov 8,Inov-8,,no_verified_domain,unknown is not zero
+lido paradiso resort,Lido Paradiso Resort,lidoparadiso.it,mapped_explicit,https://www.lidoparadiso.it/ — Lido Paradiso Resort - Villaggio Turistico sul mare del Cilento vicino Palinuro
+canellini,Canellini,canellini.it,mapped_explicit,Canellini | SHOP Online Biciclette
+joroto,Joroto,,no_verified_domain,unknown is not zero
+eurovillage,Eurovillage,eurovillageblueseaclub.it,mapped_explicit,https://www.eurovillageblueseaclub.it/ — Euro Village Bluesea Club - Benvenuto!
+urlife,URLIFE,,no_verified_domain,unknown is not zero
+malia village,Malia Village,,no_verified_domain,unknown is not zero
+autounion,AutoUnion,,no_verified_domain,unknown is not zero
+organic shop,Organic Shop,organic-shop.com,mapped_explicit,https://www.organic-shop.com/ — Organic Shop - Your Natural Joy Ritual
+focus,Focus,,no_verified_domain,unknown is not zero
+ferrovie del gargano,Ferrovie del Gargano,ferroviedelgargano.com,mapped_explicit,Ferrovie del Gargano
+great lakes,Great Lakes,,no_verified_domain,unknown is not zero
+carnival corporation,Carnival Corporation,carnivalcorporation.com,mapped_explicit,https://www.carnivalcorporation.com/ — Carnival Corporation Ltd.
+matt,Matt,,no_verified_domain,unknown is not zero
+smart,Smart,smart.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_automotive.csv
+evolution travel,Evolution Travel,,no_verified_domain,unknown is not zero
+beiersdorf,Beiersdorf,beiersdorf.it,mapped_explicit,https://www.beiersdorf.it/ — Beiersdorf - Skin care is everything to us
+amex,Amex,,no_verified_domain,unknown is not zero
+redskins,Redskins,redskins.fr,mapped_explicit,https://www.redskins.fr/ — Redskins : Vêtements & Cuir Iconiques pour Homme & Femme
+camping village mulino dacqua,Camping Village Mulino d’Acqua,mulinodacqua.com,mapped_explicit,https://mulinodacqua.com/fr/ — Borgo Mulino d'Acqua | Prenota direttamente dal sito ufficiale
+monki,Monki,,no_verified_domain,unknown is not zero
+turo,Turo,,no_verified_domain,unknown is not zero
+rivaverde family camping village,Rivaverde Family Camping Village,,no_verified_domain,unknown is not zero
+fred perry,Fred Perry,fredperry.com,mapped_explicit,https://www.fredperry.com/?lang=en — Fred Perry | Original Since 1952 | Fred Perry UK
+cdshotels costa del salento village,CDSHotels Costa del Salento Village,,no_verified_domain,unknown is not zero
+eskute,Eskute,,no_verified_domain,unknown is not zero
+oltremare,Oltremare,,no_verified_domain,unknown is not zero
+rc medici,RC Medici,,no_verified_domain,unknown is not zero
+assicuratrice milanese,Assicuratrice Milanese,assicuratricemilanese.it,mapped_explicit,https://www.assicuratricemilanese.it/ — Assicuratrice Milanese - Compagnia Assicurativa
+sinophant,Sinophant,,no_verified_domain,unknown is not zero
+carrera,Carrera,,no_verified_domain,unknown is not zero
+alverde,Alverde,,no_verified_domain,unknown is not zero
+sanilog,Sanilog,,no_verified_domain,unknown is not zero
+yagud,Yagud,,no_verified_domain,unknown is not zero
+prassi broker,Prassi Broker,,no_verified_domain,unknown is not zero
+color holidays,Color Holidays,,no_verified_domain,unknown is not zero
+cyrusher,Cyrusher,,no_verified_domain,unknown is not zero
+mary and may,Mary & May,,no_verified_domain,unknown is not zero
+amicoblu,AmicoBlu,amicoblu.it,mapped_explicit,"https://www.amicoblu.it/?PORTAL_LA=it&mnuid=hp_amicoblu — Noleggio Furgoni, Camion e Veicoli Commerciali | AmicoBlu"
+narciso rodriguez,Narciso Rodriguez,,no_verified_domain,unknown is not zero
+fafrees,Fafrees,,no_verified_domain,unknown is not zero
+camping village costa verde,Camping Village Costa Verde,,no_verified_domain,unknown is not zero
+liebeskind berlin,Liebeskind Berlin,liebeskind-berlin.com,mapped_explicit,https://de.liebeskind-berlin.com/?emsrc=affiliate — LIEBESKIND BERLIN | Offizieller Online-Shop
+sicily trekking,Sicily Trekking,,no_verified_domain,unknown is not zero
+pelletterie borghese,Pelletterie Borghese,pelletterieborghese.it,mapped_explicit,"Giacche, giubbotti e bomber in vera pelle | Pelletterie Borghese"
+ponant,Ponant,,no_verified_domain,unknown is not zero
+futura club la praya,Futura Club La Praya,,no_verified_domain,unknown is not zero
+palazzo belmonte,Palazzo Belmonte,palazzobelmonte.com,mapped_explicit,https://palazzobelmonte.com/ — Per un soggiorno unico sul mare del Cilento | Palazzo Belmonte
+giordani,Giordani,,no_verified_domain,unknown is not zero
+zanzibar insurance corporation,Zanzibar Insurance Corporation,,no_verified_domain,unknown is not zero
+baia san nicola,Baia San Nicola,baiasannicola.it,mapped_explicit,Home - Camping Village Baia San Nicola Peschici
+dottorpet,Dottorpet,,no_verified_domain,unknown is not zero
+la fenosa,La Fenosa,lafenosa.it,mapped_explicit,Villaggio Turistico La Fenosa Marina di Camerota
+cds hotels,CDS Hotels,,shared_domain_not_attributable,unknown is not zero
+trevi family resort,Trevi Family Resort,trevifamilyresort.it,mapped_explicit,Hotel Cattolica - Family resort sul mare All Inclusive | Trevi Family Resort
+inoleggio,iNoleggio,inoleggio.it,mapped_explicit,iNoleggio.it - Auto a Noleggio - Confronta e Risparmia
+issey miyake,Issey Miyake,isseymiyake.com,mapped_explicit,https://www.isseymiyake.com/en — ISSEY MIYAKE INC.｜公式サイト – isseymiyake.com
+simond,Simond,simond.com,mapped_explicit,"https://www.simond.com/en-GB — Simond - Mountaineering, Climbing, Trekking & Backcountry skiing"
+byd,BYD,,no_verified_domain,unknown is not zero
+color ermitage beach family village,Color Ermitage Beach Family Village,,no_verified_domain,unknown is not zero
+allianz partners,Allianz Partners,,no_verified_domain,unknown is not zero
+pineta sul mare,Pineta sul Mare,,no_verified_domain,unknown is not zero
+rare beauty,Rare Beauty,,no_verified_domain,unknown is not zero
+brera,Brera,,no_verified_domain,unknown is not zero
+blauer,Blauer,blauerusa.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+earth cultura e natura,Earth Cultura e Natura,,no_verified_domain,unknown is not zero
+brompton,Brompton,brompton.com,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_sport.csv
+omnium,Omnium,,no_verified_domain,unknown is not zero
+fagottino,Fagottino,,no_verified_domain,unknown is not zero
+spina family camping village,Spina Family Camping Village,,no_verified_domain,unknown is not zero
+lekebaby,Lekebaby,,no_verified_domain,unknown is not zero
+baia di gallipoli camping resort,Baia di Gallipoli Camping Resort,,no_verified_domain,unknown is not zero
+villaggio camping manacore,Villaggio Camping Manacore,villaggiomanacore.it,mapped_explicit,https://villaggiomanacore.it/it/ — Villaggio Manacore Peschici: Vacanze in Famiglia sul Mare tra Peschici e Vieste
+al rehab,Al-Rehab,,no_verified_domain,unknown is not zero
+conerobus,Conerobus,conerobusservice.it,mapped_explicit,https://www.conerobusservice.it/ — Home - Conerobus Service s.r.l.
+villaggio lido del sole,Villaggio Lido del Sole,,no_verified_domain,unknown is not zero
+mitomo,Mitomo,,no_verified_domain,unknown is not zero
+viva,Viva,,no_verified_domain,unknown is not zero
+trs,TRS,,no_verified_domain,unknown is not zero
+costa vacanze hotels,Costa Vacanze Hotels,costavacanzehotels.com,mapped_explicit,https://www.costavacanzehotels.com/ — Costa Vacanze Hotels: Hotel Family All Inclusive in Romagna per Bambini - Costa Vacanze Hotels
+cover4rentals,Cover4Rentals,,no_verified_domain,unknown is not zero
+cadiprof,Cadiprof,cadiprof.it,mapped_explicit,https://www.cadiprof.it/ — Cassa assistenza sanitaria integrativa per Studi Professionali - CADIPROF
+villaggio elisena,Villaggio Elisena,villaggioelisena.it,mapped_explicit,https://www.villaggioelisena.it/ — Villaggio Vieste Residence Elisena
+zeporix,Zeporix,,no_verified_domain,unknown is not zero
+air france,Air France,,no_verified_domain,unknown is not zero
+mastercard,Mastercard,mastercard.com,mapped_explicit,https://www.mastercard.com/ — Mastercard - A global technology company in the payments industry | Mastercard US
+camping villaggio dei pini,Camping Villaggio dei Pini,campingvillaggiodeipini.com,mapped_explicit,https://www.campingvillaggiodeipini.com/en/ — Camping Villaggio dei Pini Paestum
+blu suite resort,Blu Suite Resort,blusuitehotel.it,mapped_explicit,"https://www.blusuitehotel.it/ — Hotel 4 stelle Blu Suite Resort, Beach & Spa - Bellaria Igea Marina"
+frederic malle,Frederic Malle,fredericmalle.com,mapped_explicit,https://www.fredericmalle.com/ — Frederic Malle Official Site | Frederic Malle Online
+van4you,Van4You,,no_verified_domain,unknown is not zero
+sicily travelnet,Sicily Travelnet,sicilytravel.net,mapped_explicit,https://www.sicilytravel.net/ — Sicily Travel and Touring - Sicily TravelNet
+azzurro club,Azzurro Club,,no_verified_domain,unknown is not zero
+safetywing,SafetyWing,safetywing.com,mapped_explicit,https://safetywing.com/?referenceID=26308725 — SafetyWing - Insurance for remote workers
+clarins,Clarins,clarins.it,mapped_explicit,/path/to/project/results_cycle10/brand_candidati_moda_beauty.csv
+secrets,Secrets,,no_verified_domain,unknown is not zero
+soi,SOI,,no_verified_domain,unknown is not zero
+persefone travel,Persefone Travel,,no_verified_domain,unknown is not zero
+chanson deau,Chanson d’Eau,,no_verified_domain,unknown is not zero
+doria e bellisario,Doria e Bellisario,,no_verified_domain,unknown is not zero
+natural village resort,Natural Village Resort,natural-village.it,mapped_explicit,https://booking.natural-village.it/?skd-language-code=it — Natural Village Resort
+myland,Myland,,no_verified_domain,unknown is not zero
+salinello village,Salinello Village,salinello.it,mapped_explicit,https://www.salinello.it/en/ — Camping Village in Italy | Holiday Village Salinello
+green park village,Green Park Village,greenparkvillage-vieste.it,mapped_explicit,https://www.greenparkvillage-vieste.it/ — Green Park Village - Villaggio Hotel a Vieste (FG)
+marella,Marella,marella.com,mapped_explicit,https://it.marella.com/home — Marella Online Store | Sito Ufficiale
+david beckham,David Beckham,,no_verified_domain,unknown is not zero
+camping village baia di gallipoli,Camping Village Baia di Gallipoli,,no_verified_domain,unknown is not zero
+precor,Precor,,no_verified_domain,unknown is not zero
+fiabilandia,Fiabilandia,,no_verified_domain,unknown is not zero
+ganni,Ganni,ganni.com,mapped_explicit,https://www.ganni.com/en-it/clothing/
+ekos,Ekos,,no_verified_domain,unknown is not zero
+bnp paribas,BNP Paribas,,no_verified_domain,unknown is not zero
+cnp assurances,CNP Assurances,,no_verified_domain,unknown is not zero
+clickrent,ClickRent,,no_verified_domain,unknown is not zero
+campagnolo,Campagnolo,,no_verified_domain,unknown is not zero
+santalucia,Santalucia,,no_verified_domain,unknown is not zero
+bipi,Bipi,,no_verified_domain,unknown is not zero
+shock absorber,Shock Absorber,,no_verified_domain,unknown is not zero
+thursday boot co,Thursday Boot Co.,,no_verified_domain,unknown is not zero
+visa,Visa,,no_verified_domain,unknown is not zero
+rbm salute,RBM Salute,,no_verified_domain,unknown is not zero
+marine aviation,Marine Aviation,,no_verified_domain,unknown is not zero
+carel paris,Carel Paris,,no_verified_domain,unknown is not zero
+boden,Boden,,no_verified_domain,unknown is not zero
+baracuta,Baracuta,baracuta.com,mapped_explicit,https://www.baracuta.com/it — Baracuta® Store Online | G9 Harrington | Abbigliamento e Giacche Uomo
+hotel feldberg,Hotel Feldberg,,no_verified_domain,unknown is not zero
+cardif,Cardif,,no_verified_domain,unknown is not zero
+discovering sicily,Discovering Sicily,,no_verified_domain,unknown is not zero
+cook s club,Cook's Club,,no_verified_domain,unknown is not zero
+squok club,Squok Club,,no_verified_domain,unknown is not zero
+absolute sicily,Absolute Sicily,,no_verified_domain,unknown is not zero
+fondo fast,Fondo Fast,,no_verified_domain,unknown is not zero
+conca d oro viaggi,Conca d'Oro Viaggi,,no_verified_domain,unknown is not zero
+val di kam,Val di Kam,valdikam.com,mapped_explicit,https://www.valdikam.com/ — Esperienze nei Borghi della Sicilia Autentica | Val di Kam
+cdshotels costa del salento,CDSHotels Costa del Salento,,no_verified_domain,unknown is not zero
+villaggio baia del turco,Villaggio Baia del Turco,,no_verified_domain,unknown is not zero
+eas e,Eas-e,,no_verified_domain,unknown is not zero
+globat sicily,Globat Sicily,,no_verified_domain,unknown is not zero
+camping la pineta,Camping La Pineta,,no_verified_domain,unknown is not zero
+solada,Solada,,no_verified_domain,unknown is not zero
+milecity,MileCity,,no_verified_domain,unknown is not zero
+adidas,Adidas,adidas.ch,variante_A_suffisso_nazionale,varianti 19/10/2026
+adidas,Adidas,adidas.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+adidas,Adidas,adidas.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+adidas,Adidas,adidas.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+adidas,Adidas,adidas.fi,variante_A_suffisso_nazionale,varianti 19/10/2026
+adidas,Adidas,adidas.ie,variante_A_suffisso_nazionale,varianti 19/10/2026
+allianz,Allianz,allianz.at,variante_A_suffisso_nazionale,varianti 19/10/2026
+allianz,Allianz,allianz.ch,variante_A_suffisso_nazionale,varianti 19/10/2026
+allianz,Allianz,allianz.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+allsaints,AllSaints,allsaints.me,variante_A_suffisso_nazionale,varianti 19/10/2026
+altra,Altra,altrarunning.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+arco naturale club,Arco Naturale Club,arconaturaleclub.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+arcteryx,Arc’teryx,arcteryx.com.au,variante_A_suffisso_nazionale,varianti 19/10/2026
+asics,ASICS,asics.co.in,variante_A_suffisso_nazionale,varianti 19/10/2026
+ayvens,Ayvens,ayvens.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+azemar,Azemar,azemar.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+babboe,Babboe,babboe.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+babboe,Babboe,babboe.fr,variante_A_suffisso_nazionale,varianti 19/10/2026
+babboe,Babboe,babboe.nl,variante_A_suffisso_nazionale,varianti 19/10/2026
+babolat,Babolat,babolat.ae,variante_A_suffisso_nazionale,varianti 19/10/2026
+babolat,Babolat,babolat.ca,variante_A_suffisso_nazionale,varianti 19/10/2026
+blueberry travel,Blueberry Travel,blueberrytravel.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+bourjois,Bourjois,bourjois.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+cala saracena resort,Cala Saracena Resort,calasaracena.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+calzedonia,Calzedonia,calzedonia.com.br,variante_A_suffisso_nazionale,varianti 19/10/2026
+villaggio camping capo vieste,Villaggio Camping Capo Vieste,capovieste.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+carnielli,Carnielli,carnielli.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+celebrity cruises,Celebrity Cruises,celebritycruises.it,variante_A_suffisso_nazionale,varianti 19/10/2026
+cerave,CeraVe,cerave.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+cerave,CeraVe,cerave.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+cerave,CeraVe,cerave.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+cerave,CeraVe,cerave.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+chicco,Chicco,chicco.ch,variante_A_suffisso_nazionale,varianti 19/10/2026
+chicco,Chicco,chicco.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+clarks,Clarks,clarks.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+clarks,Clarks,clarks.sg,variante_A_suffisso_nazionale,varianti 19/10/2026
+clinique,Clinique,clinique.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+corte del salento,Corte del Salento,cortedelsalento.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+dino bikes,Dino Bikes,dinobikes.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+engwe,Engwe,engwe.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+estee lauder,Estée Lauder,esteelauder.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+eucerin,Eucerin,eucerin.at,variante_A_suffisso_nazionale,varianti 19/10/2026
+eucerin,Eucerin,eucerin.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+eucerin,Eucerin,eucerin.co.za,variante_A_suffisso_nazionale,varianti 19/10/2026
+eucerin,Eucerin,eucerin.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+eucerin,Eucerin,eucerin.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+eucerin,Eucerin,eucerin.fr,variante_A_suffisso_nazionale,varianti 19/10/2026
+eucerin,Eucerin,eucerin.my,variante_A_suffisso_nazionale,varianti 19/10/2026
+europcar,Europcar,europcar.be,variante_A_suffisso_nazionale,varianti 19/10/2026
+europcar,Europcar,europcar.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+europcar,Europcar,europcar.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+everfit,Everfit,everfit.com.au,variante_A_suffisso_nazionale,varianti 19/10/2026
+fjallraven,Fjällräven,fjallraven.com.au,variante_A_suffisso_nazionale,varianti 19/10/2026
+furla,Furla,furla.ru,variante_A_suffisso_nazionale,varianti 19/10/2026
+geek and gorgeous,Geek & Gorgeous,geekandgorgeous.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+assicurazioni generali,Assicurazioni Generali,generali.ch,variante_A_suffisso_nazionale,varianti 19/10/2026
+assicurazioni generali,Assicurazioni Generali,generali.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+guess,Guess,guess.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+hertz,Hertz,hertz.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+hertz,Hertz,hertz.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+hertz,Hertz,hertz.gr,variante_A_suffisso_nazionale,varianti 19/10/2026
+heymondo,Heymondo,heymondo.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+heymondo,Heymondo,heymondo.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+horizon,Horizon,horizonfitness.ca,variante_A_suffisso_nazionale,varianti 19/10/2026
+inoleggio,iNoleggio,inoleggio.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+jo malone,Jo Malone,jomalone.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+kate spade,Kate Spade,katespade.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+kiabi,Kiabi,kiabi.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+kiabi,Kiabi,kiabi.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+kiehls,Kiehl’s,kiehls.at,variante_A_suffisso_nazionale,varianti 19/10/2026
+kiehls,Kiehl’s,kiehls.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+la roche posay,La Roche-Posay,larocheposay.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+la sportiva,La Sportiva,lasportiva.mx,variante_A_suffisso_nazionale,varianti 19/10/2026
+life5,Life5,life5.it,variante_A_suffisso_nazionale,varianti 19/10/2026
+lowa,Lowa,lowa.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+marbella club,Marbella Club,marbellaclub.it,variante_A_suffisso_nazionale,varianti 19/10/2026
+maybelline,Maybelline,maybelline.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+maybelline,Maybelline,maybelline.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+maybelline,Maybelline,maybelline.fr,variante_A_suffisso_nazionale,varianti 19/10/2026
+merrell,Merrell,merrell.ch,variante_A_suffisso_nazionale,varianti 19/10/2026
+michael kors,Michael Kors,michaelkors.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+michael kors,Michael Kors,michaelkors.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+moma,Moma,momabikes.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+moma,Moma,momabikes.fr,variante_A_suffisso_nazionale,varianti 19/10/2026
+moma,Moma,momabikes.pt,variante_A_suffisso_nazionale,varianti 19/10/2026
+nars,NARS,narscosmetics.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+nars,NARS,narscosmetics.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+nars,NARS,narscosmetics.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+naturalizer,Naturalizer,naturalizer.ca,variante_A_suffisso_nazionale,varianti 19/10/2026
+neos,Neos,neosair.it,variante_A_suffisso_nazionale,varianti 19/10/2026
+nerogiardini,NeroGiardini,nerogiardini.fr,variante_A_suffisso_nazionale,varianti 19/10/2026
+neutrogena,Neutrogena,neutrogena.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+new balance,New Balance,newbalance.be,variante_A_suffisso_nazionale,varianti 19/10/2026
+new balance,New Balance,newbalance.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+nordictrack,NordicTrack,nordictrack.ch,variante_A_suffisso_nazionale,varianti 19/10/2026
+patagonia,Patagonia,patagonia.ca,variante_A_suffisso_nazionale,varianti 19/10/2026
+paulas choice,Paula’s Choice,paulaschoice.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+paulas choice,Paula’s Choice,paulaschoice.com.au,variante_A_suffisso_nazionale,varianti 19/10/2026
+paulas choice,Paula’s Choice,paulaschoice.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+paulas choice,Paula’s Choice,paulaschoice.fr,variante_A_suffisso_nazionale,varianti 19/10/2026
+paulas choice,Paula’s Choice,paulaschoice.ph,variante_A_suffisso_nazionale,varianti 19/10/2026
+paulas choice,Paula’s Choice,paulaschoice.sg,variante_A_suffisso_nazionale,varianti 19/10/2026
+rilastil,Rilastil,rilastil.it,variante_A_suffisso_nazionale,varianti 19/10/2026
+royal caribbean,Royal Caribbean,royalcaribbean.ae,variante_A_suffisso_nazionale,varianti 19/10/2026
+salsa jeans,Salsa Jeans,salsajeans.ae,variante_A_suffisso_nazionale,varianti 19/10/2026
+santevet,Santévet,santevet.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+santevet,Santévet,santevet.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+saucony,Saucony,saucony.com.au,variante_A_suffisso_nazionale,varianti 19/10/2026
+saucony,Saucony,saucony.no,variante_A_suffisso_nazionale,varianti 19/10/2026
+sivola,SiVola,sivola.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+sixt,Sixt,sixt.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+skinceuticals,SkinCeuticals,skinceuticals.ca,variante_A_suffisso_nazionale,varianti 19/10/2026
+skinceuticals,SkinCeuticals,skinceuticals.co.uk,variante_A_suffisso_nazionale,varianti 19/10/2026
+skinceuticals,SkinCeuticals,skinceuticals.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+sportstech,Sportstech,sportstech.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+the north face,The North Face,thenorthface.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+the north face,The North Face,thenorthface.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+the ordinary,The Ordinary,theordinary.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+tramundi,Tramundi,tramundi.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+unipol,Unipol,unipol.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+viaggi sicilia,Viaggi Sicilia,viaggisicilia.it,variante_A_suffisso_nazionale,varianti 19/10/2026
+centro vacanze de angelis,Centro Vacanze De Angelis,villaggiocentrovacanzedeangelis.it,variante_A_suffisso_nazionale,varianti 19/10/2026
+villaggio la siesta,Villaggio La Siesta,villaggiolasiesta.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+weroad,WeRoad,weroad.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+weroad,WeRoad,weroad.de,variante_A_suffisso_nazionale,varianti 19/10/2026
+weroad,WeRoad,weroad.es,variante_A_suffisso_nazionale,varianti 19/10/2026
+weroad,WeRoad,weroad.fr,variante_A_suffisso_nazionale,varianti 19/10/2026
+yuba,Yuba,yubabikes.eu,variante_A_suffisso_nazionale,varianti 19/10/2026
+zurich,Zurich,zurich.at,variante_A_suffisso_nazionale,varianti 19/10/2026
+zurich,Zurich,zurich.ch,variante_A_suffisso_nazionale,varianti 19/10/2026
+zurich,Zurich,zurich.com,variante_A_suffisso_nazionale,varianti 19/10/2026
+mizuno,Mizuno,mizuno-italia.it,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+helvetia,Helvetia,helvetia.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+armani,Armani,armanibeauty.it,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+armani,Armani,armani-beauty.it,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+armani,Armani,armanibeauty.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+clinique,Clinique,cliniqueitaly.it,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+engwe,Engwe,engwe-bikes-eu.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+tom ford,Tom Ford,tomfordbeauty.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+prada,Prada,prada-beauty.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+avene,Avène,aveneitaly.it,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+avene,Avène,aveneusa.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+freddy,Freddy,freddystore.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+paulas choice,Paula’s Choice,paulaschoice-eu.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+ralph lauren,Ralph Lauren,ralphlaurenfragrances.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+givenchy,Givenchy,givenchybeauty.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+valentino,Valentino,valentino-beauty.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+valentino,Valentino,valentino-beauty.it,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+la sportiva,La Sportiva,lasportivausa.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+cerave,CeraVe,ceravemy.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+ergo assicurazione viaggi,ERGO Assicurazione Viaggi,ergoassicurazioneviaggi.it,variante_B_sito_ufficiale_manuale,varianti 19/10/2026
+columbia,Columbia,columbia.com,variante_B_sito_ufficiale_manuale,varianti 19/10/2026

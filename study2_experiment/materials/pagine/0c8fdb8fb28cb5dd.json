@@ -1,0 +1,14 @@
+{
+ "url": "https://bikeplatinum.it/",
+ "url_finale": "https://bikeplatinum.it/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione Bici ed eBike: Polizza su misura | Bikeplatinum",
+ "parole": 725,
+ "ok": true,
+ "ld": [
+  "Scopri Bikeplatinum, l&#8217;assicurazione per e-bike contro il furto, anche su strada. Copertura valida un anno, attivabile online in 1 minuto."
+ ],
+ "catturato": "2026-10-25T15:55:13.671592+00:00",
+ "sha256_html": "2589c0a6febb49f043a02cc62bf143ec92072d6de443fe4711c688bf71d720f1"
+}

@@ -1,0 +1,73 @@
+{
+ "pid": "sport_01",
+ "bersaglio": "cmp",
+ "brand": "CMP",
+ "url": "https://www.cmpsport.com/it/scarpa-trekking-da-uomo-rigel-low-wp-3q13247",
+ "testo_sha256": "b317a46da222ea69f4f4d41e5035e4abfdf2c08c302648e45ce96b1e66cfd4b7",
+ "modello": "Regular Price\n89,95 €\n0%\n89,95 €\nAttività\nTREKKING\nComposizione & cura del prodotto\nComposizione\nTOMAIA 100% VERA PELLE\nINTERNO 100% POLIESTERE\nSUOLA 80% EVA (ETILENEVINILACETATO) 20% GOMMA\nScarpa trekking da uomo {PRODOTTO}\nSKU\n{CODICE_1}\nPensate per chi ama le attività all'aria aperta, le calzature della linea {PRODOTTO_2} sono il compagno ideale per le passeggiate nei sentieri di montagna. Il modello {PRODOTTO_3}, disponibile in versione mid e low, coniuga perfettamente tecnicità e stile. I dettagli in contrasto di colore, che contraddistinguono la calzatura, la rendono estremamente accattivante ed è perfettamente abbinabile all'abbigliamento outdoor {BRAND}. Waterproof grazie alla membrana interna che impedisce all'acqua di entrare in contatto con il piede, suola in EVA midsole + rubber per assicurare il massimo grip ad ogni passo e tomaia in pelle scamosciata.\nSpecifiche tecniche\nPeso (1/2 paio)\n420 gr\nTomaia\nPelle Scamosciata (1.4mm)\nPoliestere\nFodera\n{TECH_1}\nPoliestere\nSottopiede\nOrtholite® Foam 0.11\nPoliestere\nIntersuola\nEVA\nTPU\nSuola\nGomma {BRAND} {TECH_2}\nCaratteristiche\nFascione protettivo realizzato in tessuto anti abrasione\nInserto posteriore in TPU in intersuola per massima stabilità\nMembrana impermeabile {TECH_3}\nSistema di supporto alla caviglia\nSoletta Ortholite con rinforzo in EVA\nTecnologia\n{TECH_1}\nOrtholite\nWater Repellent\nVera Pelle\n{BRAND} {TECH_2}",
+ "mappa_reale": {
+  "PRODOTTO": "Rigel low WP",
+  "CODICE_1": "3Q13247_08MF",
+  "PRODOTTO_2": "Performance",
+  "PRODOTTO_3": "RIGEL",
+  "BRAND": "CMP",
+  "TECH_1": "Clima Protect®",
+  "TECH_2": "FullOn GRIP",
+  "TECH_3": "CLIMAPROTECT"
+ },
+ "mappa_inventata": {
+  "PRODOTTO": "Varmonte",
+  "CODICE_1": "58204917",
+  "PRODOTTO_2": "Corvara",
+  "PRODOTTO_3": "VARMONTE",
+  "TECH_1": "Idroscudo",
+  "TECH_2": "Tenacia",
+  "TECH_3": "IDROSCUDO"
+ },
+ "piu_noto": "adidas",
+ "meno_noto": "meindl",
+ "inventato": "Dravio",
+ "riscritture": {
+  "STRUTTURA": "Prezzo:\nRegular Price 89,95 €\nSconto 0%\nPrezzo 89,95 €\n\nUso:\n- Attività: TREKKING\n- Scarpa trekking da uomo {PRODOTTO}\n- SKU: {CODICE_1}\n\nPer chi è pensata:\nLe calzature della linea {PRODOTTO_2} sono pensate per chi ama le attività all'aria aperta e sono il compagno ideale per le passeggiate nei sentieri di montagna. Il modello {PRODOTTO_3}, disponibile in versione mid e low, coniuga tecnicità e stile. I dettagli in contrasto di colore la rendono estremamente accattivante e abbinabile all'abbigliamento outdoor {BRAND}.\n\nProtezione e comfort:\n- Waterproof grazie alla membrana interna che impedisce all'acqua di entrare in contatto con il piede\n- Tomaia in pelle scamosciata\n- Suola in EVA midsole + rubber per assicurare il massimo grip ad ogni passo\n\nComposizione & cura del prodotto:\n- TOMAIA 100% VERA PELLE\n- INTERNO 100% POLIESTERE\n- SUOLA 80% EVA (ETILENEVINILACETATO) 20% GOMMA\n\nSpecifiche tecniche:\n- Peso (1/2 paio): 420 gr\n- Tomaia: Pelle Scamosciata (1.4mm), Poliestere\n- Fodera: {TECH_1}, Poliestere\n- Sottopiede: Ortholite® Foam 0.11, Poliestere\n- Intersuola: EVA, TPU\n- Suola: Gomma {BRAND} {TECH_2}\n\nCaratteristiche:\n- Fascione protettivo in tessuto anti abrasione\n- Inserto posteriore in TPU in intersuola per massima stabilità\n- Membrana impermeabile {TECH_3}\n- Sistema di supporto alla caviglia\n- Soletta Ortholite con rinforzo in EVA\n\nTecnologia:\n{TECH_1}\nOrtholite\nWater Repellent\nVera Pelle\n{BRAND} {TECH_2}",
+  "FLUENCY": "Regular Price: 89,95 €\n0%: 89,95 €\n\nAttività: TREKKING\n\nComposizione & cura del prodotto: tomaia 100% VERA PELLE, interno 100% POLIESTERE, suola 80% EVA (ETILENEVINILACETATO) 20% GOMMA.\n\nScarpa trekking da uomo {PRODOTTO}, SKU {CODICE_1}. Pensate per chi ama le attività all’aria aperta, le calzature della linea {PRODOTTO_2} accompagnano al meglio le passeggiate sui sentieri di montagna. Il modello {PRODOTTO_3}, disponibile in versione mid e low, unisce tecnicità e stile: i dettagli in contrasto di colore lo caratterizzano, lo rendono estremamente accattivante e lo rendono perfettamente abbinabile all’abbigliamento outdoor {BRAND}. La membrana interna waterproof impedisce all’acqua di entrare in contatto con il piede; la suola in EVA midsole + rubber assicura il massimo grip a ogni passo, mentre la tomaia è in pelle scamosciata.\n\nSpecifiche tecniche: peso (1/2 paio) 420 gr; tomaia in Pelle Scamosciata (1.4mm) e Poliestere; fodera {TECH_1} e Poliestere; sottopiede Ortholite® Foam 0.11 e Poliestere; intersuola EVA e TPU; suola in Gomma {BRAND} {TECH_2}.\n\nCaratteristiche: fascione protettivo in tessuto anti abrasione, inserto posteriore in TPU in intersuola per massima stabilità, membrana impermeabile {TECH_3}, sistema di supporto alla caviglia, soletta Ortholite con rinforzo in EVA.\n\nTecnologia: {TECH_1}, Ortholite, Water Repellent, Vera Pelle, {BRAND} {TECH_2}.",
+  "AUTHORITATIVE": "Regular Price\n89,95 €\n0%\n89,95 €\nAttività\nTREKKING\nComposizione & cura del prodotto\nComposizione\nTOMAIA 100% VERA PELLE\nINTERNO 100% POLIESTERE\nSUOLA 80% EVA (ETILENEVINILACETATO) 20% GOMMA\nScarpa trekking da uomo {PRODOTTO}\nSKU\n{CODICE_1}\nProgettate per chi vive le attività all’aria aperta, le calzature della linea {PRODOTTO_2} sono il riferimento ideale per le passeggiate sui sentieri di montagna. Il modello {PRODOTTO_3}, disponibile nelle versioni mid e low, unisce con precisione tecnicità e stile. I dettagli con colore a contrasto, elemento distintivo della calzatura, le conferiscono un carattere deciso e la rendono perfettamente abbinabile all’abbigliamento outdoor {BRAND}. Impermeabile grazie alla membrana interna, che impedisce all’acqua di entrare in contatto con il piede, integra suola in EVA midsole + rubber per assicurare il massimo grip ad ogni passo e tomaia in pelle scamosciata.\nSpecifiche tecniche\nPeso (1/2 paio)\n420 gr\nTomaia\nPelle Scamosciata (1.4mm)\nPoliestere\nFodera\n{TECH_1}\nPoliestere\nSottopiede\nOrtholite® Foam 0.11\nPoliestere\nIntersuola\nEVA\nTPU\nSuola\nGomma {BRAND} {TECH_2}\nCaratteristiche\nFascione protettivo realizzato in tessuto anti abrasione\nInserto posteriore in TPU in intersuola per massima stabilità\nMembrana impermeabile {TECH_3}\nSistema di supporto alla caviglia\nSoletta Ortholite con rinforzo in EVA\nTecnologia\n{TECH_1}\nOrtholite\nWater Repellent\nVera Pelle\n{BRAND} {TECH_2}"
+ },
+ "log_riscritture": {
+  "STRUTTURA": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 218,
+    "testo": "Prezzo:\nRegular Price 89,95 €\nSconto 0%\nPrezzo 89,95 €\n\nUso:\n- Attività: TREKKING\n- Scarpa trekking da uomo {PRODOTTO}\n- SKU: {CODICE_1}\n\nPer chi è pensata:\nLe calzature della linea {PRODOTTO_2} sono pensate per chi ama le attività all'aria aperta e sono il compagno ideale per le passeggiate nei sentieri di montagna. Il modello {PRODOTTO_3}, disponibile in versione mid e low, coniuga tecnicità e stile. I dettagli in contrasto di colore la rendono estremamente accattivante e abbinabile all'abbigliamento outdoor {BRAND}.\n\nProtezione e comfort:\n- Waterproof grazie alla membrana interna che impedisce all'acqua di entrare in contatto con il piede\n- Tomaia in pelle scamosciata\n- Suola in EVA midsole + rubber per assicurare il massimo grip ad ogni passo\n\nComposizione & cura del prodotto:\n- TOMAIA 100% VERA PELLE\n- INTERNO 100% POLIESTERE\n- SUOLA 80% EVA (ETILENEVINILACETATO) 20% GOMMA\n\nSpecifiche tecniche:\n- Peso (1/2 paio): 420 gr\n- Tomaia: Pelle Scamosciata (1.4mm), Poliestere\n- Fodera: {TECH_1}, Poliestere\n- Sottopiede: Ortholite® Foam 0.11, Poliestere\n- Intersuola: EVA, TPU\n- Suola: Gomma {BRAND} {TECH_2}\n\nCaratteristiche:\n- Fascione protettivo in tessuto anti abrasione\n- Inserto posteriore in TPU in intersuola per massima stabilità\n- Membrana impermeabile {TECH_3}\n- Sistema di supporto alla caviglia\n- Soletta Ortholite con rinforzo in EVA\n\nTecnologia:\n{TECH_1}\nOrtholite\nWater Repellent\nVera Pelle\n{BRAND} {TECH_2}"
+   }
+  ],
+  "FLUENCY": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 195,
+    "testo": "Regular Price: 89,95 €\n0%: 89,95 €\n\nAttività: TREKKING\n\nComposizione & cura del prodotto: tomaia 100% VERA PELLE, interno 100% POLIESTERE, suola 80% EVA (ETILENEVINILACETATO) 20% GOMMA.\n\nScarpa trekking da uomo {PRODOTTO}, SKU {CODICE_1}. Pensate per chi ama le attività all’aria aperta, le calzature della linea {PRODOTTO_2} accompagnano al meglio le passeggiate sui sentieri di montagna. Il modello {PRODOTTO_3}, disponibile in versione mid e low, unisce tecnicità e stile: i dettagli in contrasto di colore lo caratterizzano, lo rendono estremamente accattivante e lo rendono perfettamente abbinabile all’abbigliamento outdoor {BRAND}. La membrana interna waterproof impedisce all’acqua di entrare in contatto con il piede; la suola in EVA midsole + rubber assicura il massimo grip a ogni passo, mentre la tomaia è in pelle scamosciata.\n\nSpecifiche tecniche: peso (1/2 paio) 420 gr; tomaia in Pelle Scamosciata (1.4mm) e Poliestere; fodera {TECH_1} e Poliestere; sottopiede Ortholite® Foam 0.11 e Poliestere; intersuola EVA e TPU; suola in Gomma {BRAND} {TECH_2}.\n\nCaratteristiche: fascione protettivo in tessuto anti abrasione, inserto posteriore in TPU in intersuola per massima stabilità, membrana impermeabile {TECH_3}, sistema di supporto alla caviglia, soletta Ortholite con rinforzo in EVA.\n\nTecnologia: {TECH_1}, Ortholite, Water Repellent, Vera Pelle, {BRAND} {TECH_2}."
+   }
+  ],
+  "AUTHORITATIVE": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 199,
+    "testo": "Regular Price\n89,95 €\n0%\n89,95 €\nAttività\nTREKKING\nComposizione & cura del prodotto\nComposizione\nTOMAIA 100% VERA PELLE\nINTERNO 100% POLIESTERE\nSUOLA 80% EVA (ETILENEVINILACETATO) 20% GOMMA\nScarpa trekking da uomo {PRODOTTO}\nSKU\n{CODICE_1}\nProgettate per chi vive le attività all’aria aperta, le calzature della linea {PRODOTTO_2} sono il riferimento ideale per le passeggiate sui sentieri di montagna. Il modello {PRODOTTO_3}, disponibile nelle versioni mid e low, unisce con precisione tecnicità e stile. I dettagli con colore a contrasto, elemento distintivo della calzatura, le conferiscono un carattere deciso e la rendono perfettamente abbinabile all’abbigliamento outdoor {BRAND}. Impermeabile grazie alla membrana interna, che impedisce all’acqua di entrare in contatto con il piede, integra suola in EVA midsole + rubber per assicurare il massimo grip ad ogni passo e tomaia in pelle scamosciata.\nSpecifiche tecniche\nPeso (1/2 paio)\n420 gr\nTomaia\nPelle Scamosciata (1.4mm)\nPoliestere\nFodera\n{TECH_1}\nPoliestere\nSottopiede\nOrtholite® Foam 0.11\nPoliestere\nIntersuola\nEVA\nTPU\nSuola\nGomma {BRAND} {TECH_2}\nCaratteristiche\nFascione protettivo realizzato in tessuto anti abrasione\nInserto posteriore in TPU in intersuola per massima stabilità\nMembrana impermeabile {TECH_3}\nSistema di supporto alla caviglia\nSoletta Ortholite con rinforzo in EVA\nTecnologia\n{TECH_1}\nOrtholite\nWater Repellent\nVera Pelle\n{BRAND} {TECH_2}"
+   }
+  ]
+ },
+ "firme_prima_raccolta": {
+  "piu_noto": "salomon",
+  "meno_noto": "grisport",
+  "inventato": "Dravio"
+ },
+ "origine": "stimolo della prima raccolta (data/part2_v3/stimoli), con le correzioni del 24/10; firme aggiornate il 25/10",
+ "log_correzioni_offline": [
+  {
+   "data": "2026-10-28",
+   "nota": "neutralizzazione v2 (lavoro/2026-10-28_neutralizzazione_v2/nuovi_nomi.py)"
+  }
+ ]
+}

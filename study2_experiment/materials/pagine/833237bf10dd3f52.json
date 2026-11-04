@@ -1,0 +1,14 @@
+{
+ "url": "https://www.santevet.it/assicurazione-cane",
+ "url_finale": "https://www.santevet.it/assicurazione-cane",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione cane, preventivo polizza per cane - Santévet",
+ "parole": 1910,
+ "ok": true,
+ "ld": [
+  "Sottoscrivi un&#039;assicurazione sanitaria per cani. Fino all&#039;85% delle spese veterinarie prese in carico e rimborsate !"
+ ],
+ "catturato": "2026-10-23T15:59:40.541220+00:00",
+ "sha256_html": "bad5c69ecb7e0b701b811f5c7859effaa1cb0e38ab3e83470ed7316c2cb23aad"
+}

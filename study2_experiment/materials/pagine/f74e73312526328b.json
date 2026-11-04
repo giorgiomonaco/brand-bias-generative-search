@@ -1,0 +1,15 @@
+{
+ "url": "https://www.viaggiavventurenelmondo.it/viaggi/2230",
+ "url_finale": "https://www.viaggiavventurenelmondo.it/viaggi/2230",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Zanzibar Express - Avventure nel Mondo",
+ "parole": 3686,
+ "ok": true,
+ "ld": [
+  "Avventure nel Mondo, un modo alternativo di concepire il viaggio. Viaggi in gruppo, esplorazioni, trekking, raid in moto e 4x4 in tutti i paesi del mondo.",
+  "Viaggi di gruppo a Zanzibar, l’isola delle spezie, tra spiagge bianche e il mare cristallino dell’Oceano Indiano. Esploriamo mercati vivaci, antiche città coloniali e viviamo la cultura locale, osservando i pescatori che salpano con l’alta marea e scoprendo tradizioni, sorrisi e scorci di vita quotidiana."
+ ],
+ "catturato": "2026-10-23T15:59:47.439261+00:00",
+ "sha256_html": "3c60e9e13eb510e080bd9a55524194ce3e2fefb124495b4000c8e9551af32798"
+}

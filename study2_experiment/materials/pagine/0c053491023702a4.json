@@ -1,0 +1,14 @@
+{
+ "url": "https://www.verti.it/assicurazione-auto/garanzie/rc-auto/",
+ "url_finale": "https://www.verti.it/assicurazione-auto/garanzie/rc-auto/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "RC Auto Online: Assicurazione Responsabilità Civile | Verti",
+ "parole": 585,
+ "ok": true,
+ "ld": [
+  "L'RC Auto é l'assicurazione obbligatoria per legge che ti copre da danni involontari provocati a terzi, nei limiti del massimale scelto Calcola online il tuo preventivo!"
+ ],
+ "catturato": "2026-10-25T15:58:27.438502+00:00",
+ "sha256_html": "2100e2d4d882ba3adb86a278d535179432f2940e4048586e1292b74a2b6ca3c1"
+}

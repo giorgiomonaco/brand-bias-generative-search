@@ -1,0 +1,13 @@
+{
+ "url": "https://www.wopta.it/it/vita/",
+ "url_finale": "https://www.wopta.it/it/vita/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Polizza vita online | Wopta",
+ "parole": 1700,
+ "ok": true,
+ "ld": [],
+ "catturato": "2026-10-23T15:59:37.480552+00:00",
+ "sha256_html": "054949e3362d54bc6080212230d6ae3bb18d851dbf2b70c04c8f7cf37787d22c",
+ "testo_v3": "senza rimozione dei form"
+}

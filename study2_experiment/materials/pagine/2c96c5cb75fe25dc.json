@@ -1,0 +1,14 @@
+{
+ "url": "https://www.garnier.it/skinactive/hydra-bomb/maschera-in-tessuto-retinolo",
+ "url_finale": "https://www.garnier.it/skinactive/hydra-bomb/maschera-in-tessuto-retinolo",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Maschera in Tessuto Pro-Retinol Levigante | Garnier",
+ "parole": 321,
+ "ok": true,
+ "ld": [
+  "Scopri ora la nuova Maschera in Tessuto Pro-Retinol Levigante: per donare alla tua pelle un effetto levigato in soli 15 minuti! Visita il sito!"
+ ],
+ "catturato": "2026-10-23T16:34:43.833416+00:00",
+ "sha256_html": "361935c06598a8c5428675b486ecb86281d0c9bf7bf259e1cc5ab2c71d6efcf4"
+}

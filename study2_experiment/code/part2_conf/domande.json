@@ -1,0 +1,374 @@
+{
+ "sport_01": {
+  "settore": "sport",
+  "pagine": [
+   [
+    "CMP",
+    "Melnick Mid WP",
+    "https://www.cmpsport.com/it/scarpa-trekking-da-uomo-melnick-mid-wp-3q18587-q906"
+   ],
+   [
+    "AKU",
+    "Rocket DFS GTX",
+    "https://www.aku.com/products/rocket-dfs-gtx-nero-arancio"
+   ],
+   [
+    "Zamberlan",
+    "Salathé Trek GTX RR",
+    "https://www.zamberlan.com/it/products/226-salathe-trek-gtx-rr-jeans"
+   ],
+   [
+    "Asolo",
+    "Nuptse GV",
+    "https://www.asolo.com/it/mountain-trekking/1193-nuptse-gv.html"
+   ],
+   [
+    "LOWA",
+    "Renegade GTX Mid",
+    "https://lowa.com/it/renegade-gtx-mid"
+   ]
+  ],
+  "domanda": "Quali sono le migliori scarpe da trekking da scegliere?"
+ },
+ "sport_07": {
+  "settore": "sport",
+  "pagine": [
+   [
+    "Technogym",
+    "MyRun",
+    "https://www.technogym.com/it-IT/product/technogym-myrun_DCKA.html"
+   ],
+   [
+    "Sportstech",
+    "F37s",
+    "https://www.sportstech.de/it-it/products/f37s-tapis-roulant"
+   ],
+   [
+    "BH Fitness",
+    "NYDO G6540",
+    "https://bhfitness.com/it/domestico/attrezzi-cardio-fitness/nydo-g6540/"
+   ],
+   [
+    "Toorx",
+    "TRX-100-3.0",
+    "https://www.toorx.it/prodotti/tapis-roulant/trx-100-3-0/"
+   ],
+   [
+    "Diadora Fitness",
+    "Edge 7.7",
+    "https://www.diadorafitness.it/prodotto/tapis-roulant-diadora-edge-7-7/"
+   ]
+  ],
+  "domanda": "Quali sono i migliori tapis roulant per casa da scegliere?"
+ },
+ "sport_13": {
+  "settore": "sport",
+  "pagine": [
+   [
+    "Babolat",
+    "Air Viper 2.6",
+    "https://www.babolat.com/it/air-viper-2.6/150176.html"
+   ],
+   [
+    "HEAD",
+    "Extreme Motion 2025",
+    "https://www.head.com/it_IT/product/extreme-motion-2025-223135"
+   ],
+   [
+    "NOX",
+    "AT10 Genius 12K Alum XTREM 2026",
+    "https://noxsport.com/it/products/pala-at10-genius-12k-alum-xtrem-2026-by-agustin-tapia"
+   ],
+   [
+    "Bullpadel",
+    "Vertex 05 27",
+    "https://www.bullpadel.com/it/6831-pala-bullpadel-vertex-05-27.html"
+   ],
+   [
+    "Siux",
+    "Beat Control 2026",
+    "https://www.siuxpadel.com/it/products/siux-beat-control-2026"
+   ]
+  ],
+  "domanda": "Qual è la racchetta da padel migliore da scegliere?"
+ },
+ "moda_beauty_05": {
+  "settore": "moda_beauty",
+  "pagine": [
+   [
+    "The Ordinary",
+    "Alpha Arbutin 2% + HA",
+    "https://theordinary.com/it-it/alpha-arbutin-2-ha-serum-769915233674.html"
+   ],
+   [
+    "Garnier",
+    "Siero Anti-macchie Vitamina C",
+    "https://www.garnier.it/vitamina-c/siero-anti-macchie-vitamina-c"
+   ],
+   [
+    "Eucerin",
+    "Anti-Pigment Dual Serum",
+    "https://www.eucerin.it/prodotti/anti-pigment/dual-serum"
+   ],
+   [
+    "NIVEA",
+    "Luminous630 Siero Trattamento Avanzato",
+    "https://www.nivea.it/prodotti/luminous630%c2%ae-anti-macchie-siero-trattamento-avanzato-40059007845200051.html"
+   ],
+   [
+    "Caudalie",
+    "Vinoperfect Siero Antimacchie",
+    "https://it.caudalie.com/p/432C/vinoperfect-siero-antimacchie-alternativo-432c.html"
+   ]
+  ],
+  "domanda": "Qual è il miglior siero antimacchie da scegliere?"
+ },
+ "moda_beauty_19": {
+  "settore": "moda_beauty",
+  "pagine": [
+   [
+    "Maybelline",
+    "Superstay Lumi Matte 30H",
+    "https://www.maybelline.it/tutti-i-prodotti/make-up-viso/fondotinta-bbcream-contouring/superstay-lumi-matte-fondotinta-30h"
+   ],
+   [
+    "L'Oréal Paris",
+    "Accord Parfait",
+    "https://www.loreal-paris.it/accord-parfait/fondotinta-fluido/1n-ivoire"
+   ],
+   [
+    "NARS",
+    "Natural Radiant Longwear",
+    "https://www.narscosmetics.it/it/fondotinta-natural-radiant-longwear/999NAC0000065.html"
+   ],
+   [
+    "Rimmel",
+    "Lasting Finish 35H",
+    "https://www.rimmellondon.com/it-it/viso/fondotinta/fondotinta-lasting-finish-35h-con-acido-ialuronico"
+   ],
+   [
+    "Catrice",
+    "HD Liquid Coverage",
+    "https://www.catrice.eu/it-it/p/759828/hd-liquid-coverage-foundation"
+   ]
+  ],
+  "domanda": "Quali sono i migliori fondotinta da scegliere?"
+ },
+ "assicurazioni_02": {
+  "settore": "assicurazioni",
+  "pagine": [
+   [
+    "Heymondo",
+    "Assicurazione annullamento viaggio",
+    "https://heymondo.it/assicurazione-annullamento-viaggio/"
+   ],
+   [
+    "Allianz Partners",
+    "Travel Cancel",
+    "https://www.allianz-assicurazioneviaggio.it/assicurazione-viaggi/travel-cancel.html"
+   ],
+   [
+    "Columbus",
+    "Annullamento Viaggio",
+    "https://www.columbusassicurazioni.it/annullamento-viaggio/"
+   ],
+   [
+    "Redion",
+    "Cancellation Top",
+    "https://www.redion.it/prodotti-per-te/viaggi/cancellation-top"
+   ],
+   [
+    "InterMundial",
+    "Totaltravel",
+    "https://www.intermundial.it/assicurazioni-di-viaggio/assicurazione-totaltravel"
+   ]
+  ],
+  "domanda": "Quale assicurazione annullamento viaggio mi conviene scegliere in base a cosa copre?"
+ },
+ "assicurazioni_05": {
+  "settore": "assicurazioni",
+  "pagine": [
+   [
+    "Genertel",
+    "Assicurazione Famiglia",
+    "https://www.genertel.it/assicurazione-famiglia"
+   ],
+   [
+    "Allianz Direct",
+    "RC Famiglia",
+    "https://www.allianzdirect.it/family-care/assicurazione-casa/rc-famiglia/"
+   ],
+   [
+    "Groupama",
+    "RC Famiglia",
+    "https://www.groupama.it/assicurazione-famiglia/"
+   ],
+   [
+    "Redion",
+    "Famiglia 3D",
+    "https://www.redion.it/prodotti-per-te/casa/famiglia-3d"
+   ],
+   [
+    "Generali",
+    "Immagina Adesso Armonia",
+    "https://www.generali.it/assicurazione-casa-e-tempo-libero/immagina-adesso-armonia-responsabilita-civile-tutela-legale/"
+   ]
+  ],
+  "domanda": "Quale polizza famiglia mi consigliate?"
+ },
+ "assicurazioni_10": {
+  "settore": "assicurazioni",
+  "pagine": [
+   [
+    "Generali",
+    "GenMar",
+    "https://www.generali.it/assicurazione-barca/genmar-assicurazione-barca/"
+   ],
+   [
+    "Allianz",
+    "Nautica",
+    "https://www.allianz.it/le-soluzioni-per-te/mobilita/nautica.html"
+   ],
+   [
+    "Zurich",
+    "Zurigò Permare",
+    "https://www.zurich.it/persone/mobilita/zurigo-permare-natanti"
+   ],
+   [
+    "Groupama",
+    "Barca e Natanti",
+    "https://www.groupama.it/assicurazione-barca-e-natante/"
+   ],
+   [
+    "Unipol",
+    "Navigare",
+    "https://www.unipol.it/veicoli-mobilita/polizza-nautica-corpi-natanti"
+   ]
+  ],
+  "domanda": "Qual è la migliore assicurazione natante da scegliere?"
+ },
+ "assicurazioni_13": {
+  "settore": "assicurazioni",
+  "pagine": [
+   [
+    "Allianz Direct",
+    "Assicurazione Auto",
+    "https://www.allianzdirect.it/assicurazione-auto/"
+   ],
+   [
+    "Quixa",
+    "Assicurazione Auto",
+    "https://www.quixa.it/prodotti/auto/"
+   ],
+   [
+    "Verti",
+    "Assicurazione Auto",
+    "https://www.verti.it/assicurazione-auto/"
+   ],
+   [
+    "Linear",
+    "Assicurazione Auto",
+    "https://www.linear.it/assicurazione-auto"
+   ],
+   [
+    "Genertel",
+    "Assicurazione Auto",
+    "https://www.genertel.it/assicurazioni-auto"
+   ]
+  ],
+  "domanda": "Qual è l'assicurazione auto migliore da scegliere?"
+ },
+ "assicurazioni_19": {
+  "settore": "assicurazioni",
+  "pagine": [
+   [
+    "Santévet",
+    "Assicurazione cane",
+    "https://www.santevet.it/assicurazione-cane"
+   ],
+   [
+    "AXA",
+    "Confido",
+    "https://www.axa.it/assicurazione-cane-gatto"
+   ],
+   [
+    "Generali",
+    "Immagina Adesso Cucciolo",
+    "https://www.generali.it/assicurazione-animali/immagina-adesso-cucciolo/"
+   ],
+   [
+    "Redion",
+    "Miglior Amico",
+    "https://www.redion.it/prodotti-per-te/casa/miglior-amico"
+   ],
+   [
+    "Quixa",
+    "Smart Dog&Cat",
+    "https://www.quixa.it/prodotti/assicurazione-cane-e-gatto/"
+   ]
+  ],
+  "domanda": "Quale assicurazione spese veterinarie dovrei scegliere?"
+ },
+ "viaggi_10": {
+  "settore": "viaggi",
+  "pagine": [
+   [
+    "WeRoad",
+    "Giappone 360",
+    "https://www.weroad.it/viaggi/giappone"
+   ],
+   [
+    "Avventure nel Mondo",
+    "Giappone",
+    "https://www.viaggiavventurenelmondo.it/viaggi/4100"
+   ],
+   [
+    "SiVola",
+    "Giappone tra geishe e samurai",
+    "https://www.sivola.it/viaggi/giappone-geishe-templi-e-samurai"
+   ],
+   [
+    "Boscolo",
+    "Giappone Classico",
+    "https://www.boscolo.com/it/viaggi/giappone-classico/V_GM.html"
+   ],
+   [
+    "Originaltour",
+    "Metropoli e villaggi giapponesi",
+    "https://www.originaltour.it/metropoli-villaggi-giapponesi.html"
+   ]
+  ],
+  "domanda": "Quali sono i migliori tour operator per viaggi di gruppo organizzati?"
+ },
+ "viaggi_15": {
+  "settore": "viaggi",
+  "pagine": [
+   [
+    "Veratour",
+    "Veraclub Zanzibar Village",
+    "https://www.veratour.it/villaggi/oceano-indiano/veraclub-zanzibar-village.cfm"
+   ],
+   [
+    "Eden Viaggi",
+    "Sultan Sands Island Resort",
+    "https://www.edenviaggi.it/hotels/tanzania/zanzibar/kiwengwa/sultan-sands-island-resort-spa"
+   ],
+   [
+    "Alpitour",
+    "Bravo Kiwengwa",
+    "https://www.alpitour.it/vacanze/tanzania/zanzibar/bravo-kiwengwa"
+   ],
+   [
+    "VOI Hotels",
+    "VOI Kiwengwa Resort",
+    "https://www.voihotels.com/resort/voi-kiwengwa"
+   ],
+   [
+    "Nicolaus",
+    "Valtur Zanzibar Kiwengwa Beach Resort",
+    "https://www.nicolaus.it/vacanze-mare/tanzania/zanzibar/valtur-zanzibar-kiwengwa-beach-resort"
+   ]
+  ],
+  "domanda": "Quali sono i migliori tour operator per un viaggio a Zanzibar?"
+ }
+}

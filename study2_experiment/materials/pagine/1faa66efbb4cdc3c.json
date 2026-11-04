@@ -1,0 +1,12 @@
+{
+ "url": "https://www.barkibu.com/it/",
+ "url_finale": "https://www.barkibu.com/it/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Barkibu - Assicurazione sanitaria per animali",
+ "parole": 569,
+ "ok": true,
+ "ld": [],
+ "catturato": "2026-10-23T15:59:39.915109+00:00",
+ "sha256_html": "ee7b95ff846117fc17a3aea2b38cd2db72be0f995c32ac354b2982f519407ef6"
+}

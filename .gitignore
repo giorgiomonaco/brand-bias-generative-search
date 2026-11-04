@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+fig/
+.DS_Store
+study2_experiment/data/rankings.csv
+appendix_tables/out/

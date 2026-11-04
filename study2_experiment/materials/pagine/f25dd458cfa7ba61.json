@@ -1,0 +1,13 @@
+{
+ "url": "https://www.avisautonoleggio.it/guida-con-avis/servizi/noleggio-auto-a-lungo-termine",
+ "url_finale": "https://www.avisautonoleggio.it/guida-con-avis/servizi/noleggio-auto-a-lungo-termine",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Noleggio auto a lungo termine | Fino a 3 mesi - Avis",
+ "parole": 957,
+ "ok": true,
+ "ld": [],
+ "catturato": "2026-10-23T16:20:21.500003+00:00",
+ "sha256_html": "430876b86b849806b2fce1a409046eef722df80e6ad55592587d24076ca7c8f8",
+ "testo_v3": "senza rimozione dei form"
+}

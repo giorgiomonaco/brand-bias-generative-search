@@ -1,0 +1,15 @@
+{
+ "url": "https://www.metlife.it/assicurazioni-personali/polizze-vita/liberamente-special/",
+ "url_finale": "https://www.metlife.it/assicurazioni-personali/polizze-vita/liberamente-special/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione vita Libera Mente Special | MetLife",
+ "parole": 2406,
+ "ok": true,
+ "ld": [
+  "Scegli Libera Mente Special, l’assicurazione vita caso morte per proteggere il benessere della famiglia in caso di imprevisti gravi. Fai un preventivo sul sito!"
+ ],
+ "catturato": "2026-10-23T15:59:37.321973+00:00",
+ "sha256_html": "1a24e942d7e12206f4e3d3b27c8f29808980b8a748080bbb96cee5ad7da63764",
+ "testo_v3": "senza rimozione dei form"
+}

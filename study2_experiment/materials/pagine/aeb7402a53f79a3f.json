@@ -1,0 +1,16 @@
+{
+ "url": "https://canegatto.conte.it/",
+ "url_finale": "https://canegatto.conte.it/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione per Animali Domestici: calcola il tuo preventivo | ConTe.it",
+ "parole": 2669,
+ "ok": true,
+ "ld": [
+  "ConTe.it Assicurazione Cane e Gatto: polizze per cani e gatti con rimborso delle spese veterinarie, responsabilità civile e assistenza.",
+  "Proteggi il tuo cane o gatto con l'assicurazione per animali domestici ConTe.it. Copertura spese veterinarie, RC e assistenza. Calcola il tuo preventivo!"
+ ],
+ "catturato": "2026-10-23T15:59:39.685258+00:00",
+ "sha256_html": "4ca683ff22f5d51257dfd40f0353f17bff6f083f0df345b23b6f51c233e64d78",
+ "testo_v3": "senza rimozione dei form"
+}

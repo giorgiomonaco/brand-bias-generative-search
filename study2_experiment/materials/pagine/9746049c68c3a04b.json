@@ -1,0 +1,15 @@
+{
+ "url": "https://www.nordictrack.com/product/commercial-1750-treadmill",
+ "url_finale": "https://www.nordictrack.com/product/commercial-1750-treadmill",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "NordicTrack Commercial 1750 | Treadmill for Runners - NordicTrack",
+ "parole": 770,
+ "ok": true,
+ "ld": [
+  "Perfect for beginner to intermediate runners looking to improve their endurance. Follow iFIT Trainers in on or off-treadmill workouts on a 16” pivoting touchscreen.",
+  "Built for beginner to intermediate runners. 16-inch pivoting screen, 12 MPH, folds for storage, Lifetime Motor Warranty. HSA/FSA eligible."
+ ],
+ "catturato": "2026-10-23T15:59:19.338998+00:00",
+ "sha256_html": "07dd2c186a79fa3bb4d4c7d4e7483af359431fb36cde0354b7ea398d435c81bf"
+}

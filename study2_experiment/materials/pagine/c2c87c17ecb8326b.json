@@ -1,0 +1,15 @@
+{
+ "url": "https://www.genertel.it/assicurazione-vita",
+ "url_finale": "https://www.genertel.it/assicurazione-vita",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione Vita: Proteggi chi ami con serenità | Genertel",
+ "parole": 774,
+ "ok": true,
+ "ld": [
+  "La polizza vita Genertel ti offre: check-up medico gratuito, detrazioni fiscali, consulenza medica gratis online. Proteggiamo te e la tua famiglia",
+  "La polizza Vita iLove protegge i tuoi cari e ti supporta con check-up medici gratuiti, piattaforma MyClinic, detrazioni fiscali e pagamento rateale. Flessibile e completa."
+ ],
+ "catturato": "2026-10-23T15:59:36.494075+00:00",
+ "sha256_html": "11561b4080727d66b803b528319d777a449a5ba6ece11540009856a38365da6d"
+}

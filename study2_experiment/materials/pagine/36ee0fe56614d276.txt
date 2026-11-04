@@ -1,0 +1,62 @@
+Unipol Navigare
+L'assicurazione nautica per viaggiare sempre a gonfie vele
+true
+Copre i danni alla tua barca
+Protegge dagli infortuni in barca
+Paga in 12 mesi, senza pensieri
+false
+accent
+/content/unipol/it/it/fragments/components/privati/contact-card-map
+true
+I vantaggi
+Danni navi e natanti
+Sei assicurato per i danni a terzi e alla tua imbarcazione.
+Veduta aerea di due motoscafi bianchi che navigano velocemente in mare aperto, lasciando scie di schiuma nell'acqua.
+Danni all'imbarcazione
+Copre i danni alla tua barca, ai bagagli e agli oggetti personali a bordo. Valida per unità da diporto.
+Operaio in tuta protettiva e maschera mentre leviga lo scafo blu di una barca con una levigatrice elettrica.
+Infortuni a bordo
+Ti tutela per le conseguenze dirette di infortuni avvenuti a bordo della tua barca. Valida per unità da diporto.
+Un uomo aiuta un ragazzo a indossare un giubbotto di salvataggio arancione su una barca in mare.
+Paghi un po' alla volta
+Puoi scegliere di pagare la tua assicurazione nautica in 12 mesi, per una gestione più semplice del budget.
+Paga in 12 mesi
+/content/unipol/it/it/polizza-frazionata
+Ragazza con occhi chiusi e braccio teso fuori dal finestrino di un'auto in corsa su una strada panoramica.
+true
+Le caratteristiche di Unipol Navigare
+Un’ampia protezione con garanzie pensate per te, i tuoi ospiti e la tua imbarcazione.
+Esplora tutte le garanzie
+default-mobility
+RC Natanti
+Sei protetto per i danni causati a terzi durante la navigazione e quando la barca è ferma in acqua.
+default-mobility
+Tutela legale
+La garanzia aggiuntiva che ti rimborsa le spese legali a seguito di un evento previsto nella garanzia RC natanti.
+default-mobility
+Contratti di utilizzo a titolo oneroso
+Puoi estendere la garanzia «Danni all’unità da diporto» anche quando l’imbarcazione è utilizzata a scopo di lucro e non per diporto privato.
+default-mobility
+Assistenza unità da diporto
+In caso di avaria oltre le 10 miglia dal porto, hai assistenza tecnica e l’invio dei ricambi per il motore. Se la riparazione supera 5 giorni, uno skipper accompagna al rientro te e i trasportati.
+Calcola online il premio RCN per la tua imbarcazione
+Calcola il premio
+secondary
+http://preventivo.unipolassicurazioni.it/essigRJPR/start.do?comp=1&sett=05
+true
+true
+Set informativi e documenti utili
+false
+un-icon-file-text
+Set Informativo Assicurazione Multirischi per Unità da Diporto e Motori Amovibili Ed. 01.08.2025
+true
+f62fee9f-4488-474f-a014-0a7b97343245
+un-icon-file-text
+Set Informativo Assicurazione Multirischi Navi Natanti ad Uso Commerciale Ed. 01.08.2025
+true
+303e9cc6-8328-47bf-92d1-dcd8e1870219
+/content/unipol/it/it/fragments/components/claim
+Messaggio pubblicitario
+. Prima della sottoscrizione leggere il Set Informativo.
+Le garanzie sono soggette a limitazioni e condizioni di operatività e alcune sono prestate solo in abbinamento con altre.
+small

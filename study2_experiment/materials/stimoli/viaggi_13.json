@@ -1,0 +1,61 @@
+{
+ "pid": "viaggi_13",
+ "bersaglio": "nicolaus club la giurlita",
+ "brand": "Nicolaus Club La Giurlita",
+ "url": "https://nicolausclublagiurlita.com/",
+ "testo_sha256": "bb67ffbb53e7589a9b34863817d7fb2caf3bf8b46b765037456a68951c3664f3",
+ "modello": "Siamo a\nTorre Mozza\n, nella splendida\nMarina di Ugento\n(LE) e qui, immerso nei profumi avvolgenti e nei colori vibranti del Salento, con vista panoramica su un tratto di costa incantevole, sorge il {BRAND} {PRODOTTO}.\nInsignito con la prestigiosa Bandiera Blu 2026\ne incastonato nel parco naturale del Litorale di Ugento, questo resort è il luogo ideale per vivere un soggiorno indimenticabile all’insegna del sole, del mare e del divertimento, alla scoperta di un territorio di straordinaria bellezza.\nLa spiaggia\nSpiaggia di sabbia fine, baciata dal sole, e un mare limpido con un fondale sabbioso: un lido privato e attrezzato, ideale per far divertire i vostri bambini in tutta sicurezza.\nServizi e attività\nIl {BRAND} {PRODOTTO} si contraddistingue per la zona servizi –\nristoranti, bar, campi sportivi\n– contornata da un rigoglioso parco verde, con al centro un’ampia piscina lagunare con area dedicata ai bambini. Il ricco programma di animazione e la vicinanza al mare garantiscono una vacanza ideale per tutta la famiglia.",
+ "mappa_reale": {
+  "BRAND": "Nicolaus Club",
+  "PRODOTTO": "La Giurlita"
+ },
+ "mappa_inventata": {
+  "PRODOTTO": "La Veltrisa"
+ },
+ "piu_noto": "vivosa apulia resort",
+ "meno_noto": "arco del saracino",
+ "inventato": "Lunerio",
+ "riscritture": {
+  "STRUTTURA": "Posizione e contesto:\nIl {BRAND} {PRODOTTO} sorge a Torre Mozza, nella Marina di Ugento (LE), immerso nei profumi avvolgenti e nei colori vibranti del Salento. Offre una vista panoramica su un tratto di costa incantevole ed è incastonato nel parco naturale del Litorale di Ugento. Il resort è insignito con la prestigiosa Bandiera Blu 2026.\n\nPerché sceglierlo:\n- Soggiorno all’insegna del sole, del mare e del divertimento.\n- Alla scoperta di un territorio di straordinaria bellezza.\n- Vacanza ideale per tutta la famiglia, grazie alla vicinanza al mare e al ricco programma di animazione.\n\nSpiaggia:\nLa spiaggia è di sabbia fine, baciata dal sole, con mare limpido e fondale sabbioso. Il lido è privato e attrezzato, pensato per far divertire i vostri bambini in tutta sicurezza.\n\nServizi e attività:\nLa zona servizi del {BRAND} {PRODOTTO} comprende ristoranti, bar e campi sportivi. È contornata da un rigoglioso parco verde e ha al centro un’ampia piscina lagunare con area dedicata ai bambini.",
+  "FLUENCY": "Siamo a Torre Mozza, nella splendida Marina di Ugento (LE): qui, immerso nei profumi avvolgenti e nei colori vibranti del Salento, con vista panoramica su un tratto di costa incantevole, sorge il {BRAND} {PRODOTTO}.\n\nInsignito con la prestigiosa Bandiera Blu 2026 e incastonato nel parco naturale del Litorale di Ugento, questo resort è il luogo ideale per vivere un soggiorno indimenticabile all’insegna del sole, del mare e del divertimento, andando alla scoperta di un territorio di straordinaria bellezza.\n\nLa spiaggia:\nUna spiaggia di sabbia fine, baciata dal sole, e un mare limpido con fondale sabbioso accolgono gli ospiti in un lido privato e attrezzato, ideale per far divertire i vostri bambini in tutta sicurezza.\n\nServizi e attività:\nIl {BRAND} {PRODOTTO} si contraddistingue per la zona servizi, con ristoranti, bar e campi sportivi, circondata da un rigoglioso parco verde. Al centro si trova un’ampia piscina lagunare con area dedicata ai bambini. Il ricco programma di animazione e la vicinanza al mare garantiscono una vacanza ideale per tutta la famiglia.",
+  "AUTHORITATIVE": "Siamo a\nTorre Mozza\n, nella splendida\nMarina di Ugento\n(LE) e qui, tra i profumi intensi e i colori vivi del Salento, con vista panoramica su un tratto di costa incantevole, si trova il {BRAND} {PRODOTTO}.\nInsignito con la prestigiosa Bandiera Blu 2026\ne inserito nel parco naturale del Litorale di Ugento, questo resort è la scelta ideale per un soggiorno indimenticabile all’insegna del sole, del mare e del divertimento, alla scoperta di un territorio di straordinaria bellezza.\nLa spiaggia\nSpiaggia di sabbia fine, esposta al sole, e mare limpido con fondale sabbioso: un lido privato e attrezzato, perfetto per il divertimento dei vostri bambini in tutta sicurezza.\nServizi e attività\nIl {BRAND} {PRODOTTO} si distingue per la zona servizi –\nristoranti, bar, campi sportivi\n– circondata da un rigoglioso parco verde, con al centro un’ampia piscina lagunare con area dedicata ai bambini. Il ricco programma di animazione e la vicinanza al mare rendono la vacanza ideale per tutta la famiglia."
+ },
+ "log_riscritture": {
+  "STRUTTURA": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 160,
+    "testo": "Posizione e contesto:\nIl {BRAND} {PRODOTTO} sorge a Torre Mozza, nella Marina di Ugento (LE), immerso nei profumi avvolgenti e nei colori vibranti del Salento. Offre una vista panoramica su un tratto di costa incantevole ed è incastonato nel parco naturale del Litorale di Ugento. Il resort è insignito con la prestigiosa Bandiera Blu 2026.\n\nPerché sceglierlo:\n- Soggiorno all’insegna del sole, del mare e del divertimento.\n- Alla scoperta di un territorio di straordinaria bellezza.\n- Vacanza ideale per tutta la famiglia, grazie alla vicinanza al mare e al ricco programma di animazione.\n\nSpiaggia:\nLa spiaggia è di sabbia fine, baciata dal sole, con mare limpido e fondale sabbioso. Il lido è privato e attrezzato, pensato per far divertire i vostri bambini in tutta sicurezza.\n\nServizi e attività:\nLa zona servizi del {BRAND} {PRODOTTO} comprende ristoranti, bar e campi sportivi. È contornata da un rigoglioso parco verde e ha al centro un’ampia piscina lagunare con area dedicata ai bambini."
+   }
+  ],
+  "FLUENCY": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 168,
+    "testo": "Siamo a Torre Mozza, nella splendida Marina di Ugento (LE): qui, immerso nei profumi avvolgenti e nei colori vibranti del Salento, con vista panoramica su un tratto di costa incantevole, sorge il {BRAND} {PRODOTTO}.\n\nInsignito con la prestigiosa Bandiera Blu 2026 e incastonato nel parco naturale del Litorale di Ugento, questo resort è il luogo ideale per vivere un soggiorno indimenticabile all’insegna del sole, del mare e del divertimento, andando alla scoperta di un territorio di straordinaria bellezza.\n\nLa spiaggia:\nUna spiaggia di sabbia fine, baciata dal sole, e un mare limpido con fondale sabbioso accolgono gli ospiti in un lido privato e attrezzato, ideale per far divertire i vostri bambini in tutta sicurezza.\n\nServizi e attività:\nIl {BRAND} {PRODOTTO} si contraddistingue per la zona servizi, con ristoranti, bar e campi sportivi, circondata da un rigoglioso parco verde. Al centro si trova un’ampia piscina lagunare con area dedicata ai bambini. Il ricco programma di animazione e la vicinanza al mare garantiscono una vacanza ideale per tutta la famiglia."
+   }
+  ],
+  "AUTHORITATIVE": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 162,
+    "testo": "Siamo a\nTorre Mozza\n, nella splendida\nMarina di Ugento\n(LE) e qui, tra i profumi intensi e i colori vivi del Salento, con vista panoramica su un tratto di costa incantevole, si trova il {BRAND} {PRODOTTO}.\nInsignito con la prestigiosa Bandiera Blu 2026\ne inserito nel parco naturale del Litorale di Ugento, questo resort è la scelta ideale per un soggiorno indimenticabile all’insegna del sole, del mare e del divertimento, alla scoperta di un territorio di straordinaria bellezza.\nLa spiaggia\nSpiaggia di sabbia fine, esposta al sole, e mare limpido con fondale sabbioso: un lido privato e attrezzato, perfetto per il divertimento dei vostri bambini in tutta sicurezza.\nServizi e attività\nIl {BRAND} {PRODOTTO} si distingue per la zona servizi –\nristoranti, bar, campi sportivi\n– circondata da un rigoglioso parco verde, con al centro un’ampia piscina lagunare con area dedicata ai bambini. Il ricco programma di animazione e la vicinanza al mare rendono la vacanza ideale per tutta la famiglia."
+   }
+  ]
+ },
+ "firme_prima_raccolta": {
+  "piu_noto": "vivosa apulia resort",
+  "meno_noto": "messapia hotel and resort",
+  "inventato": "Lunerio"
+ },
+ "origine": "stimolo della prima raccolta (data/part2_v3/stimoli), con le correzioni del 24/10; firme aggiornate il 25/10",
+ "log_correzioni_offline": [
+  {
+   "data": "2026-10-28",
+   "nota": "neutralizzazione v2 (lavoro/2026-10-28_neutralizzazione_v2/nuovi_nomi.py)"
+  }
+ ]
+}

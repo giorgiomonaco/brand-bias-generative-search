@@ -1,0 +1,14 @@
+{
+ "url": "https://www.helvetia.com/it/web/it/prodotti-e-servizi/prodotti-dedicati-alle-agenzie-e-broker/privati/imbarcazioni/helvetia-inmovimento-natanti.html",
+ "url_finale": "https://www.helvetia.com/it/web/it/prodotti-e-servizi/prodotti-dedicati-alle-agenzie-e-broker/privati/imbarcazioni/helvetia-inmovimento-natanti.html",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Proteggi la Tua Barca Durante la Navigazione con inMovimento | Helvetia",
+ "parole": 568,
+ "ok": true,
+ "ld": [
+  "InMovimento Natanti Helvetia è la polizza modulabile che protegge te e la tua barca durante la navigazione. Scopri online tutti i vantaggi dell&#39;assicurazione natanti."
+ ],
+ "catturato": "2026-10-25T18:02:16.762864+00:00",
+ "sha256_html": "396bf3b54f2e895be799aae24e0c1e6c17be56d137c0fd3ad485c5c4a77b431a"
+}

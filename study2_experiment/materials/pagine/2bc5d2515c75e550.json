@@ -1,0 +1,12 @@
+{
+ "url": "https://www.hertz.it/rentacar/productservice/index.jsp?leftNavUserSelection=globNav_3_5_1&selectedRegion=Europa%2FMedio+Oriente%2FAfrica&targetPage=Family_Pack.jsp",
+ "url_finale": "https://www.hertz.it/rentacar/productservice/index.jsp?leftNavUserSelection=globNav_3_5_1&selectedRegion=Europa%2FMedio+Oriente%2FAfrica&targetPage=Family_Pack.jsp",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "",
+ "parole": 508,
+ "ok": true,
+ "ld": [],
+ "catturato": "2026-10-24T09:56:41.115251+00:00",
+ "sha256_html": "dbc2e4940fa489edba071dfe40e5f7118507ce5166ad336328499dd088d7eba1"
+}

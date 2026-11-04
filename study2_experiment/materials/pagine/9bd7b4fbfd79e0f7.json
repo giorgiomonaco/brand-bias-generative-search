@@ -1,0 +1,12 @@
+{
+ "url": "https://www.axa.it/assicurazione-sulla-vita",
+ "url_finale": "https://www.axa.it/assicurazione-sulla-vita",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione vita: polizza Semplicemente Vita | AXA",
+ "parole": 1087,
+ "ok": true,
+ "ld": [],
+ "catturato": "2026-10-23T16:53:48.212833+00:00",
+ "sha256_html": "10dbbd9200c0eee0025d61f186491e823709102e8103c5ca2d4f7c2815e304e0"
+}

@@ -1,0 +1,15 @@
+{
+ "url": "https://urbanarrow.com/family-bikes/family",
+ "url_finale": "https://urbanarrow.com/family-bikes/family",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Urban Arrow Family Cargo Bike",
+ "parole": 675,
+ "ok": true,
+ "ld": [
+  "Urban Arrow - innovative cargo bikes for modern families and business professionals",
+  "The original electric cargo bike for families. Spacious EPP box, low centre of gravity, and 3-point seatbelts ensure maximum safety and stability for precious cargo."
+ ],
+ "catturato": "2026-10-25T15:58:16.000988+00:00",
+ "sha256_html": "8f86778ebee4e1b6f06aa8f79c6c4a1594935ea631ae97139ec2133933a7ac77"
+}

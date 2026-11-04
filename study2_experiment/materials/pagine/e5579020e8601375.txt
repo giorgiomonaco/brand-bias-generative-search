@@ -1,0 +1,212 @@
+Unica Unipol per i tuoi animali domestici
+L'assicurazione cane e gatto per prenderti cura dei tuoi amici a quattro zampe
+true
+Copertura spese veterinarie
+Tutela per danni a terzi
+Compra con sconto del 50%
+true
+Calcola un preventivo
+accent
+#preventivatore
+preventivatore-no-header-button
+anchorIdSingleQuote
+preventivatore
+txSingleQuoteHeading
+Fai un preventivo per l’assicurazione cane e gatto
+txSingleQuoteDescription
+Calcola in pochi secondi
+txSingleQuoteDescriptionPromo
+Acquista la polizza con
+sconto del 50%
+, online o in agenzia.
+standardButtonSize
+small
+standardButtonSizePensione
+small
+txRecuperaPreventivo
+Hai già fatto un preventivo?
+linkButtonLabel
+Riprendi il preventivo
+linkButtonHref
+/content/unipol/it/it/recupera-preventivo
+isProductPage
+true
+preselectedAmbitoCode
+PUPET
+privacyLinks
+Informativa sulla Privacy
+/content/dam/unipol/documents/italiano/USA_Info_Prev_02.pdf
+true
+contactAgentCardImage
+txHeading
+Parliamone di persona
+txSubtitle
+Vuoi qualcuno che ti guidi nella scelta?
+txDescription
+Affidati a uno dei nostri agenti e specialisti: siamo pronti ad assisterti, anche in caso di acquisto online.​
+bookAppointmentEnable
+true
+txBookAppointment
+Trova l’agente più vicino
+bookAppointmentOnClick
+findAgencies
+bookVideoCallEnable
+false
+bookVideoCallOnClick
+bookVideoCall
+txFindInNewArea
+Sei già cliente? Accedi
+findInNewAreaHref
+/content/unipol/it/it/accesso
+txHeadingOneAgency
+Il tuo agente di riferimento​
+txSubtitleOneAgency
+Vuoi qualcuno che ti guidi nella scelta?
+txDescriptionOneAgency
+Il tuo agente ti aspetta nell’agenzia di {{address}}.
+bookAppointmentEnableOneAgency
+true
+txBookAppointmentOneAgency
+Vedi contatti e orari
+bookAppointmentOnClickOneAgency
+findContactsHours
+txHeadingMoreAgencies
+​I tuoi agenti di riferimento​
+txSubtitleMoreAgencies
+Vuoi qualcuno che ti guidi nella scelta?
+txDescriptionMoreAgencies
+Rivolgiti al tuo agente per informazioni sulla tua polizza, calcolare un preventivo e altre necessità. Vedi le tue agenzie.
+bookAppointmentEnableMoreAgencies
+true
+txBookAppointmentMoreAgencies
+Vedi contatti e orari
+bookAppointmentOnClickMoreAgencies
+findContactsHours
+true
+I vantaggi dell'assicurazione cane e gatto di Unica Unipol
+small
+Spese veterinarie
+La garanzia rimborsa le spese veterinarie sostenute in caso di eventi specifici.
+Veterinaria con un gatto in braccio nello studio veterinario
+Copre i danni a terzi
+La RC Cane e Gatto ti tutela per i danni causati dal tuo animale domestico a persone, cose o altri animali.
+Cane accanto a un cuscino distrutto con l’imbottitura sparsa sul divano
+Hai supporto al telefono
+Consulenze veterinarie telefoniche e informazioni su cliniche, ambulatori e farmacie per il tuo animale domestico.
+Veterinario che parla al telefono nello studio
+Paghi un po’ alla volta
+Scegli di pagare la tua polizza in 12 rate mensili, così gestisci la polizza in modo più semplice e senza pesare sul tuo budget.
+Paga in 12 mesi
+/content/unipol/it/it/polizza-frazionata
+Donna che si gode il viaggio in auto con il braccio fuori dal finestrino.
+true
+Includi le garanzie che vuoi
+L'assicurazione può essere personalizzata aggiungendo le garanzie più adatte alle tue necessità.
+Esplora tutte le garanzie
+property
+RC Cane e Gatto
+La RC Cane e Gatto copre i danni a terzi causati dal tuo animale, anche quando lo affidi temporaneamente e a titolo gratuito a persone esterne al nucleo familiare.
+Scopri RC Cane e Gatto
+/content/unipol/it/it/fragments/dialogs/privati/casa-e-tempo-libero/cane-gatto/card-grid/rc-cane-e-gatto
+GARANZIA BASE
+default-property
+Spese veterinarie Base e Plus
+Ti rimborsano le spese veterinarie legate a un intervento chirurgico in caso di infortunio, malattia o parto cesareo. Con Plus puoi includere anche ricoveri o day hospital senza intervento chirurgico.
+Scopri le forme Base e Plus
+/content/unipol/it/it/fragments/dialogs/privati/casa-e-tempo-libero/cane-gatto/card-grid/spese-veterinarie
+default-property
+Spese funerarie
+Questa garanzia aggiuntiva ti rimborsa (fino a 75 €) le spese per la sepoltura o la cremazione del tuo animale domestico, per gestire con più serenità anche questo momento delicato.
+default-property
+Tutela legale
+Ti aiuta a far valere i diritti in caso di controversie per fatti avvenuti in conseguenza di proprietà, possesso o custodia del tuo animale. Ti rimborsa spese legali e di assistenza gestione pratica.
+default-property
+Copertura razze aggressive
+Assicura anche i cani iscritti nel registro dei cani a rischio elevato di aggressività e alcune razze pericolose, e rimborsa le spese per i loro percorsi di rieducazione.
+Scopri la copertura
+/content/unipol/it/it/fragments/dialogs/privati/casa-e-tempo-libero/cane-gatto/card-grid/copertura-razze-aggressive
+title
+Ecco cosa ci chiedono gli utenti
+description
+Cerca tra le domande frequenti per risolvere eventuali dubbi e approfondire i temi che ti interessano.
+Come funziona l'assicurazione cane e gatto di Unica Unipol e cosa copre?
+L’assicurazione cane e gatto è pensata per proteggerti dai
+rischi
+derivanti da proprietà e possesso di cani e gatti e per proteggere i tuoi amici a quattro zampe dalle conseguenze in caso di
+infortunio
+,
+malattia
+o
+eventi imprevisti
+.
+Con questa polizza hai anche la tranquillità di sapere che se ti trovi in difficoltà, il tuo animale domestico può ricevere assistenza adeguata, perché puoi contare su una serie di servizi dedicati alla sua salute e al suo benessere.
+Inoltre, puoi
+personalizzare la tua copertura
+scegliendo tra le diverse opzioni disponibili, come il rimborso delle spese veterinarie, funerarie, legali.
+Il tuo animale domestico deve avere tra i tre mesi di età e gli 11 anni (non compiuti) per poter essere assicurato per le
+spese veterinarie
+con la polizza Unica Unipol.
+Le altre garanzie invece sono acquistabili senza limiti di età. Calcola subito un preventivo e acquista la tua polizza anche online.
+Per maggiori informazioni puoi anche rivolgerti a un’agenzia Unipol.
+Quali spese veterinarie sono comprese nella polizza Unica Unipol?
+L’assicurazione cane e gatto rimborsa le
+spese veterinarie
+sostenute per le cure necessarie all'animale assicurato in caso di
+infortunio
+,
+malattia
+o
+parto cesareo
+.
+Le spese coperte sono per esempio onorari del veterinario, rette di degenza, assistenza veterinaria, cure, trattamenti fisioterapici e rieducativi, medicinali, esami ed accertamenti diagnostici.
+Puoi scegliere tra due forme di copertura:
+Base
+, che copre solo le spese per interventi chirurgici;
+Plus
+, che estende il rimborso anche alle spese per ricoveri o day hospital senza intervento chirurgico.
+Puoi avere condizioni agevolate se le prestazioni sono effettuate presso strutture convenzionate con
+UniSalute
+.
+/content/unipol/it/it/domande-frequenti/casa-e-tempo-libero/animali-domestici-quali-quanti-posso-assicurare
+Come posso acquistare l'assicurazione cane e gatto online di Unica Unipol?
+Puoi acquistare l’assicurazione cane e gatto in modo
+semplice e veloce online
+, direttamente dal sito Unipol.
+Compila il form presente in questa pagina con i dati del tuo animale domestico e scegli le garanzie e le opzioni che preferisci.
+In pochi passaggi potrai visualizzare il preventivo gratuito e personalizzato e potrai procedere all’acquisto direttamente online, scegliendo tra
+diverse modalità di pagamento
+.
+Riceverai via mail la conferma dell’acquisto e la documentazione della polizza.
+Se preferisci, puoi anche recarti presso una delle
+agenzie Unipol
+presenti sul territorio e parlare con un consulente.
+Una volta sottoscritta la polizza, potrai accedere alla tua Area Riservata su sito e App Unipol e gestire la tua assicurazione in modo semplice e veloce.
+/content/unipol/it/it/domande-frequenti/casa-e-tempo-libero/assicurazione-per-cani-obbligatoria
+true
+Set informativi e documenti utili
+Set informativi e altri documenti
+un-icon-file-text
+Unica Unipol - Set Informativo cane e gatto Ed. 01.10.2026
+true
+a3afb173-0b04-4860-89a6-07b9a227aa08
+un-icon-file-text
+Informativa precontrattuale per contratti stipulati a distanza
+true
+552dcf03-a46b-4d68-9348-3e74b9422eea
+/content/unipol/it/it/fragments/components/privati/pagine-prodotto/product-highlights
+false
+Ecco i contenuti selezionati per te
+Leggi altri articoli
+primary
+/content/unipol/it/it/blog
+/content/unipol/it/it/blog/casa-e-tempo-libero/assicurazione-cane-gatto-costo
+/content/unipol/it/it/blog/casa-e-tempo-libero/quanto-costa-mantenere-animali-domestici
+/content/unipol/it/it/blog/casa-e-tempo-libero/vacanze-con-cani-o-gatti
+/content/unipol/it/it/fragments/components/claim
+Messaggio pubblicitario
+. Prima della sottoscrizione leggere il Set Informativo.
+Le garanzie sono soggette a limitazioni e condizioni di operatività e alcune sono prestate solo in abbinamento con altre.
+Lo
+sconto del 50%
+rispetto alla tariffa in vigore al momento della sottoscrizione della polizza è applicato sul premio netto annuo imponibile. Iniziativa prevista per la sottoscrizione di nuove posizioni assicurative valida fino al 31/12/2026.
+small

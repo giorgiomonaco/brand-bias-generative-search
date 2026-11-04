@@ -1,0 +1,14 @@
+{
+ "url": "https://heymondo.it/assicurazione-annullamento-viaggio/",
+ "url_finale": "https://heymondo.it/assicurazione-annullamento-viaggio/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione annullamento viaggio | Heymondo",
+ "parole": 1386,
+ "ok": true,
+ "ld": [
+  "La migliore assicurazione di annullamento del viaggio con 8 cause coperte. Recupera l'importo del tuo viaggio!"
+ ],
+ "catturato": "2026-10-23T15:59:43.194214+00:00",
+ "sha256_html": "38899742748737531d2f72c3b8efb02197e28b548e25252a5e6541b2412948b9"
+}

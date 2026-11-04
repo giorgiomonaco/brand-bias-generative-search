@@ -1,0 +1,14 @@
+{
+ "url": "https://www.arconaturaleclub.it/",
+ "url_finale": "https://www.arconaturaleclub.it/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Vacanze Indimenticabili sul Mare di Palinuro | Arco Naturale Club",
+ "parole": 517,
+ "ok": true,
+ "ld": [
+  "Scopri il villaggio eco-friendly Arco Naturale Club a Palinuro: relax, natura e servizi esclusivi per una vacanza perfetta nel cuore del Cilento."
+ ],
+ "catturato": "2026-10-23T15:59:52.080299+00:00",
+ "sha256_html": "7b1fd9a541237407bb09818cf05618d7634db089d236433b0b30aba51527576e"
+}

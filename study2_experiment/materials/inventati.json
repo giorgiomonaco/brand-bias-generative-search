@@ -1,0 +1,218 @@
+{
+ "sport_21": {
+  "nome": "Kervino",
+  "dominio": "kervino.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:29.420400+00:00",
+  "origine": "prima raccolta"
+ },
+ "sport_11": {
+  "nome": "Varenzo",
+  "dominio": "varenzo.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:29.595574+00:00",
+  "origine": "prima raccolta"
+ },
+ "sport_17": {
+  "nome": "Brovale",
+  "dominio": "brovale.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-25T18:18:01.433844+00:00",
+  "origine": "25/10 revisione"
+ },
+ "sport_09": {
+  "nome": "Brivano",
+  "dominio": "brivano.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:29.684165+00:00",
+  "origine": "prima raccolta"
+ },
+ "sport_01": {
+  "nome": "Dravio",
+  "dominio": "dravio.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:29.878425+00:00",
+  "origine": "prima raccolta"
+ },
+ "sport_13": {
+  "nome": "Zorvane",
+  "dominio": "zorvane.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:29.973021+00:00",
+  "origine": "prima raccolta"
+ },
+ "moda_beauty_14": {
+  "nome": "Aurelys",
+  "dominio": "aurelys.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.066450+00:00",
+  "origine": "prima raccolta"
+ },
+ "moda_beauty_18": {
+  "nome": "Ondarys",
+  "dominio": "ondarys.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.146183+00:00",
+  "origine": "prima raccolta"
+ },
+ "moda_beauty_03": {
+  "nome": "Fiorvale",
+  "dominio": "fiorvale.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.246500+00:00",
+  "origine": "prima raccolta"
+ },
+ "moda_beauty_23": {
+  "nome": "Nevrola",
+  "dominio": "nevrola.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.336336+00:00",
+  "origine": "prima raccolta"
+ },
+ "moda_beauty_05": {
+  "nome": "Ilvessa",
+  "dominio": "ilvessa.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-25T18:18:01.499323+00:00",
+  "origine": "25/10 revisione"
+ },
+ "moda_beauty_08": {
+  "nome": "Velmora",
+  "dominio": "velmora.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.413938+00:00",
+  "origine": "prima raccolta"
+ },
+ "assicurazioni_17": {
+  "nome": "Corvalia",
+  "dominio": "corvalia.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.604650+00:00",
+  "origine": "prima raccolta"
+ },
+ "assicurazioni_20": {
+  "nome": "Pelora",
+  "dominio": "pelora.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.765649+00:00",
+  "origine": "prima raccolta"
+ },
+ "assicurazioni_09": {
+  "nome": "Trevalda",
+  "dominio": "trevalda.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-25T18:18:01.667810+00:00",
+  "origine": "25/10 revisione"
+ },
+ "assicurazioni_03": {
+  "nome": "Dalveris",
+  "dominio": "dalveris.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-25T18:18:01.756875+00:00",
+  "origine": "25/10 revisione"
+ },
+ "assicurazioni_19": {
+  "nome": "Nidrava",
+  "dominio": "nidrava.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:30.853754+00:00",
+  "origine": "prima raccolta"
+ },
+ "assicurazioni_10": {
+  "nome": "Corlenta",
+  "dominio": "corlenta.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-25T18:18:01.830720+00:00",
+  "origine": "25/10 revisione"
+ },
+ "viaggi_18": {
+  "nome": "Brezzaria",
+  "dominio": "brezzaria.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:31.102347+00:00",
+  "origine": "prima raccolta"
+ },
+ "viaggi_15": {
+  "nome": "Calimbra",
+  "dominio": "calimbra.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:31.181108+00:00",
+  "origine": "prima raccolta"
+ },
+ "viaggi_07": {
+  "nome": "Ombrevia",
+  "dominio": "ombrevia.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:31.261033+00:00",
+  "origine": "prima raccolta"
+ },
+ "viaggi_04": {
+  "nome": "Ruvalia",
+  "dominio": "ruvalia.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:31.345978+00:00",
+  "origine": "prima raccolta"
+ },
+ "viaggi_13": {
+  "nome": "Lunerio",
+  "dominio": "lunerio.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:31.429402+00:00",
+  "origine": "prima raccolta"
+ },
+ "viaggi_17": {
+  "nome": "Orbisa",
+  "dominio": "orbisa.it",
+  "dns_status": 3,
+  "nxdomain": true,
+  "uguale_a_marchio_noto": false,
+  "controllato": "2026-10-23T16:42:31.511573+00:00",
+  "origine": "prima raccolta"
+ }
+}

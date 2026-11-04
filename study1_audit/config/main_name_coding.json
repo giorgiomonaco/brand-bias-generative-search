@@ -1,0 +1,41 @@
+{
+  "scope": 19200,
+  "rule": "uncertain alias identity => preserve distinct names; do not collapse entire conflict groups",
+  "conservative_alias_groups": 16,
+  "all_extracted_keys_classified": true,
+  "manual_entity_validation_complete": false,
+  "status": "frozen conservative coding; limitations recorded; not a claim of perfect entity resolution",
+  "scope_exclusions": {
+    "carglass": [
+      "assicurazioni"
+    ],
+    "doctor glass": [
+      "assicurazioni"
+    ],
+    "doctorglass": [
+      "assicurazioni"
+    ],
+    "glassdrive": [
+      "assicurazioni"
+    ],
+    "myglass": [
+      "assicurazioni"
+    ],
+    "vetrocar": [
+      "assicurazioni"
+    ]
+  },
+  "sector_overrides": {
+    "marella": {
+      "viaggi": [
+        "marella cruises"
+      ]
+    },
+    "horizon": {
+      "viaggi": [
+        "horizon automotive"
+      ]
+    }
+  },
+  "vert_recovered_calls": 10
+}

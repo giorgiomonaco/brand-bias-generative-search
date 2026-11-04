@@ -1,0 +1,12 @@
+{
+ "url": "https://www.axa.it/ingiro",
+ "url_finale": "https://www.axa.it/ingiro",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "InGiro: la polizza danni e infortuni che protegge i tuoi spostamenti | AXA",
+ "parole": 6097,
+ "ok": true,
+ "ld": [],
+ "catturato": "2026-10-25T18:01:49.505756+00:00",
+ "sha256_html": "b9d2f0e8003f85e5a4299c55c555b0721edb8560544ea1067f25fe726b4e60d1"
+}

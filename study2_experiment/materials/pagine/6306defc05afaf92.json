@@ -1,0 +1,15 @@
+{
+ "url": "https://www.siciliaincoming.com/agrigento-visita-valle-dei-templi/",
+ "url_finale": "https://www.siciliaincoming.com/agrigento-visita-valle-dei-templi/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Agrigento visita valle dei templi - Museo Regionale - Sicilia Incoming",
+ "parole": 203,
+ "ok": true,
+ "ld": [
+  "Agrigento visita valle dei templi, possibilità di pranzo a sacco all’interno della stessa struttura.Pomeriggio dedicato alla visita del museo regionale.",
+  "Tour Operator Sicilia"
+ ],
+ "catturato": "2026-10-23T16:59:13.127334+00:00",
+ "sha256_html": "8b6477d01ea832a990608d42d3dac5f329372f77871e54bbd569c0451d72245f"
+}

@@ -1,0 +1,11 @@
+{
+ "url": "https://bikeplatinum.it/",
+ "parole_grezze": 725,
+ "parole": 170,
+ "righe_scartate": 0,
+ "testo": "ASSICURAZIONE FURTO E-BIKE - BIKEPLATINUM\nHai voluto la bicicletta? E adesso assicurala.\nScegli Bikeplatinum, la prima assicurazione che protegge dal furto della tua bici elettrica anche se parcheggiata in strada e ti restituisce una bici equivalente a quella rubata.\nProtezione completa per la tua e-bike,\nvalida tutto l’anno\n, anche quando è parcheggiata in strada.\nNiente burocrazia, niente attese. Solo soluzioni vere, per chi la bici la usa davvero.\nPerché scegliere Bikeplatinum\nProtezione reale, anche in strada\nLa tua e-bike è protetta ovunque, anche se la lasci legata in città. Ti basta usare un lucchetto omologato.\nValore a nuovo fino a 3 anni\nHai paura che ti rubino la bici? Se te la rubano, te ne consegniamo una nuova equivalente. E torni subito in sella.\nPreventivo in 1 minuto, rinnovo automatico\nBastano marca e modello della tua bici. Zero documenti, zero stress. La fai online o direttamente in negozio.\nProtegge anche batteria e motore\nCon la garanzia aggiuntiva puoi coprire i danni elettrici alle parti più delicate della tua e-bike.",
+ "sha256": "eb72d4038e0dcd5b7b0a6bad3b983048b8e632384abfeafddbf82a218016ea6e",
+ "source_preparation": "revised_24_question_roster",
+ "chiave": "assicurazioni_03|Bikeplatinum",
+ "fonte_preparazione": "rev"
+}

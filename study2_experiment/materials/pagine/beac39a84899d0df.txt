@@ -1,0 +1,220 @@
+Skip to content
+SALE NOW ON - Up to 40% off
+Shop Now
+Discover The Merrell Hiking Club
+Get 10% Off Your First Order
+Free Shipping on orders over €75
+Free Returns On All Orders
+United States
+United Kingdom
+Australia
+Belgium
+Français
+Nederlands
+Canada
+English
+Français
+Schweiz
+Chile
+Colombia
+Deutschland
+Danmark
+España
+France
+Hrvatska
+Ireland
+Italia
+Ísland
+Suomi
+日本
+한국
+México
+Nederland
+New Zealand
+Polska
+Portugal
+Sverige
+Slovenija
+Türkiye
+Uruguay
+Україна
+South Africa
+Changing your country will empty your cart.
+By switching countries, some of the products, pricing, delivery, or promotions may be different.
+Ok
+Cancel
+HELP
+ORDER STATUS
+CHAT
+CUSTOMER SERVICE
+RETURN
+SHIPPING INFO
+ACCOUNT SIGN IN
+Top
+Home
+Men
+Footwear
+View All
+Moab 3 GORE-TEX®
+(J035801)
+For over 15 years, the Merrell® Moab has been the choice of hikers when a choice needs to be made, making it the bestselling hiker in the world. Famous for its out-of-the-box comfort, durability and all-purpose versatility, its predecessors have enabled 25 million people to step further outdoors.
+<br><br>
+The Moab 3 GTX features a GORE-TEX® waterproof membrane to keep your feet dry while still allowing your feet to breathe, a new more supportive insole, a softer more cushioned midsole, and a best-in-class Vibram® outsole. Our newest generation is the most environmentally friendly Moab ever, utilizing recycled materials in construction.
+https://www.merrell.com/IT/en_IT/moab-3-gore-tex/60275M.html
+60275M
+Men's Moab 3 GORE-TEX®
+€ 160,00
+EUR
+160,00
+16000
+InStock
+Images
+1
+/
+6
+Alternate Views
+Details
+https://www.merrell.com/IT/en_IT/moab-3-gore-tex/60275M.html
+Merrell
+60275M
+Shoes
+mens
+mens-footwear
+Shoes
+Shoes / Men
+false
+194713934681
+Men's Moab 3 GORE-TEX®
+€ 160,00
+EUR
+160,00
+16000
+InStock
+Variations
+Olive
+J035801
+Select a Color
+:
+Olive
+Olive
+Black/Grey
+Variations
+{"attributes":["size","width"],"inventory":[{"id":"194713934681","quantity":28,"status":"IN_STOCK"},{"id":"194713934698","quantity":23,"status":"IN_STOCK"},{"id":"194713934704","quantity":22,"status":"IN_STOCK"},{"id":"194713934711","quantity":87,"status":"IN_STOCK"},{"id":"194713934728","quantity":79,"status":"IN_STOCK"},{"id":"194713934735","quantity":46,"status":"IN_STOCK"},{"id":"194713934742","quantity":47,"status":"IN_STOCK"},{"id":"194713934759","quantity":54,"status":"IN_STOCK"},{"id":"194713934766","quantity":28,"status":"IN_STOCK"},{"id":"194713934773","quantity":33,"status":"IN_STOCK"},{"id":"194713934780","quantity":22,"status":"IN_STOCK"},{"id":"195017214509","quantity":17,"status":"IN_STOCK"},{"id":"194713934797","quantity":9,"status":"IN_STOCK"},{"id":"194713934803","quantity":8,"status":"IN_STOCK"},{"id":"194713934810","quantity":12,"status":"IN_STOCK"},{"id":"194713954405","quantity":0,"status":"NOT_AVAILABLE"},{"id":"194713954412","quantity":30,"status":"IN_STOCK"},{"id":"194713954429","quantity":0,"status":"NOT_AVAILABLE"},{"id":"194713954436","quantity":64,"status":"IN_STOCK"},{"id":"194713954443","quantity":0,"status":"NOT_AVAILABLE"},{"id":"194713954450","quantity":305,"status":"IN_STOCK"},{"id":"194713954467","quantity":0,"status":"NOT_AVAILABLE"},{"id":"194713954474","quantity":150,"status":"IN_STOCK"},{"id":"194713954481","quantity":0,"status":"NOT_AVAILABLE"},{"id":"194713954498","quantity":56,"status":"IN_STOCK"},{"id":"194713954504","quantity":0,"status":"NOT_AVAILABLE"},{"id":"195017544132","quantity":53,"status":"IN_STOCK"},{"id":"194713954511","quantity":3,"status":"IN_STOCK"},{"id":"194713954528","quantity":10,"status":"IN_STOCK"},{"id":"194713954535","quantity":0,"status":"NOT_AVAILABLE"},{"id":"195017544149","quantity":0,"status":"NOT_AVAILABLE"}],"variations":{"194713934681":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"7","sizeDisplayValue":"40.0","width":"M","widthDisplayValue":"M"},"194713934698":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"7.5","sizeDisplayValue":"41.0","width":"M","widthDisplayValue":"M"},"194713934704":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"8","sizeDisplayValue":"41.5","width":"M","widthDisplayValue":"M"},"194713934711":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"8.5","sizeDisplayValue":"42.0","width":"M","widthDisplayValue":"M"},"194713934728":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"9","sizeDisplayValue":"43.0","width":"M","widthDisplayValue":"M"},"194713934735":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"9.5","sizeDisplayValue":"43.5","width":"M","widthDisplayValue":"M"},"194713934742":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"10","sizeDisplayValue":"44.0","width":"M","widthDisplayValue":"M"},"194713934759":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"10.5","sizeDisplayValue":"44.5","width":"M","widthDisplayValue":"M"},"194713934766":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"11","sizeDisplayValue":"45.0","width":"M","widthDisplayValue":"M"},"194713934773":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"11.5","sizeDisplayValue":"46.0","width":"M","widthDisplayValue":"M"},"194713934780":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"12","sizeDisplayValue":"46.5","width":"M","widthDisplayValue":"M"},"195017214509":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"12.5","sizeDisplayValue":"47.0","width":"M","widthDisplayValue":"M"},"194713934797":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"13","sizeDisplayValue":"48.0","width":"M","widthDisplayValue":"M"},"194713934803":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"14","sizeDisplayValue":"49.0","width":"M","widthDisplayValue":"M"},"194713934810":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J035801","size":"15","sizeDisplayValue":"50.0","width":"M","widthDisplayValue":"M"},"194713954405":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"7","sizeDisplayValue":"40.0","width":"M","widthDisplayValue":"M"},"194713954412":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"7.5","sizeDisplayValue":"41.0","width":"M","widthDisplayValue":"M"},"194713954429":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"8","sizeDisplayValue":"41.5","width":"M","widthDisplayValue":"M"},"194713954436":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"8.5","sizeDisplayValue":"42.0","width":"M","widthDisplayValue":"M"},"194713954443":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"9","sizeDisplayValue":"43.0","width":"M","widthDisplayValue":"M"},"194713954450":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"9.5","sizeDisplayValue":"43.5","width":"M","widthDisplayValue":"M"},"194713954467":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"10","sizeDisplayValue":"44.0","width":"M","widthDisplayValue":"M"},"194713954474":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"10.5","sizeDisplayValue":"44.5","width":"M","widthDisplayValue":"M"},"194713954481":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"11","sizeDisplayValue":"45.0","width":"M","widthDisplayValue":"M"},"194713954498":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"11.5","sizeDisplayValue":"46.0","width":"M","widthDisplayValue":"M"},"194713954504":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"12","sizeDisplayValue":"46.5","width":"M","widthDisplayValue":"M"},"195017544132":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"12.5","sizeDisplayValue":"47.0","width":"M","widthDisplayValue":"M"},"194713954511":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"13","sizeDisplayValue":"48.0","width":"M","widthDisplayValue":"M"},"194713954528":{"isAvailable":true,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"14","sizeDisplayValue":"49.0","width":"M","widthDisplayValue":"M"},"194713954535":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"15","sizeDisplayValue":"50.0","width":"M","widthDisplayValue":"M"},"195017544149":{"isAvailable":false,"isComingsoon":false,"discontinuedflag":false,"color":"J036253","size":"16","sizeDisplayValue":"51.0","width":"M","widthDisplayValue":"M"}},"color":{"attributeID":"color","displayName":"Color","ID":"color","values":[{"ID":"J035801","displayValue":"Olive","value":"J035801","description":null},{"ID":"J036253","displayValue":"Black/Grey","value":"J036253","description":null}]},"size":{"attributeID":"size","displayName":"Size","ID":"size","values":[{"ID":"7","displayValue":"40.0","value":"7","description":null},{"ID":"7.5","displayValue":"41.0","value":"7.5","description":null},{"ID":"8","displayValue":"41.5","value":"8","description":null},{"ID":"8.5","displayValue":"42.0","value":"8.5","description":null},{"ID":"9","displayValue":"43.0","value":"9","description":null},{"ID":"9.5","displayValue":"43.5","value":"9.5","description":null},{"ID":"10","displayValue":"44.0","value":"10","description":null},{"ID":"10.5","displayValue":"44.5","value":"10.5","description":null},{"ID":"11","displayValue":"45.0","value":"11","description":null},{"ID":"11.5","displayValue":"46.0","value":"11.5","description":null},{"ID":"12","displayValue":"46.5","value":"12","description":null},{"ID":"12.5","displayValue":"47.0","value":"12.5","description":null},{"ID":"13","displayValue":"48.0","value":"13","description":null},{"ID":"14","displayValue":"49.0","value":"14","description":null},{"ID":"15","displayValue":"50.0","value":"15","description":null},{"ID":"16","displayValue":"51.0","value":"16","description":null}]},"width":{"attributeID":"width","displayName":"Width","ID":"width","values":[{"ID":"M","displayValue":"M","value":"M","description":"Medium"}]}}
+Size
+Size Chart
+Size Guide
+Men's Footwear Size Chart
+EU
+Men's Size
+UK
+US
+JPN
+40
+6.5
+7
+25
+41
+7
+7.5
+25.5
+41.5
+7.5
+8
+26
+42
+8
+8.5
+26.5
+43
+8.5
+9
+27
+43.5
+9
+9.5
+27.5
+44
+9.5
+10
+28
+44.5
+10
+10.5
+28.5
+45
+10.5
+11
+29
+46
+11
+11.5
+29.5
+46.5
+11.5
+12
+30
+47
+12
+12.5
+30.5
+48
+12.5
+13
+31
+49
+13
+14
+32
+50
+14
+15
+33
+51
+15
+16
+34
+Our Fit Guarantee
+If it doesn't fit, return it within 30 days, as long as it's unworn,
+unwashed and unaltered.
+Product Actions
+Add to cart options
+false
+Add to Cart
+Wishlist
+Added to Wishlist
+Shipping
+Free shipping on orders over €75.
+See more details
+.
+Free Returns
+Free returns within 30 days from the date of purchase.
+See more details.
+Please select Size and Width
+Home
+Men
+Footwear
+View All
+Moab 3 GORE-TEX®
+(J035801)
+Details
+For over 15 years, the Merrell® Moab has been the choice of hikers when a choice needs to be made, making it the bestselling hiker in the world. Famous for its out-of-the-box comfort, durability and all-purpose versatility, its predecessors have enabled 25 million people to step further outdoors.
+The Moab 3 GTX features a GORE-TEX® waterproof membrane to keep your feet dry while still allowing your feet to breathe, a new more supportive insole, a softer more cushioned midsole, and a best-in-class Vibram® outsole. Our newest generation is the most environmentally friendly Moab ever, utilizing recycled materials in construction.
+FEATURES:
+• GORE-TEX® waterproof membrane, exceptional breathability and waterproof performance
+• Pig suede leather and breathable mesh upper
+• 100% recycled laces and webbing
+• Bellows tongue keeps out debris
+• Protective and abrasion resistant rubber heel and toe cap
+• 100% recycled breathable mesh lining
+• Exclusive Moab 3 footbed contours to your foot for a more comfortable stride
+• Molded nylon arch shank
+• Merrell Air Cushion in the heel absorbs shock and adds stability
+• Super Rebound Compound midsole provides durable shock absorption to help reduce torque and allow for a smooth transition into the midfoot
+• Vibram® TC5+ outsole provides exceptional traction for outdoor multi-sport activities, formulated exclusively for Merrell
+• Drop: 11.5mm
+• Lug: 5mm
+• Half pair weight: 1lbs-0.22oz, 460g
+You May Also Like
+Customer Reviews
+Recently Viewed
+Footer Links

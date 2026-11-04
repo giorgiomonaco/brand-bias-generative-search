@@ -1,0 +1,4103 @@
+{
+ "sport_21": {
+  "domanda": "Quali sono le migliori scarpe da corsa da scegliere?",
+  "settore": "sport",
+  "volume_domanda": 630.0,
+  "sottotema": "scarpe running",
+  "piu_noto": {
+   "chiave": "nike",
+   "nome": "Nike",
+   "dominio": "nike.com",
+   "notorieta_s1": 709000.0
+  },
+  "pagine": [
+   {
+    "chiave": "asics",
+    "nome": "ASICS",
+    "dominio": "asics.com",
+    "notorieta_s1": 138750.0,
+    "url": "https://outlet.asics.com/it/it-it/gel-contend-9/p/1012B681-002.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 164,
+    "testo_sha256": "a7cd1376c39a909deb74f4c954ec3a965fb23a665c1e3a531e91bf7de0bbe794"
+   },
+   {
+    "chiave": "brooks",
+    "nome": "Brooks",
+    "dominio": "brooksrunning.com",
+    "notorieta_s1": 14091.666666666666,
+    "url": "https://www.brooksrunning.com/it_it/donna/scarpe-da-corsa-su-strada/adrenaline-gts-24/120426.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 521,
+    "testo_sha256": "9dd783c55c77ba8c5374ec244e86996e93e6ce4dc90db5d86bd03b37eee9f155"
+   },
+   {
+    "chiave": "saucony",
+    "nome": "Saucony",
+    "dominio": "saucony.com",
+    "notorieta_s1": 33066.666666666664,
+    "url": "https://www.saucony.com/IT/it_IT/ride-19/60823M.html",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 535,
+    "testo_sha256": "7075483e7380d3f70f084f329438063b31a10730b9deaec6680ea549761a1878"
+   },
+   {
+    "chiave": "adidas",
+    "nome": "Adidas",
+    "dominio": "adidas.it",
+    "notorieta_s1": 578500.0,
+    "url": "https://www.adidas.it/scarpe-da-running-duramo-sl-2/IH8217.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 125,
+    "testo_sha256": "19f120b5902bdc41bd955d5f96f6c5eb042c27534393f43a10786ede7c4275bb"
+   },
+   {
+    "chiave": "kiprun",
+    "nome": "Kiprun",
+    "dominio": "kiprun.com",
+    "notorieta_s1": 3500.0,
+    "url": "https://www.decathlon.it/p/scarpe-running-uomo-kipride-blu/352928/c41c157c183m8960614",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 800,
+    "testo_sha256": "b2446a8641f4b592eb2ff2a3f485342e1d5d2da15a96d27a0b85348a4171594f"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "asics",
+    "nome": "ASICS",
+    "dominio": "asics.com",
+    "notorieta_s1": 138750.0
+   },
+   {
+    "chiave": "nike",
+    "nome": "Nike",
+    "dominio": "nike.com",
+    "notorieta_s1": 709000.0
+   },
+   {
+    "chiave": "brooks",
+    "nome": "Brooks",
+    "dominio": "brooksrunning.com",
+    "notorieta_s1": 14091.666666666666
+   },
+   {
+    "chiave": "saucony",
+    "nome": "Saucony",
+    "dominio": "saucony.com",
+    "notorieta_s1": 33066.666666666664
+   },
+   {
+    "chiave": "adidas",
+    "nome": "Adidas",
+    "dominio": "adidas.it",
+    "notorieta_s1": 578500.0
+   },
+   {
+    "chiave": "kiprun",
+    "nome": "Kiprun",
+    "dominio": "kiprun.com",
+    "notorieta_s1": 3500.0
+   },
+   {
+    "chiave": "puma",
+    "nome": "Puma",
+    "dominio": "puma.com",
+    "notorieta_s1": 134166.66666666666
+   },
+   {
+    "chiave": "new balance",
+    "nome": "New Balance",
+    "dominio": "newbalance.it",
+    "notorieta_s1": 592166.6666666666
+   },
+   {
+    "chiave": "hoka",
+    "nome": "Hoka",
+    "dominio": "hoka.com",
+    "notorieta_s1": 62041.666666666664
+   },
+   {
+    "chiave": "salomon",
+    "nome": "Salomon",
+    "dominio": "salomon.com",
+    "notorieta_s1": 83041.66666666667
+   },
+   {
+    "chiave": "la sportiva",
+    "nome": "La Sportiva",
+    "dominio": "lasportiva.com",
+    "notorieta_s1": 46833.333333333336
+   },
+   {
+    "chiave": "mizuno",
+    "nome": "Mizuno",
+    "dominio": "mizuno.com",
+    "notorieta_s1": 34566.666666666664
+   }
+  ],
+  "sostituzioni": []
+ },
+ "sport_11": {
+  "domanda": "Quali sono i migliori tapis roulant da scegliere?",
+  "settore": "sport",
+  "volume_domanda": 605.0,
+  "sottotema": "tapis roulant",
+  "piu_noto": {
+   "chiave": "technogym",
+   "nome": "Technogym",
+   "dominio": "technogym.com",
+   "notorieta_s1": 32333.333333333332
+  },
+  "pagine": [
+   {
+    "chiave": "toorx",
+    "nome": "Toorx",
+    "dominio": "toorx.it",
+    "notorieta_s1": 3625.0,
+    "url": "https://www.toorx.it/prodotti/tapis-roulant/trx-100-3-0/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 498,
+    "testo_sha256": "11e2d867671776f892b1029de2871fd3fe94ba14ea4f687660171be1cd70e733"
+   },
+   {
+    "chiave": "nordictrack",
+    "nome": "NordicTrack",
+    "dominio": "nordictrack.com",
+    "notorieta_s1": 730.8333333333334,
+    "url": "https://www.nordictrack.com/product/commercial-1750-treadmill",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 705,
+    "testo_sha256": "c9e1b0c5361cc70906ef83a0600fccb353137914719cb315e2b0129d1c855be8"
+   },
+   {
+    "chiave": "horizon",
+    "nome": "Horizon",
+    "dominio": "horizonfitness.com",
+    "notorieta_s1": 155.0,
+    "url": "https://www.horizonfitness.com/products/horizon-7-4-at-treadmill",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 1124,
+    "testo_sha256": "002ef2e568a51a9fcb397f022eaa5c71f752e22e98335b339b00f5ef221aeb9b"
+   },
+   {
+    "chiave": "sportstech",
+    "nome": "Sportstech",
+    "dominio": "sportstech.it",
+    "notorieta_s1": 2350.0,
+    "url": "https://www.sportstech.de/it-it/products/f10-tapis-roulant",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 2159,
+    "testo_sha256": "31aa432000ba3966b7f52a386e33ac16c694db793a9f65549fd789a4a0322098"
+   },
+   {
+    "chiave": "everfit",
+    "nome": "Everfit",
+    "dominio": "everfit.it",
+    "notorieta_s1": 436.6666666666667,
+    "url": "https://www.everfit.it/prodotti/tapis-roulant/tfk-455-slim/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 450,
+    "testo_sha256": "e202ea27a1830d066056d0d464b91b284b5ae184f7a7fcd4c4ebdca41e029f44"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "toorx",
+    "nome": "Toorx",
+    "dominio": "toorx.it",
+    "notorieta_s1": 3625.0
+   },
+   {
+    "chiave": "nordictrack",
+    "nome": "NordicTrack",
+    "dominio": "nordictrack.com",
+    "notorieta_s1": 730.8333333333334
+   },
+   {
+    "chiave": "fitfiu fitness",
+    "nome": "Fitfiu Fitness",
+    "dominio": "fitfiu-fitness.com",
+    "notorieta_s1": 161.66666666666666
+   },
+   {
+    "chiave": "sportstech",
+    "nome": "Sportstech",
+    "dominio": "sportstech.it",
+    "notorieta_s1": 2350.0
+   },
+   {
+    "chiave": "technogym",
+    "nome": "Technogym",
+    "dominio": "technogym.com",
+    "notorieta_s1": 32333.333333333332
+   },
+   {
+    "chiave": "everfit",
+    "nome": "Everfit",
+    "dominio": "everfit.it",
+    "notorieta_s1": 436.6666666666667
+   },
+   {
+    "chiave": "horizon",
+    "nome": "Horizon",
+    "dominio": "horizonfitness.com",
+    "notorieta_s1": 155.0
+   },
+   {
+    "chiave": "diadora",
+    "nome": "Diadora",
+    "dominio": "diadora.com",
+    "notorieta_s1": 23008.333333333332
+   },
+   {
+    "chiave": "ym",
+    "nome": "YM",
+    "dominio": "yourmove.it",
+    "notorieta_s1": 393.3333333333333
+   },
+   {
+    "chiave": "jk fitness",
+    "nome": "JK Fitness",
+    "dominio": "jkfitness.com",
+    "notorieta_s1": 1666.6666666666667
+   },
+   {
+    "chiave": "bh fitness",
+    "nome": "BH Fitness",
+    "dominio": "bhfitness.com",
+    "notorieta_s1": 241.66666666666666
+   },
+   {
+    "chiave": "life fitness",
+    "nome": "Life Fitness",
+    "dominio": "lifefitness.com",
+    "notorieta_s1": 1250.0
+   },
+   {
+    "chiave": "urevo",
+    "nome": "UREVO",
+    "dominio": "urevo.com",
+    "notorieta_s1": 86.66666666666667
+   }
+  ],
+  "sostituzioni": []
+ },
+ "sport_17": {
+  "domanda": "Quali sono le migliori cargo bike economiche da scegliere?",
+  "settore": "sport",
+  "volume_domanda": 287.5,
+  "sottotema": "biciclette",
+  "piu_noto": {
+   "chiave": "engwe",
+   "nome": "Engwe",
+   "dominio": "engwe.com",
+   "notorieta_s1": 17225.0
+  },
+  "pagine": [
+   {
+    "chiave": "yuba",
+    "nome": "Yuba",
+    "dominio": "yubabikes.com",
+    "notorieta_s1": 1568.3333333333333,
+    "url": "https://yubabikes.eu/it/prodotto/kombi/",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 2438,
+    "testo_sha256": "50218fb7eed14a96ae22fd49202e5f620c71eb097cf0a3a31be938c71802bcd0"
+   },
+   {
+    "chiave": "tern",
+    "nome": "Tern",
+    "dominio": "ternbicycles.com",
+    "notorieta_s1": 64.16666666666667,
+    "url": "https://www.ternbicycles.com/it/bikes/471/quick-haul-long-d9",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 650,
+    "testo_sha256": "f52f886730079cc05be8f2dbc9ee90cbfdfeeeefe624b0bdc8651e34052db084"
+   },
+   {
+    "chiave": "fiido",
+    "nome": "Fiido",
+    "dominio": "fiido.com",
+    "notorieta_s1": 7091.666666666667,
+    "url": "https://it.fiido.com/products/fiido-t2-longtail-cargo-ebike-for-versatile-all-terrain",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 2362,
+    "testo_sha256": "8f5825f24ad39652675b6adb70ed30295ecc932e15ae0c5febbf2e1b46e85de8"
+   },
+   {
+    "chiave": "babboe",
+    "nome": "Babboe",
+    "dominio": "babboe.de",
+    "notorieta_s1": 248.33333333333334,
+    "url": "https://www.babboecargobike.com/big",
+    "regola": "regola 3",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 205,
+    "testo_sha256": "46a114c79c6712c99a1180dbf6d228d293bf291d843820ac9312d3237bca8ffa"
+   },
+   {
+    "chiave": "urban arrow",
+    "nome": "Urban Arrow",
+    "dominio": "urbanarrow.com",
+    "notorieta_s1": 320.0,
+    "url": "https://urbanarrow.com/family-bikes/family",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 611,
+    "testo_sha256": "8ba32005b47a4952f454f8e67cdfb214d6633c8da358e0fc83405026a09567ca"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "yuba",
+    "nome": "Yuba",
+    "dominio": "yubabikes.com",
+    "notorieta_s1": 1568.3333333333333
+   },
+   {
+    "chiave": "tern",
+    "nome": "Tern",
+    "dominio": "ternbicycles.com",
+    "notorieta_s1": 64.16666666666667
+   },
+   {
+    "chiave": "fiido",
+    "nome": "Fiido",
+    "dominio": "fiido.com",
+    "notorieta_s1": 7091.666666666667
+   },
+   {
+    "chiave": "babboe",
+    "nome": "Babboe",
+    "dominio": "babboe.de",
+    "notorieta_s1": 248.33333333333334
+   },
+   {
+    "chiave": "urban arrow",
+    "nome": "Urban Arrow",
+    "dominio": "urbanarrow.com",
+    "notorieta_s1": 320.0
+   },
+   {
+    "chiave": "moma",
+    "nome": "Moma",
+    "dominio": "momabikes.it",
+    "notorieta_s1": 1646.6666666666667
+   },
+   {
+    "chiave": "cube",
+    "nome": "Cube",
+    "dominio": "cube.eu",
+    "notorieta_s1": 2308.3333333333335
+   },
+   {
+    "chiave": "engwe",
+    "nome": "Engwe",
+    "dominio": "engwe.com",
+    "notorieta_s1": 17225.0
+   },
+   {
+    "chiave": "panda bike",
+    "nome": "Panda Bike",
+    "dominio": "panda-bike.com",
+    "notorieta_s1": 815.0
+   },
+   {
+    "chiave": "bergamont",
+    "nome": "Bergamont",
+    "dominio": "bergamont.com",
+    "notorieta_s1": 3833.3333333333335
+   }
+  ],
+  "sostituzioni": []
+ },
+ "sport_09": {
+  "domanda": "Qual è la migliore ebike per rapporto qualità prezzo?",
+  "settore": "sport",
+  "volume_domanda": 217.5,
+  "sottotema": "bici elettriche",
+  "piu_noto": {
+   "chiave": "specialized",
+   "nome": "Specialized",
+   "dominio": "specialized.com",
+   "notorieta_s1": 42783.333333333336
+  },
+  "pagine": [
+   {
+    "chiave": "cube",
+    "nome": "Cube",
+    "dominio": "cube.eu",
+    "notorieta_s1": 2308.3333333333335,
+    "url": "https://www.cube.eu/it-it/cube-reaction-hybrid-slt-800-night-n-reflex/1107900",
+    "regola": "regola 3",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 1532,
+    "testo_sha256": "089c0a3298bf3ad13c2ab2e0f0bac3552d1125a23b620323becdb05728ef68e4"
+   },
+   {
+    "chiave": "fiido",
+    "nome": "Fiido",
+    "dominio": "fiido.com",
+    "notorieta_s1": 7091.666666666667,
+    "url": "https://it.fiido.com/products/fiido-t2-longtail-cargo-ebike-for-versatile-all-terrain",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 3085,
+    "testo_sha256": "d3d7227b38fe360a860a45591cd0f99efbdac8d1f871f1cabd9b1ab47ab380a1"
+   },
+   {
+    "chiave": "trek",
+    "nome": "Trek",
+    "dominio": "trekbikes.com",
+    "notorieta_s1": 3625.0,
+    "url": "https://www.trekbikes.com/it/it_IT/biciclette/bici-ibride/bici-ibride-elettriche/verve/f/F436E/verve%252b-4/40514/?colorCode=grey",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "safari_webarchive_a_mano",
+    "parole": 1249,
+    "testo_sha256": "855693b391c9b91bd86d53842b58923c7d39136200e3abc438eee90c6132d571"
+   },
+   {
+    "chiave": "tenways",
+    "nome": "Tenways",
+    "dominio": "tenways.com",
+    "notorieta_s1": 1212.5,
+    "url": "https://www.tenways.com/it/products/cgo600-pro",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1600,
+    "testo_sha256": "3505f093a2a5d58aeb127ba06c953f11b3a88d412b0c7da68e7ce2cdd62df118"
+   },
+   {
+    "chiave": "tern",
+    "nome": "Tern",
+    "dominio": "ternbicycles.com",
+    "notorieta_s1": 64.16666666666667,
+    "url": "https://www.ternbicycles.com/it/bikes/471/quick-haul-long-d9",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 650,
+    "testo_sha256": "f52f886730079cc05be8f2dbc9ee90cbfdfeeeefe624b0bdc8651e34052db084"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "cube",
+    "nome": "Cube",
+    "dominio": "cube.eu",
+    "notorieta_s1": 2308.3333333333335
+   },
+   {
+    "chiave": "fiido",
+    "nome": "Fiido",
+    "dominio": "fiido.com",
+    "notorieta_s1": 7091.666666666667
+   },
+   {
+    "chiave": "trek",
+    "nome": "Trek",
+    "dominio": "trekbikes.com",
+    "notorieta_s1": 3625.0
+   },
+   {
+    "chiave": "tenways",
+    "nome": "Tenways",
+    "dominio": "tenways.com",
+    "notorieta_s1": 1212.5
+   },
+   {
+    "chiave": "tern",
+    "nome": "Tern",
+    "dominio": "ternbicycles.com",
+    "notorieta_s1": 64.16666666666667
+   },
+   {
+    "chiave": "eleglide",
+    "nome": "Eleglide",
+    "dominio": "eleglide.com",
+    "notorieta_s1": 646.6666666666666
+   },
+   {
+    "chiave": "engwe",
+    "nome": "Engwe",
+    "dominio": "engwe.com",
+    "notorieta_s1": 17225.0
+   },
+   {
+    "chiave": "haibike",
+    "nome": "Haibike",
+    "dominio": "haibike.com",
+    "notorieta_s1": 3741.6666666666665
+   },
+   {
+    "chiave": "kalkhoff",
+    "nome": "Kalkhoff",
+    "dominio": "kalkhoff-bikes.com",
+    "notorieta_s1": 305.8333333333333
+   },
+   {
+    "chiave": "specialized",
+    "nome": "Specialized",
+    "dominio": "specialized.com",
+    "notorieta_s1": 42783.333333333336
+   },
+   {
+    "chiave": "urban arrow",
+    "nome": "Urban Arrow",
+    "dominio": "urbanarrow.com",
+    "notorieta_s1": 320.0
+   },
+   {
+    "chiave": "cannondale",
+    "nome": "Cannondale",
+    "dominio": "cannondale.com",
+    "notorieta_s1": 18483.333333333332
+   },
+   {
+    "chiave": "yuba",
+    "nome": "Yuba",
+    "dominio": "yubabikes.com",
+    "notorieta_s1": 1568.3333333333333
+   },
+   {
+    "chiave": "winora",
+    "nome": "Winora",
+    "dominio": "winora.com",
+    "notorieta_s1": 856.6666666666666
+   }
+  ],
+  "sostituzioni": []
+ },
+ "sport_01": {
+  "domanda": "Quali sono le migliori scarpe da trekking da scegliere?",
+  "settore": "sport",
+  "volume_domanda": 200.0,
+  "sottotema": "trekking e montagna",
+  "piu_noto": {
+   "chiave": "adidas",
+   "nome": "Adidas",
+   "dominio": "adidas.it",
+   "notorieta_s1": 578500.0
+  },
+  "pagine": [
+   {
+    "chiave": "merrell",
+    "nome": "Merrell",
+    "dominio": "merrell.com",
+    "notorieta_s1": 7450.0,
+    "url": "https://www.merrell.com/IT/en_IT/moab-3-gore-tex/60275M.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 444,
+    "testo_sha256": "7b1df91c8b04df31122a28a2176c83dcd9af86698e506e3ab878f6c0d06ac67a"
+   },
+   {
+    "chiave": "salomon",
+    "nome": "Salomon",
+    "dominio": "salomon.com",
+    "notorieta_s1": 83041.66666666667,
+    "url": "https://www.salomon.com/it-it/product/x-ultra-5-gore-tex-li6285",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 449,
+    "testo_sha256": "0101b5c2d1983196c6868c3d49b166ef09f14bb0446c90e9c7ea642fc2bfc532"
+   },
+   {
+    "chiave": "cmp",
+    "nome": "CMP",
+    "dominio": "cmpsport.com",
+    "notorieta_s1": 42041.666666666664,
+    "url": "https://www.cmpsport.com/it/scarpa-trekking-da-uomo-rigel-low-wp-3q13247",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 201,
+    "testo_sha256": "b317a46da222ea69f4f4d41e5035e4abfdf2c08c302648e45ce96b1e66cfd4b7"
+   },
+   {
+    "chiave": "la sportiva",
+    "nome": "La Sportiva",
+    "dominio": "lasportiva.com",
+    "notorieta_s1": 46833.333333333336,
+    "url": "https://www.lasportiva.com/en/shoes-approach-tx4-evo-gtx-man-zfas052",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 598,
+    "testo_sha256": "c8ff31f8ac6dda9ad329a0f3345ae3b3b804fddef4bf31efffbd4cae45357e50"
+   },
+   {
+    "chiave": "columbia",
+    "nome": "Columbia",
+    "dominio": "columbiasportswear.it",
+    "notorieta_s1": 1573.3333333333333,
+    "url": "https://www.columbiasportswear.it/IT/p/scarpe-da-camminata-crestwood-da-uomo-1781181.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 202,
+    "testo_sha256": "de09ede7fc0fe2d6922afae85966aa59bdbba9f8690c2288e5ebaa056895e668"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "merrell",
+    "nome": "Merrell",
+    "dominio": "merrell.com",
+    "notorieta_s1": 7450.0
+   },
+   {
+    "chiave": "salomon",
+    "nome": "Salomon",
+    "dominio": "salomon.com",
+    "notorieta_s1": 83041.66666666667
+   },
+   {
+    "chiave": "cmp",
+    "nome": "CMP",
+    "dominio": "cmpsport.com",
+    "notorieta_s1": 42041.666666666664
+   },
+   {
+    "chiave": "la sportiva",
+    "nome": "La Sportiva",
+    "dominio": "lasportiva.com",
+    "notorieta_s1": 46833.333333333336
+   },
+   {
+    "chiave": "columbia",
+    "nome": "Columbia",
+    "dominio": "columbiasportswear.it",
+    "notorieta_s1": 1573.3333333333333
+   },
+   {
+    "chiave": "lowa",
+    "nome": "Lowa",
+    "dominio": "lowa.com",
+    "notorieta_s1": 2483.3333333333335
+   },
+   {
+    "chiave": "hoka",
+    "nome": "Hoka",
+    "dominio": "hoka.com",
+    "notorieta_s1": 62041.666666666664
+   },
+   {
+    "chiave": "adidas",
+    "nome": "Adidas",
+    "dominio": "adidas.it",
+    "notorieta_s1": 578500.0
+   },
+   {
+    "chiave": "grisport",
+    "nome": "Grisport",
+    "dominio": "grisport.it",
+    "notorieta_s1": 4233.333333333333
+   },
+   {
+    "chiave": "meindl",
+    "nome": "Meindl",
+    "dominio": "meindl.de",
+    "notorieta_s1": 1270.0
+   },
+   {
+    "chiave": "salewa",
+    "nome": "Salewa",
+    "dominio": "salewa.com",
+    "notorieta_s1": 33616.666666666664
+   }
+  ],
+  "sostituzioni": []
+ },
+ "sport_13": {
+  "domanda": "Qual è la racchetta da padel migliore da scegliere?",
+  "settore": "sport",
+  "volume_domanda": 156.7,
+  "sottotema": "padel",
+  "piu_noto": {
+   "chiave": "adidas",
+   "nome": "Adidas",
+   "dominio": "adidas.it",
+   "notorieta_s1": 578500.0
+  },
+  "pagine": [
+   {
+    "chiave": "nox",
+    "nome": "Nox",
+    "dominio": "noxsport.com",
+    "notorieta_s1": 1323.3333333333333,
+    "url": "https://noxsport.com/it/products/pala-at10-genius-18k-alum-2026-by-agustin-tapia",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 681,
+    "testo_sha256": "501f6011fa4164e88bf51912ecfcf8649fcf744e94a6bddd3e553317c41a806d"
+   },
+   {
+    "chiave": "bullpadel",
+    "nome": "Bullpadel",
+    "dominio": "bullpadel.com",
+    "notorieta_s1": 4316.666666666667,
+    "url": "https://www.bullpadel.com/gb/5677-racket-bullpadel-vertex-05.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1775,
+    "testo_sha256": "41a922cb37d14bef0204ed5bcc7ca0fbc9c58d02934cef2e2eae102acc327c05"
+   },
+   {
+    "chiave": "babolat",
+    "nome": "Babolat",
+    "dominio": "babolat.com",
+    "notorieta_s1": 9241.666666666666,
+    "url": "https://www.babolat.com/us/counter-viper-2.6/150177.html",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 538,
+    "testo_sha256": "7b94b482711039e09a0f63540de14d7a69a04f9e562fe1d494b1c4d3792e6e6c"
+   },
+   {
+    "chiave": "dunlop",
+    "nome": "Dunlop",
+    "dominio": "dunlopsports.com",
+    "notorieta_s1": 519.1666666666666,
+    "url": "https://dunlopsports.com/en-gb/padel/rackets/aerostar",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 216,
+    "testo_sha256": "34fbe4ffd39171009a0df0e9810b92414940f63b2c0d825a55ccee535589fa5d"
+   },
+   {
+    "chiave": "siux",
+    "nome": "Siux",
+    "dominio": "siuxpadel.com",
+    "notorieta_s1": 567.5,
+    "url": "https://www.siuxpadel.com/it/products/siux-beat-hybrid-2026",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 272,
+    "testo_sha256": "31b3938517f43189bc744447a2f2b1d531535a53e8e2d536924041c3eb41fa4c"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "nox",
+    "nome": "Nox",
+    "dominio": "noxsport.com",
+    "notorieta_s1": 1323.3333333333333
+   },
+   {
+    "chiave": "bullpadel",
+    "nome": "Bullpadel",
+    "dominio": "bullpadel.com",
+    "notorieta_s1": 4316.666666666667
+   },
+   {
+    "chiave": "adidas",
+    "nome": "Adidas",
+    "dominio": "adidas.it",
+    "notorieta_s1": 578500.0
+   },
+   {
+    "chiave": "babolat",
+    "nome": "Babolat",
+    "dominio": "babolat.com",
+    "notorieta_s1": 9241.666666666666
+   },
+   {
+    "chiave": "dunlop",
+    "nome": "Dunlop",
+    "dominio": "dunlopsports.com",
+    "notorieta_s1": 519.1666666666666
+   },
+   {
+    "chiave": "siux",
+    "nome": "Siux",
+    "dominio": "siuxpadel.com",
+    "notorieta_s1": 567.5
+   },
+   {
+    "chiave": "wilson",
+    "nome": "Wilson",
+    "dominio": "wilson.com",
+    "notorieta_s1": 614.1666666666666
+   }
+  ],
+  "sostituzioni": []
+ },
+ "moda_beauty_14": {
+  "domanda": "Qual è la migliore crema contorno occhi da scegliere?",
+  "settore": "moda_beauty",
+  "volume_domanda": 2341.7,
+  "sottotema": "contorno occhi",
+  "piu_noto": {
+   "chiave": "la roche posay",
+   "nome": "La Roche-Posay",
+   "dominio": "larocheposay.it",
+   "notorieta_s1": 67041.66666666667
+  },
+  "pagine": [
+   {
+    "chiave": "cerave",
+    "nome": "CeraVe",
+    "dominio": "cerave.it",
+    "notorieta_s1": 43183.333333333336,
+    "url": "https://www.cerave.it/tutti-i-prodotti/idratanti/crema-contorno-occhi-riparatrice",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 452,
+    "testo_sha256": "0d8c2ff211e7e729399c63692bf30ecd2cab8c4c1950956babdcc79373f49594"
+   },
+   {
+    "chiave": "the ordinary",
+    "nome": "The Ordinary",
+    "dominio": "theordinary.com",
+    "notorieta_s1": 33000.0,
+    "url": "https://theordinary.com/it-it/caffeine-solution-5-egcg-eye-serum-100412.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 859,
+    "testo_sha256": "184f7252bd65ba3451245b1f50c716cd3607dfe0c64ae3b2c26f3e17577bbf05"
+   },
+   {
+    "chiave": "avene",
+    "nome": "Avène",
+    "dominio": "avene.it",
+    "notorieta_s1": 13941.666666666666,
+    "url": "https://www.avene.it/p/hyaluron-activ-b3-trattamento-contorno-occhi-tripla-correzione-3282770394313-30bef97c",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 442,
+    "testo_sha256": "ef8cf5e1e9910aa917bf8af56bbcfb1f3073dac1593658c3ff49b57f50b29e85"
+   },
+   {
+    "chiave": "filorga",
+    "nome": "Filorga",
+    "dominio": "filorga.com",
+    "notorieta_s1": 14958.333333333334,
+    "url": "https://it.filorga.com/products/time-filler-eyes-5xp?variant=44474402111765",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 123,
+    "testo_sha256": "ee55e162c14007673b7f65b3fe09e1c86527b3f9c46e4440fc0df28df0db5876"
+   },
+   {
+    "chiave": "kiehls",
+    "nome": "Kiehl’s",
+    "dominio": "kiehls.it",
+    "notorieta_s1": 10466.666666666666,
+    "url": "https://www.kiehls.it/skincare-viso/occhiaie/creamy-eye-treatment-with-avocado/258.html",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 515,
+    "testo_sha256": "d9fe240b7b0c62a5bff34181e54357980702f3742d0d48f49e893b11a2bd161b"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "cerave",
+    "nome": "CeraVe",
+    "dominio": "cerave.it",
+    "notorieta_s1": 43183.333333333336
+   },
+   {
+    "chiave": "the ordinary",
+    "nome": "The Ordinary",
+    "dominio": "theordinary.com",
+    "notorieta_s1": 33000.0
+   },
+   {
+    "chiave": "la roche posay",
+    "nome": "La Roche-Posay",
+    "dominio": "larocheposay.it",
+    "notorieta_s1": 67041.66666666667
+   },
+   {
+    "chiave": "avene",
+    "nome": "Avène",
+    "dominio": "avene.it",
+    "notorieta_s1": 13941.666666666666
+   },
+   {
+    "chiave": "filorga",
+    "nome": "Filorga",
+    "dominio": "filorga.com",
+    "notorieta_s1": 14958.333333333334
+   },
+   {
+    "chiave": "kiehls",
+    "nome": "Kiehl’s",
+    "dominio": "kiehls.it",
+    "notorieta_s1": 10466.666666666666
+   },
+   {
+    "chiave": "nivea",
+    "nome": "Nivea",
+    "dominio": "nivea.it",
+    "notorieta_s1": 13408.333333333334
+   },
+   {
+    "chiave": "garnier",
+    "nome": "Garnier",
+    "dominio": "garnier.it",
+    "notorieta_s1": 18641.666666666668
+   },
+   {
+    "chiave": "shiseido",
+    "nome": "Shiseido",
+    "dominio": "shiseido.it",
+    "notorieta_s1": 21325.0
+   },
+   {
+    "chiave": "clinique",
+    "nome": "Clinique",
+    "dominio": "clinique.it",
+    "notorieta_s1": 19166.666666666668
+   },
+   {
+    "chiave": "vichy",
+    "nome": "Vichy",
+    "dominio": "vichy.it",
+    "notorieta_s1": 12816.666666666666
+   },
+   {
+    "chiave": "neutrogena",
+    "nome": "Neutrogena",
+    "dominio": "neutrogena.it",
+    "notorieta_s1": 5025.0
+   },
+   {
+    "chiave": "bioderma",
+    "nome": "Bioderma",
+    "dominio": "bioderma.it",
+    "notorieta_s1": 10483.333333333334
+   },
+   {
+    "chiave": "cetaphil",
+    "nome": "Cetaphil",
+    "dominio": "cetaphil.it",
+    "notorieta_s1": 6675.0
+   },
+   {
+    "chiave": "clarins",
+    "nome": "Clarins",
+    "dominio": "clarins.it",
+    "notorieta_s1": 19100.0
+   }
+  ],
+  "sostituzioni": []
+ },
+ "moda_beauty_18": {
+  "domanda": "Qual è il retinolo migliore?",
+  "settore": "moda_beauty",
+  "volume_domanda": 891.7,
+  "sottotema": "creme viso e skincare",
+  "piu_noto": {
+   "chiave": "la roche posay",
+   "nome": "La Roche-Posay",
+   "dominio": "larocheposay.it",
+   "notorieta_s1": 67041.66666666667
+  },
+  "pagine": [
+   {
+    "chiave": "the ordinary",
+    "nome": "The Ordinary",
+    "dominio": "theordinary.com",
+    "notorieta_s1": 33000.0,
+    "url": "https://theordinary.com/it-it/retinol-02-in-squalane-serum-100439.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 738,
+    "testo_sha256": "0c90127a72c6cbc21285074463ca2926748f475bbb03eec311bbe953bb27c43e"
+   },
+   {
+    "chiave": "cerave",
+    "nome": "CeraVe",
+    "dominio": "cerave.it",
+    "notorieta_s1": 43183.333333333336,
+    "url": "https://www.cerave.it/tutti-i-prodotti/sieri-viso/siero-anti-segni-con-retinolo",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 481,
+    "testo_sha256": "deed9d5abd0171787f50466c2c9f39432d73d573085fb641fe9972a77813a5fe"
+   },
+   {
+    "chiave": "paulas choice",
+    "nome": "Paula’s Choice",
+    "dominio": "paulaschoice.it",
+    "notorieta_s1": 8383.333333333334,
+    "url": "https://www.paulaschoice.it/it/clinical-retinol-treatment/m8010.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1985,
+    "testo_sha256": "bceba95a479c9fe30e63c1a6b6cc44efe51d4907dd2037fe41f368daaea617b7"
+   },
+   {
+    "chiave": "medik8",
+    "nome": "Medik8",
+    "dominio": "medik8.com",
+    "notorieta_s1": 3850.0,
+    "url": "https://it.medik8.com/products/crystal-retinal",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 3799,
+    "testo_sha256": "0437f799b7e7707b329ba7a707831318e30bc7a4f66b2ee44b014955639e5955"
+   },
+   {
+    "chiave": "garnier",
+    "nome": "Garnier",
+    "dominio": "garnier.it",
+    "notorieta_s1": 18641.666666666668,
+    "url": "https://www.garnier.it/skinactive/hydra-bomb/maschera-in-tessuto-retinolo",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 306,
+    "testo_sha256": "d44d71efbb63f8766802c24319a1ab7a6f7da7c3c2d39d7481637f0871a94e59"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "the ordinary",
+    "nome": "The Ordinary",
+    "dominio": "theordinary.com",
+    "notorieta_s1": 33000.0
+   },
+   {
+    "chiave": "cerave",
+    "nome": "CeraVe",
+    "dominio": "cerave.it",
+    "notorieta_s1": 43183.333333333336
+   },
+   {
+    "chiave": "la roche posay",
+    "nome": "La Roche-Posay",
+    "dominio": "larocheposay.it",
+    "notorieta_s1": 67041.66666666667
+   },
+   {
+    "chiave": "paulas choice",
+    "nome": "Paula’s Choice",
+    "dominio": "paulaschoice.it",
+    "notorieta_s1": 8383.333333333334
+   },
+   {
+    "chiave": "medik8",
+    "nome": "Medik8",
+    "dominio": "medik8.com",
+    "notorieta_s1": 3850.0
+   },
+   {
+    "chiave": "garnier",
+    "nome": "Garnier",
+    "dominio": "garnier.it",
+    "notorieta_s1": 18641.666666666668
+   },
+   {
+    "chiave": "the inkey list",
+    "nome": "The Inkey List",
+    "dominio": "theinkeylist.com",
+    "notorieta_s1": 1673.3333333333333
+   },
+   {
+    "chiave": "skinceuticals",
+    "nome": "SkinCeuticals",
+    "dominio": "skinceuticals.it",
+    "notorieta_s1": 11958.333333333334
+   },
+   {
+    "chiave": "neutrogena",
+    "nome": "Neutrogena",
+    "dominio": "neutrogena.it",
+    "notorieta_s1": 5025.0
+   }
+  ],
+  "sostituzioni": []
+ },
+ "moda_beauty_03": {
+  "domanda": "Quali profumi originali con prezzi bassissimi dovrei scegliere?",
+  "settore": "moda_beauty",
+  "volume_domanda": 777.5,
+  "sottotema": "profumi",
+  "piu_noto": {
+   "chiave": "zara",
+   "nome": "Zara",
+   "dominio": "zara.com",
+   "notorieta_s1": 2588333.3333333335
+  },
+  "pagine": [
+   {
+    "chiave": "elizabeth arden",
+    "nome": "Elizabeth Arden",
+    "dominio": "elizabetharden.es",
+    "notorieta_s1": 5575.0,
+    "url": "https://www.elizabetharden.com/products/green-tea-scent-spray",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 733,
+    "testo_sha256": "dacecf4fab2e4cf84cb5c532b9cf580c742b9fa8151c374391134a0615f1c9b2"
+   },
+   {
+    "chiave": "tesori d oriente",
+    "nome": "Tesori d'Oriente",
+    "dominio": "tesoridoriente.com",
+    "notorieta_s1": 199.16666666666666,
+    "url": "https://www.tesoridoriente.com/profumo-aromatico/byzantium",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 126,
+    "testo_sha256": "c630e70fc658fae36c1b8235dc6f3ac43cca75a1f2d80541e89ba8a7d6fb26cd"
+   },
+   {
+    "chiave": "calvin klein",
+    "nome": "Calvin Klein",
+    "dominio": "calvinklein.it",
+    "notorieta_s1": 153916.66666666666,
+    "url": "https://www.calvinklein.it/ck-one-eau-de-toilette-unisex-100-ml-9350070989mul",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 91,
+    "testo_sha256": "db39be27d5126b91544c014865ca21fe304d968e6c7d66e4a70c9853d30cdf04"
+   },
+   {
+    "chiave": "lattafa",
+    "nome": "Lattafa",
+    "dominio": "lattafa.com",
+    "notorieta_s1": 23666.666666666668,
+    "url": "https://lattafa.com/product/yara/",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 62,
+    "testo_sha256": "0bf213db605e5b926a38ffc44bab3018c33d498edb133c5f68ede2689e91e5e2"
+   },
+   {
+    "chiave": "lalique",
+    "nome": "Lalique",
+    "dominio": "lalique.com",
+    "notorieta_s1": 3016.6666666666665,
+    "url": "https://fr.lalique.com/products/encre-noire-eau-de-toilette-m13201-1",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 270,
+    "testo_sha256": "15f2c20ad9c57aa1dff8620829b5cc701ec114848908f6d3c01fb7d4b7102373"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "zara",
+    "nome": "Zara",
+    "dominio": "zara.com",
+    "notorieta_s1": 2588333.3333333335
+   },
+   {
+    "chiave": "elizabeth arden",
+    "nome": "Elizabeth Arden",
+    "dominio": "elizabetharden.es",
+    "notorieta_s1": 5575.0
+   },
+   {
+    "chiave": "tesori d oriente",
+    "nome": "Tesori d'Oriente",
+    "dominio": "tesoridoriente.com",
+    "notorieta_s1": 199.16666666666666
+   },
+   {
+    "chiave": "calvin klein",
+    "nome": "Calvin Klein",
+    "dominio": "calvinklein.it",
+    "notorieta_s1": 153916.66666666666
+   },
+   {
+    "chiave": "lattafa",
+    "nome": "Lattafa",
+    "dominio": "lattafa.com",
+    "notorieta_s1": 23666.666666666668
+   },
+   {
+    "chiave": "lalique",
+    "nome": "Lalique",
+    "dominio": "lalique.com",
+    "notorieta_s1": 3016.6666666666665
+   },
+   {
+    "chiave": "davidoff",
+    "nome": "Davidoff",
+    "dominio": "zinodavidoff.com",
+    "notorieta_s1": 7025.0
+   },
+   {
+    "chiave": "jo malone",
+    "nome": "Jo Malone",
+    "dominio": "jomalone.it",
+    "notorieta_s1": 15683.333333333334
+   },
+   {
+    "chiave": "dior",
+    "nome": "Dior",
+    "dominio": "dior.com",
+    "notorieta_s1": 127083.33333333333
+   },
+   {
+    "chiave": "chanel",
+    "nome": "Chanel",
+    "dominio": "chanel.com",
+    "notorieta_s1": 169500.0
+   },
+   {
+    "chiave": "adidas",
+    "nome": "Adidas",
+    "dominio": "adidas.it",
+    "notorieta_s1": 578500.0
+   },
+   {
+    "chiave": "benetton",
+    "nome": "Benetton",
+    "dominio": "benetton.com",
+    "notorieta_s1": 192916.66666666666
+   },
+   {
+    "chiave": "berdoues",
+    "nome": "Berdoues",
+    "dominio": "berdoues.com",
+    "notorieta_s1": 68.33333333333333
+   },
+   {
+    "chiave": "afnan",
+    "nome": "Afnan",
+    "dominio": "afnan.com",
+    "notorieta_s1": 4800.0
+   },
+   {
+    "chiave": "versace",
+    "nome": "Versace",
+    "dominio": "versace.com",
+    "notorieta_s1": 59708.333333333336
+   },
+   {
+    "chiave": "aquolina",
+    "nome": "Aquolina",
+    "dominio": "aquolina.it",
+    "notorieta_s1": 3775.0
+   },
+   {
+    "chiave": "bentley",
+    "nome": "Bentley",
+    "dominio": "bentleymotors.com",
+    "notorieta_s1": 34950.0
+   },
+   {
+    "chiave": "moschino",
+    "nome": "Moschino",
+    "dominio": "moschino.com",
+    "notorieta_s1": 20825.0
+   },
+   {
+    "chiave": "armani",
+    "nome": "Armani",
+    "dominio": "armani.com",
+    "notorieta_s1": 138333.33333333334
+   },
+   {
+    "chiave": "chopard",
+    "nome": "Chopard",
+    "dominio": "chopard.com",
+    "notorieta_s1": 5958.333333333333
+   },
+   {
+    "chiave": "tom ford",
+    "nome": "Tom Ford",
+    "dominio": "tomford.com",
+    "notorieta_s1": 44683.333333333336
+   },
+   {
+    "chiave": "creed",
+    "nome": "Creed",
+    "dominio": "creedfragrance.com",
+    "notorieta_s1": 15041.666666666666
+   },
+   {
+    "chiave": "revlon",
+    "nome": "Revlon",
+    "dominio": "revlon.com",
+    "notorieta_s1": 5283.333333333333
+   },
+   {
+    "chiave": "guess",
+    "nome": "Guess",
+    "dominio": "guess.eu",
+    "notorieta_s1": 244416.66666666666
+   },
+   {
+    "chiave": "lanvin",
+    "nome": "Lanvin",
+    "dominio": "lanvin.com",
+    "notorieta_s1": 46316.666666666664
+   },
+   {
+    "chiave": "jo loves",
+    "nome": "Jo Loves",
+    "dominio": "joloves.com",
+    "notorieta_s1": 143.33333333333334
+   },
+   {
+    "chiave": "montblanc",
+    "nome": "Montblanc",
+    "dominio": "montblanc.com",
+    "notorieta_s1": 63416.666666666664
+   },
+   {
+    "chiave": "frederic malle",
+    "nome": "Frederic Malle",
+    "dominio": "fredericmalle.com",
+    "notorieta_s1": 3708.3333333333335
+   },
+   {
+    "chiave": "azzaro",
+    "nome": "Azzaro",
+    "dominio": "azzaro.com",
+    "notorieta_s1": 10016.666666666666
+   }
+  ],
+  "sostituzioni": []
+ },
+ "moda_beauty_23": {
+  "domanda": "Quali sono i profumi buoni da uomo che mi consiglieresti?",
+  "settore": "moda_beauty",
+  "volume_domanda": 690.0,
+  "sottotema": "profumi",
+  "piu_noto": {
+   "chiave": "zara",
+   "nome": "Zara",
+   "dominio": "zara.com",
+   "notorieta_s1": 2588333.3333333335
+  },
+  "pagine": [
+   {
+    "chiave": "davidoff",
+    "nome": "Davidoff",
+    "dominio": "zinodavidoff.com",
+    "notorieta_s1": 7025.0,
+    "url": "https://www.zinodavidoff.com/fragrances/cool-water-eau-de-toilette-40-ml",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 344,
+    "testo_sha256": "1927c0987db5db2e9cef20d17c5c7d9727fbe5cffd769603d6c5a667e0c6f808"
+   },
+   {
+    "chiave": "montblanc",
+    "nome": "Montblanc",
+    "dominio": "montblanc.com",
+    "notorieta_s1": 63416.666666666664,
+    "url": "https://www.montblanc.com/it-it/explorer-eau-de-parfum-100-ml-MB124069VG.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 106,
+    "testo_sha256": "c7e32a8ff3c5aaf71a3e83390d5706c9a4eba79fbb7c417727c1c034994b0cb3"
+   },
+   {
+    "chiave": "dior",
+    "nome": "Dior",
+    "dominio": "dior.com",
+    "notorieta_s1": 127083.33333333333,
+    "url": "https://www.dior.com/en_int/beauty/products/sauvage-eau-de-parfum-Y0785220.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 889,
+    "testo_sha256": "9ba2a330b938ecec7b5fa51fe361568d9a54c036a0f09160c7f3542832b721f7"
+   },
+   {
+    "chiave": "versace",
+    "nome": "Versace",
+    "dominio": "versace.com",
+    "notorieta_s1": 59708.333333333336,
+    "url": "https://www.versace.com/it/it/uomo/accessori/profumi-e-cura-del-corpo/dylan-blue-pour-homme/dylan-blue-pour-homme-edt-100-ml/R721010-R100MLS_RNUL.html",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 168,
+    "testo_sha256": "088d0eea1d6c65ff508d6285221b02c00dcefb6a652700615250381ea418e627"
+   },
+   {
+    "chiave": "creed",
+    "nome": "Creed",
+    "dominio": "creedfragrance.com",
+    "notorieta_s1": 15041.666666666666,
+    "url": "https://www.creedfragrance.com/p/aventus/12870029/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 460,
+    "testo_sha256": "f70100af772d6b65fc3e13bae3ee8800e0cedcffef5900954f3ec539d9e3d715"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "zara",
+    "nome": "Zara",
+    "dominio": "zara.com",
+    "notorieta_s1": 2588333.3333333335
+   },
+   {
+    "chiave": "davidoff",
+    "nome": "Davidoff",
+    "dominio": "zinodavidoff.com",
+    "notorieta_s1": 7025.0
+   },
+   {
+    "chiave": "montblanc",
+    "nome": "Montblanc",
+    "dominio": "montblanc.com",
+    "notorieta_s1": 63416.666666666664
+   },
+   {
+    "chiave": "dior",
+    "nome": "Dior",
+    "dominio": "dior.com",
+    "notorieta_s1": 127083.33333333333
+   },
+   {
+    "chiave": "versace",
+    "nome": "Versace",
+    "dominio": "versace.com",
+    "notorieta_s1": 59708.333333333336
+   },
+   {
+    "chiave": "creed",
+    "nome": "Creed",
+    "dominio": "creedfragrance.com",
+    "notorieta_s1": 15041.666666666666
+   },
+   {
+    "chiave": "chanel",
+    "nome": "Chanel",
+    "dominio": "chanel.com",
+    "notorieta_s1": 169500.0
+   },
+   {
+    "chiave": "lattafa",
+    "nome": "Lattafa",
+    "dominio": "lattafa.com",
+    "notorieta_s1": 23666.666666666668
+   },
+   {
+    "chiave": "lalique",
+    "nome": "Lalique",
+    "dominio": "lalique.com",
+    "notorieta_s1": 3016.6666666666665
+   },
+   {
+    "chiave": "prada",
+    "nome": "Prada",
+    "dominio": "prada.com",
+    "notorieta_s1": 140416.66666666666
+   },
+   {
+    "chiave": "bentley",
+    "nome": "Bentley",
+    "dominio": "bentleymotors.com",
+    "notorieta_s1": 34950.0
+   },
+   {
+    "chiave": "armani",
+    "nome": "Armani",
+    "dominio": "armani.com",
+    "notorieta_s1": 138333.33333333334
+   },
+   {
+    "chiave": "azzaro",
+    "nome": "Azzaro",
+    "dominio": "azzaro.com",
+    "notorieta_s1": 10016.666666666666
+   },
+   {
+    "chiave": "jean paul gaultier",
+    "nome": "Jean Paul Gaultier",
+    "dominio": "jeanpaulgaultier.com",
+    "notorieta_s1": 42941.666666666664
+   },
+   {
+    "chiave": "ysl",
+    "nome": "YSL",
+    "dominio": "ysl.com",
+    "notorieta_s1": 73625.0
+   },
+   {
+    "chiave": "tom ford",
+    "nome": "Tom Ford",
+    "dominio": "tomford.com",
+    "notorieta_s1": 44683.333333333336
+   },
+   {
+    "chiave": "louis vuitton",
+    "nome": "Louis Vuitton",
+    "dominio": "louisvuitton.com",
+    "notorieta_s1": 441250.0
+   },
+   {
+    "chiave": "parfums de marly",
+    "nome": "Parfums de Marly",
+    "dominio": "parfums-de-marly.com",
+    "notorieta_s1": 8108.333333333333
+   },
+   {
+    "chiave": "calvin klein",
+    "nome": "Calvin Klein",
+    "dominio": "calvinklein.it",
+    "notorieta_s1": 153916.66666666666
+   },
+   {
+    "chiave": "afnan",
+    "nome": "Afnan",
+    "dominio": "afnan.com",
+    "notorieta_s1": 4800.0
+   },
+   {
+    "chiave": "xerjoff",
+    "nome": "Xerjoff",
+    "dominio": "xerjoff.com",
+    "notorieta_s1": 16633.333333333332
+   },
+   {
+    "chiave": "adidas",
+    "nome": "Adidas",
+    "dominio": "adidas.it",
+    "notorieta_s1": 578500.0
+   },
+   {
+    "chiave": "givenchy",
+    "nome": "Givenchy",
+    "dominio": "givenchy.com",
+    "notorieta_s1": 31475.0
+   },
+   {
+    "chiave": "rochas",
+    "nome": "Rochas",
+    "dominio": "rochas.com",
+    "notorieta_s1": 835.8333333333334
+   },
+   {
+    "chiave": "issey miyake",
+    "nome": "Issey Miyake",
+    "dominio": "isseymiyake.com",
+    "notorieta_s1": 13750.0
+   },
+   {
+    "chiave": "valentino",
+    "nome": "Valentino",
+    "dominio": "valentino.com",
+    "notorieta_s1": 184833.33333333334
+   }
+  ],
+  "sostituzioni": []
+ },
+ "moda_beauty_05": {
+  "domanda": "Qual è il miglior siero antimacchie da scegliere?",
+  "settore": "moda_beauty",
+  "volume_domanda": 526.7,
+  "sottotema": "sieri",
+  "piu_noto": {
+   "chiave": "caudalie",
+   "nome": "Caudalie",
+   "dominio": "caudalie.com",
+   "notorieta_s1": 77250.0
+  },
+  "pagine": [
+   {
+    "chiave": "the ordinary",
+    "nome": "The Ordinary",
+    "dominio": "theordinary.com",
+    "notorieta_s1": 33000.0,
+    "url": "https://theordinary.com/it-it/alpha-arbutin-2-ha-serum-100401.html",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 584,
+    "testo_sha256": "02351a95cf5d553a4fe37eb8281ece21850952f10ec229fd6b9f46984a8585ea"
+   },
+   {
+    "chiave": "garnier",
+    "nome": "Garnier",
+    "dominio": "garnier.it",
+    "notorieta_s1": 18641.666666666668,
+    "url": "https://www.garnier.it/vitamina-c/siero-anti-macchie-vitamina-c",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 686,
+    "testo_sha256": "049b600438c671b7eeef9cb7b5d68e7c5e8c68e5f97fed693a73506a4b81053f"
+   },
+   {
+    "chiave": "eucerin",
+    "nome": "Eucerin",
+    "dominio": "eucerin.it",
+    "notorieta_s1": 16116.666666666666,
+    "url": "https://www.eucerin.it/prodotti/anti-pigment/dual-serum",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 1465,
+    "testo_sha256": "4165d26b4bc54d730ff083ed27e17b7105d250571bda1b7cb735f2db20766908"
+   },
+   {
+    "chiave": "nivea",
+    "nome": "Nivea",
+    "dominio": "nivea.it",
+    "notorieta_s1": 13408.333333333334,
+    "url": "https://www.nivea.it/prodotti/luminous630%C2%AE-anti-macchie-siero-trattamento-avanzato-40059007845200051.html",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 588,
+    "testo_sha256": "17e00c830e9c0b8723b4caeb441d05c9c69f9ec00c8fd20bca5b6b2578d5b8a4"
+   },
+   {
+    "chiave": "revox b77",
+    "nome": "Revox B77",
+    "dominio": "revoxb77.com",
+    "notorieta_s1": 714.1666666666666,
+    "url": "https://www.revoxb77.com/products/alpha-arbutin-2-ha",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 468,
+    "testo_sha256": "72e987703c227c6b46e84150aa184c404c7cd29c43796d9567cb31a69b7b035f"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "the ordinary",
+    "nome": "The Ordinary",
+    "dominio": "theordinary.com",
+    "notorieta_s1": 33000.0
+   },
+   {
+    "chiave": "garnier",
+    "nome": "Garnier",
+    "dominio": "garnier.it",
+    "notorieta_s1": 18641.666666666668
+   },
+   {
+    "chiave": "eucerin",
+    "nome": "Eucerin",
+    "dominio": "eucerin.it",
+    "notorieta_s1": 16116.666666666666
+   },
+   {
+    "chiave": "nivea",
+    "nome": "Nivea",
+    "dominio": "nivea.it",
+    "notorieta_s1": 13408.333333333334
+   },
+   {
+    "chiave": "revox b77",
+    "nome": "Revox B77",
+    "dominio": "revoxb77.com",
+    "notorieta_s1": 714.1666666666666
+   },
+   {
+    "chiave": "skinceuticals",
+    "nome": "SkinCeuticals",
+    "dominio": "skinceuticals.it",
+    "notorieta_s1": 11958.333333333334
+   },
+   {
+    "chiave": "caudalie",
+    "nome": "Caudalie",
+    "dominio": "caudalie.com",
+    "notorieta_s1": 77250.0
+   },
+   {
+    "chiave": "cerave",
+    "nome": "CeraVe",
+    "dominio": "cerave.it",
+    "notorieta_s1": 43183.333333333336
+   },
+   {
+    "chiave": "beauty of joseon",
+    "nome": "Beauty of Joseon",
+    "dominio": "beautyofjoseon.com",
+    "notorieta_s1": 26875.0
+   },
+   {
+    "chiave": "beiersdorf",
+    "nome": "Beiersdorf",
+    "dominio": "beiersdorf.it",
+    "notorieta_s1": 1641.6666666666667
+   },
+   {
+    "chiave": "rilastil",
+    "nome": "Rilastil",
+    "dominio": "rilastil.com",
+    "notorieta_s1": 19666.666666666668
+   }
+  ],
+  "sostituzioni": []
+ },
+ "moda_beauty_08": {
+  "domanda": "Quali sono i migliori jeans momfit da scegliere?",
+  "settore": "moda_beauty",
+  "volume_domanda": 464.2,
+  "sottotema": "generico",
+  "piu_noto": {
+   "chiave": "zara",
+   "nome": "Zara",
+   "dominio": "zara.com",
+   "notorieta_s1": 2588333.3333333335
+  },
+  "pagine": [
+   {
+    "chiave": "levis",
+    "nome": "Levi’s",
+    "dominio": "levi.com",
+    "notorieta_s1": 89875.0,
+    "url": "https://www.levi.com/IT/it_IT/abbigliamento/donna/mom-jeans-a-vita-alta/p/269860026",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 264,
+    "testo_sha256": "f2438468d5de215d2a3301018e3f64f0edd8991da509df5422453b586fb847a4"
+   },
+   {
+    "chiave": "kiabi",
+    "nome": "Kiabi",
+    "dominio": "kiabi.it",
+    "notorieta_s1": 299750.0,
+    "url": "https://www.kiabi.it/jeans-taglio-mom-fit-a-vita-alta-grigio_P953427C953430",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 45,
+    "testo_sha256": "bbc86ab996b2a7613a1ce14f610a956638e5fd5995e46fd0fad67ae150213b92"
+   },
+   {
+    "chiave": "uniqlo",
+    "nome": "Uniqlo",
+    "dominio": "uniqlo.com",
+    "notorieta_s1": 492416.6666666667,
+    "url": "https://www.uniqlo.com/it/it/products/E484037-000/00",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "browser_integrato_claude_dom",
+    "parole": 320,
+    "testo_sha256": "b3b34d6c120544d04a70a8c9215821c28949c5e84c14e1cacad846a6d7d94078"
+   },
+   {
+    "chiave": "ovs",
+    "nome": "OVS",
+    "dominio": "ovs.it",
+    "notorieta_s1": 979916.6666666666,
+    "url": "https://www.ovs.it/it/it/p/jeans-denim-mom-fit-in-puro-cotone-a-vita-alta-002696100.html",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 256,
+    "testo_sha256": "9eb6d0551677782afc52e05108d315c6a261080b3ce2c2938e0f5341b47c84d0"
+   },
+   {
+    "chiave": "bershka",
+    "nome": "Bershka",
+    "dominio": "bershka.com",
+    "notorieta_s1": 888750.0,
+    "url": "https://www.bershka.com/it/jeans-mom-fit-c0p235663678.html?colorId=428",
+    "regola": "regola 3 (ricerca a mano)",
+    "fonte": "v3",
+    "metodo": "safari_webarchive_a_mano",
+    "parole": 23,
+    "testo_sha256": "3cd9eee84800cca80ab16a43d8fbedbf9aad4996b81638fb45762506d0790d8d"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "zara",
+    "nome": "Zara",
+    "dominio": "zara.com",
+    "notorieta_s1": 2588333.3333333335
+   },
+   {
+    "chiave": "levis",
+    "nome": "Levi’s",
+    "dominio": "levi.com",
+    "notorieta_s1": 89875.0
+   },
+   {
+    "chiave": "kiabi",
+    "nome": "Kiabi",
+    "dominio": "kiabi.it",
+    "notorieta_s1": 299750.0
+   },
+   {
+    "chiave": "stradivarius",
+    "nome": "Stradivarius",
+    "dominio": "stradivarius.com",
+    "notorieta_s1": 574333.3333333334
+   },
+   {
+    "chiave": "ovs",
+    "nome": "OVS",
+    "dominio": "ovs.it",
+    "notorieta_s1": 979916.6666666666
+   },
+   {
+    "chiave": "bershka",
+    "nome": "Bershka",
+    "dominio": "bershka.com",
+    "notorieta_s1": 888750.0
+   },
+   {
+    "chiave": "uniqlo",
+    "nome": "Uniqlo",
+    "dominio": "uniqlo.com",
+    "notorieta_s1": 492416.6666666667
+   },
+   {
+    "chiave": "primark",
+    "nome": "Primark",
+    "dominio": "primark.com",
+    "notorieta_s1": 1078000.0
+   },
+   {
+    "chiave": "wrangler",
+    "nome": "Wrangler",
+    "dominio": "wrangler.com",
+    "notorieta_s1": 20625.0
+   },
+   {
+    "chiave": "lefties",
+    "nome": "Lefties",
+    "dominio": "lefties.com",
+    "notorieta_s1": 68833.33333333333
+   },
+   {
+    "chiave": "agolde",
+    "nome": "Agolde",
+    "dominio": "agolde.com",
+    "notorieta_s1": 1275.0
+   },
+   {
+    "chiave": "mango",
+    "nome": "Mango",
+    "dominio": "mangooutlet.com",
+    "notorieta_s1": 842250.0
+   },
+   {
+    "chiave": "armedangels",
+    "nome": "Armedangels",
+    "dominio": "armedangels.com",
+    "notorieta_s1": 1623.3333333333333
+   },
+   {
+    "chiave": "alcott",
+    "nome": "Alcott",
+    "dominio": "alcott.eu",
+    "notorieta_s1": 122333.33333333333
+   }
+  ],
+  "sostituzioni": [
+   {
+    "removed": "stradivarius",
+    "added": "uniqlo",
+    "excluded_in_chain": [],
+    "reason": "D2: no pertinent product page on the official Italian site; next eligible brand by mentions"
+   }
+  ]
+ },
+ "assicurazioni_17": {
+  "domanda": "Qual è l'assicurazione RCA migliore da scegliere?",
+  "settore": "assicurazioni",
+  "volume_domanda": 3441.7,
+  "sottotema": "auto",
+  "piu_noto": {
+   "chiave": "prima assicurazioni",
+   "nome": "Prima Assicurazioni",
+   "dominio": "prima.it",
+   "notorieta_s1": 391000.0
+  },
+  "pagine": [
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0,
+    "url": "https://www.genertel.it/digital-assistance-auto",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 248,
+    "testo_sha256": "73eda36057c395af802febb8f25742148a5f1a90ec7c97b80902e2447f226cd6"
+   },
+   {
+    "chiave": "conte it",
+    "nome": "ConTe.it",
+    "dominio": "conte.it",
+    "notorieta_s1": 65416.666666666664,
+    "url": "https://www.conte.it/assicurazione-auto/dispositivo-satellitare/",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 378,
+    "testo_sha256": "b06eab28633f46a342d83a59b8cc84577599eef024f5493050e95b2d0e5a865e"
+   },
+   {
+    "chiave": "allianz direct",
+    "nome": "Allianz Direct",
+    "dominio": "allianzdirect.it",
+    "notorieta_s1": 190250.0,
+    "url": "https://www.allianzdirect.it/assicurazione-auto/rc/",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 238,
+    "testo_sha256": "d5e1398e2cbacfb8b3f61621f477fa4aa9c16f50462e474daee0c8f4dba23086"
+   },
+   {
+    "chiave": "allianz",
+    "nome": "Allianz",
+    "dominio": "allianz.it",
+    "notorieta_s1": 140416.66666666666,
+    "url": "https://www.allianz.it/le-soluzioni-per-te/mobilita/auto/bonus-malus.html",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 728,
+    "testo_sha256": "a547ca8dce78e6372b2245655eaa1b3a6f1e1ddb27ce5a6b9ce7aa748509af3e"
+   },
+   {
+    "chiave": "verti",
+    "nome": "Verti",
+    "dominio": "verti.it",
+    "notorieta_s1": 10583.333333333334,
+    "url": "https://www.verti.it/assicurazione-auto/garanzie/rc-auto/",
+    "regola": "regola 3",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 378,
+    "testo_sha256": "501965890d95a9ca5c4e8d34cfc5fa93451c5aa7dab46d4be3fd98c342c8694b"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0
+   },
+   {
+    "chiave": "conte it",
+    "nome": "ConTe.it",
+    "dominio": "conte.it",
+    "notorieta_s1": 65416.666666666664
+   },
+   {
+    "chiave": "allianz direct",
+    "nome": "Allianz Direct",
+    "dominio": "allianzdirect.it",
+    "notorieta_s1": 190250.0
+   },
+   {
+    "chiave": "prima assicurazioni",
+    "nome": "Prima Assicurazioni",
+    "dominio": "prima.it",
+    "notorieta_s1": 391000.0
+   },
+   {
+    "chiave": "allianz",
+    "nome": "Allianz",
+    "dominio": "allianz.it",
+    "notorieta_s1": 140416.66666666666
+   },
+   {
+    "chiave": "verti",
+    "nome": "Verti",
+    "dominio": "verti.it",
+    "notorieta_s1": 10583.333333333334
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336
+   },
+   {
+    "chiave": "quixa",
+    "nome": "Quixa",
+    "dominio": "quixa.it",
+    "notorieta_s1": 25558.333333333332
+   },
+   {
+    "chiave": "reale mutua",
+    "nome": "Reale Mutua",
+    "dominio": "realemutua.it",
+    "notorieta_s1": 31191.666666666668
+   },
+   {
+    "chiave": "unipol",
+    "nome": "Unipol",
+    "dominio": "unipol.it",
+    "notorieta_s1": 114625.0
+   },
+   {
+    "chiave": "admiral",
+    "nome": "Admiral",
+    "dominio": "admiral.com",
+    "notorieta_s1": 1550.0
+   },
+   {
+    "chiave": "vittoria",
+    "nome": "Vittoria",
+    "dominio": "vittoriaassicurazioni.com",
+    "notorieta_s1": 112541.66666666667
+   },
+   {
+    "chiave": "zurich",
+    "nome": "Zurich",
+    "dominio": "zurich.it",
+    "notorieta_s1": 13041.666666666666
+   },
+   {
+    "chiave": "direct line",
+    "nome": "Direct Line",
+    "dominio": "directline.it",
+    "notorieta_s1": 3525.0
+   }
+  ],
+  "sostituzioni": []
+ },
+ "assicurazioni_20": {
+  "domanda": "Quali sono le migliori opzioni per l'assicurazione vita in base ai costi?",
+  "settore": "assicurazioni",
+  "volume_domanda": 812.5,
+  "sottotema": "vita e morte",
+  "piu_noto": {
+   "chiave": "allianz",
+   "nome": "Allianz",
+   "dominio": "allianz.it",
+   "notorieta_s1": 140416.66666666666
+  },
+  "pagine": [
+   {
+    "chiave": "metlife",
+    "nome": "MetLife",
+    "dominio": "metlife.it",
+    "notorieta_s1": 20075.0,
+    "url": "https://www.metlife.it/assicurazioni-personali/polizze-vita/liberamente-special/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 2257,
+    "testo_sha256": "c3c2cf0984affab84c89dd259c6f48ba6050a272aa1dad9a1ff123b4d538ca1e"
+   },
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0,
+    "url": "https://www.genertel.it/assicurazione-vita",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 656,
+    "testo_sha256": "21cc2f1370df5007ebde16049030cd614e9cd2bac61c6691ca0027c2f85e5fa6"
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336,
+    "url": "https://www.axa.it/assicurazione-sulla-vita",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 804,
+    "testo_sha256": "671192b7ca3c3891d2e0a2bba5f9c61df8e3bc1114213806ebd87fc0f88f3d82"
+   },
+   {
+    "chiave": "geniallife",
+    "nome": "GenialLife",
+    "dominio": "geniallife.it",
+    "notorieta_s1": 1833.3333333333333,
+    "url": "https://www.geniallife.it/soluzioni-per-te/geniallife-plan",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "safari_webarchive_a_mano",
+    "parole": 643,
+    "testo_sha256": "3507e04689d4cc2445b3094dfaa05f61ba010ab86d90d6d102d0d56f6c6ef02e"
+   },
+   {
+    "chiave": "wopta",
+    "nome": "Wopta",
+    "dominio": "wopta.it",
+    "notorieta_s1": 970.0,
+    "url": "https://www.wopta.it/it/vita/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1520,
+    "testo_sha256": "8d23b543e97848e0dfda1429c978bbad2656451b1bae86719a9e264a09ac1764"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "metlife",
+    "nome": "MetLife",
+    "dominio": "metlife.it",
+    "notorieta_s1": 20075.0
+   },
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0
+   },
+   {
+    "chiave": "allianz",
+    "nome": "Allianz",
+    "dominio": "allianz.it",
+    "notorieta_s1": 140416.66666666666
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336
+   },
+   {
+    "chiave": "geniallife",
+    "nome": "GenialLife",
+    "dominio": "geniallife.it",
+    "notorieta_s1": 1833.3333333333333
+   },
+   {
+    "chiave": "wopta",
+    "nome": "Wopta",
+    "dominio": "wopta.it",
+    "notorieta_s1": 970.0
+   },
+   {
+    "chiave": "squarelife",
+    "nome": "SquareLife",
+    "dominio": "squarelife.eu",
+    "notorieta_s1": 309.1666666666667
+   },
+   {
+    "chiave": "life5",
+    "nome": "Life5",
+    "dominio": "life5.es",
+    "notorieta_s1": 547.5
+   },
+   {
+    "chiave": "unipol",
+    "nome": "Unipol",
+    "dominio": "unipol.it",
+    "notorieta_s1": 114625.0
+   },
+   {
+    "chiave": "poste italiane",
+    "nome": "Poste Italiane",
+    "dominio": "poste.it",
+    "notorieta_s1": 11091.666666666666
+   },
+   {
+    "chiave": "zurich",
+    "nome": "Zurich",
+    "dominio": "zurich.it",
+    "notorieta_s1": 13041.666666666666
+   },
+   {
+    "chiave": "groupama",
+    "nome": "Groupama",
+    "dominio": "groupama.it",
+    "notorieta_s1": 19533.333333333332
+   }
+  ],
+  "sostituzioni": []
+ },
+ "assicurazioni_09": {
+  "domanda": "Quale assicurazione sui voli mi consigli di scegliere?",
+  "settore": "assicurazioni",
+  "volume_domanda": 701.7,
+  "sottotema": "viaggio",
+  "piu_noto": {
+   "chiave": "genertel",
+   "nome": "Genertel",
+   "dominio": "genertel.it",
+   "notorieta_s1": 83875.0
+  },
+  "pagine": [
+   {
+    "chiave": "heymondo",
+    "nome": "Heymondo",
+    "dominio": "heymondo.it",
+    "notorieta_s1": 38216.666666666664,
+    "url": "https://heymondo.it/assicurazione-annullamento-viaggio/",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 1296,
+    "testo_sha256": "5e7d9c788f9cf082b033fd7ddadbfd62d90f60f71e5645bb2d516b836fd26fcb"
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336,
+    "url": "https://www.assicurazione-viaggio.axa-assistance.it/polizze-viaggi/viaggio-singolo-schermo-totale",
+    "regola": "regola 3",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 625,
+    "testo_sha256": "087ca3195981db342883897a9dbfbf9ef6e286b42e5211e635abca97b6816fd1"
+   },
+   {
+    "chiave": "columbus",
+    "nome": "Columbus",
+    "dominio": "columbusassicurazioni.it",
+    "notorieta_s1": 14500.0,
+    "url": "https://www.columbusassicurazioni.it/annullamento-viaggio/",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 1160,
+    "testo_sha256": "cd3b93ba44aaddff33587de2c9ede1f716f272042c79d26b32110a0dcaabab90"
+   },
+   {
+    "chiave": "coverwise",
+    "nome": "Coverwise",
+    "dominio": "coverwise.it",
+    "notorieta_s1": 4025.0,
+    "url": "https://www.coverwise.it/polizza-assicurazione-medica-viaggio.aspx",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 558,
+    "testo_sha256": "5a6401556ecb32e8ac8a02da031be32bb40360f077df4bea536cf3e294b57f14"
+   },
+   {
+    "chiave": "allianz global assistance",
+    "nome": "Allianz Global Assistance",
+    "dominio": "allianz-assicurazioneviaggio.it",
+    "notorieta_s1": 1175.0,
+    "url": "https://www.allianz-assicurazioneviaggio.it/assicurazione-viaggi/travel-care-extended.html",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 1871,
+    "testo_sha256": "48c1c54b917c2a51a8dbcaa35c47eb6c5fa2258b8edaf3b968bc2313bb249da0"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "heymondo",
+    "nome": "Heymondo",
+    "dominio": "heymondo.it",
+    "notorieta_s1": 38216.666666666664
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336
+   },
+   {
+    "chiave": "columbus",
+    "nome": "Columbus",
+    "dominio": "columbusassicurazioni.it",
+    "notorieta_s1": 14500.0
+   },
+   {
+    "chiave": "coverwise",
+    "nome": "Coverwise",
+    "dominio": "coverwise.it",
+    "notorieta_s1": 4025.0
+   },
+   {
+    "chiave": "allianz",
+    "nome": "Allianz",
+    "dominio": "allianz.it",
+    "notorieta_s1": 140416.66666666666
+   },
+   {
+    "chiave": "allianz global assistance",
+    "nome": "Allianz Global Assistance",
+    "dominio": "allianz-assicurazioneviaggio.it",
+    "notorieta_s1": 1175.0
+   },
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0
+   },
+   {
+    "chiave": "ergo assicurazione viaggi",
+    "nome": "ERGO Assicurazione Viaggi",
+    "dominio": "ergo.com",
+    "notorieta_s1": 509.1666666666667
+   },
+   {
+    "chiave": "viaggi sicuri",
+    "nome": "Viaggi Sicuri",
+    "dominio": "viaggisicuri.com",
+    "notorieta_s1": 2375.0
+   },
+   {
+    "chiave": "safetywing",
+    "nome": "SafetyWing",
+    "dominio": "safetywing.com",
+    "notorieta_s1": 615.0
+   }
+  ],
+  "sostituzioni": []
+ },
+ "assicurazioni_03": {
+  "domanda": "Quale assicurazione bici dovrei scegliere?",
+  "settore": "assicurazioni",
+  "volume_domanda": 695.0,
+  "sottotema": "bici e monopattino",
+  "piu_noto": {
+   "chiave": "unipol",
+   "nome": "Unipol",
+   "dominio": "unipol.it",
+   "notorieta_s1": 114625.0
+  },
+  "pagine": [
+   {
+    "chiave": "24hassistance",
+    "nome": "24hAssistance",
+    "dominio": "24hassistance.com",
+    "notorieta_s1": 16000.0,
+    "url": "https://www.24hassistance.com/bikeplatinum",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 1858,
+    "testo_sha256": "474e30b1ba73e19ce46e7838a6d308b5bde7882d9a4efefe177cd5e12414654b"
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336,
+    "url": "https://www.axa.it/ingiro",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 2746,
+    "testo_sha256": "43200faecbdcd1a45a0eeb939c212f85019725860e7ddbfe1b854c08748ece6a"
+   },
+   {
+    "chiave": "sara assicurazioni",
+    "nome": "Sara Assicurazioni",
+    "dominio": "sara.it",
+    "notorieta_s1": 40766.666666666664,
+    "url": "https://www.sara.it/bici-and-co",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "browser_integrato_claude_dom",
+    "parole": 1771,
+    "testo_sha256": "56a2c3dbd07aa9e95966b7b2b9ae1bb546ef8dafb0e011e587c0d00d793c6878"
+   },
+   {
+    "chiave": "bikeplatinum",
+    "nome": "Bikeplatinum",
+    "dominio": "bikeplatinum.it",
+    "notorieta_s1": 50.0,
+    "url": "https://bikeplatinum.it/",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 170,
+    "testo_sha256": "eb72d4038e0dcd5b7b0a6bad3b983048b8e632384abfeafddbf82a218016ea6e"
+   },
+   {
+    "chiave": "bikeprotection",
+    "nome": "BikeProtection",
+    "dominio": "bikeprotection.it",
+    "notorieta_s1": 119.16666666666667,
+    "url": "https://www.bikeprotection.it/preventivo/nuovo?bundleCode=amatore",
+    "regola": "regola 3",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 130,
+    "testo_sha256": "f36b11f37a2ed75d83b5455da000261240ee2c8b30edbe9d05b5b47a4a512e27"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "24hassistance",
+    "nome": "24hAssistance",
+    "dominio": "24hassistance.com",
+    "notorieta_s1": 16000.0
+   },
+   {
+    "chiave": "allianz",
+    "nome": "Allianz",
+    "dominio": "allianz.it",
+    "notorieta_s1": 140416.66666666666
+   },
+   {
+    "chiave": "yolo",
+    "nome": "Yolo",
+    "dominio": "yolo-insurance.com",
+    "notorieta_s1": 509.1666666666667
+   },
+   {
+    "chiave": "allianz direct",
+    "nome": "Allianz Direct",
+    "dominio": "allianzdirect.it",
+    "notorieta_s1": 190250.0
+   },
+   {
+    "chiave": "sara assicurazioni",
+    "nome": "Sara Assicurazioni",
+    "dominio": "sara.it",
+    "notorieta_s1": 40766.666666666664
+   },
+   {
+    "chiave": "bikeplatinum",
+    "nome": "Bikeplatinum",
+    "dominio": "bikeplatinum.it",
+    "notorieta_s1": 50.0
+   },
+   {
+    "chiave": "bikeprotection",
+    "nome": "BikeProtection",
+    "dominio": "bikeprotection.it",
+    "notorieta_s1": 119.16666666666667
+   },
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336
+   },
+   {
+    "chiave": "poste italiane",
+    "nome": "Poste Italiane",
+    "dominio": "poste.it",
+    "notorieta_s1": 11091.666666666666
+   },
+   {
+    "chiave": "unipol",
+    "nome": "Unipol",
+    "dominio": "unipol.it",
+    "notorieta_s1": 114625.0
+   },
+   {
+    "chiave": "qover",
+    "nome": "Qover",
+    "dominio": "qover.com",
+    "notorieta_s1": 115.83333333333333
+   }
+  ],
+  "sostituzioni": [
+   {
+    "removed": "yolo",
+    "added": "axa",
+    "excluded_in_chain": [
+     "genertel"
+    ],
+    "reason": "D2: no pertinent product page on the official Italian site; next eligible brand by mentions"
+   }
+  ]
+ },
+ "assicurazioni_19": {
+  "domanda": "Quale assicurazione spese veterinarie dovrei scegliere?",
+  "settore": "assicurazioni",
+  "volume_domanda": 438.3,
+  "sottotema": "animali",
+  "piu_noto": {
+   "chiave": "unisalute",
+   "nome": "UniSalute",
+   "dominio": "unisalute.it",
+   "notorieta_s1": 430416.6666666667
+  },
+  "pagine": [
+   {
+    "chiave": "santevet",
+    "nome": "Santévet",
+    "dominio": "santevet.it",
+    "notorieta_s1": 2091.6666666666665,
+    "url": "https://www.santevet.it/assicurazione-cane",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1825,
+    "testo_sha256": "353f3911c9e44b8f460ee862e16ca1bae1e20b26d1694ceab0676560eae485ce"
+   },
+   {
+    "chiave": "poste italiane",
+    "nome": "Poste Italiane",
+    "dominio": "poste.it",
+    "notorieta_s1": 11091.666666666666,
+    "url": "https://posteassicura.poste.it/poste-vivere-protetti/protezione-animali-domestici/animali-domestici/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1212,
+    "testo_sha256": "54769451a6729ab649de8f7f9fefa14542b0f27b10cc7ee15215fbdb4bbc5e55"
+   },
+   {
+    "chiave": "conte it",
+    "nome": "ConTe.it",
+    "dominio": "conte.it",
+    "notorieta_s1": 65416.666666666664,
+    "url": "https://canegatto.conte.it/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 2460,
+    "testo_sha256": "9f1a2e9673497746c05c1220ec9224f34e413fdd65ca2a73c826d2e42cc6f9fa"
+   },
+   {
+    "chiave": "barkibu",
+    "nome": "Barkibu",
+    "dominio": "barkibu.com",
+    "notorieta_s1": 6866.666666666667,
+    "url": "https://www.barkibu.com/it/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 567,
+    "testo_sha256": "00b953dac419e85c83370c3e96b07b26258c688caf51a23f53c0150eadbed936"
+   },
+   {
+    "chiave": "unipol",
+    "nome": "Unipol",
+    "dominio": "unipol.it",
+    "notorieta_s1": 114625.0,
+    "url": "https://www.unipol.it/casa-famiglia/assicurazione-cane-gatto",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 882,
+    "testo_sha256": "1711c27e05ce53e0b0167ea899cdf2870d27dd98b95c6e2ca6437e17b4c86c85"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "santevet",
+    "nome": "Santévet",
+    "dominio": "santevet.it",
+    "notorieta_s1": 2091.6666666666665
+   },
+   {
+    "chiave": "poste italiane",
+    "nome": "Poste Italiane",
+    "dominio": "poste.it",
+    "notorieta_s1": 11091.666666666666
+   },
+   {
+    "chiave": "conte it",
+    "nome": "ConTe.it",
+    "dominio": "conte.it",
+    "notorieta_s1": 65416.666666666664
+   },
+   {
+    "chiave": "barkibu",
+    "nome": "Barkibu",
+    "dominio": "barkibu.com",
+    "notorieta_s1": 6866.666666666667
+   },
+   {
+    "chiave": "unipol",
+    "nome": "Unipol",
+    "dominio": "unipol.it",
+    "notorieta_s1": 114625.0
+   },
+   {
+    "chiave": "allianz",
+    "nome": "Allianz",
+    "dominio": "allianz.it",
+    "notorieta_s1": 140416.66666666666
+   },
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0
+   },
+   {
+    "chiave": "baboop",
+    "nome": "Baboop",
+    "dominio": "baboop.it",
+    "notorieta_s1": 1641.6666666666667
+   },
+   {
+    "chiave": "unisalute",
+    "nome": "UniSalute",
+    "dominio": "unisalute.it",
+    "notorieta_s1": 430416.6666666667
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336
+   },
+   {
+    "chiave": "quixa",
+    "nome": "Quixa",
+    "dominio": "quixa.it",
+    "notorieta_s1": 25558.333333333332
+   },
+   {
+    "chiave": "verti",
+    "nome": "Verti",
+    "dominio": "verti.it",
+    "notorieta_s1": 10583.333333333334
+   }
+  ],
+  "sostituzioni": []
+ },
+ "assicurazioni_10": {
+  "domanda": "Qual è la migliore assicurazione natante da scegliere?",
+  "settore": "assicurazioni",
+  "volume_domanda": 308.3,
+  "sottotema": "nautica",
+  "piu_noto": {
+   "chiave": "allianz",
+   "nome": "Allianz",
+   "dominio": "allianz.it",
+   "notorieta_s1": 140416.66666666666
+  },
+  "pagine": [
+   {
+    "chiave": "unipol",
+    "nome": "Unipol",
+    "dominio": "unipol.it",
+    "notorieta_s1": 114625.0,
+    "url": "https://www.unipol.it/veicoli-mobilita/polizza-nautica-corpi-natanti",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 316,
+    "testo_sha256": "a5ae2651ddcdb5dca06fa7fc8fb5af8c7fc0f308262a5afb7d1d2cdd502c5cbc"
+   },
+   {
+    "chiave": "pantaenius",
+    "nome": "Pantaenius",
+    "dominio": "pantaenius.com",
+    "notorieta_s1": 606.6666666666666,
+    "url": "https://www.pantaenius.com/mc-it/assicurazioni/assicurazione-all-risk/",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 511,
+    "testo_sha256": "a669e5091e075e01df346f0c17d1a0c887f578a055fc2e4dd011b9e21dac2b1a"
+   },
+   {
+    "chiave": "groupama",
+    "nome": "Groupama",
+    "dominio": "groupama.it",
+    "notorieta_s1": 19533.333333333332,
+    "url": "https://www.groupama.it/assicurazione-barca-e-natante/",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 794,
+    "testo_sha256": "1fed29d3a87e2afae850573db2165443a1523e155f1f3b891ad8bf3b5b0899c6"
+   },
+   {
+    "chiave": "cattolica assicurazioni",
+    "nome": "Cattolica Assicurazioni",
+    "dominio": "cattolica.it",
+    "notorieta_s1": 34450.0,
+    "url": "https://www.cattolica.it/active-assicurazione-natanti/",
+    "regola": "regola 1",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 104,
+    "testo_sha256": "a7defbcdab327c2aba43469d6230dd762161a73aef8b9556f4c8354789d98907"
+   },
+   {
+    "chiave": "helvetia",
+    "nome": "Helvetia",
+    "dominio": "helvetia-baloise.com",
+    "notorieta_s1": 6550.0,
+    "url": "https://www.helvetia.com/it/web/it/prodotti-e-servizi/prodotti-dedicati-alle-agenzie-e-broker/privati/imbarcazioni/helvetia-inmovimento-natanti.html",
+    "regola": "regola 2",
+    "fonte": "rev",
+    "metodo": "requests",
+    "parole": 172,
+    "testo_sha256": "7479504e29ebcba63c6a1450c1e9aefd06e83d24e43ee6432a3307a4be7b00b2"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "allianz",
+    "nome": "Allianz",
+    "dominio": "allianz.it",
+    "notorieta_s1": 140416.66666666666
+   },
+   {
+    "chiave": "unipol",
+    "nome": "Unipol",
+    "dominio": "unipol.it",
+    "notorieta_s1": 114625.0
+   },
+   {
+    "chiave": "pantaenius",
+    "nome": "Pantaenius",
+    "dominio": "pantaenius.com",
+    "notorieta_s1": 606.6666666666666
+   },
+   {
+    "chiave": "genertel",
+    "nome": "Genertel",
+    "dominio": "genertel.it",
+    "notorieta_s1": 83875.0
+   },
+   {
+    "chiave": "cattolica assicurazioni",
+    "nome": "Cattolica Assicurazioni",
+    "dominio": "cattolica.it",
+    "notorieta_s1": 34450.0
+   },
+   {
+    "chiave": "axa",
+    "nome": "AXA",
+    "dominio": "axa.it",
+    "notorieta_s1": 44383.333333333336
+   },
+   {
+    "chiave": "groupama",
+    "nome": "Groupama",
+    "dominio": "groupama.it",
+    "notorieta_s1": 19533.333333333332
+   },
+   {
+    "chiave": "zurich",
+    "nome": "Zurich",
+    "dominio": "zurich.it",
+    "notorieta_s1": 13041.666666666666
+   },
+   {
+    "chiave": "helvetia",
+    "nome": "Helvetia",
+    "dominio": "helvetia-baloise.com",
+    "notorieta_s1": 6550.0
+   },
+   {
+    "chiave": "24hassistance",
+    "nome": "24hAssistance",
+    "dominio": "24hassistance.com",
+    "notorieta_s1": 16000.0
+   },
+   {
+    "chiave": "sara assicurazioni",
+    "nome": "Sara Assicurazioni",
+    "dominio": "sara.it",
+    "notorieta_s1": 40766.666666666664
+   },
+   {
+    "chiave": "vittoria",
+    "nome": "Vittoria",
+    "dominio": "vittoriaassicurazioni.com",
+    "notorieta_s1": 112541.66666666667
+   },
+   {
+    "chiave": "reale mutua",
+    "nome": "Reale Mutua",
+    "dominio": "realemutua.it",
+    "notorieta_s1": 31191.666666666668
+   }
+  ],
+  "sostituzioni": [
+   {
+    "removed": "genertel",
+    "added": "groupama",
+    "excluded_in_chain": [
+     "zurich"
+    ],
+    "reason": "D2: no pertinent product page on the official Italian site; next eligible brand by mentions"
+   },
+   {
+    "removed": "axa",
+    "added": "helvetia",
+    "excluded_in_chain": [
+     "zurich"
+    ],
+    "reason": "D2: no pertinent product page on the official Italian site; next eligible brand by mentions"
+   }
+  ]
+ },
+ "viaggi_18": {
+  "domanda": "Quali sono i migliori tour operator siciliani da scegliere per un viaggio?",
+  "settore": "viaggi",
+  "volume_domanda": 439.2,
+  "sottotema": "tour operator e viaggi organizzati",
+  "piu_noto": {
+   "chiave": "weroad",
+   "nome": "WeRoad",
+   "dominio": "weroad.it",
+   "notorieta_s1": 248166.66666666666
+  },
+  "pagine": [
+   {
+    "chiave": "dimensione sicilia",
+    "nome": "Dimensione Sicilia",
+    "dominio": "dimensionesicilia.com",
+    "notorieta_s1": 625.8333333333334,
+    "url": "https://www.dimensionesicilia.com/it/tour-di-sicilia-self-drive/tour-di-famiglia-in-sicilia/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1868,
+    "testo_sha256": "3578e20e4c50bf544aaa77d096a62373d2701c7416f6b2cae23f235705640724"
+   },
+   {
+    "chiave": "go etna",
+    "nome": "Go-Etna",
+    "dominio": "go-etna.it",
+    "notorieta_s1": 695.0,
+    "url": "https://www.go-etna.it/escursioni-sicilia/escursione-etna-jeep/",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1809,
+    "testo_sha256": "c1870859c8106337b8ca3796fb3d09140e3b41268455c484c7ddec7aa92a81e4"
+   },
+   {
+    "chiave": "sicilia incoming",
+    "nome": "Sicilia Incoming",
+    "dominio": "siciliaincoming.com",
+    "notorieta_s1": 70.0,
+    "url": "https://www.siciliaincoming.com/agrigento-visita-valle-dei-templi/",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 119,
+    "testo_sha256": "44ec71bd394e85dbaa1e0fd52a424ab34e09c7da4cf870f7691927ae0fdc7356"
+   },
+   {
+    "chiave": "tour of sicily",
+    "nome": "Tour of Sicily",
+    "dominio": "tourofsicily.com",
+    "notorieta_s1": 622.5,
+    "url": "https://www.tourofsicily.com/tour/food-and-wine-grand-tour-of-sicily-escorted-tour/",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 2751,
+    "testo_sha256": "637be936d012217fa9d19cc94ac01ad5d4117c75d2d847c4a55e3fad15539294"
+   },
+   {
+    "chiave": "sicily activities",
+    "nome": "Sicily Activities",
+    "dominio": "sicilyactivities.com",
+    "notorieta_s1": 100.83333333333333,
+    "url": "https://www.sicilyactivities.com/small-group-tours-sicily/small-group-highlights-tour-sicily/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1664,
+    "testo_sha256": "a9b3913e55258912138f39cca9696cce35d07be8f4b7d1ddda48e6ebe95b1726"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "dimensione sicilia",
+    "nome": "Dimensione Sicilia",
+    "dominio": "dimensionesicilia.com",
+    "notorieta_s1": 625.8333333333334
+   },
+   {
+    "chiave": "go etna",
+    "nome": "Go-Etna",
+    "dominio": "go-etna.it",
+    "notorieta_s1": 695.0
+   },
+   {
+    "chiave": "sicilia incoming",
+    "nome": "Sicilia Incoming",
+    "dominio": "siciliaincoming.com",
+    "notorieta_s1": 70.0
+   },
+   {
+    "chiave": "tour of sicily",
+    "nome": "Tour of Sicily",
+    "dominio": "tourofsicily.com",
+    "notorieta_s1": 622.5
+   },
+   {
+    "chiave": "sicily activities",
+    "nome": "Sicily Activities",
+    "dominio": "sicilyactivities.com",
+    "notorieta_s1": 100.83333333333333
+   },
+   {
+    "chiave": "sicilvision",
+    "nome": "Sicilvision",
+    "dominio": "sicilvision.it",
+    "notorieta_s1": 64.16666666666667
+   },
+   {
+    "chiave": "weroad",
+    "nome": "WeRoad",
+    "dominio": "weroad.it",
+    "notorieta_s1": 248166.66666666666
+   },
+   {
+    "chiave": "streaty",
+    "nome": "Streaty",
+    "dominio": "streaty.com",
+    "notorieta_s1": 643.3333333333334
+   },
+   {
+    "chiave": "etna experience",
+    "nome": "Etna Experience",
+    "dominio": "etnaexperience.com",
+    "notorieta_s1": 1638.3333333333333
+   },
+   {
+    "chiave": "sicilissimo incoming",
+    "nome": "Sicilissimo Incoming",
+    "dominio": "sicilissimoincoming.com",
+    "notorieta_s1": 66.66666666666667
+   },
+   {
+    "chiave": "addiopizzo travel",
+    "nome": "Addiopizzo Travel",
+    "dominio": "addiopizzotravel.it",
+    "notorieta_s1": 408.3333333333333
+   },
+   {
+    "chiave": "sicilia family tour",
+    "nome": "Sicilia Family Tour",
+    "dominio": "siciliafamilytour.it",
+    "notorieta_s1": 35.0
+   },
+   {
+    "chiave": "sicily in travel",
+    "nome": "Sicily in Travel",
+    "dominio": "sicilyintravel.com",
+    "notorieta_s1": 99.16666666666667
+   },
+   {
+    "chiave": "sicilia da scoprire",
+    "nome": "Sicilia da Scoprire",
+    "dominio": "siciliadascoprire.it",
+    "notorieta_s1": 121.66666666666667
+   },
+   {
+    "chiave": "imperatore travel",
+    "nome": "Imperatore Travel",
+    "dominio": "imperatoretravel.com",
+    "notorieta_s1": 6733.333333333333
+   },
+   {
+    "chiave": "sivola",
+    "nome": "SiVola",
+    "dominio": "sivola.it",
+    "notorieta_s1": 59708.333333333336
+   },
+   {
+    "chiave": "vie di sicilia",
+    "nome": "Vie di Sicilia",
+    "dominio": "viedisicilia.it",
+    "notorieta_s1": 26.666666666666668
+   },
+   {
+    "chiave": "sicily4you",
+    "nome": "Sicily4You",
+    "dominio": "sicily4you.com",
+    "notorieta_s1": 10.0
+   },
+   {
+    "chiave": "kidsicily",
+    "nome": "KidSicily",
+    "dominio": "kidsicily.it",
+    "notorieta_s1": 8.333333333333334
+   },
+   {
+    "chiave": "sicily lifestyle",
+    "nome": "Sicily Lifestyle",
+    "dominio": "sicilylifestyle.com",
+    "notorieta_s1": 122.5
+   },
+   {
+    "chiave": "sicily4u",
+    "nome": "Sicily4U",
+    "dominio": "sicily4u.com",
+    "notorieta_s1": 12.5
+   },
+   {
+    "chiave": "uncovered sicily",
+    "nome": "Uncovered Sicily",
+    "dominio": "uncoveredsicily.com",
+    "notorieta_s1": 135.0
+   },
+   {
+    "chiave": "renata travel",
+    "nome": "Renata Travel",
+    "dominio": "renatatraveldmc.com",
+    "notorieta_s1": 545.0
+   },
+   {
+    "chiave": "boscolo",
+    "nome": "Boscolo",
+    "dominio": "boscolo.com",
+    "notorieta_s1": 25558.333333333332
+   },
+   {
+    "chiave": "sicily travelnet",
+    "nome": "Sicily Travelnet",
+    "dominio": "sicilytravel.net",
+    "notorieta_s1": 18.333333333333332
+   },
+   {
+    "chiave": "val di kam",
+    "nome": "Val di Kam",
+    "dominio": "valdikam.com",
+    "notorieta_s1": 48.333333333333336
+   }
+  ],
+  "sostituzioni": []
+ },
+ "viaggi_15": {
+  "domanda": "Quali sono i migliori tour operator per un viaggio a Zanzibar?",
+  "settore": "viaggi",
+  "volume_domanda": 377.5,
+  "sottotema": "tour operator e viaggi organizzati",
+  "piu_noto": {
+   "chiave": "alpitour world",
+   "nome": "Alpitour World",
+   "dominio": "alpitour.it",
+   "notorieta_s1": 280250.0
+  },
+  "pagine": [
+   {
+    "chiave": "eden viaggi",
+    "nome": "Eden Viaggi",
+    "dominio": "edenviaggi.it",
+    "notorieta_s1": 158166.66666666666,
+    "url": "https://www.edenviaggi.it/hotels/tanzania/zanzibar/kendwa/canary-kendwa-beach-resort",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1691,
+    "testo_sha256": "2648b3946abf7faad80cc8047685a7c0cd3d5d17fc4fd69d04b92738ceabb08e"
+   },
+   {
+    "chiave": "veratour",
+    "nome": "Veratour",
+    "dominio": "veratour.it",
+    "notorieta_s1": 73708.33333333333,
+    "url": "https://www.veratour.it/villaggi/oceano-indiano/veraclub-zanzibar-village.cfm",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 2667,
+    "testo_sha256": "63b32cca56d5b4e7121c2efdf5d6654fc55a47060ce63ea9f52e656774984fc5"
+   },
+   {
+    "chiave": "weroad",
+    "nome": "WeRoad",
+    "dominio": "weroad.it",
+    "notorieta_s1": 248166.66666666666,
+    "url": "https://www.weroad.it/viaggi/zanzibar-beach-life",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 4639,
+    "testo_sha256": "609a1123156041411308b2731e813ed8a16b0aa086224d1a36d2bd3f61b12668"
+   },
+   {
+    "chiave": "turisanda",
+    "nome": "Turisanda",
+    "dominio": "turisanda.it",
+    "notorieta_s1": 15541.666666666666,
+    "url": "https://www.turisanda.it/hotel/tanzania/zanzibar/nungwi/riu-jambo-hotel",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1414,
+    "testo_sha256": "c3c46a82065d53953913fe4299967ac5919022f770c1629fa874c0b929c740b2"
+   },
+   {
+    "chiave": "avventure nel mondo",
+    "nome": "Avventure nel Mondo",
+    "dominio": "viaggiavventurenelmondo.it",
+    "notorieta_s1": 155500.0,
+    "url": "https://www.viaggiavventurenelmondo.it/viaggi/2230",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 2216,
+    "testo_sha256": "4f28c9ea7fb04cf8d02315f65ad2f7b97fe6a9855988bcaa6c452f4ed7b72292"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "alpitour world",
+    "nome": "Alpitour World",
+    "dominio": "alpitour.it",
+    "notorieta_s1": 280250.0
+   },
+   {
+    "chiave": "eden viaggi",
+    "nome": "Eden Viaggi",
+    "dominio": "edenviaggi.it",
+    "notorieta_s1": 158166.66666666666
+   },
+   {
+    "chiave": "veratour",
+    "nome": "Veratour",
+    "dominio": "veratour.it",
+    "notorieta_s1": 73708.33333333333
+   },
+   {
+    "chiave": "weroad",
+    "nome": "WeRoad",
+    "dominio": "weroad.it",
+    "notorieta_s1": 248166.66666666666
+   },
+   {
+    "chiave": "turisanda",
+    "nome": "Turisanda",
+    "dominio": "turisanda.it",
+    "notorieta_s1": 15541.666666666666
+   },
+   {
+    "chiave": "avventure nel mondo",
+    "nome": "Avventure nel Mondo",
+    "dominio": "viaggiavventurenelmondo.it",
+    "notorieta_s1": 155500.0
+   },
+   {
+    "chiave": "utravel",
+    "nome": "Utravel",
+    "dominio": "utravel.it",
+    "notorieta_s1": 31633.333333333332
+   },
+   {
+    "chiave": "sivola",
+    "nome": "SiVola",
+    "dominio": "sivola.it",
+    "notorieta_s1": 59708.333333333336
+   },
+   {
+    "chiave": "settemari",
+    "nome": "Settemari",
+    "dominio": "settemari.it",
+    "notorieta_s1": 1061.6666666666667
+   },
+   {
+    "chiave": "azemar",
+    "nome": "Azemar",
+    "dominio": "azemar.it",
+    "notorieta_s1": 2133.3333333333335
+   },
+   {
+    "chiave": "zanzibar viaggi",
+    "nome": "Zanzibar Viaggi",
+    "dominio": "zanzibarviaggi.it",
+    "notorieta_s1": 3316.6666666666665
+   },
+   {
+    "chiave": "quality",
+    "nome": "Quality Group",
+    "dominio": "qualitygroup.it",
+    "notorieta_s1": 15133.333333333334
+   },
+   {
+    "chiave": "african explorer",
+    "nome": "African Explorer",
+    "dominio": "africanexplorer.com",
+    "notorieta_s1": 1240.0
+   },
+   {
+    "chiave": "nicolaus",
+    "nome": "Nicolaus",
+    "dominio": "nicolaus.it",
+    "notorieta_s1": 21350.0
+   },
+   {
+    "chiave": "valtur",
+    "nome": "Valtur",
+    "dominio": "valtur.com",
+    "notorieta_s1": 18616.666666666668
+   },
+   {
+    "chiave": "safari avventura",
+    "nome": "Safari Avventura",
+    "dominio": "safariavventura.com",
+    "notorieta_s1": 409.1666666666667
+   },
+   {
+    "chiave": "i grandi viaggi",
+    "nome": "I Grandi Viaggi",
+    "dominio": "igrandiviaggi.it",
+    "notorieta_s1": 6541.666666666667
+   },
+   {
+    "chiave": "savannah explorers",
+    "nome": "Savannah Explorers",
+    "dominio": "savannahexplorers.com",
+    "notorieta_s1": 280.8333333333333
+   },
+   {
+    "chiave": "futura vacanze",
+    "nome": "Futura Vacanze",
+    "dominio": "futuravacanze.it",
+    "notorieta_s1": 26900.0
+   },
+   {
+    "chiave": "tramundi",
+    "nome": "Tramundi",
+    "dominio": "tramundi.it",
+    "notorieta_s1": 4283.333333333333
+   }
+  ],
+  "sostituzioni": []
+ },
+ "viaggi_07": {
+  "domanda": "Quale villaggio turistico all inclusive mi consiglieresti?",
+  "settore": "viaggi",
+  "volume_domanda": 340.0,
+  "sottotema": "villaggi e resort",
+  "piu_noto": {
+   "chiave": "alpitour world",
+   "nome": "Alpitour World",
+   "dominio": "alpitour.it",
+   "notorieta_s1": 280250.0
+  },
+  "pagine": [
+   {
+    "chiave": "eden viaggi",
+    "nome": "Eden Viaggi",
+    "dominio": "edenviaggi.it",
+    "notorieta_s1": 158166.66666666666,
+    "url": "https://www.edenviaggi.it/hotels/egitto/sharm-el-sheikh/domina-coral-bay-prestige-resort",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 0,
+    "testo_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+   },
+   {
+    "chiave": "veratour",
+    "nome": "Veratour",
+    "dominio": "veratour.it",
+    "notorieta_s1": 73708.33333333333,
+    "url": "https://www.veratour.it/villaggi/tunisia/Veraclub-iliade.cfm",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1663,
+    "testo_sha256": "6dc909e0da2e01019487672ed384948103c57ef535560189ddf952e9768bd817"
+   },
+   {
+    "chiave": "pickalbatros",
+    "nome": "Pickalbatros",
+    "dominio": "pickalbatros.com",
+    "notorieta_s1": 855.0,
+    "url": "https://www.pickalbatros.com/royal-grand-resort-sharm-el-sheikh",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 599,
+    "testo_sha256": "ab822645418e88d2cd23e1230e7cbb870642963d770e63b4dc0f4ce86c2489ae"
+   },
+   {
+    "chiave": "bluserena",
+    "nome": "Bluserena",
+    "dominio": "bluserena.it",
+    "notorieta_s1": 32208.333333333332,
+    "url": "https://www.bluserena.it/hotel-e-resort/serene-resort/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "brightdata_unlocker_it",
+    "parole": 3412,
+    "testo_sha256": "3e3888a0f05f2286abdca49e2cc9a4ff8abb8cbf70edaea9a070bd0e045ef739"
+   },
+   {
+    "chiave": "club esse",
+    "nome": "Club Esse",
+    "dominio": "clubesse.it",
+    "notorieta_s1": 5741.666666666667,
+    "url": "https://www.clubesse.it/strutture/hotel-sunbeach/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1280,
+    "testo_sha256": "b8a3322e50a732f1de27cd42f3509709e1e157882bc29c8a5128210ef9028ed4"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "alpitour world",
+    "nome": "Alpitour World",
+    "dominio": "alpitour.it",
+    "notorieta_s1": 280250.0
+   },
+   {
+    "chiave": "eden viaggi",
+    "nome": "Eden Viaggi",
+    "dominio": "edenviaggi.it",
+    "notorieta_s1": 158166.66666666666
+   },
+   {
+    "chiave": "veratour",
+    "nome": "Veratour",
+    "dominio": "veratour.it",
+    "notorieta_s1": 73708.33333333333
+   },
+   {
+    "chiave": "pickalbatros",
+    "nome": "Pickalbatros",
+    "dominio": "pickalbatros.com",
+    "notorieta_s1": 855.0
+   },
+   {
+    "chiave": "bluserena",
+    "nome": "Bluserena",
+    "dominio": "bluserena.it",
+    "notorieta_s1": 32208.333333333332
+   },
+   {
+    "chiave": "club esse",
+    "nome": "Club Esse",
+    "dominio": "clubesse.it",
+    "notorieta_s1": 5741.666666666667
+   },
+   {
+    "chiave": "futura vacanze",
+    "nome": "Futura Vacanze",
+    "dominio": "futuravacanze.it",
+    "notorieta_s1": 26900.0
+   },
+   {
+    "chiave": "iberostar",
+    "nome": "Iberostar",
+    "dominio": "iberostar.com",
+    "notorieta_s1": 2416.6666666666665
+   },
+   {
+    "chiave": "th resorts",
+    "nome": "TH Resorts",
+    "dominio": "th-resorts.com",
+    "notorieta_s1": 5316.666666666667
+   },
+   {
+    "chiave": "sandals resorts",
+    "nome": "Sandals Resorts",
+    "dominio": "sandals.com",
+    "notorieta_s1": 311.6666666666667
+   },
+   {
+    "chiave": "voi",
+    "nome": "VOI",
+    "dominio": "voihotels.com",
+    "notorieta_s1": 4283.333333333333
+   },
+   {
+    "chiave": "valtur",
+    "nome": "Valtur",
+    "dominio": "valtur.com",
+    "notorieta_s1": 18616.666666666668
+   },
+   {
+    "chiave": "meraki resort",
+    "nome": "Meraki Resort",
+    "dominio": "meraki-resort.com",
+    "notorieta_s1": 248.33333333333334
+   },
+   {
+    "chiave": "nicolaus",
+    "nome": "Nicolaus",
+    "dominio": "nicolaus.it",
+    "notorieta_s1": 21350.0
+   },
+   {
+    "chiave": "club del sole",
+    "nome": "Club del Sole",
+    "dominio": "clubdelsole.com",
+    "notorieta_s1": 31325.0
+   },
+   {
+    "chiave": "villaggio uliveto",
+    "nome": "Villaggio Uliveto",
+    "dominio": "villaggiouliveto.com",
+    "notorieta_s1": 2883.3333333333335
+   },
+   {
+    "chiave": "robinson",
+    "nome": "ROBINSON",
+    "dominio": "robinson.com",
+    "notorieta_s1": 6400.0
+   },
+   {
+    "chiave": "salinello village",
+    "nome": "Salinello Village",
+    "dominio": "salinello.it",
+    "notorieta_s1": 13583.333333333334
+   },
+   {
+    "chiave": "color holiday",
+    "nome": "Color Holiday",
+    "dominio": "colorholiday.com",
+    "notorieta_s1": 1328.3333333333333
+   }
+  ],
+  "sostituzioni": []
+ },
+ "viaggi_04": {
+  "domanda": "Quali villaggi scegliere per le vacanze in Cilento?",
+  "settore": "viaggi",
+  "volume_domanda": 305.0,
+  "sottotema": "villaggi e resort",
+  "piu_noto": {
+   "chiave": "baia del silenzio",
+   "nome": "Baia del Silenzio",
+   "dominio": "baiadelsilenzio.it",
+   "notorieta_s1": 30033.333333333332
+  },
+  "pagine": [
+   {
+    "chiave": "villaggio elea",
+    "nome": "Villaggio Elea",
+    "dominio": "villaggioelea.it",
+    "notorieta_s1": 3855.8333333333335,
+    "url": "https://www.villaggioelea.it/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 369,
+    "testo_sha256": "636a6002c2d63da19098861e28314966f1f45cbbebf7c2e1cbf3b6329650b4ec"
+   },
+   {
+    "chiave": "blue marine",
+    "nome": "Blue Marine",
+    "dominio": "bluemarinevillage.it",
+    "notorieta_s1": 3950.0,
+    "url": "https://bluemarine.it/il-villaggio/",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 726,
+    "testo_sha256": "ec5c6c4b4d300c83b3b8f68b276c1a34d443e9c3ab560b35d1d428ac1e97008d"
+   },
+   {
+    "chiave": "arco naturale club",
+    "nome": "Arco Naturale Club",
+    "dominio": "arconaturaleclub.it",
+    "notorieta_s1": 6941.666666666667,
+    "url": "https://www.arconaturaleclub.it/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 461,
+    "testo_sha256": "81b5e923e1165928bad4c96c4fc285d6f10981bdd57c716b45703cf5db3bb1d7"
+   },
+   {
+    "chiave": "villaggio camping odissea",
+    "nome": "Villaggio Camping Odissea",
+    "dominio": "odisseavillage.com",
+    "notorieta_s1": 4122.5,
+    "url": "https://www.odisseavillage.com/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 554,
+    "testo_sha256": "11d7b946710e14cff071775155a816c07f5dc390f64529884109f93b817ee9bc"
+   },
+   {
+    "chiave": "residence trivento",
+    "nome": "Residence Trivento",
+    "dominio": "trivento.it",
+    "notorieta_s1": 954.1666666666666,
+    "url": "https://www.trivento.it/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 511,
+    "testo_sha256": "60dba018f88393824b0f2dd2eb2cf6c640c20ba753690a2afb2392eada530bc8"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "baia del silenzio",
+    "nome": "Baia del Silenzio",
+    "dominio": "baiadelsilenzio.it",
+    "notorieta_s1": 30033.333333333332
+   },
+   {
+    "chiave": "villaggio elea",
+    "nome": "Villaggio Elea",
+    "dominio": "villaggioelea.it",
+    "notorieta_s1": 3855.8333333333335
+   },
+   {
+    "chiave": "blue marine",
+    "nome": "Blue Marine",
+    "dominio": "bluemarinevillage.it",
+    "notorieta_s1": 3950.0
+   },
+   {
+    "chiave": "arco naturale club",
+    "nome": "Arco Naturale Club",
+    "dominio": "arconaturaleclub.it",
+    "notorieta_s1": 6941.666666666667
+   },
+   {
+    "chiave": "villaggio camping odissea",
+    "nome": "Villaggio Camping Odissea",
+    "dominio": "odisseavillage.com",
+    "notorieta_s1": 4122.5
+   },
+   {
+    "chiave": "residence trivento",
+    "nome": "Residence Trivento",
+    "dominio": "trivento.it",
+    "notorieta_s1": 954.1666666666666
+   },
+   {
+    "chiave": "touring club italiano",
+    "nome": "Touring Club Italiano",
+    "dominio": "touringclub.it",
+    "notorieta_s1": 9633.333333333334
+   },
+   {
+    "chiave": "happy village",
+    "nome": "Happy Village",
+    "dominio": "happyvillage.it",
+    "notorieta_s1": 5433.333333333333
+   },
+   {
+    "chiave": "villaggio costa del mito",
+    "nome": "Villaggio Costa del Mito",
+    "dominio": "costadelmito.it",
+    "notorieta_s1": 236.66666666666666
+   },
+   {
+    "chiave": "green village",
+    "nome": "Green Village",
+    "dominio": "greenvillage.it",
+    "notorieta_s1": 12058.333333333334
+   },
+   {
+    "chiave": "black marlin club",
+    "nome": "Black Marlin Club",
+    "dominio": "blackmarlin.it",
+    "notorieta_s1": 3308.3333333333335
+   },
+   {
+    "chiave": "oleandri resort",
+    "nome": "Oleandri Resort",
+    "dominio": "oleandriresort.com",
+    "notorieta_s1": 5798.333333333333
+   },
+   {
+    "chiave": "olimpia cilento resort",
+    "nome": "Olimpia Cilento Resort",
+    "dominio": "olimpiacilentoresort.com",
+    "notorieta_s1": 10016.666666666666
+   },
+   {
+    "chiave": "villaggio copacabana",
+    "nome": "Villaggio Copacabana",
+    "dominio": "villaggiocopacabana.com",
+    "notorieta_s1": 2504.1666666666665
+   },
+   {
+    "chiave": "villaggio la siesta",
+    "nome": "Villaggio La Siesta",
+    "dominio": "villaggiolasiesta.it",
+    "notorieta_s1": 1610.0
+   },
+   {
+    "chiave": "stella del sud",
+    "nome": "Stella del Sud",
+    "dominio": "villaggiostelladelsud.it",
+    "notorieta_s1": 2308.3333333333335
+   },
+   {
+    "chiave": "villaggio acquamarina",
+    "nome": "Villaggio Acquamarina",
+    "dominio": "villaggioacquamarina.it",
+    "notorieta_s1": 1987.5
+   },
+   {
+    "chiave": "torre saracena",
+    "nome": "Torre Saracena",
+    "dominio": "villaggiotorresaracena.it",
+    "notorieta_s1": 9025.0
+   },
+   {
+    "chiave": "camping villaggio saline",
+    "nome": "Camping Villaggio Saline",
+    "dominio": "campingsaline.com",
+    "notorieta_s1": 65.83333333333333
+   },
+   {
+    "chiave": "villaggio nessuno",
+    "nome": "Villaggio Nessuno",
+    "dominio": "villaggionessuno.com",
+    "notorieta_s1": 211.66666666666666
+   },
+   {
+    "chiave": "camping saline",
+    "nome": "Camping Saline",
+    "dominio": "campingsaline.it",
+    "notorieta_s1": 515.8333333333334
+   },
+   {
+    "chiave": "approdo resort thalasso",
+    "nome": "Approdo Resort Thalasso Spa",
+    "dominio": "approdothalassospa.com",
+    "notorieta_s1": 20416.666666666668
+   },
+   {
+    "chiave": "lido paradiso resort",
+    "nome": "Lido Paradiso Resort",
+    "dominio": "lidoparadiso.it",
+    "notorieta_s1": 3565.0
+   },
+   {
+    "chiave": "la fenosa",
+    "nome": "La Fenosa",
+    "dominio": "lafenosa.it",
+    "notorieta_s1": 308.3333333333333
+   },
+   {
+    "chiave": "camping villaggio dei pini",
+    "nome": "Camping Villaggio dei Pini",
+    "dominio": "campingvillaggiodeipini.com",
+    "notorieta_s1": 2635.0
+   }
+  ],
+  "sostituzioni": []
+ },
+ "viaggi_13": {
+  "domanda": "Quali sono i migliori villaggi all inclusive alle Maldive del Salento?",
+  "settore": "viaggi",
+  "volume_domanda": 222.5,
+  "sottotema": "villaggi e resort",
+  "piu_noto": {
+   "chiave": "vivosa apulia resort",
+   "nome": "Vivosa Apulia Resort",
+   "dominio": "vivosaresort.com",
+   "notorieta_s1": 21850.0
+  },
+  "pagine": [
+   {
+    "chiave": "esperia palace hotel",
+    "nome": "Esperia Palace Hotel",
+    "dominio": "esperiapalacehotel.it",
+    "notorieta_s1": 10983.333333333334,
+    "url": "https://www.esperiapalacehotel.it/all-inclusive/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 816,
+    "testo_sha256": "aad1ef79375aa3c6a7e94520ddff1fe718644d26cb8b44e89f632d5d699dce24"
+   },
+   {
+    "chiave": "robinson",
+    "nome": "ROBINSON",
+    "dominio": "robinson.com",
+    "notorieta_s1": 6400.0,
+    "url": "https://www.robinson.com/it/it/vacanze-in-resort/italia/puglia/dettagli-club/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 7135,
+    "testo_sha256": "3aa9429290d17d34020a28ac07e7ae6598972f3e20b900c1d14ec2c737b13206"
+   },
+   {
+    "chiave": "cala saracena resort",
+    "nome": "Cala Saracena Resort",
+    "dominio": "calasaracena.it",
+    "notorieta_s1": 3097.5,
+    "url": "https://calasaracena.it/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 274,
+    "testo_sha256": "ea6c723e76a6dedaf174e3b8542f88f1323b5607ca72efe0abcf635dcc1bc3a4"
+   },
+   {
+    "chiave": "nicolaus club la giurlita",
+    "nome": "Nicolaus Club La Giurlita",
+    "dominio": "nicolausclublagiurlita.com",
+    "notorieta_s1": 3965.8333333333335,
+    "url": "https://nicolausclublagiurlita.com/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 168,
+    "testo_sha256": "bb67ffbb53e7589a9b34863817d7fb2caf3bf8b46b765037456a68951c3664f3"
+   },
+   {
+    "chiave": "poseidone beach resort",
+    "nome": "Poseidone Beach Resort",
+    "dominio": "villaggioposeidone.it",
+    "notorieta_s1": 5260.0,
+    "url": "https://www.villaggioposeidone.it/",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 737,
+    "testo_sha256": "ebd1e0c7ab5bfe52d3e0ed5c706b62a1b9430dedea7b43bffc2cef907b15c7a8"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "vivosa apulia resort",
+    "nome": "Vivosa Apulia Resort",
+    "dominio": "vivosaresort.com",
+    "notorieta_s1": 21850.0
+   },
+   {
+    "chiave": "esperia palace hotel",
+    "nome": "Esperia Palace Hotel",
+    "dominio": "esperiapalacehotel.it",
+    "notorieta_s1": 10983.333333333334
+   },
+   {
+    "chiave": "robinson",
+    "nome": "ROBINSON",
+    "dominio": "robinson.com",
+    "notorieta_s1": 6400.0
+   },
+   {
+    "chiave": "cala saracena resort",
+    "nome": "Cala Saracena Resort",
+    "dominio": "calasaracena.it",
+    "notorieta_s1": 3097.5
+   },
+   {
+    "chiave": "nicolaus club la giurlita",
+    "nome": "Nicolaus Club La Giurlita",
+    "dominio": "nicolausclublagiurlita.com",
+    "notorieta_s1": 3965.8333333333335
+   },
+   {
+    "chiave": "poseidone beach resort",
+    "nome": "Poseidone Beach Resort",
+    "dominio": "villaggioposeidone.it",
+    "notorieta_s1": 5260.0
+   },
+   {
+    "chiave": "hotel club astor",
+    "nome": "Hotel Club Astor",
+    "dominio": "hotelclubastor.it",
+    "notorieta_s1": 1822.5
+   },
+   {
+    "chiave": "riva di ugento beach camping resort",
+    "nome": "Riva di Ugento Beach Camping Resort",
+    "dominio": "rivadiugento.it",
+    "notorieta_s1": 5688.333333333333
+   },
+   {
+    "chiave": "arco del saracino",
+    "nome": "Arco del Saracino",
+    "dominio": "arcodelsaracino.it",
+    "notorieta_s1": 1630.8333333333333
+   },
+   {
+    "chiave": "nicolaus",
+    "nome": "Nicolaus",
+    "dominio": "nicolaus.it",
+    "notorieta_s1": 21350.0
+   },
+   {
+    "chiave": "victor village",
+    "nome": "Victor Village",
+    "dominio": "victorvillage.it",
+    "notorieta_s1": 4497.5
+   },
+   {
+    "chiave": "messapia hotel and resort",
+    "nome": "Messapia Hotel & Resort",
+    "dominio": "messapiaresidencehotel.com",
+    "notorieta_s1": 97.5
+   },
+   {
+    "chiave": "fruit village",
+    "nome": "Fruit Village",
+    "dominio": "fruitvillage.it",
+    "notorieta_s1": 19208.333333333332
+   },
+   {
+    "chiave": "futura vacanze",
+    "nome": "Futura Vacanze",
+    "dominio": "futuravacanze.it",
+    "notorieta_s1": 26900.0
+   },
+   {
+    "chiave": "voi",
+    "nome": "VOI",
+    "dominio": "voihotels.com",
+    "notorieta_s1": 4283.333333333333
+   }
+  ],
+  "sostituzioni": []
+ },
+ "viaggi_17": {
+  "domanda": "Quali sono le migliori opzioni per il noleggio auto con prezzi bassi?",
+  "settore": "viaggi",
+  "volume_domanda": 190.8,
+  "sottotema": "noleggio auto e pulmini",
+  "piu_noto": {
+   "chiave": "renault",
+   "nome": "Renault",
+   "dominio": "renault.it",
+   "notorieta_s1": 213750.0
+  },
+  "pagine": [
+   {
+    "chiave": "centauro",
+    "nome": "Centauro",
+    "dominio": "centauro.net",
+    "notorieta_s1": 4275.0,
+    "url": "https://www.centauro.net/it/servizi/noleggio-auto-senza-franchigia/",
+    "regola": "regola 2",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 586,
+    "testo_sha256": "003dd8e3dff00ecd5dd5ce608ce3afc430a916b21db9b50a41b59a61380ff7a9"
+   },
+   {
+    "chiave": "goldcar",
+    "nome": "Goldcar",
+    "dominio": "goldcar.es",
+    "notorieta_s1": 35650.0,
+    "url": "https://www.goldcar.es/it-it/places/noleggio-auto-italy/roma/roma-fiumicino-aeroporto/",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 1752,
+    "testo_sha256": "3048870a40bb2208084fc834e8a0ebe31c4cc5eebd0708386c11b0711bf8d05c"
+   },
+   {
+    "chiave": "hertz",
+    "nome": "Hertz",
+    "dominio": "hertz.it",
+    "notorieta_s1": 124625.0,
+    "url": "https://www.hertz.it/rentacar/productservice/index.jsp?leftNavUserSelection=globNav_3_5_1&selectedRegion=Europa%2FMedio+Oriente%2FAfrica&targetPage=Family_Pack.jsp",
+    "regola": "regola 1",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 483,
+    "testo_sha256": "d344b8ebfd5e8e4f843c03750ae6a760e2408da436bc96910cecea7538753177"
+   },
+   {
+    "chiave": "sicily by car",
+    "nome": "Sicily by Car",
+    "dominio": "sicilybycar.it",
+    "notorieta_s1": 137333.33333333334,
+    "url": "https://www.sicilybycar.it/it/trk/EASTER26",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 445,
+    "testo_sha256": "daf11f86a16364c9d7fdc1adf98075ee9d96ac547629e8aedcd9900654d7b383"
+   },
+   {
+    "chiave": "avis",
+    "nome": "Avis",
+    "dominio": "avisautonoleggio.it",
+    "notorieta_s1": 90625.0,
+    "url": "https://www.avisautonoleggio.it/guida-con-avis/servizi/noleggio-auto-a-lungo-termine",
+    "regola": "regola 3",
+    "fonte": "v3",
+    "metodo": "requests",
+    "parole": 907,
+    "testo_sha256": "ffbd0c5c6dfd2df7a9ce2a6541ecc4048df75f53a979f0906ea248e8ba9cd501"
+   }
+  ],
+  "candidati": [
+   {
+    "chiave": "centauro",
+    "nome": "Centauro",
+    "dominio": "centauro.net",
+    "notorieta_s1": 4275.0
+   },
+   {
+    "chiave": "goldcar",
+    "nome": "Goldcar",
+    "dominio": "goldcar.es",
+    "notorieta_s1": 35650.0
+   },
+   {
+    "chiave": "drivalia",
+    "nome": "Drivalia",
+    "dominio": "drivalia.com",
+    "notorieta_s1": 47750.0
+   },
+   {
+    "chiave": "sicily by car",
+    "nome": "Sicily by Car",
+    "dominio": "sicilybycar.it",
+    "notorieta_s1": 137333.33333333334
+   },
+   {
+    "chiave": "avis",
+    "nome": "Avis",
+    "dominio": "avisautonoleggio.it",
+    "notorieta_s1": 90625.0
+   },
+   {
+    "chiave": "hertz",
+    "nome": "Hertz",
+    "dominio": "hertz.it",
+    "notorieta_s1": 124625.0
+   },
+   {
+    "chiave": "ok mobility",
+    "nome": "OK Mobility",
+    "dominio": "okmobility.com",
+    "notorieta_s1": 12750.0
+   },
+   {
+    "chiave": "record go",
+    "nome": "Record Go",
+    "dominio": "recordrentacar.com",
+    "notorieta_s1": 12616.666666666666
+   },
+   {
+    "chiave": "locauto",
+    "nome": "Locauto",
+    "dominio": "locautorent.com",
+    "notorieta_s1": 113916.66666666667
+   },
+   {
+    "chiave": "europcar",
+    "nome": "Europcar",
+    "dominio": "europcar.it",
+    "notorieta_s1": 118500.0
+   },
+   {
+    "chiave": "sixt",
+    "nome": "Sixt",
+    "dominio": "sixt.it",
+    "notorieta_s1": 66583.33333333333
+   },
+   {
+    "chiave": "renault",
+    "nome": "Renault",
+    "dominio": "renault.it",
+    "notorieta_s1": 213750.0
+   },
+   {
+    "chiave": "toyota",
+    "nome": "Toyota",
+    "dominio": "toyota.it",
+    "notorieta_s1": 338000.0
+   },
+   {
+    "chiave": "green motion",
+    "nome": "Green Motion",
+    "dominio": "greenmotion.com",
+    "notorieta_s1": 5925.0
+   },
+   {
+    "chiave": "thrifty",
+    "nome": "Thrifty",
+    "dominio": "thrifty.it",
+    "notorieta_s1": 5133.333333333333
+   },
+   {
+    "chiave": "volkswagen",
+    "nome": "Volkswagen",
+    "dominio": "volkswagen.it",
+    "notorieta_s1": 388500.0
+   },
+   {
+    "chiave": "free2move",
+    "nome": "Free2move",
+    "dominio": "free2move.com",
+    "notorieta_s1": 7525.0
+   },
+   {
+    "chiave": "autovia",
+    "nome": "Autovia",
+    "dominio": "autovia.it",
+    "notorieta_s1": 12450.0
+   },
+   {
+    "chiave": "opel",
+    "nome": "Opel",
+    "dominio": "opel.it",
+    "notorieta_s1": 80750.0
+   },
+   {
+    "chiave": "leasys",
+    "nome": "Leasys",
+    "dominio": "leasys.com",
+    "notorieta_s1": 41316.666666666664
+   },
+   {
+    "chiave": "peugeot",
+    "nome": "Peugeot",
+    "dominio": "peugeot.it",
+    "notorieta_s1": 153916.66666666666
+   }
+  ],
+  "sostituzioni": []
+ }
+}

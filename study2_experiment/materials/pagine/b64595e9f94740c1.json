@@ -1,0 +1,15 @@
+{
+ "url": "https://www.24hassistance.com/bikeplatinum",
+ "url_finale": "https://www.24hassistance.com/bikeplatinum",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione furto bici elettrica: polizza online | 24hassistance",
+ "parole": 2070,
+ "ok": true,
+ "ld": [
+  "Assicurazioni online per moto, bici, sci, sport e animali domestici",
+  "Bikeplatinum è l'assicurazione bici elettrica che offre una copertura completa da furto e incidenti. Scoprila online su 24hassistance."
+ ],
+ "catturato": "2026-10-25T15:55:11.228221+00:00",
+ "sha256_html": "add48ed8bcffe3fe039800686c9b69a165eb49d52a3c8e6cc4020d5edf3b5b34"
+}

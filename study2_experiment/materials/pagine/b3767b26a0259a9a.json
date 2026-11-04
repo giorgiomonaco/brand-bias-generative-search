@@ -1,0 +1,14 @@
+{
+ "url": "https://www.saucony.com/IT/it_IT/ride-19/60823M.html",
+ "url_finale": "https://www.saucony.com/IT/it_IT/ride-19/60823M.html",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Men's Ride 19 Cushioned Neutral Running Shoes by Saucony",
+ "parole": 922,
+ "ok": true,
+ "ld": [
+  "The Men's Ride 19 is a cushioned neutral daily trainer built for everyday training, long runs, and consistent mileage. With a smooth ride, durable comfort,"
+ ],
+ "catturato": "2026-10-23T16:31:15.341650+00:00",
+ "sha256_html": "77e10dac0daab050ac4253a651ef6b5f9227b7b62752306249074acf2ccd3dbc"
+}

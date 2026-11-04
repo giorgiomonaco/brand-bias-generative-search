@@ -1,0 +1,115 @@
+{
+ "pid": "sport_21",
+ "bersaglio": "asics",
+ "brand": "ASICS",
+ "url": "https://outlet.asics.com/it/it-it/gel-contend-9/p/1012B681-002.html",
+ "testo_sha256": "a7cd1376c39a909deb74f4c954ec3a965fb23a665c1e3a531e91bf7de0bbe794",
+ "modello": "{PRODOTTO}\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nLa scarpa da running {PRODOTTO} garantisce una buona ammortizzazione e robustezza e un efficace sostegno.\nLa tomaia in mesh rinforzata segue il movimento naturale del piede assicurando una calzabilità confortevole. Inoltre, le cuciture sintetiche sui rivestimenti aiutano a creare un maggior sostegno per il piede.\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza, creando una sensazione di maggiore morbidezza sotto il piede.\nInoltre, l'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente. Questo ti consente di cambiare direzione in modo più sicuro, soprattutto se ti stai spostando lateralmente.\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\nMateriali e tecnologie\nPronazione\nDettagli",
+ "mappa_reale": {
+  "PRODOTTO": "GEL-CONTEND 9",
+  "TECH_1": "GEL",
+  "TECH_2": "AMPLIFOAM+",
+  "TECH_3": "TRUSSTIC"
+ },
+ "mappa_inventata": {
+  "PRODOTTO": "Trevando",
+  "TECH_1": "Polare",
+  "TECH_2": "Elastina",
+  "TECH_3": "Ponte Rigido"
+ },
+ "piu_noto": "nike",
+ "meno_noto": "mizuno",
+ "inventato": "Kervino",
+ "riscritture": {
+  "FLUENCY": "{PRODOTTO}\n\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\n\nLa scarpa da running {PRODOTTO} offre buona ammortizzazione, robustezza e un efficace sostegno. La tomaia in mesh rinforzata accompagna il movimento naturale del piede e assicura una calzabilità confortevole; inoltre, le cuciture sintetiche sui rivestimenti contribuiscono a creare un maggior supporto.\nL'intersuola integra la tecnologia {TECH_1} e l'ammortizzazione {TECH_2}: insieme, queste tecnologie aiutano ad aumentare la robustezza e a offrire una sensazione di maggiore morbidezza sotto il piede. L'unità di sostegno {TECH_3}, con la suola esterna avvolgente, migliora la stabilità e consente ai piedi di muoversi liberamente, così puoi cambiare direzione in modo più sicuro, soprattutto negli spostamenti laterali.\n\nSuperficie: Strada\nAmmortizzazione: Normale\nDrop tallone-punta: 8 mm\nPeso: 235 g/8.3 oz\nSupporto: Neutra\nObiettivo: Più veloce\nSuperficie: Strada\nAmmortizzazione: Normale\nDrop tallone-punta: 8 mm\nPeso: 235 g/8.3 oz\nSupporto: Neutra\nObiettivo: Più veloce\n\nMateriali e tecnologie\nPronazione\nDettagli",
+  "AUTHORITATIVE": "{PRODOTTO}\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nLa scarpa da running {PRODOTTO} offre una buona ammortizzazione, robustezza e un sostegno efficace.\nLa tomaia in mesh rinforzata accompagna il movimento naturale del piede e assicura una calzabilità confortevole. Inoltre, le cuciture sintetiche sui rivestimenti contribuiscono a creare un maggiore sostegno per il piede.\nL'intersuola integra la tecnologia {TECH_1} e l'ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza, generando una sensazione di maggiore morbidezza sotto il piede.\nInoltre, l'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e permettono ai piedi di muoversi liberamente. Questo ti consente di cambiare direzione con maggiore sicurezza, soprattutto quando ti sposti lateralmente.\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\nMateriali e tecnologie\nPronazione\nDettagli",
+  "STRUTTURA": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\n\nIn sintesi:\nLa scarpa da running {PRODOTTO} garantisce una buona ammortizzazione, robustezza e un efficace sostegno.\n\nCalzabilità e tomaia:\nLa tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole.\nLe cuciture sintetiche sui rivestimenti aiutano a creare un maggior sostegno per il piede.\n\nAmmortizzazione e stabilità:\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza e creano una sensazione di maggiore morbidezza sotto il piede.\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente, anche nei cambi di direzione e negli spostamenti laterali.\n\nDettagli:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\n\nMateriali e tecnologie\nPronazione\nDettagli"
+ },
+ "log_riscritture": {
+  "STRUTTURA": [
+   {
+    "tentativo": 0,
+    "errori": [
+     "cifre Counter({'70,00': 1, '49,00': 1, '8': 1, '235': 1, '8.3': 1})"
+    ],
+    "parole": 163,
+    "testo": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\n\nPer chi è pensata:\nLa scarpa da running {PRODOTTO} è pensata per la strada, con supporto neutro, ammortizzazione normale e obiettivo più veloce. Garantisce una buona ammortizzazione, robustezza e un efficace sostegno.\n\nCalzabilità e tomaia:\nLa tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole.\nLe cuciture sintetiche sui rivestimenti aiutano a creare un maggior sostegno per il piede.\n\nAmmortizzazione e stabilità:\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza e creano una sensazione di maggiore morbidezza sotto il piede.\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente, anche nei cambi di direzione e negli spostamenti laterali.\n\nDettagli:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\n\nMateriali e tecnologie\nPronazione\nDettagli"
+   },
+   {
+    "tentativo": 1,
+    "errori": [
+     "cifre Counter({'70,00': 1, '49,00': 1, '8': 1, '235': 1, '8.3': 1})"
+    ],
+    "parole": 149,
+    "testo": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\n\nPer chi è:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\n\nCosa offre:\nLa scarpa da running {PRODOTTO} garantisce buona ammortizzazione, robustezza e sostegno efficace.\n\nCalzata e sostegno:\n- La tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole.\n- Le cuciture sintetiche sui rivestimenti aiutano a creare maggior sostegno per il piede.\n\nAmmortizzazione:\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza e creano una sensazione di maggiore morbidezza sotto il piede.\n\nStabilità:\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente, per cambiare direzione in modo più sicuro, soprattutto negli spostamenti laterali.\n\nMateriali e tecnologie:\nPronazione\nDettagli"
+   },
+   {
+    "tentativo": 2,
+    "errori": [
+     "cifre Counter({'70,00': 1, '49,00': 1, '8': 1, '235': 1, '8.3': 1})"
+    ],
+    "parole": 152,
+    "testo": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\n\nCaratteristiche principali:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\n\nAmmortizzazione e supporto:\nLa scarpa da running {PRODOTTO} offre buona ammortizzazione, robustezza e sostegno efficace. L'intersuola integra tecnologia {TECH_1} e ammortizzazione {TECH_2}: insieme contribuiscono ad aumentare la robustezza e a creare una sensazione di maggiore morbidezza sotto il piede.\n\nTomaia e calzata:\nLa tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole. Le cuciture sintetiche sui rivestimenti aiutano a creare maggiore sostegno per il piede.\n\nStabilità e movimento:\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente. Questo permette di cambiare direzione in modo più sicuro, soprattutto negli spostamenti laterali.\n\nSezioni:\n- Materiali e tecnologie\n- Pronazione\n- Dettagli"
+   }
+  ],
+  "FLUENCY": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 155,
+    "testo": "{PRODOTTO}\n\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\n\nLa scarpa da running {PRODOTTO} offre buona ammortizzazione, robustezza e un efficace sostegno. La tomaia in mesh rinforzata accompagna il movimento naturale del piede e assicura una calzabilità confortevole; inoltre, le cuciture sintetiche sui rivestimenti contribuiscono a creare un maggior supporto.\nL'intersuola integra la tecnologia {TECH_1} e l'ammortizzazione {TECH_2}: insieme, queste tecnologie aiutano ad aumentare la robustezza e a offrire una sensazione di maggiore morbidezza sotto il piede. L'unità di sostegno {TECH_3}, con la suola esterna avvolgente, migliora la stabilità e consente ai piedi di muoversi liberamente, così puoi cambiare direzione in modo più sicuro, soprattutto negli spostamenti laterali.\n\nSuperficie: Strada\nAmmortizzazione: Normale\nDrop tallone-punta: 8 mm\nPeso: 235 g/8.3 oz\nSupporto: Neutra\nObiettivo: Più veloce\nSuperficie: Strada\nAmmortizzazione: Normale\nDrop tallone-punta: 8 mm\nPeso: 235 g/8.3 oz\nSupporto: Neutra\nObiettivo: Più veloce\n\nMateriali e tecnologie\nPronazione\nDettagli"
+   }
+  ],
+  "AUTHORITATIVE": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 159,
+    "testo": "{PRODOTTO}\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\nLa scarpa da running {PRODOTTO} offre una buona ammortizzazione, robustezza e un sostegno efficace.\nLa tomaia in mesh rinforzata accompagna il movimento naturale del piede e assicura una calzabilità confortevole. Inoltre, le cuciture sintetiche sui rivestimenti contribuiscono a creare un maggiore sostegno per il piede.\nL'intersuola integra la tecnologia {TECH_1} e l'ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza, generando una sensazione di maggiore morbidezza sotto il piede.\nInoltre, l'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e permettono ai piedi di muoversi liberamente. Questo ti consente di cambiare direzione con maggiore sicurezza, soprattutto quando ti sposti lateralmente.\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\nMateriali e tecnologie\nPronazione\nDettagli"
+   }
+  ]
+ },
+ "log_revisione": {
+  "STRUTTURA": [
+   {
+    "passo": 0,
+    "errori": [
+     "lunghezza 1.16"
+    ],
+    "testo": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\n\nPer chi è pensata:\nLa scarpa da running {PRODOTTO} è pensata per la strada, con supporto neutro, ammortizzazione normale e obiettivo più veloce. Garantisce una buona ammortizzazione, robustezza e un efficace sostegno.\n\nCalzabilità e tomaia:\nLa tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole.\nLe cuciture sintetiche sui rivestimenti aiutano a creare un maggior sostegno per il piede.\n\nAmmortizzazione e stabilità:\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza e creano una sensazione di maggiore morbidezza sotto il piede.\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente, anche nei cambi di direzione e negli spostamenti laterali.\n\nDettagli:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\n\nMateriali e tecnologie\nPronazione\nDettagli"
+   },
+   {
+    "passo": 1,
+    "errori": [
+     "lunghezza 1.16"
+    ],
+    "testo": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\n\nPer chi è pensata:\nLa scarpa da running {PRODOTTO} è pensata per la strada, con supporto neutro, ammortizzazione normale e obiettivo più veloce. Garantisce una buona ammortizzazione, robustezza e un efficace sostegno.\n\nCalzabilità e tomaia:\nLa tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole.\nLe cuciture sintetiche sui rivestimenti aiutano a creare un maggior sostegno per il piede.\n\nAmmortizzazione e stabilità:\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza e creano una sensazione di maggiore morbidezza sotto il piede.\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente, anche nei cambi di direzione e negli spostamenti laterali.\n\nDettagli:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\n\nMateriali e tecnologie\nPronazione\nDettagli"
+   },
+   {
+    "passo": 2,
+    "errori": [
+     "lunghezza 1.16"
+    ],
+    "testo": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\n\nPer chi è pensata:\nLa scarpa da running {PRODOTTO} è pensata per la strada, con supporto neutro, ammortizzazione normale e obiettivo più veloce. Garantisce una buona ammortizzazione, robustezza e un efficace sostegno.\n\nCalzabilità e tomaia:\nLa tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole.\nLe cuciture sintetiche sui rivestimenti aiutano a creare un maggior sostegno per il piede.\n\nAmmortizzazione e stabilità:\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza e creano una sensazione di maggiore morbidezza sotto il piede.\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente, anche nei cambi di direzione e negli spostamenti laterali.\n\nDettagli:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\n\nMateriali e tecnologie\nPronazione\nDettagli"
+   },
+   {
+    "passo": "a mano 25/10",
+    "errori": [],
+    "testo": "{PRODOTTO}\n\nPrezzo:\n- Prezzo originale: € 70,00\n- Prezzo scontato: € 49,00\nPrezzo originale:\n€ 70,00\nPrezzo scontato:\n€ 49,00\n\nIn sintesi:\nLa scarpa da running {PRODOTTO} garantisce una buona ammortizzazione, robustezza e un efficace sostegno.\n\nCalzabilità e tomaia:\nLa tomaia in mesh rinforzata segue il movimento naturale del piede e assicura una calzabilità confortevole.\nLe cuciture sintetiche sui rivestimenti aiutano a creare un maggior sostegno per il piede.\n\nAmmortizzazione e stabilità:\nL'intersuola è dotata di tecnologia {TECH_1} e ammortizzazione {TECH_2}. Queste tecnologie contribuiscono ad aumentare la robustezza e creano una sensazione di maggiore morbidezza sotto il piede.\nL'unità di sostegno {TECH_3} e la suola esterna avvolgente migliorano la stabilità e consentono ai piedi di muoversi liberamente, anche nei cambi di direzione e negli spostamenti laterali.\n\nDettagli:\n- Superficie: Strada\n- Ammortizzazione: Normale\n- Drop tallone-punta: 8 mm\n- Peso: 235 g/8.3 oz\n- Supporto: Neutra\n- Obiettivo: Più veloce\nSuperficie\nStrada\nAmmortizzazione\nNormale\nDrop tallone-punta\n8 mm\nPeso\n235 g/8.3 oz\nSupporto\nNeutra\nObiettivo\nPiù veloce\n\nMateriali e tecnologie\nPronazione\nDettagli",
+    "modifica": {
+     "da": "Per chi è pensata:\nLa scarpa da running {PRODOTTO} è pensata per la strada, con supporto neutro, ammortizzazione normale e obiettivo più veloce. Garantisce una buona ammortizzazione, robustezza e un efficace sostegno.",
+     "a": "In sintesi:\nLa scarpa da running {PRODOTTO} garantisce una buona ammortizzazione, robustezza e un efficace sostegno."
+    }
+   }
+  ]
+ },
+ "riscritture_riviste": [
+  "STRUTTURA (a mano)"
+ ],
+ "log_correzioni_offline": [
+  {
+   "data": "2026-10-28",
+   "nota": "neutralizzazione v2 (lavoro/2026-10-28_neutralizzazione_v2/nuovi_nomi.py)"
+  }
+ ]
+}

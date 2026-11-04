@@ -1,0 +1,11 @@
+# analysis (no API calls)
+numpy>=2.2
+pandas>=2.3
+scipy>=1.15
+statsmodels>=0.14
+matplotlib>=3.10
+PyYAML>=6.0
+# collection only (requires API credentials)
+requests>=2.32
+google-genai>=2.29
+tldextract>=5.3

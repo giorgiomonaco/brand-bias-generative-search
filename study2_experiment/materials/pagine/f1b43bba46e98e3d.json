@@ -1,0 +1,13 @@
+{
+ "url": "https://www.centauro.net/it/servizi/noleggio-auto-senza-franchigia/",
+ "url_finale": "https://www.centauro.net/it/servizi/noleggio-auto-senza-franchigia/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Noleggio auto senza franchigia e con copertura completa",
+ "parole": 623,
+ "ok": true,
+ "ld": [],
+ "catturato": "2026-10-23T16:22:26.493322+00:00",
+ "sha256_html": "14be8f9abd20d7dc8d3aaa3289767ab70e53fadfe292b1fb75846829e9619866",
+ "testo_v3": "senza rimozione dei form"
+}

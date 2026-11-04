@@ -1,0 +1,14 @@
+{
+ "url": "https://www.esperiapalacehotel.it/all-inclusive/",
+ "url_finale": "https://www.esperiapalacehotel.it/all-inclusive/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "All inclusive - Esperia Palace Hotel",
+ "parole": 823,
+ "ok": true,
+ "ld": [
+  "Un ricchissimo buffet internazionale con ampia scelta di prodotti freschi"
+ ],
+ "catturato": "2026-10-23T15:59:53.432167+00:00",
+ "sha256_html": "980bba083cf5ddfafeed69387e2dd3275edd140674be674df4d469882ef979a2"
+}

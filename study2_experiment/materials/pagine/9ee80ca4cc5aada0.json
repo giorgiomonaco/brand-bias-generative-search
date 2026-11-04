@@ -1,0 +1,16 @@
+{
+ "url": "https://yubabikes.eu/it/prodotto/kombi/",
+ "url_finale": "https://yubabikes.eu/it/prodotto/kombi/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Yuba Kombi: LA Cargo Bike Longtail Muscolare | Yuba Bikes",
+ "parole": 3090,
+ "ok": true,
+ "ld": [
+  "Scopri Yuba Kombi, la cargo bike muscolare ideale per la famiglia. Compatta, robusta e versatile, trasporta fino a 200 kg al miglior prezzo.",
+  "Yuba - Cargo Bicycles For Families and Businesses",
+  "Il miglior modo per sperimentare lo stile di vita della bici cargo"
+ ],
+ "catturato": "2026-10-25T17:50:24.696699+00:00",
+ "sha256_html": "57d30475d56f838a825e238c0e49ebf17dca4cfb6451e098ad314efd71029509"
+}

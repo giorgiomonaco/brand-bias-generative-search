@@ -1,0 +1,15 @@
+{
+ "url": "https://www.clubesse.it/strutture/hotel-sunbeach/",
+ "url_finale": "https://www.clubesse.it/strutture/hotel-sunbeach/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Club Esse Sunbeach",
+ "parole": 1484,
+ "ok": true,
+ "ld": [
+  "Bellissimo 4 stelle che si affaccia sul Mar Ionio, nel Golfo di Squillace, una delle zone di mare più belle della Calabria baciata dal sole tutto l'anno.",
+  "Scegli la felicità"
+ ],
+ "catturato": "2026-10-23T15:59:53.879291+00:00",
+ "sha256_html": "2c843d41d825b7aab5bb0d370ee44e0f4ea258ddde5b7b959f5d71946258b646"
+}

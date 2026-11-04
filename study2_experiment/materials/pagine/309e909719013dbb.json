@@ -1,0 +1,14 @@
+{
+ "url": "https://www.nivea.it/prodotti/luminous630%C2%AE-anti-macchie-siero-trattamento-avanzato-40059007845200051.html",
+ "url_finale": "https://www.nivea.it/prodotti/luminous630%C2%AE-anti-macchie-siero-trattamento-avanzato-40059007845200051.html",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Luminous630® Siero Trattamento Avanzato - NIVEA",
+ "parole": 773,
+ "ok": true,
+ "ld": [
+  "Il Siero Luminous630® Trattamento Avanzato riduce tutti i tipi di macchie scure: fino all’82% di riduzione dell’intensità delle macchie² e previene la comparsa di nuove macchie. Per una pelle uniforme e luminosa."
+ ],
+ "catturato": "2026-10-25T15:55:06.379894+00:00",
+ "sha256_html": "d341626e1aeb4a4504437dbbbfb6de9210859ab5254e69c6aa777ac09b2afa1c"
+}

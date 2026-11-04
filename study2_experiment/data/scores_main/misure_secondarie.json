@@ -1,0 +1,338 @@
+{
+ "sport_21": {
+  "fam_bersaglio": 3,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 3,
+  "not_piu_noto": 9.42,
+  "not_bersaglio": 9.0,
+  "riconoscimento": 0.83,
+  "coerenza": {
+   "REALE": 2.92,
+   "PIU_NOTO": 0.33,
+   "MENO_NOTO": 0.58,
+   "INVENTATO": 0.25
+  }
+ },
+ "sport_11": {
+  "fam_bersaglio": 2.0,
+  "fam_piu_noto": 2.92,
+  "fam_meno_noto": 2.42,
+  "not_piu_noto": 9.08,
+  "not_bersaglio": 5.25,
+  "riconoscimento": 0.33,
+  "coerenza": {
+   "REALE": 2.92,
+   "PIU_NOTO": 0.75,
+   "MENO_NOTO": 0.83,
+   "INVENTATO": 1.67
+  }
+ },
+ "sport_17": {
+  "fam_bersaglio": 2.58,
+  "fam_piu_noto": 2.5,
+  "fam_meno_noto": 1.17,
+  "not_piu_noto": 3.33,
+  "not_bersaglio": 3.83,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 2.92,
+   "PIU_NOTO": 2.75,
+   "MENO_NOTO": 1.92,
+   "INVENTATO": 2.0
+  }
+ },
+ "sport_09": {
+  "fam_bersaglio": 2.92,
+  "fam_piu_noto": 2.75,
+  "fam_meno_noto": 2.83,
+  "not_piu_noto": 8.42,
+  "not_bersaglio": 7.83,
+  "riconoscimento": 0.75,
+  "coerenza": {
+   "REALE": 2.75,
+   "PIU_NOTO": 0.83,
+   "MENO_NOTO": 1.0,
+   "INVENTATO": 0.75
+  }
+ },
+ "sport_01": {
+  "fam_bersaglio": 2.92,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 3,
+  "not_piu_noto": 5.83,
+  "not_bersaglio": 6.33,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 0.75,
+   "MENO_NOTO": 1.25,
+   "INVENTATO": 1.25
+  }
+ },
+ "sport_13": {
+  "fam_bersaglio": 2.58,
+  "fam_piu_noto": 2.58,
+  "fam_meno_noto": 2.67,
+  "not_piu_noto": 7.75,
+  "not_bersaglio": 8.42,
+  "riconoscimento": 0.75,
+  "coerenza": {
+   "REALE": 2.33,
+   "PIU_NOTO": 0.5,
+   "MENO_NOTO": 0.25,
+   "INVENTATO": 0.5
+  }
+ },
+ "moda_beauty_14": {
+  "fam_bersaglio": 3,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 3,
+  "not_piu_noto": 7.92,
+  "not_bersaglio": 7.33,
+  "riconoscimento": 0.75,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 0.58,
+   "MENO_NOTO": 0.75,
+   "INVENTATO": 0.75
+  }
+ },
+ "moda_beauty_18": {
+  "fam_bersaglio": 3,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 2.92,
+  "not_piu_noto": 8.0,
+  "not_bersaglio": 8.0,
+  "riconoscimento": 1.0,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 0.75,
+   "MENO_NOTO": 0.75,
+   "INVENTATO": 0.67
+  }
+ },
+ "moda_beauty_03": {
+  "fam_bersaglio": 3,
+  "fam_piu_noto": 2.75,
+  "fam_meno_noto": 2.75,
+  "not_piu_noto": 7.75,
+  "not_bersaglio": 8.17,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 2.67,
+   "PIU_NOTO": 1.33,
+   "MENO_NOTO": 0.83,
+   "INVENTATO": 0.75
+  }
+ },
+ "moda_beauty_23": {
+  "fam_bersaglio": 2.92,
+  "fam_piu_noto": 2.75,
+  "fam_meno_noto": 2.83,
+  "not_piu_noto": 6.08,
+  "not_bersaglio": 6.75,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 0.58,
+   "MENO_NOTO": 0.33,
+   "INVENTATO": 0.5
+  }
+ },
+ "moda_beauty_05": {
+  "fam_bersaglio": 3,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 3,
+  "not_piu_noto": 8.0,
+  "not_bersaglio": 7.67,
+  "riconoscimento": 1.0,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 0.75,
+   "MENO_NOTO": 0.67,
+   "INVENTATO": 1.08
+  }
+ },
+ "moda_beauty_08": {
+  "fam_bersaglio": 2.75,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 2.92,
+  "not_piu_noto": 8.08,
+  "not_bersaglio": 6.58,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 2.83,
+   "PIU_NOTO": 1.5,
+   "MENO_NOTO": 0.17,
+   "INVENTATO": 1.75
+  }
+ },
+ "assicurazioni_17": {
+  "fam_bersaglio": 2.92,
+  "fam_piu_noto": 2.75,
+  "fam_meno_noto": 2.92,
+  "not_piu_noto": 7.5,
+  "not_bersaglio": 8.17,
+  "riconoscimento": 0.08,
+  "coerenza": {
+   "REALE": 2.92,
+   "PIU_NOTO": 3.0,
+   "MENO_NOTO": 2.83,
+   "INVENTATO": 1.0
+  }
+ },
+ "assicurazioni_20": {
+  "fam_bersaglio": 1.33,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 1.42,
+  "not_piu_noto": 7.58,
+  "not_bersaglio": 2.92,
+  "riconoscimento": 0.0,
+  "coerenza": {
+   "REALE": 2.83,
+   "PIU_NOTO": 1.5,
+   "MENO_NOTO": 2.0,
+   "INVENTATO": 1.0
+  }
+ },
+ "assicurazioni_09": {
+  "fam_bersaglio": 2.58,
+  "fam_piu_noto": 2.67,
+  "fam_meno_noto": 2.58,
+  "not_piu_noto": 3.5,
+  "not_bersaglio": 4.83,
+  "riconoscimento": 0.58,
+  "coerenza": {
+   "REALE": 2.5,
+   "PIU_NOTO": 1.17,
+   "MENO_NOTO": 2.08,
+   "INVENTATO": 1.25
+  }
+ },
+ "assicurazioni_03": {
+  "fam_bersaglio": 2.75,
+  "fam_piu_noto": 2.83,
+  "fam_meno_noto": 2.5,
+  "not_piu_noto": 5.83,
+  "not_bersaglio": 5.83,
+  "riconoscimento": 0.33,
+  "coerenza": {
+   "REALE": 2.42,
+   "PIU_NOTO": 1.42,
+   "MENO_NOTO": 0.67,
+   "INVENTATO": 0.83
+  }
+ },
+ "assicurazioni_19": {
+  "fam_bersaglio": 2.08,
+  "fam_piu_noto": 2.5,
+  "fam_meno_noto": 1.0,
+  "not_piu_noto": 4.42,
+  "not_bersaglio": 3.83,
+  "riconoscimento": 0.67,
+  "coerenza": {
+   "REALE": 2.75,
+   "PIU_NOTO": 1.83,
+   "MENO_NOTO": 2.33,
+   "INVENTATO": 0.83
+  }
+ },
+ "assicurazioni_10": {
+  "fam_bersaglio": 2.83,
+  "fam_piu_noto": 3,
+  "fam_meno_noto": 2.58,
+  "not_piu_noto": 6.58,
+  "not_bersaglio": 5.67,
+  "riconoscimento": 0.0,
+  "coerenza": {
+   "REALE": 2.83,
+   "PIU_NOTO": 2.42,
+   "MENO_NOTO": 2.67,
+   "INVENTATO": 1.08
+  }
+ },
+ "viaggi_18": {
+  "fam_bersaglio": 1.92,
+  "fam_piu_noto": 2.75,
+  "fam_meno_noto": 0.67,
+  "not_piu_noto": 3.5,
+  "not_bersaglio": 2.83,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 0.08,
+   "MENO_NOTO": 1.33,
+   "INVENTATO": 0.75
+  }
+ },
+ "viaggi_15": {
+  "fam_bersaglio": 2.83,
+  "fam_piu_noto": 2.75,
+  "fam_meno_noto": 1.58,
+  "not_piu_noto": 8.83,
+  "not_bersaglio": 8.25,
+  "riconoscimento": 0.42,
+  "coerenza": {
+   "REALE": 2.67,
+   "PIU_NOTO": 2.5,
+   "MENO_NOTO": 0.83,
+   "INVENTATO": 1.25
+  }
+ },
+ "viaggi_07": {
+  "fam_bersaglio": 2.75,
+  "fam_piu_noto": 2.83,
+  "fam_meno_noto": 1.67,
+  "not_piu_noto": 8.92,
+  "not_bersaglio": 5.42,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 1.5,
+   "MENO_NOTO": 1.58,
+   "INVENTATO": 1.0
+  }
+ },
+ "viaggi_04": {
+  "fam_bersaglio": 1.92,
+  "fam_piu_noto": 1.83,
+  "fam_meno_noto": 1.92,
+  "not_piu_noto": 4.17,
+  "not_bersaglio": 3.25,
+  "riconoscimento": 0.08,
+  "coerenza": {
+   "REALE": 3.0,
+   "PIU_NOTO": 3.0,
+   "MENO_NOTO": 2.58,
+   "INVENTATO": 2.83
+  }
+ },
+ "viaggi_13": {
+  "fam_bersaglio": 2.38,
+  "fam_piu_noto": 2.75,
+  "fam_meno_noto": 1.67,
+  "not_piu_noto": 5.92,
+  "not_bersaglio": 3.92,
+  "riconoscimento": 0.08,
+  "coerenza": {
+   "REALE": 2.42,
+   "PIU_NOTO": 1.08,
+   "MENO_NOTO": 1.5,
+   "INVENTATO": 1.17
+  }
+ },
+ "viaggi_17": {
+  "fam_bersaglio": 3,
+  "fam_piu_noto": 2.83,
+  "fam_meno_noto": 2.83,
+  "not_piu_noto": 3.5,
+  "not_bersaglio": 8.33,
+  "riconoscimento": 0.5,
+  "coerenza": {
+   "REALE": 2.67,
+   "PIU_NOTO": 1.58,
+   "MENO_NOTO": 2.5,
+   "INVENTATO": 1.25
+  }
+ }
+}

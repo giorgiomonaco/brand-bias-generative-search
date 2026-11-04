@@ -1,0 +1,3219 @@
+{
+ "sport_21": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "asics",
+  "piu_noto": "nike",
+  "meno_noto": "mizuno",
+  "righe": [
+   {
+    "pagina": "asics",
+    "nome": "ASICS",
+    "notorieta": 138750.0,
+    "piu_noto": "nike",
+    "notorieta_piu_noto": 709000.0,
+    "meno_noto": "mizuno",
+    "notorieta_meno_noto": 34566.666666666664,
+    "rango_medio": 3.975,
+    "rango_per_motore": {
+     "gpt": 4,
+     "deepseek": 3.9,
+     "perplexity": 4,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.024375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "brooks",
+    "nome": "Brooks",
+    "notorieta": 14091.666666666666,
+    "piu_noto": "nike",
+    "notorieta_piu_noto": 709000.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.05,
+    "rango_per_motore": {
+     "gpt": 2.3,
+     "deepseek": 1.2,
+     "perplexity": 2.8,
+     "gemini_vertex": 1.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.6475,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "saucony",
+    "nome": "Saucony",
+    "notorieta": 33066.666666666664,
+    "piu_noto": "nike",
+    "notorieta_piu_noto": 709000.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.475,
+    "rango_per_motore": {
+     "gpt": 1.3,
+     "deepseek": 2,
+     "perplexity": 1.3,
+     "gemini_vertex": 1.3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.299375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "adidas",
+    "nome": "Adidas",
+    "notorieta": 578500.0,
+    "piu_noto": "nike",
+    "notorieta_piu_noto": 709000.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 5,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 5,
+     "perplexity": 5,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "kiprun",
+    "nome": "Kiprun",
+    "notorieta": 3500.0,
+    "piu_noto": "nike",
+    "notorieta_piu_noto": 709000.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.5,
+    "rango_per_motore": {
+     "gpt": 2.4,
+     "deepseek": 2.9,
+     "perplexity": 1.9,
+     "gemini_vertex": 2.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.6,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "sport_11": {
+  "esito": "ok",
+  "dentro_2_4": false,
+  "bersaglio": "everfit",
+  "piu_noto": "technogym",
+  "meno_noto": "urevo",
+  "righe": [
+   {
+    "pagina": "toorx",
+    "nome": "Toorx",
+    "notorieta": 3625.0,
+    "piu_noto": "technogym",
+    "notorieta_piu_noto": 32333.333333333332,
+    "meno_noto": "urevo",
+    "notorieta_meno_noto": 86.66666666666667,
+    "rango_medio": 1.725,
+    "rango_per_motore": {
+     "gpt": 1.4,
+     "deepseek": 2.2,
+     "perplexity": 1.9,
+     "gemini_vertex": 1.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.699375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "nordictrack",
+    "nome": "NordicTrack",
+    "notorieta": 730.8333333333334,
+    "piu_noto": "technogym",
+    "notorieta_piu_noto": 32333.333333333332,
+    "meno_noto": "urevo",
+    "notorieta_meno_noto": 86.66666666666667,
+    "rango_medio": 2.525,
+    "rango_per_motore": {
+     "gpt": 2.8,
+     "deepseek": 1.9,
+     "perplexity": 2.8,
+     "gemini_vertex": 2.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.599375,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "horizon",
+    "nome": "Horizon",
+    "notorieta": 155.0,
+    "piu_noto": "technogym",
+    "notorieta_piu_noto": 32333.333333333332,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.8,
+    "rango_per_motore": {
+     "gpt": 1.8,
+     "deepseek": 1.9,
+     "perplexity": 1.5,
+     "gemini_vertex": 2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.51,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "sportstech",
+    "nome": "Sportstech",
+    "notorieta": 2350.0,
+    "piu_noto": "technogym",
+    "notorieta_piu_noto": 32333.333333333332,
+    "meno_noto": "urevo",
+    "notorieta_meno_noto": 86.66666666666667,
+    "rango_medio": 4.9,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 5,
+     "perplexity": 4.7,
+     "gemini_vertex": 4.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.09,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "everfit",
+    "nome": "Everfit",
+    "notorieta": 436.6666666666667,
+    "piu_noto": "technogym",
+    "notorieta_piu_noto": 32333.333333333332,
+    "meno_noto": "urevo",
+    "notorieta_meno_noto": 86.66666666666667,
+    "rango_medio": 4.05,
+    "rango_per_motore": {
+     "gpt": 4,
+     "deepseek": 4,
+     "perplexity": 4.1,
+     "gemini_vertex": 4.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.0975,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "sport_17": {
+  "esito": "ok",
+  "dentro_2_4": false,
+  "bersaglio": "fiido",
+  "piu_noto": "engwe",
+  "meno_noto": "panda bike",
+  "righe": [
+   {
+    "pagina": "yuba",
+    "nome": "Yuba",
+    "notorieta": 1568.3333333333333,
+    "piu_noto": "engwe",
+    "notorieta_piu_noto": 17225.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.075,
+    "rango_per_motore": {
+     "gpt": 1.1,
+     "deepseek": 1.2,
+     "perplexity": 1,
+     "gemini_vertex": 1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.069375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "tern",
+    "nome": "Tern",
+    "notorieta": 64.16666666666667,
+    "piu_noto": "engwe",
+    "notorieta_piu_noto": 17225.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.175,
+    "rango_per_motore": {
+     "gpt": 3.1,
+     "deepseek": 3,
+     "perplexity": 3.3,
+     "gemini_vertex": 3.3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.144375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "fiido",
+    "nome": "Fiido",
+    "notorieta": 7091.666666666667,
+    "piu_noto": "engwe",
+    "notorieta_piu_noto": 17225.0,
+    "meno_noto": "panda bike",
+    "notorieta_meno_noto": 815.0,
+    "rango_medio": 1.925,
+    "rango_per_motore": {
+     "gpt": 1.9,
+     "deepseek": 1.8,
+     "perplexity": 2,
+     "gemini_vertex": 2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.069375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "babboe",
+    "nome": "Babboe",
+    "notorieta": 248.33333333333334,
+    "piu_noto": "engwe",
+    "notorieta_piu_noto": 17225.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.925,
+    "rango_per_motore": {
+     "gpt": 4.3,
+     "deepseek": 4,
+     "perplexity": 3.7,
+     "gemini_vertex": 3.7
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.269375,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "urban arrow",
+    "nome": "Urban Arrow",
+    "notorieta": 320.0,
+    "piu_noto": "engwe",
+    "notorieta_piu_noto": 17225.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.9,
+    "rango_per_motore": {
+     "gpt": 4.6,
+     "deepseek": 5,
+     "perplexity": 5,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.09,
+    "italiano": false,
+    "ammissibile": false
+   }
+  ]
+ },
+ "sport_09": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "trek",
+  "piu_noto": "specialized",
+  "meno_noto": "kalkhoff",
+  "righe": [
+   {
+    "pagina": "cube",
+    "nome": "Cube",
+    "notorieta": 2308.3333333333335,
+    "piu_noto": "specialized",
+    "notorieta_piu_noto": 42783.333333333336,
+    "meno_noto": "kalkhoff",
+    "notorieta_meno_noto": 305.8333333333333,
+    "rango_medio": 4.875,
+    "rango_per_motore": {
+     "gpt": 4.8,
+     "deepseek": 5,
+     "perplexity": 4.7,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.109375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "fiido",
+    "nome": "Fiido",
+    "notorieta": 7091.666666666667,
+    "piu_noto": "specialized",
+    "notorieta_piu_noto": 42783.333333333336,
+    "meno_noto": "kalkhoff",
+    "notorieta_meno_noto": 305.8333333333333,
+    "rango_medio": 1.05,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1.2,
+     "perplexity": 1,
+     "gemini_vertex": 1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.0475,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "trek",
+    "nome": "Trek",
+    "notorieta": 3625.0,
+    "piu_noto": "specialized",
+    "notorieta_piu_noto": 42783.333333333336,
+    "meno_noto": "kalkhoff",
+    "notorieta_meno_noto": 305.8333333333333,
+    "rango_medio": 3.225,
+    "rango_per_motore": {
+     "gpt": 3,
+     "deepseek": 3.6,
+     "perplexity": 3.3,
+     "gemini_vertex": 3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.174375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "tenways",
+    "nome": "Tenways",
+    "notorieta": 1212.5,
+    "piu_noto": "specialized",
+    "notorieta_piu_noto": 42783.333333333336,
+    "meno_noto": "kalkhoff",
+    "notorieta_meno_noto": 305.8333333333333,
+    "rango_medio": 1.95,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 1.8,
+     "perplexity": 2,
+     "gemini_vertex": 2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.0475,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "tern",
+    "nome": "Tern",
+    "notorieta": 64.16666666666667,
+    "piu_noto": "specialized",
+    "notorieta_piu_noto": 42783.333333333336,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.9,
+    "rango_per_motore": {
+     "gpt": 4.2,
+     "deepseek": 3.4,
+     "perplexity": 4,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.34,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "sport_01": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "cmp",
+  "piu_noto": "adidas",
+  "meno_noto": "meindl",
+  "righe": [
+   {
+    "pagina": "merrell",
+    "nome": "Merrell",
+    "notorieta": 7450.0,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": "meindl",
+    "notorieta_meno_noto": 1270.0,
+    "rango_medio": 2.35,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 2.5,
+     "perplexity": 2.3,
+     "gemini_vertex": 2.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.2775,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "salomon",
+    "nome": "Salomon",
+    "notorieta": 83041.66666666667,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": "meindl",
+    "notorieta_meno_noto": 1270.0,
+    "rango_medio": 1.175,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1.4,
+     "perplexity": 1.1,
+     "gemini_vertex": 1.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.194375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "cmp",
+    "nome": "CMP",
+    "notorieta": 42041.666666666664,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": "meindl",
+    "notorieta_meno_noto": 1270.0,
+    "rango_medio": 3.95,
+    "rango_per_motore": {
+     "gpt": 4,
+     "deepseek": 4.1,
+     "perplexity": 3.7,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.0975,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "la sportiva",
+    "nome": "La Sportiva",
+    "notorieta": 46833.333333333336,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": "meindl",
+    "notorieta_meno_noto": 1270.0,
+    "rango_medio": 2.575,
+    "rango_per_motore": {
+     "gpt": 3,
+     "deepseek": 2.1,
+     "perplexity": 3,
+     "gemini_vertex": 2.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.744375,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "columbia",
+    "nome": "Columbia",
+    "notorieta": 1573.3333333333333,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.95,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 4.9,
+     "perplexity": 4.9,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.0475,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "sport_13": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "nox",
+  "piu_noto": "adidas",
+  "meno_noto": "wilson",
+  "righe": [
+   {
+    "pagina": "nox",
+    "nome": "Nox",
+    "notorieta": 1323.3333333333333,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": "wilson",
+    "notorieta_meno_noto": 614.1666666666666,
+    "rango_medio": 2.075,
+    "rango_per_motore": {
+     "gpt": 1.7,
+     "deepseek": 1.8,
+     "perplexity": 2.9,
+     "gemini_vertex": 1.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.519375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "bullpadel",
+    "nome": "Bullpadel",
+    "notorieta": 4316.666666666667,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": "wilson",
+    "notorieta_meno_noto": 614.1666666666666,
+    "rango_medio": 1.2,
+    "rango_per_motore": {
+     "gpt": 1.3,
+     "deepseek": 1.4,
+     "perplexity": 1,
+     "gemini_vertex": 1.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.21,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "babolat",
+    "nome": "Babolat",
+    "notorieta": 9241.666666666666,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": "wilson",
+    "notorieta_meno_noto": 614.1666666666666,
+    "rango_medio": 3.175,
+    "rango_per_motore": {
+     "gpt": 3,
+     "deepseek": 3.4,
+     "perplexity": 3.1,
+     "gemini_vertex": 3.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.194375,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "dunlop",
+    "nome": "Dunlop",
+    "notorieta": 519.1666666666666,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.375,
+    "rango_per_motore": {
+     "gpt": 4,
+     "deepseek": 3.8,
+     "perplexity": 4.9,
+     "gemini_vertex": 4.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.384375,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "siux",
+    "nome": "Siux",
+    "notorieta": 567.5,
+    "piu_noto": "adidas",
+    "notorieta_piu_noto": 578500.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.175,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 4.6,
+     "perplexity": 3.1,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.294375,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "moda_beauty_14": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "kiehls",
+  "piu_noto": "shiseido",
+  "meno_noto": "neutrogena",
+  "righe": [
+   {
+    "pagina": "cerave",
+    "nome": "CeraVe",
+    "notorieta": 43183.333333333336,
+    "piu_noto": "shiseido",
+    "notorieta_piu_noto": 21325.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.9500000000000002,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 2.7,
+     "perplexity": 1.5,
+     "gemini_vertex": 1.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.8475,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "the ordinary",
+    "nome": "The Ordinary",
+    "notorieta": 33000.0,
+    "piu_noto": "la roche posay",
+    "notorieta_piu_noto": 67041.66666666667,
+    "meno_noto": "neutrogena",
+    "notorieta_meno_noto": 5025.0,
+    "rango_medio": 4.15,
+    "rango_per_motore": {
+     "gpt": 4.8,
+     "deepseek": 4,
+     "perplexity": 3.1,
+     "gemini_vertex": 4.7
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.0775,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "avene",
+    "nome": "Avène",
+    "notorieta": 13941.666666666666,
+    "piu_noto": "la roche posay",
+    "notorieta_piu_noto": 67041.66666666667,
+    "meno_noto": "neutrogena",
+    "notorieta_meno_noto": 5025.0,
+    "rango_medio": 1.55,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1.9,
+     "perplexity": 1.5,
+     "gemini_vertex": 1.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.3975,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "filorga",
+    "nome": "Filorga",
+    "notorieta": 14958.333333333334,
+    "piu_noto": "la roche posay",
+    "notorieta_piu_noto": 67041.66666666667,
+    "meno_noto": "neutrogena",
+    "notorieta_meno_noto": 5025.0,
+    "rango_medio": 4.0,
+    "rango_per_motore": {
+     "gpt": 3.7,
+     "deepseek": 3.6,
+     "perplexity": 5,
+     "gemini_vertex": 3.7
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.4,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "kiehls",
+    "nome": "Kiehl’s",
+    "notorieta": 10466.666666666666,
+    "piu_noto": "shiseido",
+    "notorieta_piu_noto": 21325.0,
+    "meno_noto": "neutrogena",
+    "notorieta_meno_noto": 5025.0,
+    "rango_medio": 3.35,
+    "rango_per_motore": {
+     "gpt": 3.5,
+     "deepseek": 2.8,
+     "perplexity": 3.9,
+     "gemini_vertex": 3.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.6275,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "moda_beauty_18": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "the ordinary",
+  "piu_noto": "la roche posay",
+  "meno_noto": "the inkey list",
+  "righe": [
+   {
+    "pagina": "the ordinary",
+    "nome": "The Ordinary",
+    "notorieta": 33000.0,
+    "piu_noto": "la roche posay",
+    "notorieta_piu_noto": 67041.66666666667,
+    "meno_noto": "the inkey list",
+    "notorieta_meno_noto": 1673.3333333333333,
+    "rango_medio": 3.2,
+    "rango_per_motore": {
+     "gpt": 3.7,
+     "deepseek": 3.1,
+     "perplexity": 2.1,
+     "gemini_vertex": 3.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.81,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "cerave",
+    "nome": "CeraVe",
+    "notorieta": 43183.333333333336,
+    "piu_noto": "neutrogena",
+    "notorieta_piu_noto": 5025.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.95,
+    "rango_per_motore": {
+     "gpt": 2.9,
+     "deepseek": 3.6,
+     "perplexity": 2.2,
+     "gemini_vertex": 3.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.5975,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "paulas choice",
+    "nome": "Paula’s Choice",
+    "notorieta": 8383.333333333334,
+    "piu_noto": "la roche posay",
+    "notorieta_piu_noto": 67041.66666666667,
+    "meno_noto": "the inkey list",
+    "notorieta_meno_noto": 1673.3333333333333,
+    "rango_medio": 2.4499999999999997,
+    "rango_per_motore": {
+     "gpt": 2.4,
+     "deepseek": 2.3,
+     "perplexity": 3.4,
+     "gemini_vertex": 1.7
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.0475,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "medik8",
+    "nome": "Medik8",
+    "notorieta": 3850.0,
+    "piu_noto": "neutrogena",
+    "notorieta_piu_noto": 5025.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.4,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1,
+     "perplexity": 2.3,
+     "gemini_vertex": 1.3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.64,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "garnier",
+    "nome": "Garnier",
+    "notorieta": 18641.666666666668,
+    "piu_noto": "neutrogena",
+    "notorieta_piu_noto": 5025.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 5,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 5,
+     "perplexity": 5,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "moda_beauty_03": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "calvin klein",
+  "piu_noto": "zara",
+  "meno_noto": "berdoues",
+  "righe": [
+   {
+    "pagina": "elizabeth arden",
+    "nome": "Elizabeth Arden",
+    "notorieta": 5575.0,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "berdoues",
+    "notorieta_meno_noto": 68.33333333333333,
+    "rango_medio": 1.9749999999999999,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 2.8,
+     "perplexity": 1.7,
+     "gemini_vertex": 2.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.824375,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "tesori d oriente",
+    "nome": "Tesori d'Oriente",
+    "notorieta": 199.16666666666666,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "berdoues",
+    "notorieta_meno_noto": 68.33333333333333,
+    "rango_medio": 3.075,
+    "rango_per_motore": {
+     "gpt": 4.5,
+     "deepseek": 4.1,
+     "perplexity": 2.7,
+     "gemini_vertex": 1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 3.069375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "calvin klein",
+    "nome": "Calvin Klein",
+    "notorieta": 153916.66666666666,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "berdoues",
+    "notorieta_meno_noto": 68.33333333333333,
+    "rango_medio": 3.075,
+    "rango_per_motore": {
+     "gpt": 2.1,
+     "deepseek": 2.7,
+     "perplexity": 3.5,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.219375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "lattafa",
+    "nome": "Lattafa",
+    "notorieta": 23666.666666666668,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "berdoues",
+    "notorieta_meno_noto": 68.33333333333333,
+    "rango_medio": 2.7,
+    "rango_per_motore": {
+     "gpt": 3.8,
+     "deepseek": 1.1,
+     "perplexity": 3.1,
+     "gemini_vertex": 2.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.56,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "lalique",
+    "nome": "Lalique",
+    "notorieta": 3016.6666666666665,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "berdoues",
+    "notorieta_meno_noto": 68.33333333333333,
+    "rango_medio": 4.175,
+    "rango_per_motore": {
+     "gpt": 3.6,
+     "deepseek": 4.3,
+     "perplexity": 4,
+     "gemini_vertex": 4.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.794375,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "moda_beauty_23": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "montblanc",
+  "piu_noto": "zara",
+  "meno_noto": "rochas",
+  "righe": [
+   {
+    "pagina": "davidoff",
+    "nome": "Davidoff",
+    "notorieta": 7025.0,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "rochas",
+    "notorieta_meno_noto": 835.8333333333334,
+    "rango_medio": 4.675,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 5,
+     "perplexity": 3.7,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.569375,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "montblanc",
+    "nome": "Montblanc",
+    "notorieta": 63416.666666666664,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "rochas",
+    "notorieta_meno_noto": 835.8333333333334,
+    "rango_medio": 2.875,
+    "rango_per_motore": {
+     "gpt": 2.8,
+     "deepseek": 3.6,
+     "perplexity": 2,
+     "gemini_vertex": 3.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.659375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "dior",
+    "nome": "Dior",
+    "notorieta": 127083.33333333333,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "rochas",
+    "notorieta_meno_noto": 835.8333333333334,
+    "rango_medio": 1.4,
+    "rango_per_motore": {
+     "gpt": 1.1,
+     "deepseek": 1.3,
+     "perplexity": 1.5,
+     "gemini_vertex": 1.7
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.39,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "versace",
+    "nome": "Versace",
+    "notorieta": 59708.333333333336,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "rochas",
+    "notorieta_meno_noto": 835.8333333333334,
+    "rango_medio": 3.65,
+    "rango_per_motore": {
+     "gpt": 3.6,
+     "deepseek": 3.4,
+     "perplexity": 3.7,
+     "gemini_vertex": 3.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.2775,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "creed",
+    "nome": "Creed",
+    "notorieta": 15041.666666666666,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "rochas",
+    "notorieta_meno_noto": 835.8333333333334,
+    "rango_medio": 2.4,
+    "rango_per_motore": {
+     "gpt": 2.5,
+     "deepseek": 1.7,
+     "perplexity": 4.1,
+     "gemini_vertex": 1.3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.94,
+    "italiano": false,
+    "ammissibile": false
+   }
+  ]
+ },
+ "moda_beauty_05": {
+  "esito": "ok",
+  "dentro_2_4": false,
+  "bersaglio": "the ordinary",
+  "piu_noto": "caudalie",
+  "meno_noto": "skinceuticals",
+  "righe": [
+   {
+    "pagina": "the ordinary",
+    "nome": "The Ordinary",
+    "notorieta": 33000.0,
+    "piu_noto": "caudalie",
+    "notorieta_piu_noto": 77250.0,
+    "meno_noto": "skinceuticals",
+    "notorieta_meno_noto": 11958.333333333334,
+    "rango_medio": 4.225,
+    "rango_per_motore": {
+     "gpt": 4.1,
+     "deepseek": 4,
+     "perplexity": 4.2,
+     "gemini_vertex": 4.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.17751479289940827,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "garnier",
+    "nome": "Garnier",
+    "notorieta": 18641.666666666668,
+    "piu_noto": "caudalie",
+    "notorieta_piu_noto": 77250.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.0055555555555555,
+    "rango_per_motore": {
+     "gpt": 3,
+     "deepseek": 3.2222222222222223,
+     "perplexity": 2.8,
+     "gemini_vertex": 3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.20512820512820512,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "eucerin",
+    "nome": "Eucerin",
+    "notorieta": 16116.666666666666,
+    "piu_noto": "caudalie",
+    "notorieta_piu_noto": 77250.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.336111111111111,
+    "rango_per_motore": {
+     "gpt": 1.3,
+     "deepseek": 1.4444444444444444,
+     "perplexity": 1.2,
+     "gemini_vertex": 1.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.2222222222222222,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "nivea",
+    "nome": "Nivea",
+    "notorieta": 13408.333333333334,
+    "piu_noto": "caudalie",
+    "notorieta_piu_noto": 77250.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.713888888888889,
+    "rango_per_motore": {
+     "gpt": 1.7,
+     "deepseek": 1.5555555555555556,
+     "perplexity": 2,
+     "gemini_vertex": 1.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.25378040762656146,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "revox b77",
+    "nome": "Revox B77",
+    "notorieta": 714.1666666666666,
+    "piu_noto": "caudalie",
+    "notorieta_piu_noto": 77250.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.719444444444445,
+    "rango_per_motore": {
+     "gpt": 4.9,
+     "deepseek": 4.777777777777778,
+     "perplexity": 4.8,
+     "gemini_vertex": 4.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.25378040762656146,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "moda_beauty_08": {
+  "esito": "ok",
+  "dentro_2_4": false,
+  "bersaglio": "ovs",
+  "piu_noto": "zara",
+  "meno_noto": "agolde",
+  "righe": [
+   {
+    "pagina": "levis",
+    "nome": "Levi’s",
+    "notorieta": 89875.0,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "agolde",
+    "notorieta_meno_noto": 1275.0,
+    "rango_medio": 1.4,
+    "rango_per_motore": {
+     "gpt": 1.6,
+     "deepseek": 1.4,
+     "perplexity": 1.6,
+     "gemini_vertex": 1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.24,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "kiabi",
+    "nome": "Kiabi",
+    "notorieta": 299750.0,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "agolde",
+    "notorieta_meno_noto": 1275.0,
+    "rango_medio": 4.4,
+    "rango_per_motore": {
+     "gpt": 4,
+     "deepseek": 5,
+     "perplexity": 4.2,
+     "gemini_vertex": 4.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.24,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "uniqlo",
+    "nome": "Uniqlo",
+    "notorieta": 492416.6666666667,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "agolde",
+    "notorieta_meno_noto": 1275.0,
+    "rango_medio": 4.45,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 3.4,
+     "perplexity": 4.8,
+     "gemini_vertex": 4.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.5475,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "ovs",
+    "nome": "OVS",
+    "notorieta": 979916.6666666666,
+    "piu_noto": "zara",
+    "notorieta_piu_noto": 2588333.3333333335,
+    "meno_noto": "agolde",
+    "notorieta_meno_noto": 1275.0,
+    "rango_medio": 1.6,
+    "rango_per_motore": {
+     "gpt": 1.4,
+     "deepseek": 1.6,
+     "perplexity": 1.4,
+     "gemini_vertex": 2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.24,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "bershka",
+    "nome": "Bershka",
+    "notorieta": 888750.0,
+    "piu_noto": "primark",
+    "notorieta_piu_noto": 1078000.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.15,
+    "rango_per_motore": {
+     "gpt": 3,
+     "deepseek": 3.6,
+     "perplexity": 3,
+     "gemini_vertex": 3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.1275,
+    "italiano": false,
+    "ammissibile": false
+   }
+  ]
+ },
+ "assicurazioni_17": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "allianz direct",
+  "piu_noto": "prima assicurazioni",
+  "meno_noto": "admiral",
+  "righe": [
+   {
+    "pagina": "genertel",
+    "nome": "Genertel",
+    "notorieta": 83875.0,
+    "piu_noto": "prima assicurazioni",
+    "notorieta_piu_noto": 391000.0,
+    "meno_noto": "admiral",
+    "notorieta_meno_noto": 1550.0,
+    "rango_medio": 4.05,
+    "rango_per_motore": {
+     "gpt": 4.7,
+     "deepseek": 2.6,
+     "perplexity": 4.3,
+     "gemini_vertex": 4.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.1475,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "conte it",
+    "nome": "ConTe.it",
+    "notorieta": 65416.666666666664,
+    "piu_noto": "prima assicurazioni",
+    "notorieta_piu_noto": 391000.0,
+    "meno_noto": "admiral",
+    "notorieta_meno_noto": 1550.0,
+    "rango_medio": 3.8,
+    "rango_per_motore": {
+     "gpt": 4.2,
+     "deepseek": 3.2,
+     "perplexity": 4.3,
+     "gemini_vertex": 3.5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.96,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "allianz direct",
+    "nome": "Allianz Direct",
+    "notorieta": 190250.0,
+    "piu_noto": "prima assicurazioni",
+    "notorieta_piu_noto": 391000.0,
+    "meno_noto": "admiral",
+    "notorieta_meno_noto": 1550.0,
+    "rango_medio": 2.825,
+    "rango_per_motore": {
+     "gpt": 1.7,
+     "deepseek": 4.4,
+     "perplexity": 2.4,
+     "gemini_vertex": 2.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.994375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "allianz",
+    "nome": "Allianz",
+    "notorieta": 140416.66666666666,
+    "piu_noto": "prima assicurazioni",
+    "notorieta_piu_noto": 391000.0,
+    "meno_noto": "admiral",
+    "notorieta_meno_noto": 1550.0,
+    "rango_medio": 1.775,
+    "rango_per_motore": {
+     "gpt": 2.2,
+     "deepseek": 1,
+     "perplexity": 2.3,
+     "gemini_vertex": 1.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.824375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "verti",
+    "nome": "Verti",
+    "notorieta": 10583.333333333334,
+    "piu_noto": "prima assicurazioni",
+    "notorieta_piu_noto": 391000.0,
+    "meno_noto": "admiral",
+    "notorieta_meno_noto": 1550.0,
+    "rango_medio": 2.55,
+    "rango_per_motore": {
+     "gpt": 2.2,
+     "deepseek": 3.8,
+     "perplexity": 1.7,
+     "gemini_vertex": 2.5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.5975,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "assicurazioni_20": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "geniallife",
+  "piu_noto": "unipol",
+  "meno_noto": "squarelife",
+  "righe": [
+   {
+    "pagina": "metlife",
+    "nome": "MetLife",
+    "notorieta": 20075.0,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": "squarelife",
+    "notorieta_meno_noto": 309.1666666666667,
+    "rango_medio": 2,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 2,
+     "perplexity": 2,
+     "gemini_vertex": 2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "genertel",
+    "nome": "Genertel",
+    "notorieta": 83875.0,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.1,
+    "rango_per_motore": {
+     "gpt": 4.8,
+     "deepseek": 4,
+     "perplexity": 4.3,
+     "gemini_vertex": 3.3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.74,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "axa",
+    "nome": "AXA",
+    "notorieta": 44383.333333333336,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": "squarelife",
+    "notorieta_meno_noto": 309.1666666666667,
+    "rango_medio": 4.15,
+    "rango_per_motore": {
+     "gpt": 3.8,
+     "deepseek": 4.4,
+     "perplexity": 4.4,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.5275,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "geniallife",
+    "nome": "GenialLife",
+    "notorieta": 1833.3333333333333,
+    "piu_noto": "unipol",
+    "notorieta_piu_noto": 114625.0,
+    "meno_noto": "squarelife",
+    "notorieta_meno_noto": 309.1666666666667,
+    "rango_medio": 3.75,
+    "rango_per_motore": {
+     "gpt": 3.4,
+     "deepseek": 3.6,
+     "perplexity": 3.3,
+     "gemini_vertex": 4.7
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.6375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "wopta",
+    "nome": "Wopta",
+    "notorieta": 970.0,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": "squarelife",
+    "notorieta_meno_noto": 309.1666666666667,
+    "rango_medio": 1,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1,
+     "perplexity": 1,
+     "gemini_vertex": 1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "assicurazioni_09": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "heymondo",
+  "piu_noto": "genertel",
+  "meno_noto": "ergo assicurazione viaggi",
+  "righe": [
+   {
+    "pagina": "heymondo",
+    "nome": "Heymondo",
+    "notorieta": 38216.666666666664,
+    "piu_noto": "genertel",
+    "notorieta_piu_noto": 83875.0,
+    "meno_noto": "ergo assicurazione viaggi",
+    "notorieta_meno_noto": 509.1666666666667,
+    "rango_medio": 3.4749999999999996,
+    "rango_per_motore": {
+     "gpt": 4.1,
+     "deepseek": 3.1,
+     "perplexity": 3.8,
+     "gemini_vertex": 2.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.099375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "axa",
+    "nome": "AXA",
+    "notorieta": 44383.333333333336,
+    "piu_noto": "genertel",
+    "notorieta_piu_noto": 83875.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.5,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 3.1,
+     "perplexity": 2.3,
+     "gemini_vertex": 2.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.7,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "columbus",
+    "nome": "Columbus",
+    "notorieta": 14500.0,
+    "piu_noto": "genertel",
+    "notorieta_piu_noto": 83875.0,
+    "meno_noto": "ergo assicurazione viaggi",
+    "notorieta_meno_noto": 509.1666666666667,
+    "rango_medio": 3.65,
+    "rango_per_motore": {
+     "gpt": 3.6,
+     "deepseek": 3,
+     "perplexity": 4,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.9275,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "coverwise",
+    "nome": "Coverwise",
+    "notorieta": 4025.0,
+    "piu_noto": "genertel",
+    "notorieta_piu_noto": 83875.0,
+    "meno_noto": "ergo assicurazione viaggi",
+    "notorieta_meno_noto": 509.1666666666667,
+    "rango_medio": 4.325,
+    "rango_per_motore": {
+     "gpt": 4.3,
+     "deepseek": 4.8,
+     "perplexity": 3.8,
+     "gemini_vertex": 4.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.769375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "allianz global assistance",
+    "nome": "Allianz Global Assistance",
+    "notorieta": 1175.0,
+    "piu_noto": "genertel",
+    "notorieta_piu_noto": 83875.0,
+    "meno_noto": "ergo assicurazione viaggi",
+    "notorieta_meno_noto": 509.1666666666667,
+    "rango_medio": 1.05,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1,
+     "perplexity": 1.1,
+     "gemini_vertex": 1.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.0475,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "assicurazioni_03": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "axa",
+  "piu_noto": "unipol",
+  "meno_noto": "qover",
+  "righe": [
+   {
+    "pagina": "24hassistance",
+    "nome": "24hAssistance",
+    "notorieta": 16000.0,
+    "piu_noto": "unipol",
+    "notorieta_piu_noto": 114625.0,
+    "meno_noto": "qover",
+    "notorieta_meno_noto": 115.83333333333333,
+    "rango_medio": 1.95,
+    "rango_per_motore": {
+     "gpt": 1.9,
+     "deepseek": 2.8,
+     "perplexity": 1.2,
+     "gemini_vertex": 1.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.8475,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "axa",
+    "nome": "AXA",
+    "notorieta": 44383.333333333336,
+    "piu_noto": "unipol",
+    "notorieta_piu_noto": 114625.0,
+    "meno_noto": "qover",
+    "notorieta_meno_noto": 115.83333333333333,
+    "rango_medio": 3.375,
+    "rango_per_motore": {
+     "gpt": 3.3,
+     "deepseek": 3.1,
+     "perplexity": 3.5,
+     "gemini_vertex": 3.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.484375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "sara assicurazioni",
+    "nome": "Sara Assicurazioni",
+    "notorieta": 40766.666666666664,
+    "piu_noto": "unipol",
+    "notorieta_piu_noto": 114625.0,
+    "meno_noto": "qover",
+    "notorieta_meno_noto": 115.83333333333333,
+    "rango_medio": 1.4500000000000002,
+    "rango_per_motore": {
+     "gpt": 1.1,
+     "deepseek": 1.4,
+     "perplexity": 2.2,
+     "gemini_vertex": 1.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.4975,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "bikeplatinum",
+    "nome": "Bikeplatinum",
+    "notorieta": 50.0,
+    "piu_noto": "unipol",
+    "notorieta_piu_noto": 114625.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.6,
+    "rango_per_motore": {
+     "gpt": 4.2,
+     "deepseek": 3.3,
+     "perplexity": 3.4,
+     "gemini_vertex": 3.5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.24,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "bikeprotection",
+    "nome": "BikeProtection",
+    "notorieta": 119.16666666666667,
+    "piu_noto": "unipol",
+    "notorieta_piu_noto": 114625.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.625,
+    "rango_per_motore": {
+     "gpt": 4.5,
+     "deepseek": 4.4,
+     "perplexity": 4.7,
+     "gemini_vertex": 4.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.284375,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "assicurazioni_19": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "conte it",
+  "piu_noto": "unisalute",
+  "meno_noto": "baboop",
+  "righe": [
+   {
+    "pagina": "santevet",
+    "nome": "Santévet",
+    "notorieta": 2091.6666666666665,
+    "piu_noto": "unisalute",
+    "notorieta_piu_noto": 430416.6666666667,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.225,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1.3,
+     "perplexity": 1.4,
+     "gemini_vertex": 1.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.174375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "poste italiane",
+    "nome": "Poste Italiane",
+    "notorieta": 11091.666666666666,
+    "piu_noto": "unisalute",
+    "notorieta_piu_noto": 430416.6666666667,
+    "meno_noto": "baboop",
+    "notorieta_meno_noto": 1641.6666666666667,
+    "rango_medio": 4.2,
+    "rango_per_motore": {
+     "gpt": 3.5,
+     "deepseek": 4.6,
+     "perplexity": 3.8,
+     "gemini_vertex": 4.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.51,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "conte it",
+    "nome": "ConTe.it",
+    "notorieta": 65416.666666666664,
+    "piu_noto": "unisalute",
+    "notorieta_piu_noto": 430416.6666666667,
+    "meno_noto": "baboop",
+    "notorieta_meno_noto": 1641.6666666666667,
+    "rango_medio": 3.075,
+    "rango_per_motore": {
+     "gpt": 3.5,
+     "deepseek": 2.7,
+     "perplexity": 3.1,
+     "gemini_vertex": 3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.269375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "barkibu",
+    "nome": "Barkibu",
+    "notorieta": 6866.666666666667,
+    "piu_noto": "unisalute",
+    "notorieta_piu_noto": 430416.6666666667,
+    "meno_noto": "baboop",
+    "notorieta_meno_noto": 1641.6666666666667,
+    "rango_medio": 1.875,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 2,
+     "perplexity": 1.7,
+     "gemini_vertex": 1.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.309375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "unipol",
+    "nome": "Unipol",
+    "notorieta": 114625.0,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.625,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 4.4,
+     "perplexity": 5,
+     "gemini_vertex": 4.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.234375,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "assicurazioni_10": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "cattolica assicurazioni",
+  "piu_noto": "allianz",
+  "meno_noto": "zurich",
+  "righe": [
+   {
+    "pagina": "unipol",
+    "nome": "Unipol",
+    "notorieta": 114625.0,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.625,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 2.3,
+     "perplexity": 1.3,
+     "gemini_vertex": 1.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.434375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "pantaenius",
+    "nome": "Pantaenius",
+    "notorieta": 606.6666666666666,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 1.825,
+    "rango_per_motore": {
+     "gpt": 2.1,
+     "deepseek": 1,
+     "perplexity": 2.9,
+     "gemini_vertex": 1.3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.444375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "groupama",
+    "nome": "Groupama",
+    "notorieta": 19533.333333333332,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.325,
+    "rango_per_motore": {
+     "gpt": 3.2,
+     "deepseek": 3.8,
+     "perplexity": 3.5,
+     "gemini_vertex": 2.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.819375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "cattolica assicurazioni",
+    "nome": "Cattolica Assicurazioni",
+    "notorieta": 34450.0,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": "zurich",
+    "notorieta_meno_noto": 13041.666666666666,
+    "rango_medio": 3.9,
+    "rango_per_motore": {
+     "gpt": 4,
+     "deepseek": 3.8,
+     "perplexity": 3,
+     "gemini_vertex": 4.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.94,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "helvetia",
+    "nome": "Helvetia",
+    "notorieta": 6550.0,
+    "piu_noto": "allianz",
+    "notorieta_piu_noto": 140416.66666666666,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.325,
+    "rango_per_motore": {
+     "gpt": 4.7,
+     "deepseek": 4.1,
+     "perplexity": 4.3,
+     "gemini_vertex": 4.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.419375,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "viaggi_18": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "go etna",
+  "piu_noto": "weroad",
+  "meno_noto": "kidsicily",
+  "righe": [
+   {
+    "pagina": "dimensione sicilia",
+    "nome": "Dimensione Sicilia",
+    "notorieta": 625.8333333333334,
+    "piu_noto": "weroad",
+    "notorieta_piu_noto": 248166.66666666666,
+    "meno_noto": "kidsicily",
+    "notorieta_meno_noto": 8.333333333333334,
+    "rango_medio": 1.975,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 2.9,
+     "perplexity": 1.8,
+     "gemini_vertex": 1.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.624375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "go etna",
+    "nome": "Go-Etna",
+    "notorieta": 695.0,
+    "piu_noto": "weroad",
+    "notorieta_piu_noto": 248166.66666666666,
+    "meno_noto": "kidsicily",
+    "notorieta_meno_noto": 8.333333333333334,
+    "rango_medio": 3.75,
+    "rango_per_motore": {
+     "gpt": 3.6,
+     "deepseek": 3.9,
+     "perplexity": 3.5,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.1875,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "sicilia incoming",
+    "nome": "Sicilia Incoming",
+    "notorieta": 70.0,
+    "piu_noto": "weroad",
+    "notorieta_piu_noto": 248166.66666666666,
+    "meno_noto": "kidsicily",
+    "notorieta_meno_noto": 8.333333333333334,
+    "rango_medio": 4.95,
+    "rango_per_motore": {
+     "gpt": 4.9,
+     "deepseek": 5,
+     "perplexity": 4.9,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.0475,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "tour of sicily",
+    "nome": "Tour of Sicily",
+    "notorieta": 622.5,
+    "piu_noto": "weroad",
+    "notorieta_piu_noto": 248166.66666666666,
+    "meno_noto": "kidsicily",
+    "notorieta_meno_noto": 8.333333333333334,
+    "rango_medio": 2.8,
+    "rango_per_motore": {
+     "gpt": 3.5,
+     "deepseek": 1.7,
+     "perplexity": 3.6,
+     "gemini_vertex": 2.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.06,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "sicily activities",
+    "nome": "Sicily Activities",
+    "notorieta": 100.83333333333333,
+    "piu_noto": "weroad",
+    "notorieta_piu_noto": 248166.66666666666,
+    "meno_noto": "kidsicily",
+    "notorieta_meno_noto": 8.333333333333334,
+    "rango_medio": 1.525,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 1.5,
+     "perplexity": 1.2,
+     "gemini_vertex": 2.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.449375,
+    "italiano": false,
+    "ammissibile": false
+   }
+  ]
+ },
+ "viaggi_15": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "veratour",
+  "piu_noto": "alpitour world",
+  "meno_noto": "savannah explorers",
+  "righe": [
+   {
+    "pagina": "eden viaggi",
+    "nome": "Eden Viaggi",
+    "notorieta": 158166.66666666666,
+    "piu_noto": "sivola",
+    "notorieta_piu_noto": 59708.333333333336,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.75,
+    "rango_per_motore": {
+     "gpt": 3.1,
+     "deepseek": 4.4,
+     "perplexity": 3.7,
+     "gemini_vertex": 3.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.8875,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "veratour",
+    "nome": "Veratour",
+    "notorieta": 73708.33333333333,
+    "piu_noto": "alpitour world",
+    "notorieta_piu_noto": 280250.0,
+    "meno_noto": "savannah explorers",
+    "notorieta_meno_noto": 280.8333333333333,
+    "rango_medio": 2.1,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 2.9,
+     "perplexity": 2.4,
+     "gemini_vertex": 2.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.89,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "weroad",
+    "nome": "WeRoad",
+    "notorieta": 248166.66666666666,
+    "piu_noto": "alpitour world",
+    "notorieta_piu_noto": 280250.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.4,
+    "rango_per_motore": {
+     "gpt": 2.9,
+     "deepseek": 1.8,
+     "perplexity": 3,
+     "gemini_vertex": 1.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.39,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "turisanda",
+    "nome": "Turisanda",
+    "notorieta": 15541.666666666666,
+    "piu_noto": "sivola",
+    "notorieta_piu_noto": 59708.333333333336,
+    "meno_noto": "savannah explorers",
+    "notorieta_meno_noto": 280.8333333333333,
+    "rango_medio": 4.225,
+    "rango_per_motore": {
+     "gpt": 4.1,
+     "deepseek": 4.6,
+     "perplexity": 3.2,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.324375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "avventure nel mondo",
+    "nome": "Avventure nel Mondo",
+    "notorieta": 155500.0,
+    "piu_noto": "alpitour world",
+    "notorieta_piu_noto": 280250.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.525,
+    "rango_per_motore": {
+     "gpt": 3.9,
+     "deepseek": 1.3,
+     "perplexity": 2.7,
+     "gemini_vertex": 2.2
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 2.049375,
+    "italiano": true,
+    "ammissibile": false
+   }
+  ]
+ },
+ "viaggi_07": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "club esse",
+  "piu_noto": "alpitour world",
+  "meno_noto": "meraki resort",
+  "righe": [
+   {
+    "pagina": "eden viaggi",
+    "nome": "Eden Viaggi",
+    "notorieta": 158166.66666666666,
+    "piu_noto": "club del sole",
+    "notorieta_piu_noto": 31325.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.2416666666666667,
+    "rango_per_motore": {
+     "gpt": 2.2,
+     "deepseek": 2.6666666666666665,
+     "perplexity": 3.1,
+     "gemini_vertex": 1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.4595660749506902,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "veratour",
+    "nome": "Veratour",
+    "notorieta": 73708.33333333333,
+    "piu_noto": "alpitour world",
+    "notorieta_piu_noto": 280250.0,
+    "meno_noto": "meraki resort",
+    "notorieta_meno_noto": 248.33333333333334,
+    "rango_medio": 2.3666666666666667,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 2.6666666666666665,
+     "perplexity": 2.2,
+     "gemini_vertex": 2.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.9993425378040762,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "pickalbatros",
+    "nome": "Pickalbatros",
+    "notorieta": 855.0,
+    "piu_noto": "alpitour world",
+    "notorieta_piu_noto": 280250.0,
+    "meno_noto": "meraki resort",
+    "notorieta_meno_noto": 248.33333333333334,
+    "rango_medio": 4.794444444444444,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 4.777777777777778,
+     "perplexity": 4.6,
+     "gemini_vertex": 4.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.2656147271531887,
+    "italiano": false,
+    "ammissibile": false
+   },
+   {
+    "pagina": "bluserena",
+    "nome": "Bluserena",
+    "notorieta": 32208.333333333332,
+    "piu_noto": "alpitour world",
+    "notorieta_piu_noto": 280250.0,
+    "meno_noto": "meraki resort",
+    "notorieta_meno_noto": 248.33333333333334,
+    "rango_medio": 2.025,
+    "rango_per_motore": {
+     "gpt": 2,
+     "deepseek": 2,
+     "perplexity": 1.6,
+     "gemini_vertex": 2.5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.8454963839579224,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "club esse",
+    "nome": "Club Esse",
+    "notorieta": 5741.666666666667,
+    "piu_noto": "alpitour world",
+    "notorieta_piu_noto": 280250.0,
+    "meno_noto": "meraki resort",
+    "notorieta_meno_noto": 248.33333333333334,
+    "rango_medio": 3.572222222222222,
+    "rango_per_motore": {
+     "gpt": 3.8,
+     "deepseek": 2.888888888888889,
+     "perplexity": 3.5,
+     "gemini_vertex": 4.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 9,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.908612754766601,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "viaggi_04": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "villaggio elea",
+  "piu_noto": "baia del silenzio",
+  "meno_noto": "camping villaggio saline",
+  "righe": [
+   {
+    "pagina": "villaggio elea",
+    "nome": "Villaggio Elea",
+    "notorieta": 3855.8333333333335,
+    "piu_noto": "baia del silenzio",
+    "notorieta_piu_noto": 30033.333333333332,
+    "meno_noto": "camping villaggio saline",
+    "notorieta_meno_noto": 65.83333333333333,
+    "rango_medio": 2.875,
+    "rango_per_motore": {
+     "gpt": 3,
+     "deepseek": 2.9,
+     "perplexity": 2.3,
+     "gemini_vertex": 3.3
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.659375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "blue marine",
+    "nome": "Blue Marine",
+    "notorieta": 3950.0,
+    "piu_noto": "baia del silenzio",
+    "notorieta_piu_noto": 30033.333333333332,
+    "meno_noto": "camping villaggio saline",
+    "notorieta_meno_noto": 65.83333333333333,
+    "rango_medio": 1.6749999999999998,
+    "rango_per_motore": {
+     "gpt": 1.9,
+     "deepseek": 1.5,
+     "perplexity": 1.9,
+     "gemini_vertex": 1.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.369375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "arco naturale club",
+    "nome": "Arco Naturale Club",
+    "notorieta": 6941.666666666667,
+    "piu_noto": "baia del silenzio",
+    "notorieta_piu_noto": 30033.333333333332,
+    "meno_noto": "camping villaggio saline",
+    "notorieta_meno_noto": 65.83333333333333,
+    "rango_medio": 1.625,
+    "rango_per_motore": {
+     "gpt": 1.1,
+     "deepseek": 1.7,
+     "perplexity": 2.1,
+     "gemini_vertex": 1.6
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.584375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "villaggio camping odissea",
+    "nome": "Villaggio Camping Odissea",
+    "notorieta": 4122.5,
+    "piu_noto": "baia del silenzio",
+    "notorieta_piu_noto": 30033.333333333332,
+    "meno_noto": "camping villaggio saline",
+    "notorieta_meno_noto": 65.83333333333333,
+    "rango_medio": 4.275,
+    "rango_per_motore": {
+     "gpt": 4.1,
+     "deepseek": 4.3,
+     "perplexity": 4,
+     "gemini_vertex": 4.7
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.349375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "residence trivento",
+    "nome": "Residence Trivento",
+    "notorieta": 954.1666666666666,
+    "piu_noto": "baia del silenzio",
+    "notorieta_piu_noto": 30033.333333333332,
+    "meno_noto": "camping villaggio saline",
+    "notorieta_meno_noto": 65.83333333333333,
+    "rango_medio": 4.55,
+    "rango_per_motore": {
+     "gpt": 4.9,
+     "deepseek": 4.6,
+     "perplexity": 4.7,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.3475,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ },
+ "viaggi_13": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "nicolaus club la giurlita",
+  "piu_noto": "vivosa apulia resort",
+  "meno_noto": "arco del saracino",
+  "righe": [
+   {
+    "pagina": "esperia palace hotel",
+    "nome": "Esperia Palace Hotel",
+    "notorieta": 10983.333333333334,
+    "piu_noto": "vivosa apulia resort",
+    "notorieta_piu_noto": 21850.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.35,
+    "rango_per_motore": {
+     "gpt": 2.4,
+     "deepseek": 4.1,
+     "perplexity": 4.4,
+     "gemini_vertex": 2.5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.2775,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "robinson",
+    "nome": "ROBINSON",
+    "notorieta": 6400.0,
+    "piu_noto": "vivosa apulia resort",
+    "notorieta_piu_noto": 21850.0,
+    "meno_noto": "messapia hotel and resort",
+    "notorieta_meno_noto": 97.5,
+    "rango_medio": 1.4000000000000001,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 2.2,
+     "perplexity": 1.3,
+     "gemini_vertex": 1.1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.44,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "cala saracena resort",
+    "nome": "Cala Saracena Resort",
+    "notorieta": 3097.5,
+    "piu_noto": "vivosa apulia resort",
+    "notorieta_piu_noto": 21850.0,
+    "meno_noto": "messapia hotel and resort",
+    "notorieta_meno_noto": 97.5,
+    "rango_medio": 4.775,
+    "rango_per_motore": {
+     "gpt": 5,
+     "deepseek": 4.5,
+     "perplexity": 4.6,
+     "gemini_vertex": 5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.224375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "nicolaus club la giurlita",
+    "nome": "Nicolaus Club La Giurlita",
+    "notorieta": 3965.8333333333335,
+    "piu_noto": "vivosa apulia resort",
+    "notorieta_piu_noto": 21850.0,
+    "meno_noto": "messapia hotel and resort",
+    "notorieta_meno_noto": 97.5,
+    "rango_medio": 3.425,
+    "rango_per_motore": {
+     "gpt": 3.9,
+     "deepseek": 3,
+     "perplexity": 2.8,
+     "gemini_vertex": 4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.494375,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "poseidone beach resort",
+    "nome": "Poseidone Beach Resort",
+    "notorieta": 5260.0,
+    "piu_noto": "vivosa apulia resort",
+    "notorieta_piu_noto": 21850.0,
+    "meno_noto": "messapia hotel and resort",
+    "notorieta_meno_noto": 97.5,
+    "rango_medio": 2.05,
+    "rango_per_motore": {
+     "gpt": 2.7,
+     "deepseek": 1.2,
+     "perplexity": 1.9,
+     "gemini_vertex": 2.4
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.6475,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ],
+  "correzione_28_10": "meno noto Messapia (Nicolaus Club, stesso gruppo del bersaglio) sostituito con il successivo per la regola"
+ },
+ "viaggi_17": {
+  "esito": "ok",
+  "dentro_2_4": true,
+  "bersaglio": "avis",
+  "piu_noto": "renault",
+  "meno_noto": "thrifty",
+  "righe": [
+   {
+    "pagina": "centauro",
+    "nome": "Centauro",
+    "notorieta": 4275.0,
+    "piu_noto": "renault",
+    "notorieta_piu_noto": 213750.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 3.075,
+    "rango_per_motore": {
+     "gpt": 3.2,
+     "deepseek": 2.3,
+     "perplexity": 3.9,
+     "gemini_vertex": 2.9
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.669375,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "goldcar",
+    "nome": "Goldcar",
+    "notorieta": 35650.0,
+    "piu_noto": "renault",
+    "notorieta_piu_noto": 213750.0,
+    "meno_noto": "thrifty",
+    "notorieta_meno_noto": 5133.333333333333,
+    "rango_medio": 1.3,
+    "rango_per_motore": {
+     "gpt": 1,
+     "deepseek": 2.1,
+     "perplexity": 1.1,
+     "gemini_vertex": 1
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.71,
+    "italiano": true,
+    "ammissibile": true
+   },
+   {
+    "pagina": "hertz",
+    "nome": "Hertz",
+    "notorieta": 124625.0,
+    "piu_noto": "renault",
+    "notorieta_piu_noto": 213750.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 2.85,
+    "rango_per_motore": {
+     "gpt": 2.6,
+     "deepseek": 3.1,
+     "perplexity": 2.9,
+     "gemini_vertex": 2.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.6775,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "sicily by car",
+    "nome": "Sicily by Car",
+    "notorieta": 137333.33333333334,
+    "piu_noto": "renault",
+    "notorieta_piu_noto": 213750.0,
+    "meno_noto": null,
+    "notorieta_meno_noto": null,
+    "rango_medio": 4.1,
+    "rango_per_motore": {
+     "gpt": 4.5,
+     "deepseek": 3.7,
+     "perplexity": 4.7,
+     "gemini_vertex": 3.5
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 0.94,
+    "italiano": true,
+    "ammissibile": false
+   },
+   {
+    "pagina": "avis",
+    "nome": "Avis",
+    "notorieta": 90625.0,
+    "piu_noto": "renault",
+    "notorieta_piu_noto": 213750.0,
+    "meno_noto": "thrifty",
+    "notorieta_meno_noto": 5133.333333333333,
+    "rango_medio": 3.675,
+    "rango_per_motore": {
+     "gpt": 3.7,
+     "deepseek": 3.8,
+     "perplexity": 2.4,
+     "gemini_vertex": 4.8
+    },
+    "n_taratura": {
+     "gpt": 10,
+     "deepseek": 10,
+     "perplexity": 10,
+     "gemini_vertex": 10
+    },
+    "varianza": 1.419375,
+    "italiano": true,
+    "ammissibile": true
+   }
+  ]
+ }
+}

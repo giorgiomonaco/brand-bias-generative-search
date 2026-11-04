@@ -1,0 +1,70 @@
+{
+ "pid": "assicurazioni_10",
+ "bersaglio": "cattolica assicurazioni",
+ "brand": "Cattolica Assicurazioni",
+ "url": "https://www.cattolica.it/active-assicurazione-natanti/",
+ "testo_sha256": "a7defbcdab327c2aba43469d6230dd762161a73aef8b9556f4c8354789d98907",
+ "modello": "Assicurazione natanti, serenità e sicurezza navigano con te\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti\n{PRODOTTO}\nè la soluzione assicurativa pensata per rispondere alle esigenze di chi naviga per passione e nel tempo libero.\nOltre alla\nResponsabilità Civile Natanti\n, questa\nassicurazione per imbarcazioni\noffre ulteriori garanzie, come\nl’assistenza e la tutela contro gli infortuni al conducente e ai trasportati\n, garantendo un livello di protezione ancora più completo.\nResponsabilità Civile Natanti\nDanni materiali e diretti all’unità da diporto\nInfortuni al conducente/comandante e ai trasportati\nAssistenza in navigazione in caso di emergenza\nDocumentazione\nSet Informativo\nPrima della sottoscrizione leggere il Set Informativo.",
+ "mappa_reale": {
+  "PRODOTTO": "Active Natanti"
+ },
+ "mappa_inventata": {
+  "PRODOTTO": "Remiva"
+ },
+ "piu_noto": "allianz",
+ "meno_noto": "zurich",
+ "inventato": "Corlenta",
+ "riscritture": {
+  "STRUTTURA": "Assicurazione natanti:\nserenità e sicurezza navigano con te.\n\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti.\n\nA chi si rivolge:\n{PRODOTTO} è pensata per chi naviga per passione e nel tempo libero.\n\nGaranzie principali:\n- Responsabilità Civile Natanti\n- Danni materiali e diretti all’unità da diporto\n- Infortuni al conducente/comandante e ai trasportati\n- Assistenza in navigazione in caso di emergenza\n\nProtezione:\noltre alla Responsabilità Civile Natanti, questa assicurazione per imbarcazioni offre ulteriori garanzie, come l’assistenza e la tutela contro gli infortuni al conducente e ai trasportati.\n\nDocumentazione:\nSet Informativo. Prima della sottoscrizione leggere il Set Informativo.",
+  "FLUENCY": "Assicurazione natanti: serenità e sicurezza navigano con te\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti\n{PRODOTTO}\nè la soluzione assicurativa pensata per chi naviga per passione e nel tempo libero. Oltre alla Responsabilità Civile Natanti, questa assicurazione per imbarcazioni offre garanzie ulteriori, tra cui l’assistenza e la tutela contro gli infortuni al conducente e ai trasportati, per un livello di protezione ancora più completo.\nGaranzie:\n- Responsabilità Civile Natanti\n- Danni materiali e diretti all’unità da diporto\n- Infortuni al conducente/comandante e ai trasportati\n- Assistenza in navigazione in caso di emergenza\nDocumentazione:\nSet Informativo\nPrima della sottoscrizione leggere il Set Informativo.",
+  "AUTHORITATIVE": "Assicurazione natanti: serenità e sicurezza navigano con te\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti\n{PRODOTTO}\nè la soluzione assicurativa progettata per le esigenze di chi naviga per passione e nel tempo libero.\nOltre alla\nResponsabilità Civile Natanti\n, questa\nassicurazione per imbarcazioni\ninclude garanzie aggiuntive, tra cui\nl’assistenza e la tutela contro gli infortuni al conducente e ai trasportati\n, per un livello di protezione ancora più completo.\nResponsabilità Civile Natanti\nDanni materiali e diretti all’unità da diporto\nInfortuni al conducente/comandante e ai trasportati\nAssistenza in navigazione in caso di emergenza\nDocumentazione\nSet Informativo\nPrima della sottoscrizione leggi il Set Informativo."
+ },
+ "log_riscritture": {
+  "STRUTTURA": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 96,
+    "testo": "Assicurazione natanti:\nserenità e sicurezza navigano con te.\n\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti.\n\nA chi si rivolge:\n{PRODOTTO} è pensata per chi naviga per passione e nel tempo libero.\n\nGaranzie principali:\n- Responsabilità Civile Natanti\n- Danni materiali e diretti all’unità da diporto\n- Infortuni al conducente/comandante e ai trasportati\n- Assistenza in navigazione in caso di emergenza\n\nProtezione:\noltre alla Responsabilità Civile Natanti, questa assicurazione per imbarcazioni offre ulteriori garanzie, come l’assistenza e la tutela contro gli infortuni al conducente e ai trasportati.\n\nDocumentazione:\nSet Informativo. Prima della sottoscrizione leggere il Set Informativo."
+   }
+  ],
+  "FLUENCY": [
+   {
+    "tentativo": 0,
+    "errori": [
+     "giudice: 1. Nella versione A, manca l'elenco puntato per le garanzie presentato nella versione B sotto il titolo \"Garanzie:\".\n2. Nella versione A, manca il titolo \"Documentazione:\" che precede \"Set Informativo\" nella versione B.\n\nESITO: DIVERSI"
+    ],
+    "parole": 106,
+    "testo": "Assicurazione natanti: serenità e sicurezza navigano con te\n\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti\n\n{PRODOTTO} è la soluzione assicurativa pensata per rispondere alle esigenze di chi naviga per passione e nel tempo libero. Oltre alla Responsabilità Civile Natanti, questa assicurazione per imbarcazioni offre ulteriori garanzie, come l’assistenza e la tutela contro gli infortuni al conducente e ai trasportati, garantendo così un livello di protezione ancora più completo.\n\nGaranzie:\n- Responsabilità Civile Natanti\n- Danni materiali e diretti all’unità da diporto\n- Infortuni al conducente/comandante e ai trasportati\n- Assistenza in navigazione in caso di emergenza\n\nDocumentazione:\nSet Informativo\nPrima della sottoscrizione leggere il Set Informativo."
+   },
+   {
+    "tentativo": 1,
+    "errori": [],
+    "parole": 102,
+    "testo": "Assicurazione natanti: serenità e sicurezza navigano con te\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti\n{PRODOTTO}\nè la soluzione assicurativa pensata per chi naviga per passione e nel tempo libero. Oltre alla Responsabilità Civile Natanti, questa assicurazione per imbarcazioni offre garanzie ulteriori, tra cui l’assistenza e la tutela contro gli infortuni al conducente e ai trasportati, per un livello di protezione ancora più completo.\nGaranzie:\n- Responsabilità Civile Natanti\n- Danni materiali e diretti all’unità da diporto\n- Infortuni al conducente/comandante e ai trasportati\n- Assistenza in navigazione in caso di emergenza\nDocumentazione:\nSet Informativo\nPrima della sottoscrizione leggere il Set Informativo."
+   }
+  ],
+  "AUTHORITATIVE": [
+   {
+    "tentativo": 0,
+    "errori": [
+     "giudice: Nella versione A l'ultima frase termina con \"leggere\" (forma impersonale), mentre nella versione B termina con \"leggi\" (forma imperativa singolare). Questo è un cambio di valore (da forma impersonale a forma di comando diretto).\n\nESITO: DIVERSI"
+    ],
+    "parole": 103,
+    "testo": "Assicurazione natanti: serenità e sicurezza navigano con te\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti\n{PRODOTTO}\nè la soluzione assicurativa studiata per rispondere alle esigenze di chi naviga per passione e nel tempo libero.\nOltre alla\nResponsabilità Civile Natanti\n, questa\nassicurazione per imbarcazioni\nprevede ulteriori garanzie, tra cui\nl’assistenza e la tutela contro gli infortuni al conducente e ai trasportati\n, per un livello di protezione ancora più completo.\nResponsabilità Civile Natanti\nDanni materiali e diretti all’unità da diporto\nInfortuni al conducente/comandante e ai trasportati\nAssistenza in navigazione in caso di emergenza\nDocumentazione\nSet Informativo\nPrima della sottoscrizione leggi il Set Informativo."
+   },
+   {
+    "tentativo": 1,
+    "errori": [],
+    "parole": 102,
+    "testo": "Assicurazione natanti: serenità e sicurezza navigano con te\n{PRODOTTO}\nAssicurazione Imbarcazioni - polizza corpi natanti\n{PRODOTTO}\nè la soluzione assicurativa progettata per le esigenze di chi naviga per passione e nel tempo libero.\nOltre alla\nResponsabilità Civile Natanti\n, questa\nassicurazione per imbarcazioni\ninclude garanzie aggiuntive, tra cui\nl’assistenza e la tutela contro gli infortuni al conducente e ai trasportati\n, per un livello di protezione ancora più completo.\nResponsabilità Civile Natanti\nDanni materiali e diretti all’unità da diporto\nInfortuni al conducente/comandante e ai trasportati\nAssistenza in navigazione in caso di emergenza\nDocumentazione\nSet Informativo\nPrima della sottoscrizione leggi il Set Informativo."
+   }
+  ]
+ },
+ "log_correzioni_offline": [
+  {
+   "data": "2026-10-28",
+   "nota": "neutralizzazione v2 (lavoro/2026-10-28_neutralizzazione_v2/nuovi_nomi.py)"
+  }
+ ]
+}

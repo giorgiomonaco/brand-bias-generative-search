@@ -1,0 +1,1177 @@
+chiave,nome,query,volume,volume_api,months_available,period,status
+msc crociere,MSC Crociere,msc crociere,234083.33333333334,246000,12,2025-09/2026-08,measured_12m
+costa crociere,Costa Crociere,costa crociere,305833.3333333333,301000,12,2025-09/2026-08,measured_12m
+prima assicurazioni,Prima Assicurazioni,prima assicurazioni,391000.0,368000,12,2025-09/2026-08,measured_12m
+nike,Nike,nike,709000.0,673000,12,2025-09/2026-08,measured_12m
+zara,Zara,zara,2588333.3333333335,2740000,12,2025-09/2026-08,measured_12m
+allianz direct,Allianz Direct,allianz direct,190250.0,201000,12,2025-09/2026-08,measured_12m
+genertel,Genertel,genertel,83875.0,90500,12,2025-09/2026-08,measured_12m
+allianz,Allianz,allianz,140416.66666666666,135000,12,2025-09/2026-08,measured_12m
+adidas,Adidas,adidas,578500.0,550000,12,2025-09/2026-08,measured_12m
+h and m,H&M,h m,360333.3333333333,368000,12,2025-09/2026-08,measured_12m
+conte it,ConTe.it,conte assicurazioni,65416.666666666664,60500,12,2025-09/2026-08,measured_12m
+assicurazioni generali,Assicurazioni Generali,generali assicurazioni,38650.0,40500,12,2025-09/2026-08,measured_12m
+axa,AXA,axa,44383.333333333336,49500,12,2025-09/2026-08,measured_12m
+mango,Mango,mango,842250.0,823000,12,2025-09/2026-08,measured_12m
+puma,Puma,puma,134166.66666666666,135000,12,2025-09/2026-08,measured_12m
+asics,ASICS,asics,138750.0,135000,12,2025-09/2026-08,measured_12m
+uniqlo,Uniqlo,uniqlo,492416.6666666667,550000,12,2025-09/2026-08,measured_12m
+verti,Verti,verti assicurazioni,10583.333333333334,9900,12,2025-09/2026-08,measured_12m
+brooks,Brooks,brooks scarpe,14091.666666666666,14800,12,2025-09/2026-08,measured_12m
+levis,Levi’s,levis,89875.0,90500,12,2025-09/2026-08,measured_12m
+saucony,Saucony,saucony,33066.666666666664,33100,12,2025-09/2026-08,measured_12m
+ovs,OVS,ovs,979916.6666666666,1000000,12,2025-09/2026-08,measured_12m
+norwegian cruise line,Norwegian Cruise Line,ncl crociere,846.6666666666666,880,12,2025-09/2026-08,measured_12m
+the ordinary,The Ordinary,the ordinary,33000.0,33100,12,2025-09/2026-08,measured_12m
+domyos,Domyos,domyos,2950.0,2900,12,2025-09/2026-08,measured_12m
+unipolsai,UnipolSai,unipolsai,69083.33333333333,74000,12,2025-09/2026-08,measured_12m
+kiabi,Kiabi,kiabi,299750.0,301000,12,2025-09/2026-08,measured_12m
+head,Head,head racchette,797.5,720,12,2025-09/2026-08,measured_12m
+cube,Cube,cube bici,2308.3333333333335,2400,12,2025-09/2026-08,measured_12m
+cerave,CeraVe,cerave,43183.333333333336,40500,12,2025-09/2026-08,measured_12m
+alpitour world,Alpitour World,alpitour,280250.0,301000,12,2025-09/2026-08,measured_12m
+salomon,Salomon,salomon,83041.66666666667,90500,12,2025-09/2026-08,measured_12m
+royal caribbean,Royal Caribbean,royal caribbean,37858.333333333336,40500,12,2025-09/2026-08,measured_12m
+linear,Linear,linear assicurazioni,27783.333333333332,27100,12,2025-09/2026-08,measured_12m
+kiprun,Kiprun,kiprun,3500.0,3600,12,2025-09/2026-08,measured_12m
+unipol,Unipol,unipol,114625.0,110000,12,2025-09/2026-08,measured_12m
+babolat,Babolat,babolat,9241.666666666666,9900,12,2025-09/2026-08,measured_12m
+new balance,New Balance,new balance,592166.6666666666,550000,12,2025-09/2026-08,measured_12m
+fiat,Fiat,fiat,196333.33333333334,201000,12,2025-09/2026-08,measured_12m
+wilson,Wilson,wilson racchetta,614.1666666666666,590,12,2025-09/2026-08,measured_12m
+weroad,WeRoad,weroad,248166.66666666666,246000,12,2025-09/2026-08,measured_12m
+furla,Furla,furla,47583.333333333336,49500,12,2025-09/2026-08,measured_12m
+hertz,Hertz,hertz,124625.0,135000,12,2025-09/2026-08,measured_12m
+fiido,Fiido,fiido,7091.666666666667,8100,12,2025-09/2026-08,measured_12m
+quixa,Quixa,quixa,25558.333333333332,27100,12,2025-09/2026-08,measured_12m
+metlife,MetLife,metlife,20075.0,22200,12,2025-09/2026-08,measured_12m
+avis,Avis,avis,90625.0,90500,12,2025-09/2026-08,measured_12m
+calvin klein,Calvin Klein,calvin klein,153916.66666666666,165000,12,2025-09/2026-08,measured_12m
+eden viaggi,Eden Viaggi,eden viaggi,158166.66666666666,165000,12,2025-09/2026-08,measured_12m
+centauro,Centauro,centauro noleggio,4275.0,4400,12,2025-09/2026-08,measured_12m
+toorx,Toorx,toorx,3625.0,3600,12,2025-09/2026-08,measured_12m
+artengo,Artengo,artengo,963.3333333333334,1000,12,2025-09/2026-08,measured_12m
+guess,Guess,guess,244416.66666666666,246000,12,2025-09/2026-08,measured_12m
+hoka,Hoka,hoka,62041.666666666664,60500,12,2025-09/2026-08,measured_12m
+primark,Primark,primark,1078000.0,1220000,12,2025-09/2026-08,measured_12m
+coccinelle,Coccinelle,coccinelle,68625.0,74000,12,2025-09/2026-08,measured_12m
+geox,Geox,geox,136250.0,135000,12,2025-09/2026-08,measured_12m
+michael kors,Michael Kors,michael kors,160416.66666666666,165000,12,2025-09/2026-08,measured_12m
+trek,Trek,trek bici,3625.0,3600,12,2025-09/2026-08,measured_12m
+veratour,Veratour,veratour,73708.33333333333,74000,12,2025-09/2026-08,measured_12m
+tern,Tern,tern bici,64.16666666666667,70,12,2025-09/2026-08,measured_12m
+avventure nel mondo,Avventure nel Mondo,avventure nel mondo,155500.0,165000,12,2025-09/2026-08,measured_12m
+stradivarius,Stradivarius,stradivarius,574333.3333333334,550000,12,2025-09/2026-08,measured_12m
+zurich connect,Zurich Connect,zurich connect,4416.666666666667,4400,12,2025-09/2026-08,measured_12m
+xiaomi,Xiaomi,xiaomi,212333.33333333334,201000,12,2025-09/2026-08,measured_12m
+tommy hilfiger,Tommy Hilfiger,tommy hilfiger,168666.66666666666,165000,12,2025-09/2026-08,measured_12m
+drivalia,Drivalia,drivalia,47750.0,49500,12,2025-09/2026-08,measured_12m
+massimo dutti,Massimo Dutti,massimo dutti,150833.33333333334,165000,12,2025-09/2026-08,measured_12m
+c and a,C&A,c a,76750.0,74000,12,2025-09/2026-08,measured_12m
+la roche posay,La Roche-Posay,la roche posay,67041.66666666667,74000,12,2025-09/2026-08,measured_12m
+goldcar,Goldcar,goldcar,35650.0,33100,12,2025-09/2026-08,measured_12m
+quechua,Quechua,quechua,9333.333333333334,9900,12,2025-09/2026-08,measured_12m
+sixt,Sixt,sixt,66583.33333333333,60500,12,2025-09/2026-08,measured_12m
+columbia,Columbia,columbia abbigliamento,1573.3333333333333,1600,12,2025-09/2026-08,measured_12m
+sicily by car,Sicily by Car,sicily by car,137333.33333333334,135000,12,2025-09/2026-08,measured_12m
+locauto,Locauto,locauto,113916.66666666667,110000,12,2025-09/2026-08,measured_12m
+garnier,Garnier,garnier,18641.666666666668,18100,12,2025-09/2026-08,measured_12m
+renault,Renault,renault,213750.0,201000,12,2025-09/2026-08,measured_12m
+poste italiane,Poste Italiane,poste assicura,11091.666666666666,12100,12,2025-09/2026-08,measured_12m
+vivosa apulia resort,Vivosa Apulia Resort,vivosa apulia resort,21850.0,22200,12,2025-09/2026-08,measured_12m
+rockrider,Rockrider,rockrider,9825.0,9900,12,2025-09/2026-08,measured_12m
+europcar,Europcar,europcar,118500.0,110000,12,2025-09/2026-08,measured_12m
+liu jo,Liu Jo,liu jo,191333.33333333334,201000,12,2025-09/2026-08,measured_12m
+kipsta,Kipsta,kipsta,2375.0,2400,12,2025-09/2026-08,measured_12m
+kuikma,Kuikma,kuikma,490.8333333333333,480,12,2025-09/2026-08,measured_12m
+yuba,Yuba,yuba,1568.3333333333333,1600,12,2025-09/2026-08,measured_12m
+bravo,Bravo,bravo villaggi,13183.333333333334,12100,12,2025-09/2026-08,measured_12m
+pull and bear,Pull&Bear,pull bear,3091.6666666666665,2900,12,2025-09/2026-08,measured_12m
+coach,Coach,coach borse,28900.0,33100,12,2025-09/2026-08,measured_12m
+btwin,BTWIN,btwin,1575.0,1600,12,2025-09/2026-08,measured_12m
+jack and jones,Jack & Jones,jack jones,7850.0,8100,12,2025-09/2026-08,measured_12m
+benetton,Benetton,benetton,192916.66666666666,201000,12,2025-09/2026-08,measured_12m
+the north face,The North Face,the north face,158666.66666666666,165000,12,2025-09/2026-08,measured_12m
+maybelline,Maybelline,maybelline,22758.333333333332,22200,12,2025-09/2026-08,measured_12m
+zurich,Zurich,zurich assicurazioni,13041.666666666666,12100,12,2025-09/2026-08,measured_12m
+dimensione sicilia,Dimensione Sicilia,dimensione sicilia,625.8333333333334,590,12,2025-09/2026-08,measured_12m
+ok mobility,OK Mobility,ok mobility,12750.0,12100,12,2025-09/2026-08,measured_12m
+toyota,Toyota,toyota,338000.0,368000,12,2025-09/2026-08,measured_12m
+francorosso,Francorosso,francorosso,15408.333333333334,14800,12,2025-09/2026-08,measured_12m
+sivola,SiVola,sivola,59708.333333333336,60500,12,2025-09/2026-08,measured_12m
+davidoff,Davidoff,davidoff,7025.0,6600,12,2025-09/2026-08,measured_12m
+nordictrack,NordicTrack,nordictrack,730.8333333333334,720,12,2025-09/2026-08,measured_12m
+budget,Budget,budget autonoleggio,4291.666666666667,3600,12,2025-09/2026-08,measured_12m
+heymondo,Heymondo,heymondo,38216.666666666664,40500,12,2025-09/2026-08,measured_12m
+catrice,Catrice,catrice,9750.0,9900,12,2025-09/2026-08,measured_12m
+merrell,Merrell,merrell,7450.0,8100,12,2025-09/2026-08,measured_12m
+clarks,Clarks,clarks,43175.0,40500,12,2025-09/2026-08,measured_12m
+noleggiare it,Noleggiare.it,noleggiare it,6791.666666666667,6600,12,2025-09/2026-08,measured_12m
+calzedonia,Calzedonia,calzedonia,700250.0,673000,12,2025-09/2026-08,measured_12m
+nautica,Nautica,nautica abbigliamento,421.6666666666667,390,12,2025-09/2026-08,measured_12m
+columbus,Columbus,columbus assicurazioni,14500.0,14800,12,2025-09/2026-08,measured_12m
+ryanair,Ryanair,ryanair,4255833.333333333,4090000,12,2025-09/2026-08,measured_12m
+balea,Balea,balea,4000.0,4400,12,2025-09/2026-08,measured_12m
+reale mutua,Reale Mutua,reale mutua,31191.666666666668,33100,12,2025-09/2026-08,measured_12m
+record go,Record Go,record go,12616.666666666666,12100,12,2025-09/2026-08,measured_12m
+specialized,Specialized,specialized,42783.333333333336,40500,12,2025-09/2026-08,measured_12m
+easyjet holidays,EasyJet Holidays,easyjet,1211666.6666666667,1220000,12,2025-09/2026-08,measured_12m
+elizabeth arden,Elizabeth Arden,elizabeth arden,5575.0,5400,12,2025-09/2026-08,measured_12m
+citysports,Citysports,citysports,3016.6666666666665,2900,12,2025-09/2026-08,measured_12m
+yonex,Yonex,yonex,6241.666666666667,6600,12,2025-09/2026-08,measured_12m
+lefties,Lefties,lefties,68833.33333333333,74000,12,2025-09/2026-08,measured_12m
+costa del salento village,Costa del Salento Village,costa del salento village,4890.833333333333,4400,12,2025-09/2026-08,measured_12m
+schott nyc,Schott NYC,schott nyc,1358.3333333333333,1300,12,2025-09/2026-08,measured_12m
+dior,Dior,dior,127083.33333333333,135000,12,2025-09/2026-08,measured_12m
+loreal paris,L’Oréal Paris,loreal paris,8358.333333333334,8100,12,2025-09/2026-08,measured_12m
+tenways,Tenways,tenways,1212.5,1300,12,2025-09/2026-08,measured_12m
+numana blu resort,Numana Blu Resort,numana blu resort,14973.333333333334,14800,12,2025-09/2026-08,measured_12m
+lattafa,Lattafa,lattafa,23666.666666666668,22200,12,2025-09/2026-08,measured_12m
+tamaris,Tamaris,tamaris,11608.333333333334,12100,12,2025-09/2026-08,measured_12m
+enterprise,Enterprise,enterprise,12141.666666666666,12100,12,2025-09/2026-08,measured_12m
+europ assistance,Europ Assistance,europ assistance,38783.333333333336,40500,12,2025-09/2026-08,measured_12m
+fitfiu fitness,Fitfiu Fitness,fitfiu fitness,161.66666666666666,170,12,2025-09/2026-08,measured_12m
+nivea,Nivea,nivea,13408.333333333334,12100,12,2025-09/2026-08,measured_12m
+thule,Thule,thule,15175.0,14800,12,2025-09/2026-08,measured_12m
+tesori d oriente,Tesori d'Oriente,tesori doriente,199.16666666666666,210,12,2025-09/2026-08,measured_12m
+bershka,Bershka,bershka,888750.0,823000,12,2025-09/2026-08,measured_12m
+salsa jeans,Salsa Jeans,salsa jeans,635.0,590,12,2025-09/2026-08,measured_12m
+g adventures,G Adventures,g adventures,1225.0,1300,12,2025-09/2026-08,measured_12m
+loreal,L’Oréal,loreal,29150.0,27100,12,2025-09/2026-08,measured_12m
+engwe,Engwe,engwe,17225.0,18100,12,2025-09/2026-08,measured_12m
+proform,ProForm,proform,805.8333333333334,880,12,2025-09/2026-08,measured_12m
+chicco,Chicco,chicco,123375.0,110000,12,2025-09/2026-08,measured_12m
+voi,VOI,voi hotels,4283.333333333333,4400,12,2025-09/2026-08,measured_12m
+utravel,Utravel,utravel,31633.333333333332,33100,12,2025-09/2026-08,measured_12m
+horizon,Horizon,horizon fitness,155.0,170,12,2025-09/2026-08,measured_12m
+chanel,Chanel,chanel,169500.0,165000,12,2025-09/2026-08,measured_12m
+lalique,Lalique,lalique,3016.6666666666665,2900,12,2025-09/2026-08,measured_12m
+longchamp,Longchamp,longchamp,163916.66666666666,165000,12,2025-09/2026-08,measured_12m
+la sportiva,La Sportiva,la sportiva,46833.333333333336,49500,12,2025-09/2026-08,measured_12m
+armani,Armani,armani,138333.33333333334,135000,12,2025-09/2026-08,measured_12m
+cdshotels,CDSHotels,cdshotels,6558.333333333333,6600,12,2025-09/2026-08,measured_12m
+wizz air,Wizz Air,wizz air,284666.6666666667,301000,12,2025-09/2026-08,measured_12m
+intrepid travel,Intrepid Travel,intrepid travel,961.6666666666666,1000,12,2025-09/2026-08,measured_12m
+virgin voyages,Virgin Voyages,virgin voyages,1926.6666666666667,1900,12,2025-09/2026-08,measured_12m
+eleglide,Eleglide,eleglide,646.6666666666666,590,12,2025-09/2026-08,measured_12m
+versace,Versace,versace,59708.333333333336,60500,12,2025-09/2026-08,measured_12m
+freddy,Freddy,freddy abbigliamento,1525.0,1600,12,2025-09/2026-08,measured_12m
+hamax,Hamax,hamax,219.16666666666666,210,12,2025-09/2026-08,measured_12m
+selected homme,Selected Homme,selected homme,2766.6666666666665,2900,12,2025-09/2026-08,measured_12m
+sportstech,Sportstech,sportstech,2350.0,2400,12,2025-09/2026-08,measured_12m
+nilox,Nilox,nilox,4733.333333333333,4400,12,2025-09/2026-08,measured_12m
+wrangler,Wrangler,wrangler,20625.0,22200,12,2025-09/2026-08,measured_12m
+green garden village,Green Garden Village,green garden village,1223.3333333333333,1300,12,2025-09/2026-08,measured_12m
+kinomap,Kinomap,kinomap,1866.6666666666667,1900,12,2025-09/2026-08,measured_12m
+nox,Nox,nox padel,1323.3333333333333,1300,12,2025-09/2026-08,measured_12m
+villaggio camping spiaggia lunga,Villaggio Camping Spiaggia Lunga,villaggio camping spiaggia lunga,1784.1666666666667,1900,12,2025-09/2026-08,measured_12m
+essence,Essence,essence cosmetics,1691.6666666666667,1600,12,2025-09/2026-08,measured_12m
+riese and muller,Riese & Müller,riese muller,677.5,720,12,2025-09/2026-08,measured_12m
+boscolo,Boscolo,boscolo,25558.333333333332,27100,12,2025-09/2026-08,measured_12m
+ysl,YSL,saint laurent,73625.0,74000,12,2025-09/2026-08,measured_12m
+club del sole,Club del Sole,club del sole,31325.0,33100,12,2025-09/2026-08,measured_12m
+patagonia,Patagonia,patagonia,147791.66666666666,135000,12,2025-09/2026-08,measured_12m
+turisanda,Turisanda,turisanda,15541.666666666666,14800,12,2025-09/2026-08,measured_12m
+vitesicure,viteSicure,vitesicure,1390.0,1300,12,2025-09/2026-08,measured_12m
+conero azzurro,Conero Azzurro,conero azzurro,4284.166666666667,5400,12,2025-09/2026-08,measured_12m
+volkswagen,Volkswagen,volkswagen,388500.0,368000,12,2025-09/2026-08,measured_12m
+robinson,ROBINSON,robinson,6400.0,6600,12,2025-09/2026-08,measured_12m
+lego,LEGO,lego,601333.3333333334,550000,12,2025-09/2026-08,measured_12m
+legnano,Legnano,legnano bici,1738.3333333333333,1900,12,2025-09/2026-08,measured_12m
+giant,Giant,giant bici,1725.0,1900,12,2025-09/2026-08,measured_12m
+montblanc,Montblanc,montblanc,63416.666666666664,60500,12,2025-09/2026-08,measured_12m
+blu salento village,Blu Salento Village,blu salento village,21950.0,22200,12,2025-09/2026-08,measured_12m
+lee,Lee,lee jeans,4191.666666666667,4400,12,2025-09/2026-08,measured_12m
+haibike,Haibike,haibike,3741.6666666666665,3600,12,2025-09/2026-08,measured_12m
+ford,Ford,ford,168666.66666666666,165000,12,2025-09/2026-08,measured_12m
+prada,Prada,prada,140416.66666666666,135000,12,2025-09/2026-08,measured_12m
+esperia palace hotel,Esperia Palace Hotel,esperia palace hotel,10983.333333333334,9900,12,2025-09/2026-08,measured_12m
+geek and gorgeous,Geek & Gorgeous,geek gorgeous,124.16666666666667,140,12,2025-09/2026-08,measured_12m
+peugeot,Peugeot,peugeot,153916.66666666666,165000,12,2025-09/2026-08,measured_12m
+nicolaus,Nicolaus,nicolaus,21350.0,22200,12,2025-09/2026-08,measured_12m
+ncm,NCM,ncm,680.8333333333334,720,12,2025-09/2026-08,measured_12m
+kipling,Kipling,kipling,16516.666666666668,18100,12,2025-09/2026-08,measured_12m
+club family hotel,Club Family Hotel,club family hotel,5500.0,5400,12,2025-09/2026-08,measured_12m
+rad power bikes,Rad Power Bikes,rad power bikes,263.3333333333333,260,12,2025-09/2026-08,measured_12m
+24hassistance,24hAssistance,24hassistance,16000.0,14800,12,2025-09/2026-08,measured_12m
+creed,Creed,creed profumo,15041.666666666666,14800,12,2025-09/2026-08,measured_12m
+cos,COS,cos abbigliamento,10291.666666666666,9900,12,2025-09/2026-08,measured_12m
+diadora,Diadora,diadora,23008.333333333332,22200,12,2025-09/2026-08,measured_12m
+joma,Joma,joma,18025.0,18100,12,2025-09/2026-08,measured_12m
+camping village bellamare,Camping Village Bellamare,camping village bellamare,3935.0,4400,12,2025-09/2026-08,measured_12m
+baia del silenzio,Baia del Silenzio,baia del silenzio,30033.333333333332,33100,12,2025-09/2026-08,measured_12m
+santevet,Santévet,santevet,2091.6666666666665,2400,12,2025-09/2026-08,measured_12m
+bata,Bata,bata,120833.33333333333,110000,12,2025-09/2026-08,measured_12m
+cmp,CMP,cmp,42041.666666666664,40500,12,2025-09/2026-08,measured_12m
+riva di ugento beach camping resort,Riva di Ugento Beach Camping Resort,riva di ugento beach camping resort,5688.333333333333,5400,12,2025-09/2026-08,measured_12m
+mandarina duck,Mandarina Duck,mandarina duck,25625.0,27100,12,2025-09/2026-08,measured_12m
+camping la medusa,Camping La Medusa,camping la medusa,7725.0,8100,12,2025-09/2026-08,measured_12m
+futura vacanze,Futura Vacanze,futura vacanze,26900.0,27100,12,2025-09/2026-08,measured_12m
+eucerin,Eucerin,eucerin,16116.666666666666,14800,12,2025-09/2026-08,measured_12m
+everfit,Everfit,everfit,436.6666666666667,480,12,2025-09/2026-08,measured_12m
+allsaints,AllSaints,allsaints,2100.0,1900,12,2025-09/2026-08,measured_12m
+atala,Atala,atala bici,3533.3333333333335,3600,12,2025-09/2026-08,measured_12m
+orbea,Orbea,orbea,20258.333333333332,18100,12,2025-09/2026-08,measured_12m
+technogym,Technogym,technogym,32333.333333333332,33100,12,2025-09/2026-08,measured_12m
+armaf,Armaf,armaf,2708.3333333333335,2900,12,2025-09/2026-08,measured_12m
+bullpadel,Bullpadel,bullpadel,4316.666666666667,4400,12,2025-09/2026-08,measured_12m
+zwift,Zwift,zwift,12250.0,12100,12,2025-09/2026-08,measured_12m
+alamo,Alamo,alamo,15383.333333333334,14800,12,2025-09/2026-08,measured_12m
+only,ONLY,only abbigliamento,6966.666666666667,6600,12,2025-09/2026-08,measured_12m
+centro vacanze de angelis,Centro Vacanze De Angelis,centro vacanze de angelis,1880.0,1900,12,2025-09/2026-08,measured_12m
+anna field,Anna Field,anna field,5033.333333333333,5400,12,2025-09/2026-08,measured_12m
+carpisa,Carpisa,carpisa,175750.0,165000,12,2025-09/2026-08,measured_12m
+coverwise,Coverwise,coverwise,4025.0,3600,12,2025-09/2026-08,measured_12m
+biodance,Biodance,biodance,4808.333333333333,5400,12,2025-09/2026-08,measured_12m
+ralph lauren,Ralph Lauren,ralph lauren,200916.66666666666,201000,12,2025-09/2026-08,measured_12m
+urban arrow,Urban Arrow,urban arrow,320.0,320,12,2025-09/2026-08,measured_12m
+belstaff,Belstaff,belstaff,7416.666666666667,8100,12,2025-09/2026-08,measured_12m
+scott,Scott,scott bici,3133.3333333333335,2900,12,2025-09/2026-08,measured_12m
+reebok,Reebok,reebok,37416.666666666664,40500,12,2025-09/2026-08,measured_12m
+celebrity cruises,Celebrity Cruises,celebrity cruises,5141.666666666667,5400,12,2025-09/2026-08,measured_12m
+lacoste,Lacoste,lacoste,108375.0,110000,12,2025-09/2026-08,measured_12m
+amtrust,AmTrust,amtrust,1140.8333333333333,1000,12,2025-09/2026-08,measured_12m
+ym,YM,your move tapis roulant,393.3333333333333,390,12,2025-09/2026-08,measured_12m
+kalenji,Kalenji,kalenji,2158.3333333333335,1900,12,2025-09/2026-08,measured_12m
+color holiday,Color Holiday,color holiday,1328.3333333333333,1300,12,2025-09/2026-08,measured_12m
+sara assicurazioni,Sara Assicurazioni,sara assicurazioni,40766.666666666664,40500,12,2025-09/2026-08,measured_12m
+ifit,iFit,ifit,1014.1666666666666,1000,12,2025-09/2026-08,measured_12m
+villaggio le diomedee,Villaggio Le Diomedee,villaggio le diomedee,1761.6666666666667,1900,12,2025-09/2026-08,measured_12m
+pinko,Pinko,pinko,75458.33333333333,74000,12,2025-09/2026-08,measured_12m
+parfois,Parfois,parfois,107875.0,110000,12,2025-09/2026-08,measured_12m
+celestyal cruises,Celestyal Cruises,celestyal cruises,649.1666666666666,590,12,2025-09/2026-08,measured_12m
+grimaldi lines,Grimaldi Lines,grimaldi lines,224833.33333333334,246000,12,2025-09/2026-08,measured_12m
+estee lauder,Estée Lauder,estee lauder,25783.333333333332,27100,12,2025-09/2026-08,measured_12m
+moma,Moma,moma bikes,1646.6666666666667,1600,12,2025-09/2026-08,measured_12m
+nerogiardini,NeroGiardini,nerogiardini,5133.333333333333,5400,12,2025-09/2026-08,measured_12m
+pugnochiuso resort,Pugnochiuso Resort,pugnochiuso resort,5970.833333333333,5400,12,2025-09/2026-08,measured_12m
+groupama,Groupama,groupama,19533.333333333332,18100,12,2025-09/2026-08,measured_12m
+wiber,Wiber,wiber,2095.8333333333335,1900,12,2025-09/2026-08,measured_12m
+villaggio elea,Villaggio Elea,villaggio elea,3855.8333333333335,3600,12,2025-09/2026-08,measured_12m
+leasys,Leasys,leasys,41316.666666666664,40500,12,2025-09/2026-08,measured_12m
+cannondale,Cannondale,cannondale,18483.333333333332,18100,12,2025-09/2026-08,measured_12m
+amazon essentials,Amazon Essentials,amazon essentials,679.1666666666666,720,12,2025-09/2026-08,measured_12m
+lancia,Lancia,lancia,49458.333333333336,49500,12,2025-09/2026-08,measured_12m
+yolo,Yolo,yolo assicurazioni,509.1666666666667,480,12,2025-09/2026-08,measured_12m
+explora journeys,Explora Journeys,explora journeys,6891.666666666667,6600,12,2025-09/2026-08,measured_12m
+hermes,Hermès,hermes,142916.66666666666,135000,12,2025-09/2026-08,measured_12m
+under armour,Under Armour,under armour,94000.0,90500,12,2025-09/2026-08,measured_12m
+carnival,Carnival,carnival,7258.333333333333,6600,12,2025-09/2026-08,measured_12m
+revolut,Revolut,revolut,255166.66666666666,301000,12,2025-09/2026-08,measured_12m
+hyundai,Hyundai,hyundai,184250.0,165000,12,2025-09/2026-08,measured_12m
+napapijri,Napapijri,napapijri,43650.0,40500,12,2025-09/2026-08,measured_12m
+cesenatico camping village,Cesenatico Camping Village,cesenatico camping village,12475.0,12100,12,2025-09/2026-08,measured_12m
+nicolaus club,Nicolaus Club,nicolaus club,7491.666666666667,8100,12,2025-09/2026-08,measured_12m
+intesa sanpaolo,Intesa Sanpaolo,intesa sanpaolo,1905000.0,1830000,12,2025-09/2026-08,measured_12m
+speed vacanze,Speed Vacanze,speed vacanze,9925.0,9900,12,2025-09/2026-08,measured_12m
+cien,Cien,cien cosmetici,46.666666666666664,40,12,2025-09/2026-08,measured_12m
+converse,Converse,converse,61500.0,60500,12,2025-09/2026-08,measured_12m
+kalkhoff,Kalkhoff,kalkhoff,305.8333333333333,320,12,2025-09/2026-08,measured_12m
+tramundi,Tramundi,tramundi,4283.333333333333,4400,12,2025-09/2026-08,measured_12m
+futura club,Futura Club,futura club,5558.333333333333,5400,12,2025-09/2026-08,measured_12m
+green motion,Green Motion,green motion,5925.0,6600,12,2025-09/2026-08,measured_12m
+antonio banderas,Antonio Banderas,antonio banderas,36366.666666666664,33100,12,2025-09/2026-08,measured_12m
+woolrich,Woolrich,woolrich,55483.333333333336,60500,12,2025-09/2026-08,measured_12m
+altra,Altra,altra running,3800.0,3600,12,2025-09/2026-08,measured_12m
+babboe,Babboe,babboe,248.33333333333334,260,12,2025-09/2026-08,measured_12m
+bentley,Bentley,bentley,34950.0,33100,12,2025-09/2026-08,measured_12m
+telepass,Telepass,telepass,422666.6666666667,450000,12,2025-09/2026-08,measured_12m
+color green village,Color Green Village,color green village,727.5,720,12,2025-09/2026-08,measured_12m
+petit bateau,Petit Bateau,petit bateau,52791.666666666664,49500,12,2025-09/2026-08,measured_12m
+tom ford,Tom Ford,tom ford,44683.333333333336,40500,12,2025-09/2026-08,measured_12m
+bene assicurazioni,Bene Assicurazioni,bene assicurazioni,22808.333333333332,22200,12,2025-09/2026-08,measured_12m
+mediheal,Mediheal,mediheal,597.5,590,12,2025-09/2026-08,measured_12m
+camping village internazionale,Camping Village Internazionale,camping village internazionale,3434.1666666666665,3600,12,2025-09/2026-08,measured_12m
+4711,4711,4711 profumo,436.6666666666667,390,12,2025-09/2026-08,measured_12m
+scarpa,Scarpa,scarpe scarpa,2483.3333333333335,2400,12,2025-09/2026-08,measured_12m
+darienzo,D’Arienzo,darienzo,4200.0,4400,12,2025-09/2026-08,measured_12m
+the inkey list,The Inkey List,the inkey list,1673.3333333333333,1600,12,2025-09/2026-08,measured_12m
+robinson club apulia,Robinson Club Apulia,robinson club apulia,9383.333333333334,9900,12,2025-09/2026-08,measured_12m
+opel,Opel,opel,80750.0,74000,12,2025-09/2026-08,measured_12m
+vans,Vans,vans,95625.0,90500,12,2025-09/2026-08,measured_12m
+robinson apulia,Robinson Apulia,robinson apulia,4625.0,4400,12,2025-09/2026-08,measured_12m
+mobvoi,Mobvoi,mobvoi,702.5,590,12,2025-09/2026-08,measured_12m
+allianz global assistance,Allianz Global Assistance,allianz global assistance,1175.0,1000,12,2025-09/2026-08,measured_12m
+lloyd s di londra,Lloyd's di Londra,lloyds di londra,65.0,70,12,2025-09/2026-08,measured_12m
+nicolaus club la giurlita,Nicolaus Club La Giurlita,nicolaus club la giurlita,3965.8333333333335,3600,12,2025-09/2026-08,measured_12m
+monotheme venezia,Monotheme Venezia,monotheme venezia,232.5,260,12,2025-09/2026-08,measured_12m
+timberland,Timberland,timberland,210000.0,201000,12,2025-09/2026-08,measured_12m
+villaggio baia della tufara,Villaggio Baia della Tufara,villaggio baia della tufara,547.5,590,12,2025-09/2026-08,measured_12m
+berebel,BeRebel,berebel,15125.0,14800,12,2025-09/2026-08,measured_12m
+canyon,Canyon,canyon,61708.333333333336,60500,12,2025-09/2026-08,measured_12m
+firefly,Firefly,firefly autonoleggio,25.0,30,12,2025-09/2026-08,measured_12m
+terranova,Terranova,terranova,433750.0,450000,12,2025-09/2026-08,measured_12m
+only and sons,Only & Sons,only sons,270.0,260,12,2025-09/2026-08,measured_12m
+quality,Quality Group,quality group,15133.333333333334,14800,12,2025-09/2026-08,measured_12m
+cala saracena resort,Cala Saracena Resort,cala saracena resort,3097.5,2900,12,2025-09/2026-08,measured_12m
+zanzibar viaggi,Zanzibar Viaggi,zanzibar viaggi,3316.6666666666665,2900,12,2025-09/2026-08,measured_12m
+camping village riviera,Camping Village Riviera,camping village riviera,3364.1666666666665,3600,12,2025-09/2026-08,measured_12m
+valtur,Valtur,valtur,18616.666666666668,18100,12,2025-09/2026-08,measured_12m
+aon,Aon,aon,38150.0,40500,12,2025-09/2026-08,measured_12m
+dollar,Dollar,dollar autonoleggio,545.8333333333334,590,12,2025-09/2026-08,measured_12m
+vw,VW,volkswagen,388500.0,368000,12,2025-09/2026-08,measured_12m
+skinceuticals,SkinCeuticals,skinceuticals,11958.333333333334,12100,12,2025-09/2026-08,measured_12m
+waze,Waze,waze,51666.666666666664,49500,12,2025-09/2026-08,measured_12m
+mizuno,Mizuno,mizuno,34566.666666666664,33100,12,2025-09/2026-08,measured_12m
+fruit village,Fruit Village,fruit village,19208.333333333332,18100,12,2025-09/2026-08,measured_12m
+carhartt,Carhartt,carhartt,102166.66666666667,110000,12,2025-09/2026-08,measured_12m
+marco tozzi,Marco Tozzi,marco tozzi,2883.3333333333335,3600,12,2025-09/2026-08,measured_12m
+camping riviera village,Camping Riviera Village,camping riviera village,3364.1666666666665,3600,12,2025-09/2026-08,measured_12m
+unisalute,UniSalute,unisalute,430416.6666666667,450000,12,2025-09/2026-08,measured_12m
+pier one,Pier One,pier one,16000.0,14800,12,2025-09/2026-08,measured_12m
+arval,Arval,arval,64291.666666666664,60500,12,2025-09/2026-08,measured_12m
+azzaro,Azzaro,azzaro,10016.666666666666,9900,12,2025-09/2026-08,measured_12m
+ita,ITA,ita airways,644500.0,673000,12,2025-09/2026-08,measured_12m
+diesel,Diesel,diesel,96583.33333333333,110000,12,2025-09/2026-08,measured_12m
+thrifty,Thrifty,thrifty,5133.333333333333,5400,12,2025-09/2026-08,measured_12m
+gucci,Gucci,gucci,236416.66666666666,246000,12,2025-09/2026-08,measured_12m
+italiana assicurazioni,Italiana Assicurazioni,italiana assicurazioni,28191.666666666668,27100,12,2025-09/2026-08,measured_12m
+filorga,Filorga,filorga,14958.333333333334,14800,12,2025-09/2026-08,measured_12m
+baia degli aranci,Baia degli Aranci,baia degli aranci,2497.5,2400,12,2025-09/2026-08,measured_12m
+avene,Avène,avene,13941.666666666666,14800,12,2025-09/2026-08,measured_12m
+roc,RoC,roc cosmetici,166.66666666666666,170,12,2025-09/2026-08,measured_12m
+admiral,Admiral,admiral assicurazioni,1550.0,1600,12,2025-09/2026-08,measured_12m
+etna tribe,Etna Tribe,etna tribe,465.8333333333333,480,12,2025-09/2026-08,measured_12m
+blue marine,Blue Marine,blue marine,3950.0,4400,12,2025-09/2026-08,measured_12m
+maggiore,Maggiore,maggiore noleggio,5233.333333333333,5400,12,2025-09/2026-08,measured_12m
+postepay,Postepay,postepay,218833.33333333334,201000,12,2025-09/2026-08,measured_12m
+jeep,Jeep,jeep,125875.0,135000,12,2025-09/2026-08,measured_12m
+jean paul gaultier,Jean Paul Gaultier,jean paul gaultier,42941.666666666664,40500,12,2025-09/2026-08,measured_12m
+tory burch,Tory Burch,tory burch,13766.666666666666,14800,12,2025-09/2026-08,measured_12m
+lowa,Lowa,lowa,2483.3333333333335,2400,12,2025-09/2026-08,measured_12m
+tour of sicily,Tour of Sicily,tour of sicily,622.5,590,12,2025-09/2026-08,measured_12m
+go etna,Go-Etna,go etna,695.0,720,12,2025-09/2026-08,measured_12m
+l erbolario,L'Erbolario,lerbolario,468.3333333333333,480,12,2025-09/2026-08,measured_12m
+caprice,Caprice,caprice scarpe,1340.0,1300,12,2025-09/2026-08,measured_12m
+sicilia incoming,Sicilia Incoming,sicilia incoming,70.0,70,12,2025-09/2026-08,measured_12m
+ayvens,Ayvens,ayvens,70166.66666666667,74000,12,2025-09/2026-08,measured_12m
+dunlop,Dunlop,dunlop racchetta,519.1666666666666,480,12,2025-09/2026-08,measured_12m
+vagabondo,Vagabondo,vagabondo,8550.0,8100,12,2025-09/2026-08,measured_12m
+geniallife,GenialLife,geniallife,1833.3333333333333,1900,12,2025-09/2026-08,measured_12m
+la casarana wellness eco resort,La Casarana Wellness Eco Resort,la casarana wellness eco resort,2537.5,2400,12,2025-09/2026-08,measured_12m
+eastpak,Eastpak,eastpak,40883.333333333336,40500,12,2025-09/2026-08,measured_12m
+kel 12,Kel 12,kel 12,3450.0,3600,12,2025-09/2026-08,measured_12m
+villaggio camping odissea,Villaggio Camping Odissea,villaggio camping odissea,4122.5,4400,12,2025-09/2026-08,measured_12m
+arco naturale club,Arco Naturale Club,arco naturale club,6941.666666666667,6600,12,2025-09/2026-08,measured_12m
+tezenis,Tezenis,tezenis,964916.6666666666,1000000,12,2025-09/2026-08,measured_12m
+vittoria,Vittoria,vittoria assicurazioni,112541.66666666667,110000,12,2025-09/2026-08,measured_12m
+enjoy,Enjoy,enjoy car sharing,1206.6666666666667,1000,12,2025-09/2026-08,measured_12m
+barkibu,Barkibu,barkibu,6866.666666666667,6600,12,2025-09/2026-08,measured_12m
+the bridge,The Bridge,the bridge,44033.333333333336,40500,12,2025-09/2026-08,measured_12m
+dacia,Dacia,dacia,198833.33333333334,201000,12,2025-09/2026-08,measured_12m
+consulcesi,Consulcesi,consulcesi,5608.333333333333,5400,12,2025-09/2026-08,measured_12m
+neos,Neos,neos air,55041.666666666664,60500,12,2025-09/2026-08,measured_12m
+simplesurance,Simplesurance,simplesurance,85.0,90,12,2025-09/2026-08,measured_12m
+arcteryx,Arc’teryx,arcteryx,53458.333333333336,49500,12,2025-09/2026-08,measured_12m
+sole,Sole,sole fitness,43.333333333333336,40,12,2025-09/2026-08,measured_12m
+moschino,Moschino,moschino,20825.0,22200,12,2025-09/2026-08,measured_12m
+cattolica assicurazioni,Cattolica Assicurazioni,cattolica assicurazioni,34450.0,33100,12,2025-09/2026-08,measured_12m
+corte del salento,Corte del Salento,corte del salento,4182.5,4400,12,2025-09/2026-08,measured_12m
+villaggio camping capo vieste,Villaggio Camping Capo Vieste,villaggio camping capo vieste,922.5,880,12,2025-09/2026-08,measured_12m
+kiko,KIKO,kiko,263500.0,246000,12,2025-09/2026-08,measured_12m
+boss,Boss,hugo boss,35525.0,33100,12,2025-09/2026-08,measured_12m
+cacharel,Cacharel,cacharel,1566.6666666666667,1600,12,2025-09/2026-08,measured_12m
+lululemon,Lululemon,lululemon,49250.0,49500,12,2025-09/2026-08,measured_12m
+piazza,Piazza Italia,piazza italia,294666.6666666667,301000,12,2025-09/2026-08,measured_12m
+club med,Club Med,club med,12041.666666666666,12100,12,2025-09/2026-08,measured_12m
+veraclub,Veraclub,veraclub,12716.666666666666,12100,12,2025-09/2026-08,measured_12m
+vamonos vacanze,Vamonos Vacanze,vamonos vacanze,6983.333333333333,6600,12,2025-09/2026-08,measured_12m
+jo malone,Jo Malone,jo malone,15683.333333333334,14800,12,2025-09/2026-08,measured_12m
+pantaenius,Pantaenius,pantaenius,606.6666666666666,590,12,2025-09/2026-08,measured_12m
+rimmel,Rimmel,rimmel,8258.333333333334,8100,12,2025-09/2026-08,measured_12m
+sicilian secrets,Sicilian Secrets,sicilian secrets,44.166666666666664,40,12,2025-09/2026-08,measured_12m
+bluserena,Bluserena,bluserena,32208.333333333332,33100,12,2025-09/2026-08,measured_12m
+messapia hotel and resort,Messapia Hotel & Resort,messapia hotel resort,97.5,90,12,2025-09/2026-08,measured_12m
+club village and hotel spiaggia romea,Club Village & Hotel Spiaggia Romea,club village hotel spiaggia romea,2074.1666666666665,1900,12,2025-09/2026-08,measured_12m
+life5,Life5,life5,547.5,590,12,2025-09/2026-08,measured_12m
+travelsingle,TravelSingle,travelsingle,3866.6666666666665,3600,12,2025-09/2026-08,measured_12m
+going,Going,going viaggi,299.1666666666667,320,12,2025-09/2026-08,measured_12m
+gymshark,Gymshark,gymshark,38083.333333333336,40500,12,2025-09/2026-08,measured_12m
+residence trivento,Residence Trivento,residence trivento,954.1666666666666,1000,12,2025-09/2026-08,measured_12m
+paulas choice,Paula’s Choice,paulas choice,8383.333333333334,8100,12,2025-09/2026-08,measured_12m
+borbonese,Borbonese,borbonese,33541.666666666664,33100,12,2025-09/2026-08,measured_12m
+kate spade,Kate Spade,kate spade,4233.333333333333,4400,12,2025-09/2026-08,measured_12m
+villaggio camping punta lunga,Villaggio Camping Punta Lunga,villaggio camping punta lunga,172.5,170,12,2025-09/2026-08,measured_12m
+arket,Arket,arket,41933.333333333336,40500,12,2025-09/2026-08,measured_12m
+bellelli,Bellelli,bellelli,812.5,720,12,2025-09/2026-08,measured_12m
+champion,Champion,champion,1811000.0,1830000,12,2025-09/2026-08,measured_12m
+settemari,Settemari,settemari,1061.6666666666667,1000,12,2025-09/2026-08,measured_12m
+cecotec,Cecotec,cecotec,29225.0,27100,12,2025-09/2026-08,measured_12m
+unisa,Unisa,unisa scarpe,2991.6666666666665,2900,12,2025-09/2026-08,measured_12m
+share now,Share Now,share now,4475.0,4400,12,2025-09/2026-08,measured_12m
+bonprix,Bonprix,bonprix,188000.0,201000,12,2025-09/2026-08,measured_12m
+neutrogena,Neutrogena,neutrogena,5025.0,5400,12,2025-09/2026-08,measured_12m
+citroen,Citroën,citroen,107208.33333333333,110000,12,2025-09/2026-08,measured_12m
+poseidone beach resort,Poseidone Beach Resort,poseidone beach resort,5260.0,5400,12,2025-09/2026-08,measured_12m
+nars,NARS,nars,7658.333333333333,8100,12,2025-09/2026-08,measured_12m
+hillmiles,HillMiles,hillmiles,1202.5,1300,12,2025-09/2026-08,measured_12m
+la saponaria,La Saponaria,la saponaria,24966.666666666668,27100,12,2025-09/2026-08,measured_12m
+sicily activities,Sicily Activities,sicily activities,100.83333333333333,90,12,2025-09/2026-08,measured_12m
+revox b77,Revox B77,revox b77,714.1666666666666,720,12,2025-09/2026-08,measured_12m
+il diamante,Il Diamante,il diamante,9383.333333333334,9900,12,2025-09/2026-08,measured_12m
+assimedici,Assimedici,assimedici,3391.6666666666665,3600,12,2025-09/2026-08,measured_12m
+hotel club astor,Hotel Club Astor,hotel club astor,1822.5,1900,12,2025-09/2026-08,measured_12m
+pickalbatros,Pickalbatros,pickalbatros,855.0,880,12,2025-09/2026-08,measured_12m
+evadict,Evadict,evadict,120.83333333333333,110,12,2025-09/2026-08,measured_12m
+ergo assicurazione viaggi,ERGO Assicurazione Viaggi,ergo assicurazioni,509.1666666666667,480,12,2025-09/2026-08,measured_12m
+colmar,Colmar,colmar,124958.33333333333,135000,12,2025-09/2026-08,measured_12m
+gianni chiarini,Gianni Chiarini,gianni chiarini,18141.666666666668,18100,12,2025-09/2026-08,measured_12m
+kia,Kia,kia,136250.0,135000,12,2025-09/2026-08,measured_12m
+nissan,Nissan,nissan,85750.0,90500,12,2025-09/2026-08,measured_12m
+touring club italiano,Touring Club Italiano,touring club italiano,9633.333333333334,9900,12,2025-09/2026-08,measured_12m
+villaggio san pablo,Villaggio San Pablo,villaggio san pablo,615.0,590,12,2025-09/2026-08,measured_12m
+gabor,Gabor,gabor scarpe,466.6666666666667,480,12,2025-09/2026-08,measured_12m
+caldana europe travel,Caldana Europe Travel,caldana europe travel,1525.0,1600,12,2025-09/2026-08,measured_12m
+rent smart 24,Rent Smart 24,rent smart 24,3100.0,2900,12,2025-09/2026-08,measured_12m
+hogl,Högl,hogl scarpe,313.3333333333333,320,12,2025-09/2026-08,measured_12m
+polizzacristalli com,PolizzaCristalli.com,polizzacristalli com,,,0,2025-09/2026-08,API_no_complete_monthly_series
+fjallraven,Fjällräven,fjallraven,11033.333333333334,12100,12,2025-09/2026-08,measured_12m
+name it,Name It,name it,3016.6666666666665,2900,12,2025-09/2026-08,measured_12m
+clinique,Clinique,clinique,19166.666666666668,18100,12,2025-09/2026-08,measured_12m
+centro vacanze oriente,Centro Vacanze Oriente,centro vacanze oriente,1855.8333333333333,1900,12,2025-09/2026-08,measured_12m
+das,DAS,das assicurazioni,627.5,590,12,2025-09/2026-08,measured_12m
+riva marina resort,Riva Marina Resort,riva marina resort,14883.333333333334,14800,12,2025-09/2026-08,measured_12m
+gipsy,Gipsy,gipsy giacche,5.0,10,12,2025-09/2026-08,measured_12m
+geomar,Geomar,geomar,1725.0,1600,12,2025-09/2026-08,measured_12m
+save the duck,Save The Duck,save the duck,31408.333333333332,33100,12,2025-09/2026-08,measured_12m
+sicilvision,Sicilvision,sicilvision,64.16666666666667,70,12,2025-09/2026-08,measured_12m
+canada goose,Canada Goose,canada goose,64250.0,60500,12,2025-09/2026-08,measured_12m
+villaggio baia del monaco,Villaggio Baia del Monaco,villaggio baia del monaco,837.5,880,12,2025-09/2026-08,measured_12m
+desigual,Desigual,desigual,96333.33333333333,90500,12,2025-09/2026-08,measured_12m
+squarelife,SquareLife,squarelife,309.1666666666667,320,12,2025-09/2026-08,measured_12m
+shiseido,Shiseido,shiseido,21325.0,22200,12,2025-09/2026-08,measured_12m
+gap,GAP,gap abbigliamento,1205.0,1300,12,2025-09/2026-08,measured_12m
+jk fitness,JK Fitness,jk fitness,1666.6666666666667,1600,12,2025-09/2026-08,measured_12m
+wopta,Wopta,wopta,970.0,1000,12,2025-09/2026-08,measured_12m
+valentino,Valentino,valentino,184833.33333333334,201000,12,2025-09/2026-08,measured_12m
+dermal korea,Dermal Korea,dermal korea,9.166666666666666,10,12,2025-09/2026-08,measured_12m
+genialloyd,Genialloyd,genialloyd,13666.666666666666,12100,12,2025-09/2026-08,measured_12m
+barbour,Barbour,barbour,110066.66666666667,110000,12,2025-09/2026-08,measured_12m
+asos design,ASOS Design,asos design,1125.0,1300,12,2025-09/2026-08,measured_12m
+touroll,Touroll,touroll,450.8333333333333,480,12,2025-09/2026-08,measured_12m
+beauty of joseon,Beauty of Joseon,beauty of joseon,26875.0,27100,12,2025-09/2026-08,measured_12m
+villaggio arco naturale club,Villaggio Arco Naturale Club,villaggio arco naturale club,1580.0,1600,12,2025-09/2026-08,measured_12m
+unipolglass,UnipolGlass,unipolglass,24125.0,22200,12,2025-09/2026-08,measured_12m
+piquadro,Piquadro,piquadro,57125.0,60500,12,2025-09/2026-08,measured_12m
+viaggi dell elefante,Viaggi dell'Elefante,viaggi dellelefante,3258.3333333333335,2900,12,2025-09/2026-08,measured_12m
+afnan,Afnan,afnan,4800.0,5400,12,2025-09/2026-08,measured_12m
+th resorts,TH Resorts,th resorts,5316.666666666667,5400,12,2025-09/2026-08,measured_12m
+rhodium,Rhodium,rhodium autonoleggio,2.5,10,12,2025-09/2026-08,measured_12m
+crz yoga,CRZ YOGA,crz yoga,604.1666666666666,720,12,2025-09/2026-08,measured_12m
+club esse,Club Esse,club esse,5741.666666666667,5400,12,2025-09/2026-08,measured_12m
+missoni,Missoni,missoni,23783.333333333332,22200,12,2025-09/2026-08,measured_12m
+gattarella resort,Gattarella Resort,gattarella resort,6115.0,6600,12,2025-09/2026-08,measured_12m
+samsonite,Samsonite,samsonite,41650.0,40500,12,2025-09/2026-08,measured_12m
+primigi,Primigi,primigi,46350.0,49500,12,2025-09/2026-08,measured_12m
+boggi milano,Boggi Milano,boggi,25533.333333333332,27100,12,2025-09/2026-08,measured_12m
+next,Next,next abbigliamento,6891.666666666667,6600,12,2025-09/2026-08,measured_12m
+centro turistico san nicola,Centro Turistico San Nicola,centro turistico san nicola,860.0,880,12,2025-09/2026-08,measured_12m
+sinsay,Sinsay,sinsay,201416.66666666666,201000,12,2025-09/2026-08,measured_12m
+romagna family village,Romagna Family Village,romagna family village,550.8333333333334,590,12,2025-09/2026-08,measured_12m
+ethiopian airlines,Ethiopian Airlines,ethiopian airlines,30016.666666666668,27100,12,2025-09/2026-08,measured_12m
+louis vuitton,Louis Vuitton,louis vuitton,441250.0,450000,12,2025-09/2026-08,measured_12m
+freaky nation,Freaky Nation,freaky nation,195.0,210,12,2025-09/2026-08,measured_12m
+helly hansen,Helly Hansen,helly hansen,17250.0,18100,12,2025-09/2026-08,measured_12m
+arco del saracino,Arco del Saracino,arco del saracino,1630.8333333333333,1600,12,2025-09/2026-08,measured_12m
+bicicapace,Bicicapace,bicicapace,250.83333333333334,260,12,2025-09/2026-08,measured_12m
+medicube,Medicube,medicube,31033.333333333332,40500,12,2025-09/2026-08,measured_12m
+color dolmen family village,Color Dolmen Family Village,color dolmen family village,3826.6666666666665,4400,12,2025-09/2026-08,measured_12m
+bambiniconlavaligia,BambiniConLaValigia,bambiniconlavaligia,488.3333333333333,480,12,2025-09/2026-08,measured_12m
+forclaz,Forclaz,forclaz,1650.0,1600,12,2025-09/2026-08,measured_12m
+marbella club,Marbella Club,marbella club,2250.0,2400,12,2025-09/2026-08,measured_12m
+metasalute,Metasalute,metasalute,255000.0,246000,12,2025-09/2026-08,measured_12m
+last minute rent,Last Minute Rent,last minute rent,641.6666666666666,720,12,2025-09/2026-08,measured_12m
+caudalie,Caudalie,caudalie,77250.0,74000,12,2025-09/2026-08,measured_12m
+free2move,Free2move,free2move,7525.0,8100,12,2025-09/2026-08,measured_12m
+marc jacobs,Marc Jacobs,marc jacobs,21666.666666666668,22200,12,2025-09/2026-08,measured_12m
+wi zone broker,Wi Zone Broker,wi zone broker,,,0,2025-09/2026-08,API_no_complete_monthly_series
+torre rinalda beach camping and resort,Torre Rinalda Beach Camping & Resort,torre rinalda beach camping resort,28.333333333333332,30,12,2025-09/2026-08,measured_12m
+national,National,national,5116.666666666667,5400,12,2025-09/2026-08,measured_12m
+azemar,Azemar,azemar,2133.3333333333335,1900,12,2025-09/2026-08,measured_12m
+happy village,Happy Village,happy village,5433.333333333333,5400,12,2025-09/2026-08,measured_12m
+rimini vacanze,Rimini Vacanze,rimini vacanze,505.8333333333333,480,12,2025-09/2026-08,measured_12m
+bakfiets nl,Bakfiets.nl,bakfiets nl,9.166666666666666,10,12,2025-09/2026-08,measured_12m
+adriano family camping village,Adriano Family Camping Village,adriano family camping village,653.3333333333334,590,12,2025-09/2026-08,measured_12m
+villaggio turistico internazionale manacore,Villaggio Turistico Internazionale Manacore,villaggio turistico internazionale manacore,8.333333333333334,10,12,2025-09/2026-08,measured_12m
+interrent,InterRent,interrent,122.5,110,12,2025-09/2026-08,measured_12m
+ise,ISE,ise tapis roulant,42.5,40,12,2025-09/2026-08,measured_12m
+qatar airways,Qatar Airways,qatar airways,86083.33333333333,90500,12,2025-09/2026-08,measured_12m
+est,Est,fondo est,413750.0,450000,12,2025-09/2026-08,measured_12m
+nu car,NU Car,nu car,35.0,30,12,2025-09/2026-08,measured_12m
+medical insurance brokers,Medical Insurance Brokers,medical insurance brokers,555.8333333333334,590,12,2025-09/2026-08,measured_12m
+fenty beauty,Fenty Beauty,fenty beauty,15100.0,14800,12,2025-09/2026-08,measured_12m
+gnv,GNV,gnv,223333.33333333334,201000,12,2025-09/2026-08,measured_12m
+vueling,Vueling,vueling,240166.66666666666,246000,12,2025-09/2026-08,measured_12m
+lombardo,Lombardo,lombardo,8833.333333333334,8100,12,2025-09/2026-08,measured_12m
+camping la masseria,Camping La Masseria,camping la masseria,5900.0,5400,12,2025-09/2026-08,measured_12m
+mistral tour,Mistral Tour,mistral tour,3350.0,3600,12,2025-09/2026-08,measured_12m
+baboop,Baboop,baboop,1641.6666666666667,1600,12,2025-09/2026-08,measured_12m
+alyssa ashley,Alyssa Ashley,alyssa ashley,1525.0,1600,12,2025-09/2026-08,measured_12m
+moncler,Moncler,moncler,113550.0,110000,12,2025-09/2026-08,measured_12m
+viaggi sicuri,Viaggi Sicuri,viaggi sicuri,2375.0,2400,12,2025-09/2026-08,measured_12m
+vero moda,Vero Moda,vero moda,6183.333333333333,5400,12,2025-09/2026-08,measured_12m
+streaty,Streaty,streaty,643.3333333333334,590,12,2025-09/2026-08,measured_12m
+national geographic,National Geographic,national geographic,20550.0,22200,12,2025-09/2026-08,measured_12m
+etna experience,Etna Experience,etna experience,1638.3333333333333,1600,12,2025-09/2026-08,measured_12m
+oysho,Oysho,oysho,112625.0,110000,12,2025-09/2026-08,measured_12m
+federspecializzandi,Federspecializzandi,federspecializzandi,30.833333333333332,30,12,2025-09/2026-08,measured_12m
+kryptonite,Kryptonite,kryptonite,15041.666666666666,14800,12,2025-09/2026-08,measured_12m
+abus,Abus,abus,3908.3333333333335,3600,12,2025-09/2026-08,measured_12m
+helvetia,Helvetia,helvetia assicurazioni,6550.0,6600,12,2025-09/2026-08,measured_12m
+yeep me,YEEP.ME,yeep me,24.166666666666668,20,12,2025-09/2026-08,measured_12m
+keddy,Keddy,keddy,1111.6666666666667,1000,12,2025-09/2026-08,measured_12m
+viaggi sicilia,Viaggi Sicilia,viaggi sicilia,1370.0,1300,12,2025-09/2026-08,measured_12m
+bianchi,Bianchi,bianchi bici,7308.333333333333,6600,12,2025-09/2026-08,measured_12m
+allianz travel,Allianz Travel,allianz travel,692.5,720,12,2025-09/2026-08,measured_12m
+gazelle,Gazelle,gazelle bici,76.66666666666667,70,12,2025-09/2026-08,measured_12m
+campoverde village,Campoverde Village,campoverde village,194.16666666666666,170,12,2025-09/2026-08,measured_12m
+shein,Shein,shein,2220833.3333333335,2240000,12,2025-09/2026-08,measured_12m
+sicilissimo incoming,Sicilissimo Incoming,sicilissimo incoming,66.66666666666667,70,12,2025-09/2026-08,measured_12m
+kiehls,Kiehl’s,kiehls,10466.666666666666,9900,12,2025-09/2026-08,measured_12m
+grisport,Grisport,grisport,4233.333333333333,4400,12,2025-09/2026-08,measured_12m
+adolfo dominguez,Adolfo Domínguez,adolfo dominguez,1425.0,1300,12,2025-09/2026-08,measured_12m
+original marines,Original Marines,original marines,161000.0,165000,12,2025-09/2026-08,measured_12m
+skechers,Skechers,skechers,156916.66666666666,165000,12,2025-09/2026-08,measured_12m
+villaggio camping oasi,Villaggio Camping Oasi,villaggio camping oasi,2047.5,1900,12,2025-09/2026-08,measured_12m
+villaggio turistico grotta dellacqua,Villaggio Turistico Grotta dell’Acqua,villaggio turistico grotta dellacqua,,,0,2025-09/2026-08,API_no_complete_monthly_series
+jacadi,Jacadi,jacadi,20483.333333333332,22200,12,2025-09/2026-08,measured_12m
+pineta sul mare camping village,Pineta sul Mare Camping Village,pineta sul mare camping village,2722.5,2900,12,2025-09/2026-08,measured_12m
+silversea cruises,Silversea Cruises,silversea cruises,1480.8333333333333,1600,12,2025-09/2026-08,measured_12m
+motoplatinum,Motoplatinum,motoplatinum,14950.0,14800,12,2025-09/2026-08,measured_12m
+parfums de marly,Parfums de Marly,parfums de marly,8108.333333333333,8100,12,2025-09/2026-08,measured_12m
+villaggio costa del mito,Villaggio Costa del Mito,villaggio costa del mito,236.66666666666666,210,12,2025-09/2026-08,measured_12m
+american express,American Express,american express,155000.0,165000,12,2025-09/2026-08,measured_12m
+bikeplatinum,Bikeplatinum,bikeplatinum,50.0,50,12,2025-09/2026-08,measured_12m
+camping village san michele,Camping Village San Michele,camping village san michele,213.33333333333334,210,12,2025-09/2026-08,measured_12m
+ferragamo,Ferragamo,ferragamo,35066.666666666664,33100,12,2025-09/2026-08,measured_12m
+color bay village,Color Bay Village,color bay village,1275.8333333333333,1300,12,2025-09/2026-08,measured_12m
+calliope,Calliope,calliope,320750.0,301000,12,2025-09/2026-08,measured_12m
+poste vita,Poste Vita,poste vita,16450.0,14800,12,2025-09/2026-08,measured_12m
+blu hotels,Blu Hotels,blu hotels,10566.666666666666,9900,12,2025-09/2026-08,measured_12m
+addiopizzo travel,Addiopizzo Travel,addiopizzo travel,408.3333333333333,390,12,2025-09/2026-08,measured_12m
+aero leather,Aero Leather,aero leather,248.33333333333334,260,12,2025-09/2026-08,measured_12m
+aida,AIDA,aida crociere,704.1666666666666,720,12,2025-09/2026-08,measured_12m
+ald automotive,ALD Automotive,ald automotive,10533.333333333334,9900,12,2025-09/2026-08,measured_12m
+toputure,Toputure,toputure,247.5,260,12,2025-09/2026-08,measured_12m
+peloton,Peloton,peloton,3975.0,4400,12,2025-09/2026-08,measured_12m
+prokennex,ProKennex,pro kennex,2058.3333333333335,1900,12,2025-09/2026-08,measured_12m
+elops,Elops,elops bici,262.5,260,12,2025-09/2026-08,measured_12m
+crivit,Crivit,crivit,12291.666666666666,12100,12,2025-09/2026-08,measured_12m
+cattier,Cattier,cattier,126.66666666666667,110,12,2025-09/2026-08,measured_12m
+medik8,Medik8,medik8,3850.0,4400,12,2025-09/2026-08,measured_12m
+polisport,Polisport,polisport,1816.6666666666667,1900,12,2025-09/2026-08,measured_12m
+ecco,Ecco,ecco scarpe,2600.0,2400,12,2025-09/2026-08,measured_12m
+arag,ARAG,arag,3791.6666666666665,3600,12,2025-09/2026-08,measured_12m
+bh fitness,BH Fitness,bh fitness,241.66666666666666,260,12,2025-09/2026-08,measured_12m
+denver,Denver,denver bici,239.16666666666666,210,12,2025-09/2026-08,measured_12m
+jovan,Jovan,jovan,123.33333333333333,140,12,2025-09/2026-08,measured_12m
+winora,Winora,winora,856.6666666666666,880,12,2025-09/2026-08,measured_12m
+rimini family camping village,Rimini Family Camping Village,rimini family camping village,91.66666666666667,90,12,2025-09/2026-08,measured_12m
+missha,Missha,missha,1733.3333333333333,1600,12,2025-09/2026-08,measured_12m
+direct line,Direct Line,direct line,3525.0,3600,12,2025-09/2026-08,measured_12m
+leaseplan,LeasePlan,leaseplan,7350.0,6600,12,2025-09/2026-08,measured_12m
+marsh,Marsh,marsh assicurazioni,3466.6666666666665,3600,12,2025-09/2026-08,measured_12m
+bikeprotection,BikeProtection,bikeprotection,119.16666666666667,110,12,2025-09/2026-08,measured_12m
+viaggigiovani it,Viaggigiovani.it,viaggigiovani it,206.66666666666666,210,12,2025-09/2026-08,measured_12m
+dainese,Dainese,dainese,36758.333333333336,33100,12,2025-09/2026-08,measured_12m
+valentino bags,Valentino Bags,valentino bags,4583.333333333333,4400,12,2025-09/2026-08,measured_12m
+steigenberger,Steigenberger,steigenberger,426.6666666666667,390,12,2025-09/2026-08,measured_12m
+target,Target Italy,target italy,124.16666666666667,110,12,2025-09/2026-08,measured_12m
+hotel and resort baia delle zagare,Hotel & Resort Baia delle Zagare,hotel resort baia delle zagare,9.166666666666666,10,12,2025-09/2026-08,measured_12m
+maritalia hotel club village,Maritalia Hotel Club Village,maritalia hotel club village,499.1666666666667,480,12,2025-09/2026-08,measured_12m
+regatta,Regatta,regatta,4616.666666666667,4400,12,2025-09/2026-08,measured_12m
+sicilia family tour,Sicilia Family Tour,sicilia family tour,35.0,40,12,2025-09/2026-08,measured_12m
+lancome,Lancôme,lancome,17250.0,18100,12,2025-09/2026-08,measured_12m
+african explorer,African Explorer,african explorer,1240.0,1300,12,2025-09/2026-08,measured_12m
+riu,RIU,riu,4025.0,4400,12,2025-09/2026-08,measured_12m
+tesla,Tesla,tesla,276333.3333333333,246000,12,2025-09/2026-08,measured_12m
+bubblebum,BubbleBum,bubblebum,188.33333333333334,210,12,2025-09/2026-08,measured_12m
+valstar,Valstar,valstar,1103.3333333333333,1000,12,2025-09/2026-08,measured_12m
+aig,AIG,aig assicurazioni,886.6666666666666,880,12,2025-09/2026-08,measured_12m
+prince,Prince,prince tennis,295.0,320,12,2025-09/2026-08,measured_12m
+tally weijl,Tally Weijl,tally weijl,107208.33333333333,110000,12,2025-09/2026-08,measured_12m
+armani exchange,Armani Exchange,armani exchange,30725.0,27100,12,2025-09/2026-08,measured_12m
+peuterey,Peuterey,peuterey,30841.666666666668,27100,12,2025-09/2026-08,measured_12m
+gant,Gant,gant,11341.666666666666,12100,12,2025-09/2026-08,measured_12m
+bottega veneta,Bottega Veneta,bottega veneta,83875.0,90500,12,2025-09/2026-08,measured_12m
+wheego,Wheego,wheego,1431.6666666666667,1300,12,2025-09/2026-08,measured_12m
+melluso,Melluso,melluso,35566.666666666664,33100,12,2025-09/2026-08,measured_12m
+autovia,Autovia,autovia,12450.0,12100,12,2025-09/2026-08,measured_12m
+dolce and gabbana,Dolce & Gabbana,dolce gabbana,19941.666666666668,18100,12,2025-09/2026-08,measured_12m
+zipro,Zipro,zipro,441.6666666666667,390,12,2025-09/2026-08,measured_12m
+even and odd,Even&Odd,even odd,590.8333333333334,590,12,2025-09/2026-08,measured_12m
+villaggio la giurlita,Villaggio La Giurlita,villaggio la giurlita,367.5,390,12,2025-09/2026-08,measured_12m
+inditex,Inditex,inditex,15000.0,14800,12,2025-09/2026-08,measured_12m
+ck,CK,calvin klein,153916.66666666666,165000,12,2025-09/2026-08,measured_12m
+club medici,Club Medici,club medici,1340.0,1300,12,2025-09/2026-08,measured_12m
+bourjois,Bourjois,bourjois,1068.3333333333333,1000,12,2025-09/2026-08,measured_12m
+homcom,Homcom,homcom,10083.333333333334,9900,12,2025-09/2026-08,measured_12m
+agolde,Agolde,agolde,1275.0,1300,12,2025-09/2026-08,measured_12m
+david jones,David Jones,david jones,5133.333333333333,5400,12,2025-09/2026-08,measured_12m
+flydubai,Flydubai,flydubai,23825.0,27100,12,2025-09/2026-08,measured_12m
+romagna camping village,Romagna Camping Village,romagna camping village,65.83333333333333,70,12,2025-09/2026-08,measured_12m
+assimoco,Assimoco,assimoco,10000.0,9900,12,2025-09/2026-08,measured_12m
+life fitness,Life Fitness,life fitness,1250.0,1300,12,2025-09/2026-08,measured_12m
+allianz global life,Allianz Global Life,allianz global life,756.6666666666666,720,12,2025-09/2026-08,measured_12m
+keen,Keen,keen scarpe,2450.0,2900,12,2025-09/2026-08,measured_12m
+villaggio bellariva,Villaggio Bellariva,villaggio bellariva,145.83333333333334,140,12,2025-09/2026-08,measured_12m
+graceland,Graceland,graceland,3666.6666666666665,3600,12,2025-09/2026-08,measured_12m
+argento,Argento,argento bici,77.5,70,12,2025-09/2026-08,measured_12m
+ado,ADO,ado bici,15.833333333333334,20,12,2025-09/2026-08,measured_12m
+valentini family village,Valentini Family Village,valentini family village,765.0,720,12,2025-09/2026-08,measured_12m
+revlon,Revlon,revlon,5283.333333333333,5400,12,2025-09/2026-08,measured_12m
+dockers,Dockers,dockers,15491.666666666666,14800,12,2025-09/2026-08,measured_12m
+bottecchia,Bottecchia,bottecchia,6308.333333333333,6600,12,2025-09/2026-08,measured_12m
+princess,Princess,princess,11775.0,12100,12,2025-09/2026-08,measured_12m
+tui,TUI,tui,15641.666666666666,14800,12,2025-09/2026-08,measured_12m
+tuvalum,Tuvalum,tuvalum,453.3333333333333,480,12,2025-09/2026-08,measured_12m
+conad,Conad,conad,2310000.0,2240000,12,2025-09/2026-08,measured_12m
+easy zanzibar,Easy Zanzibar,easy zanzibar,243.33333333333334,260,12,2025-09/2026-08,measured_12m
+villaggio turistico internazionale,Villaggio Turistico Internazionale,villaggio turistico internazionale,8758.333333333334,8100,12,2025-09/2026-08,measured_12m
+villaggio gargano,Villaggio Gargano,villaggio gargano,1660.0,1600,12,2025-09/2026-08,measured_12m
+relais masseria le cesine,Relais Masseria Le Cesine,relais masseria le cesine,2413.3333333333335,2400,12,2025-09/2026-08,measured_12m
+weekday,Weekday,weekday,21391.666666666668,22200,12,2025-09/2026-08,measured_12m
+arche travel,Archè Travel,arche travel,4050.0,3600,12,2025-09/2026-08,measured_12m
+villaggio uliveto,Villaggio Uliveto,villaggio uliveto,2883.3333333333335,2900,12,2025-09/2026-08,measured_12m
+baia santa barbara village,Baia Santa Barbara Village,baia santa barbara village,50.833333333333336,50,12,2025-09/2026-08,measured_12m
+riverside,Riverside,riverside,10041.666666666666,9900,12,2025-09/2026-08,measured_12m
+herno,Herno,herno,16258.333333333334,14800,12,2025-09/2026-08,measured_12m
+dan john,Dan John,dan john,94958.33333333333,90500,12,2025-09/2026-08,measured_12m
+brunello cucinelli,Brunello Cucinelli,brunello cucinelli,97625.0,90500,12,2025-09/2026-08,measured_12m
+viktor and rolf,Viktor&Rolf,viktor rolf,420.8333333333333,390,12,2025-09/2026-08,measured_12m
+chie mihara,Chie Mihara,chie mihara,2658.3333333333335,2400,12,2025-09/2026-08,measured_12m
+stellantis,Stellantis,stellantis,189833.33333333334,201000,12,2025-09/2026-08,measured_12m
+berdoues,Berdoues,berdoues,68.33333333333333,70,12,2025-09/2026-08,measured_12m
+vichy,Vichy,vichy,12816.666666666666,12100,12,2025-09/2026-08,measured_12m
+naturalizer,Naturalizer,naturalizer,153.33333333333334,140,12,2025-09/2026-08,measured_12m
+bikini tropicana,Bikini Tropicana,bikini tropicana,495.0,480,12,2025-09/2026-08,measured_12m
+car rent,Italy Car Rent,italy car rent,33416.666666666664,33100,12,2025-09/2026-08,measured_12m
+araba fenice village,Araba Fenice Village,araba fenice village,5206.666666666667,5400,12,2025-09/2026-08,measured_12m
+villaggio degli olivi,Villaggio degli Olivi,villaggio degli olivi,1908.3333333333333,1900,12,2025-09/2026-08,measured_12m
+acty mask,ACTY MASK,acty mask,488.3333333333333,480,12,2025-09/2026-08,measured_12m
+conbipel,Conbipel,conbipel,92666.66666666667,90500,12,2025-09/2026-08,measured_12m
+mayoral,Mayoral,mayoral,85333.33333333333,90500,12,2025-09/2026-08,measured_12m
+villaggio punta grossa,Villaggio Punta Grossa,villaggio punta grossa,6422.5,6600,12,2025-09/2026-08,measured_12m
+alcott,Alcott,alcott,122333.33333333333,135000,12,2025-09/2026-08,measured_12m
+camping village baia san nicola,Camping Village Baia San Nicola,camping village baia san nicola,112.5,110,12,2025-09/2026-08,measured_12m
+reiss,Reiss,reiss,4100.0,4400,12,2025-09/2026-08,measured_12m
+sicily in travel,Sicily in Travel,sicily in travel,99.16666666666667,90,12,2025-09/2026-08,measured_12m
+villaggio camping internazionale manacore,Villaggio Camping Internazionale Manacore,villaggio camping internazionale manacore,1946.6666666666667,1900,12,2025-09/2026-08,measured_12m
+oakwood,Oakwood,oakwood,915.0,880,12,2025-09/2026-08,measured_12m
+ktm,KTM,ktm bici,1268.3333333333333,1300,12,2025-09/2026-08,measured_12m
+viaggi e miraggi,Viaggi e Miraggi,viaggi e miraggi,3891.6666666666665,3600,12,2025-09/2026-08,measured_12m
+camping village rubicone,Camping Village Rubicone,camping village rubicone,340.0,320,12,2025-09/2026-08,measured_12m
+jaguar,Jaguar,jaguar profumo,343.3333333333333,320,12,2025-09/2026-08,measured_12m
+burley,Burley,burley,400.8333333333333,390,12,2025-09/2026-08,measured_12m
+lynk and co,Lynk & Co,lynk co,282.5,260,12,2025-09/2026-08,measured_12m
+axieme,Axieme,axieme,114.16666666666667,110,12,2025-09/2026-08,measured_12m
+green village,Green Village,green village,12058.333333333334,12100,12,2025-09/2026-08,measured_12m
+the jacket maker,The Jacket Maker,the jacket maker,42.5,40,12,2025-09/2026-08,measured_12m
+rab,Rab,rab abbigliamento,109.16666666666667,110,12,2025-09/2026-08,measured_12m
+police,Police,police profumo,4091.6666666666665,4400,12,2025-09/2026-08,measured_12m
+iberostar,Iberostar,iberostar,2416.6666666666665,2400,12,2025-09/2026-08,measured_12m
+charlotte tilbury,Charlotte Tilbury,charlotte tilbury,59425.0,60500,12,2025-09/2026-08,measured_12m
+cerruti,Cerruti,cerruti,1783.3333333333333,1600,12,2025-09/2026-08,measured_12m
+unipolrental,UnipolRental,unipolrental,19716.666666666668,18100,12,2025-09/2026-08,measured_12m
+sicilia da scoprire,Sicilia da Scoprire,sicilia da scoprire,121.66666666666667,110,12,2025-09/2026-08,measured_12m
+the village salento,The Village Salento,the village salento,10256.666666666666,9900,12,2025-09/2026-08,measured_12m
+chloe,Chloé,chloe,21650.0,22200,12,2025-09/2026-08,measured_12m
+jacquemus,Jacquemus,jacquemus,82500.0,90500,12,2025-09/2026-08,measured_12m
+meindl,Meindl,meindl,1270.0,1300,12,2025-09/2026-08,measured_12m
+futura club torre rinalda,Futura Club Torre Rinalda,futura club torre rinalda,6255.833333333333,6600,12,2025-09/2026-08,measured_12m
+stella del sud,Stella del Sud,stella del sud,2308.3333333333335,2400,12,2025-09/2026-08,measured_12m
+arco del saracino resort,Arco del Saracino Resort,arco del saracino resort,152.5,170,12,2025-09/2026-08,measured_12m
+sunrise,Sunrise,sunrise viaggi,13.333333333333334,10,12,2025-09/2026-08,measured_12m
+mirabilandia,Mirabilandia,mirabilandia,225050.0,246000,12,2025-09/2026-08,measured_12m
+villaggio taunus,Villaggio Taunus,villaggio taunus,1870.0,1900,12,2025-09/2026-08,measured_12m
+nikos,Nikos,nikos profumo,16.666666666666668,10,12,2025-09/2026-08,measured_12m
+frecciarossa,Frecciarossa,frecciarossa,423916.6666666667,450000,12,2025-09/2026-08,measured_12m
+rilastil,Rilastil,rilastil,19666.666666666668,18100,12,2025-09/2026-08,measured_12m
+sais autolinee,SAIS Autolinee,sais autolinee,43183.333333333336,40500,12,2025-09/2026-08,measured_12m
+lufthansa,Lufthansa,lufthansa,231000.0,246000,12,2025-09/2026-08,measured_12m
+coppi,Coppi,coppi bici,390.0,390,12,2025-09/2026-08,measured_12m
+tecnifibre,Tecnifibre,tecnifibre,1366.6666666666667,1300,12,2025-09/2026-08,measured_12m
+trenitalia,Trenitalia,trenitalia,8196666.666666667,7480000,12,2025-09/2026-08,measured_12m
+jeanne arthes,Jeanne Arthes,jeanne arthes,161.66666666666666,170,12,2025-09/2026-08,measured_12m
+barcelo,Barceló,barcelo,3491.6666666666665,3600,12,2025-09/2026-08,measured_12m
+disney cruise line,Disney Cruise Line,disney crociere,353.3333333333333,320,12,2025-09/2026-08,measured_12m
+olimpia cilento resort,Olimpia Cilento Resort,olimpia cilento resort,10016.666666666666,9900,12,2025-09/2026-08,measured_12m
+naturino,Naturino,naturino,6283.333333333333,6600,12,2025-09/2026-08,measured_12m
+rcpolizza,RCPolizza,rcpolizza,606.6666666666666,590,12,2025-09/2026-08,measured_12m
+villaggio le palme,Villaggio Le Palme,villaggio le palme,3272.5,3600,12,2025-09/2026-08,measured_12m
+villaggio la giara,Villaggio La Giara,villaggio la giara,1350.8333333333333,1300,12,2025-09/2026-08,measured_12m
+cuba paris,Cuba Paris,cuba paris,14.166666666666666,10,12,2025-09/2026-08,measured_12m
+villaggio baia turchese,Villaggio Baia Turchese,villaggio baia turchese,5015.833333333333,5400,12,2025-09/2026-08,measured_12m
+woom,Woom,woom,1650.0,1600,12,2025-09/2026-08,measured_12m
+black marlin club,Black Marlin Club,black marlin club,3308.3333333333335,2900,12,2025-09/2026-08,measured_12m
+holland america,Holland America,holland america,691.6666666666666,720,12,2025-09/2026-08,measured_12m
+5th avenue,5th Avenue,5th avenue,2966.6666666666665,2900,12,2025-09/2026-08,measured_12m
+apple,Apple,apple,740666.6666666666,823000,12,2025-09/2026-08,measured_12m
+mac,MAC,mac cosmetics,32208.333333333332,33100,12,2025-09/2026-08,measured_12m
+roland,Roland,roland assicurazioni,120.0,110,12,2025-09/2026-08,measured_12m
+turkish airlines,Turkish Airlines,turkish airlines,131250.0,135000,12,2025-09/2026-08,measured_12m
+klarna,Klarna,klarna,169000.0,165000,12,2025-09/2026-08,measured_12m
+omia,Omia,omia,2100.0,2400,12,2025-09/2026-08,measured_12m
+interbus,Interbus,interbus,48500.0,49500,12,2025-09/2026-08,measured_12m
+volotea,Volotea,volotea,432500.0,450000,12,2025-09/2026-08,measured_12m
+oleandri resort,Oleandri Resort,oleandri resort,5798.333333333333,5400,12,2025-09/2026-08,measured_12m
+burberry,Burberry,burberry,82375.0,90500,12,2025-09/2026-08,measured_12m
+medical brokers,Medical Brokers,medical brokers,746.6666666666666,720,12,2025-09/2026-08,measured_12m
+wimbi tour operator,Wimbi Tour Operator,wimbi tour operator,14.166666666666666,10,12,2025-09/2026-08,measured_12m
+dino bikes,Dino Bikes,dino bikes,602.5,590,12,2025-09/2026-08,measured_12m
+flixbus,Flixbus,flixbus,974083.3333333334,1000000,12,2025-09/2026-08,measured_12m
+carnielli,Carnielli,carnielli,775.8333333333334,720,12,2025-09/2026-08,measured_12m
+credit agricole,Crédit Agricole,credit agricole assicurazioni,2691.6666666666665,2900,12,2025-09/2026-08,measured_12m
+sicily voyages,Sicily Voyages,sicily voyages,,,0,2025-09/2026-08,API_no_complete_monthly_series
+park hotel valle clavia,Park Hotel Valle Clavia,park hotel valle clavia,2208.3333333333335,1900,12,2025-09/2026-08,measured_12m
+ima assistance,IMA Assistance,ima assicurazioni,273.3333333333333,260,12,2025-09/2026-08,measured_12m
+la redoute,La Redoute,la redoute,79375.0,74000,12,2025-09/2026-08,measured_12m
+tui cruises,TUI Cruises,tui cruises,1147.5,1000,12,2025-09/2026-08,measured_12m
+cartorange,CartOrange,cartorange,2933.3333333333335,2900,12,2025-09/2026-08,measured_12m
+nakamura,Nakamura,nakamura,5158.333333333333,5400,12,2025-09/2026-08,measured_12m
+villaggio camping rubicone,Villaggio Camping Rubicone,villaggio camping rubicone,327.5,320,12,2025-09/2026-08,measured_12m
+beauty blender,Beauty Blender,beauty blender,3316.6666666666665,3600,12,2025-09/2026-08,measured_12m
+cetaphil,Cetaphil,cetaphil,6675.0,6600,12,2025-09/2026-08,measured_12m
+barney s originals,Barney's Originals,barneys originals,23.333333333333332,30,12,2025-09/2026-08,measured_12m
+topshop,Topshop,topshop,4233.333333333333,4400,12,2025-09/2026-08,measured_12m
+uber,Uber,uber,126333.33333333333,135000,12,2025-09/2026-08,measured_12m
+nyx,NYX,nyx,44100.0,40500,12,2025-09/2026-08,measured_12m
+equilibra,Equilibra,equilibra,13083.333333333334,12100,12,2025-09/2026-08,measured_12m
+la bussola,La Bussola,la bussola,27491.666666666668,27100,12,2025-09/2026-08,measured_12m
+world face,World Face,world face,2641.6666666666665,2400,12,2025-09/2026-08,measured_12m
+britney spears,Britney Spears,britney spears,,,0,2025-09/2026-08,API_no_complete_monthly_series
+th,TH,th resorts,5316.666666666667,5400,12,2025-09/2026-08,measured_12m
+lotto,Lotto,lotto scarpe,2583.3333333333335,2900,12,2025-09/2026-08,measured_12m
+arianna club,Arianna Club,arianna club,939.1666666666666,880,12,2025-09/2026-08,measured_12m
+clinians,Clinians,clinians,3233.3333333333335,2900,12,2025-09/2026-08,measured_12m
+wedze,Wedze,wedze,1494.1666666666667,1600,12,2025-09/2026-08,measured_12m
+kappa,Kappa,kappa,26833.333333333332,27100,12,2025-09/2026-08,measured_12m
+alfa romeo,Alfa Romeo,alfa romeo,142916.66666666666,135000,12,2025-09/2026-08,measured_12m
+baia di campi,Baia di Campi,baia di campi,4287.5,4400,12,2025-09/2026-08,measured_12m
+xerjoff,Xerjoff,xerjoff,16633.333333333332,14800,12,2025-09/2026-08,measured_12m
+lido del mare,Lido del Mare,lido del mare,415.0,390,12,2025-09/2026-08,measured_12m
+garlando,Garlando,garlando,1866.6666666666667,1900,12,2025-09/2026-08,measured_12m
+celio,Celio,celio,16000.0,14800,12,2025-09/2026-08,measured_12m
+the real mccoys,The Real McCoy’s,the real mccoys,1051.6666666666667,1000,12,2025-09/2026-08,measured_12m
+ikos resorts,Ikos Resorts,ikos resorts,264.1666666666667,260,12,2025-09/2026-08,measured_12m
+fay,Fay,fay abbigliamento,731.6666666666666,720,12,2025-09/2026-08,measured_12m
+avirex,Avirex,avirex,7575.0,8100,12,2025-09/2026-08,measured_12m
+imperatore travel,Imperatore Travel,imperatore travel,6733.333333333333,6600,12,2025-09/2026-08,measured_12m
+matrix,Matrix,matrix fitness,555.0,590,12,2025-09/2026-08,measured_12m
+mapfre,MAPFRE,mapfre assicurazioni,248.33333333333334,260,12,2025-09/2026-08,measured_12m
+it cosmetics,IT Cosmetics,it cosmetics,1933.3333333333333,1900,12,2025-09/2026-08,measured_12m
+miss and queen,Miss & Queen,miss queen,84.16666666666667,90,12,2025-09/2026-08,measured_12m
+blueberry travel,Blueberry Travel,blueberry travel,4658.333333333333,4400,12,2025-09/2026-08,measured_12m
+genialclick,GenialClick,genialclick,25441.666666666668,27100,12,2025-09/2026-08,measured_12m
+mauritius,Mauritius,mauritius,89208.33333333333,90500,12,2025-09/2026-08,measured_12m
+color king marte family village,Color King Marte Family Village,color king marte family village,969.1666666666666,880,12,2025-09/2026-08,measured_12m
+romagna family resort,Romagna Family Resort,romagna family resort,816.6666666666666,880,12,2025-09/2026-08,measured_12m
+famiglie in tour,Famiglie in Tour,famiglie in tour,651.6666666666666,720,12,2025-09/2026-08,measured_12m
+aquolina,Aquolina,aquolina,3775.0,3600,12,2025-09/2026-08,measured_12m
+karl lagerfeld,Karl Lagerfeld,karl lagerfeld,24566.666666666668,22200,12,2025-09/2026-08,measured_12m
+idee per viaggiare,Idee per Viaggiare,idee per viaggiare,4750.0,4400,12,2025-09/2026-08,measured_12m
+max factor,Max Factor,max factor,107666.66666666667,110000,12,2025-09/2026-08,measured_12m
+sperax,Sperax,sperax,18.333333333333332,20,12,2025-09/2026-08,measured_12m
+givenchy,Givenchy,givenchy,31475.0,33100,12,2025-09/2026-08,measured_12m
+camping villaggio rubicone,Camping Villaggio Rubicone,camping villaggio rubicone,2730.0,2900,12,2025-09/2026-08,measured_12m
+salewa,Salewa,salewa,33616.666666666664,33100,12,2025-09/2026-08,measured_12m
+benno,Benno,benno bici,,,0,2025-09/2026-08,API_no_complete_monthly_series
+lupilu,Lupilu,lupilu,4758.333333333333,5400,12,2025-09/2026-08,measured_12m
+pineta family camping village,Pineta Family Camping Village,pineta family camping village,47.5,50,12,2025-09/2026-08,measured_12m
+sarah jessica parker,Sarah Jessica Parker,sarah jessica parker,38558.333333333336,40500,12,2025-09/2026-08,measured_12m
+surprice,Surprice,surprice,7375.0,6600,12,2025-09/2026-08,measured_12m
+hotel club ravezzo,Hotel Club Ravezzo,hotel club ravezzo,541.6666666666666,590,12,2025-09/2026-08,measured_12m
+pini beach village,Pini Beach Village,pini beach village,195.83333333333334,90,12,2025-09/2026-08,measured_12m
+sant agostino,Sant'Agostino,santagostino,116291.66666666667,110000,12,2025-09/2026-08,measured_12m
+sandals resorts,Sandals Resorts,sandals resorts,311.6666666666667,320,12,2025-09/2026-08,measured_12m
+lemonade,Lemonade,lemonade,4108.333333333333,4400,12,2025-09/2026-08,measured_12m
+norse atlantic,Norse Atlantic,norse atlantic,1545.0,1300,12,2025-09/2026-08,measured_12m
+villaggio camping nessuno,Villaggio Camping Nessuno,villaggio camping nessuno,767.5,720,12,2025-09/2026-08,measured_12m
+isoleinviaggio,IsoleInViaggio,isoleinviaggio,18.333333333333332,20,12,2025-09/2026-08,measured_12m
+costa del salento,Costa del Salento,costa del salento,543.3333333333334,590,12,2025-09/2026-08,measured_12m
+axa partners,AXA Partners,axa partners,839.1666666666666,880,12,2025-09/2026-08,measured_12m
+skoda,Skoda,skoda,125875.0,110000,12,2025-09/2026-08,measured_12m
+jack wolfskin,Jack Wolfskin,jack wolfskin,4850.0,4400,12,2025-09/2026-08,measured_12m
+bergamont,Bergamont,bergamont,3833.3333333333335,3600,12,2025-09/2026-08,measured_12m
+villaggio copacabana,Villaggio Copacabana,villaggio copacabana,2504.1666666666665,2400,12,2025-09/2026-08,measured_12m
+manacore,Manacore,manacore,544.1666666666666,590,12,2025-09/2026-08,measured_12m
+la rive,La Rive,la rive,505.8333333333333,590,12,2025-09/2026-08,measured_12m
+sanitassicura,SanitAssicura,sanitassicura,311.6666666666667,320,12,2025-09/2026-08,measured_12m
+contiki,Contiki,contiki,1261.6666666666667,1000,12,2025-09/2026-08,measured_12m
+sephora collection,Sephora Collection,sephora collection,1833.3333333333333,1900,12,2025-09/2026-08,measured_12m
+vogue,Vogue,vogue bici,,,0,2025-09/2026-08,API_no_complete_monthly_series
+lewis leathers,Lewis Leathers,lewis leathers,158.33333333333334,170,12,2025-09/2026-08,measured_12m
+urevo,UREVO,urevo,86.66666666666667,90,12,2025-09/2026-08,measured_12m
+hispanitas,Hispanitas,hispanitas,1535.0,1600,12,2025-09/2026-08,measured_12m
+superga,Superga,superga,71875.0,74000,12,2025-09/2026-08,measured_12m
+n26,N26,n26,21375.0,22200,12,2025-09/2026-08,measured_12m
+margo,Margò,margo tour,9.166666666666666,10,12,2025-09/2026-08,measured_12m
+belardo broker,Belardo Broker,belardo broker,395.0,390,12,2025-09/2026-08,measured_12m
+olehenriksen,Olehenriksen,olehenriksen,1037.5,1000,12,2025-09/2026-08,measured_12m
+ast,AST,ast autobus,1400.0,1600,12,2025-09/2026-08,measured_12m
+tap,TAP,tap air portugal,13133.333333333334,12100,12,2025-09/2026-08,measured_12m
+zuiki,Zuiki,zuiki,97958.33333333333,90500,12,2025-09/2026-08,measured_12m
+stonefly,Stonefly,stonefly,5633.333333333333,5400,12,2025-09/2026-08,measured_12m
+internazionale manacore,Internazionale Manacore,internazionale manacore,1946.6666666666667,1900,12,2025-09/2026-08,measured_12m
+etude,ETUDE,etude,1132.5,1000,12,2025-09/2026-08,measured_12m
+jaz,Jaz,jaz hotels,215.0,210,12,2025-09/2026-08,measured_12m
+topo athletic,Topo Athletic,topo athletic,2375.0,2400,12,2025-09/2026-08,measured_12m
+lookatme,lookATME,lookatme,1025.0,1000,12,2025-09/2026-08,measured_12m
+villaggio internazionale manacore,Villaggio Internazionale Manacore,villaggio internazionale manacore,407.5,390,12,2025-09/2026-08,measured_12m
+baia falcone camping village,Baia Falcone Camping Village,baia falcone camping village,60.0,50,12,2025-09/2026-08,measured_12m
+camping village internazionale manacore,Camping Village Internazionale Manacore,camping village internazionale manacore,80.0,90,12,2025-09/2026-08,measured_12m
+valleverde,Valleverde,valleverde,6083.333333333333,5400,12,2025-09/2026-08,measured_12m
+assur o poil,Assur O'Poil,assur opoil,6500.0,6600,12,2025-09/2026-08,measured_12m
+victor village,Victor Village,victor village,4497.5,4400,12,2025-09/2026-08,measured_12m
+wet n wild,Wet n Wild,wet n wild,1450.0,1600,12,2025-09/2026-08,measured_12m
+ara,Ara,ara scarpe,784.1666666666666,720,12,2025-09/2026-08,measured_12m
+moustache,Moustache,moustache,3708.3333333333335,3600,12,2025-09/2026-08,measured_12m
+mg,MG,mg auto,67875.0,74000,12,2025-09/2026-08,measured_12m
+miu miu,Miu Miu,miu miu,89625.0,90500,12,2025-09/2026-08,measured_12m
+intimissimi,Intimissimi,intimissimi,672416.6666666666,673000,12,2025-09/2026-08,measured_12m
+revolution skincare,Revolution Skincare,revolution makeup,1683.3333333333333,1600,12,2025-09/2026-08,measured_12m
+dickies,Dickies,dickies,19758.333333333332,18100,12,2025-09/2026-08,measured_12m
+gusmay resort,Gusmay Resort,gusmay resort,866.6666666666666,880,12,2025-09/2026-08,measured_12m
+gloria vanderbilt,Gloria Vanderbilt,gloria vanderbilt,963.3333333333334,1000,12,2025-09/2026-08,measured_12m
+emirates,Emirates,emirates,144041.66666666666,135000,12,2025-09/2026-08,measured_12m
+cassa galeno,Cassa Galeno,cassa galeno,829.1666666666666,880,12,2025-09/2026-08,measured_12m
+elizavecca,Elizavecca,elizavecca,309.1666666666667,320,12,2025-09/2026-08,measured_12m
+chevignon,Chevignon,chevignon,547.5,480,12,2025-09/2026-08,measured_12m
+elemis,Elemis,elemis,2808.3333333333335,2900,12,2025-09/2026-08,measured_12m
+villaggio camping sentinella,Villaggio Camping Sentinella,villaggio camping sentinella,160.0,170,12,2025-09/2026-08,measured_12m
+sicily active,Sicily Active,sicily active,177.5,170,12,2025-09/2026-08,measured_12m
+villaggio camping dellisola,Villaggio Camping dell’Isola,villaggio camping dellisola,,,0,2025-09/2026-08,API_no_complete_monthly_series
+sisley,Sisley,sisley abbigliamento,2166.6666666666665,2400,12,2025-09/2026-08,measured_12m
+camping village vieste marina,Camping Village Vieste Marina,camping village vieste marina,1712.5,1900,12,2025-09/2026-08,measured_12m
+ellesse,Ellesse,ellesse,6800.0,6600,12,2025-09/2026-08,measured_12m
+e l f,e.l.f.,e l f,26600.0,27100,12,2025-09/2026-08,measured_12m
+color perla village,Color Perla Village,color perla village,1842.5,1900,12,2025-09/2026-08,measured_12m
+carwiz,Carwiz,carwiz,1948.3333333333333,1900,12,2025-09/2026-08,measured_12m
+avril,Avril,avril cosmetici,86.66666666666667,90,12,2025-09/2026-08,measured_12m
+ecovia,Ecovia,ecovia,4416.666666666667,4400,12,2025-09/2026-08,measured_12m
+stone island,Stone Island,stone island,129041.66666666667,135000,12,2025-09/2026-08,measured_12m
+vie di sicilia,Vie di Sicilia,vie di sicilia,26.666666666666668,30,12,2025-09/2026-08,measured_12m
+single in vacanza,Single in Vacanza,single in vacanza,1090.0,1000,12,2025-09/2026-08,measured_12m
+villaggio la siesta,Villaggio La Siesta,villaggio la siesta,1610.0,1600,12,2025-09/2026-08,measured_12m
+atlantica,Atlantica,atlantica,3010.0,2900,12,2025-09/2026-08,measured_12m
+ikea,IKEA,ikea,2742500.0,2740000,12,2025-09/2026-08,measured_12m
+max mara,Max Mara,max mara,148833.33333333334,135000,12,2025-09/2026-08,measured_12m
+villaggio camping adria,Villaggio Camping Adria,villaggio camping adria,1625.8333333333333,1600,12,2025-09/2026-08,measured_12m
+zity,Zity,zity,826.6666666666666,720,12,2025-09/2026-08,measured_12m
+suitsupply,Suitsupply,suitsupply,31883.333333333332,33100,12,2025-09/2026-08,measured_12m
+bobike,Bobike,bobike,290.0,320,12,2025-09/2026-08,measured_12m
+okbaby,Okbaby,okbaby,1075.0,1000,12,2025-09/2026-08,measured_12m
+bowflex,Bowflex,bowflex,351.6666666666667,390,12,2025-09/2026-08,measured_12m
+america world,America World,america world,197.5,170,12,2025-09/2026-08,measured_12m
+sezane,Sézane,sezane,59083.333333333336,60500,12,2025-09/2026-08,measured_12m
+biomecanics,Biomecanics,biomecanics,4116.666666666667,4400,12,2025-09/2026-08,measured_12m
+shotgun,Shotgun,kids ride shotgun,,,0,2025-09/2026-08,API_no_complete_monthly_series
+alleanza,Alleanza,alleanza,43491.666666666664,40500,12,2025-09/2026-08,measured_12m
+pepe jeans,Pepe Jeans,pepe jeans,13983.333333333334,14800,12,2025-09/2026-08,measured_12m
+adriano camping village,Adriano Camping Village,adriano camping village,740.8333333333334,720,12,2025-09/2026-08,measured_12m
+villaggio san lorenzo,Villaggio San Lorenzo,villaggio san lorenzo,529.1666666666666,590,12,2025-09/2026-08,measured_12m
+sicily4you,Sicily4You,sicily4you,10.0,10,12,2025-09/2026-08,measured_12m
+spidi,Spidi,spidi,2883.3333333333335,2900,12,2025-09/2026-08,measured_12m
+jeanne en provence,Jeanne en Provence,jeanne en provence,221.66666666666666,210,12,2025-09/2026-08,measured_12m
+ulric de varens,Ulric de Varens,ulric de varens,342.5,320,12,2025-09/2026-08,measured_12m
+rimini family resort,Rimini Family Resort,rimini family resort,505.8333333333333,480,12,2025-09/2026-08,measured_12m
+italo,Italo,italo treno,626250.0,550000,12,2025-09/2026-08,measured_12m
+evvai club eurovillage,Evvai Club Eurovillage,evvai club eurovillage,1010.0,1000,12,2025-09/2026-08,measured_12m
+joystar,JOYSTAR,joystar,65.0,70,12,2025-09/2026-08,measured_12m
+homefitnesscode,Homefitnesscode,homefitnesscode,470.0,480,12,2025-09/2026-08,measured_12m
+dryyve,Dryyve,dryyve,290.0,320,12,2025-09/2026-08,measured_12m
+motivi,Motivi,motivi,260583.33333333334,246000,12,2025-09/2026-08,measured_12m
+singleup,SingleUp,singleup,1866.6666666666667,1900,12,2025-09/2026-08,measured_12m
+gyada,Gyada,gyada,1525.0,1600,12,2025-09/2026-08,measured_12m
+camper,Camper,camper scarpe,13408.333333333334,12100,12,2025-09/2026-08,measured_12m
+kidsicily,KidSicily,kidsicily,8.333333333333334,10,12,2025-09/2026-08,measured_12m
+hdi,HDI,hdi,11583.333333333334,12100,12,2025-09/2026-08,measured_12m
+bike and life,Bike&Life,bike life,2158.3333333333335,1900,12,2025-09/2026-08,measured_12m
+alpinestars,Alpinestars,alpinestars,39050.0,40500,12,2025-09/2026-08,measured_12m
+sairon village,Sairon Village,sairon village,10200.833333333334,9900,12,2025-09/2026-08,measured_12m
+pikolinos,Pikolinos,pikolinos,2141.6666666666665,1900,12,2025-09/2026-08,measured_12m
+esi,ESI,esi,4500.0,4400,12,2025-09/2026-08,measured_12m
+armedangels,Armedangels,armedangels,1623.3333333333333,1600,12,2025-09/2026-08,measured_12m
+bioderma,Bioderma,bioderma,10483.333333333334,9900,12,2025-09/2026-08,measured_12m
+baia di manaccora,Baia di Manaccora,baia di manaccora,4178.333333333333,4400,12,2025-09/2026-08,measured_12m
+eurogarden village,Eurogarden Village,eurogarden village,4687.5,4400,12,2025-09/2026-08,measured_12m
+villaggio club degli ulivi,Villaggio Club degli Ulivi,villaggio club degli ulivi,945.0,1000,12,2025-09/2026-08,measured_12m
+emporio armani,Emporio Armani,emporio armani,46433.333333333336,40500,12,2025-09/2026-08,measured_12m
+reserved,Reserved,reserved,61333.333333333336,60500,12,2025-09/2026-08,measured_12m
+cockpit usa,Cockpit USA,cockpit usa,330.8333333333333,320,12,2025-09/2026-08,measured_12m
+nihola,Nihola,nihola,20.0,20,12,2025-09/2026-08,measured_12m
+riccione family camping village,Riccione Family Camping Village,riccione family camping village,20.0,20,12,2025-09/2026-08,measured_12m
+trespass,Trespass,trespass,5575.0,4400,12,2025-09/2026-08,measured_12m
+marella cruises,Marella Cruises,marella cruises,536.6666666666666,480,12,2025-09/2026-08,measured_12m
+villaggio costa del salento,Villaggio Costa del Salento,villaggio costa del salento,165.83333333333334,170,12,2025-09/2026-08,measured_12m
+moorer,Moorer,moorer,6400.0,6600,12,2025-09/2026-08,measured_12m
+marina family village,Marina Family Village,marina family village,887.5,720,12,2025-09/2026-08,measured_12m
+siux,Siux,siux padel,567.5,590,12,2025-09/2026-08,measured_12m
+veja,Veja,veja scarpe,4158.333333333333,4400,12,2025-09/2026-08,measured_12m
+chopard,Chopard,chopard,5958.333333333333,5400,12,2025-09/2026-08,measured_12m
+oman air,Oman Air,oman air,21491.666666666668,22200,12,2025-09/2026-08,measured_12m
+cosrx,COSRX,cosrx,4558.333333333333,4400,12,2025-09/2026-08,measured_12m
+leon cycle,Leon Cycle,leon cycle,25.833333333333332,30,12,2025-09/2026-08,measured_12m
+real techniques,Real Techniques,real techniques,1087.5,1000,12,2025-09/2026-08,measured_12m
+unicredit,Unicredit,unicredit,2800000.0,2740000,12,2025-09/2026-08,measured_12m
+audi,Audi,audi,269750.0,246000,12,2025-09/2026-08,measured_12m
+munich re,Munich Re,munich re,676.6666666666666,720,12,2025-09/2026-08,measured_12m
+bikestar,Bikestar,bikestar,228.33333333333334,210,12,2025-09/2026-08,measured_12m
+sicily lifestyle,Sicily Lifestyle,sicily lifestyle,122.5,110,12,2025-09/2026-08,measured_12m
+fissan,Fissan,fissan,2958.3333333333335,2900,12,2025-09/2026-08,measured_12m
+dr jart,Dr. Jart+,dr jart,3958.3333333333335,4400,12,2025-09/2026-08,measured_12m
+atmosphere,Atmosphere,atmosphere,5166.666666666667,5400,12,2025-09/2026-08,measured_12m
+laneige,Laneige,laneige,14058.333333333334,14800,12,2025-09/2026-08,measured_12m
+radon,Radon,radon,9241.666666666666,9900,12,2025-09/2026-08,measured_12m
+sicily touring,Sicily Touring,sicily touring,622.5,590,12,2025-09/2026-08,measured_12m
+riviera camping village,Riviera Camping Village,riviera camping village,81.66666666666667,90,12,2025-09/2026-08,measured_12m
+camping surabaja la playa,Camping Surabaja – La Playa,camping surabaja la playa,111.66666666666667,110,12,2025-09/2026-08,measured_12m
+sicily4u,Sicily4U,sicily4u,12.5,10,12,2025-09/2026-08,measured_12m
+cala blanca resort,Cala Blanca Resort,cala blanca resort,43.333333333333336,40,12,2025-09/2026-08,measured_12m
+maison margiela,Maison Margiela,maison margiela,36916.666666666664,40500,12,2025-09/2026-08,measured_12m
+meraki resort,Meraki Resort,meraki resort,248.33333333333334,260,12,2025-09/2026-08,measured_12m
+balenciaga,Balenciaga,balenciaga,105791.66666666667,110000,12,2025-09/2026-08,measured_12m
+la giurlita,La Giurlita,la giurlita,2424.1666666666665,2400,12,2025-09/2026-08,measured_12m
+car sharing roma,Car Sharing Roma,car sharing roma,4800.0,4400,12,2025-09/2026-08,measured_12m
+saline camping village,Saline Camping Village,saline camping village,14.166666666666666,10,12,2025-09/2026-08,measured_12m
+hotel christian,Hotel Christian,hotel christian,3533.3333333333335,3600,12,2025-09/2026-08,measured_12m
+gutteridge,Gutteridge,gutteridge,100750.0,90500,12,2025-09/2026-08,measured_12m
+catwalk,Catwalk,catwalk scarpe,767.5,720,12,2025-09/2026-08,measured_12m
+villaggio acquamarina,Villaggio Acquamarina,villaggio acquamarina,1987.5,1900,12,2025-09/2026-08,measured_12m
+maison francis kurkdjian,Maison Francis Kurkdjian,maison francis kurkdjian,4358.333333333333,4400,12,2025-09/2026-08,measured_12m
+patrizia pepe,Patrizia Pepe,patrizia pepe,43933.333333333336,40500,12,2025-09/2026-08,measured_12m
+baia dei faraglioni,Baia dei Faraglioni,baia dei faraglioni,4925.833333333333,4400,12,2025-09/2026-08,measured_12m
+denim,Denim,denim profumo,612.5,590,12,2025-09/2026-08,measured_12m
+safari avventura,Safari Avventura,safari avventura,409.1666666666667,390,12,2025-09/2026-08,measured_12m
+torre saracena,Torre Saracena,torre saracena,9025.0,8100,12,2025-09/2026-08,measured_12m
+muji,Muji,muji,70250.0,74000,12,2025-09/2026-08,measured_12m
+malizia,Malizia,malizia,8550.0,8100,12,2025-09/2026-08,measured_12m
+christiania bikes,Christiania Bikes,christiania bikes,310.8333333333333,320,12,2025-09/2026-08,measured_12m
+purederm,Purederm,purederm,185.83333333333334,210,12,2025-09/2026-08,measured_12m
+fischer,Fischer,fischer bici,12.5,10,12,2025-09/2026-08,measured_12m
+maps me,Maps.me,maps me,1666.6666666666667,1600,12,2025-09/2026-08,measured_12m
+croozer,Croozer,croozer,152.5,140,12,2025-09/2026-08,measured_12m
+camicissima,Camicissima,camicissima,31541.666666666668,33100,12,2025-09/2026-08,measured_12m
+aquafan,Aquafan,aquafan,52133.333333333336,49500,12,2025-09/2026-08,measured_12m
+camping village cesenatico,Camping Village Cesenatico,camping village cesenatico,3725.0,3600,12,2025-09/2026-08,measured_12m
+flash pack,Flash Pack,flash pack,241.66666666666666,260,12,2025-09/2026-08,measured_12m
+esprit,Esprit,esprit,3050.0,2900,12,2025-09/2026-08,measured_12m
+picard,Picard,picard borse,127.5,110,12,2025-09/2026-08,measured_12m
+villaggio arco del saracino,Villaggio Arco del Saracino,villaggio arco del saracino,266.6666666666667,260,12,2025-09/2026-08,measured_12m
+holins,Holins,holins,860.0,880,12,2025-09/2026-08,measured_12m
+alo yoga,Alo Yoga,alo yoga,27100.0,27100,12,2025-09/2026-08,measured_12m
+transavia,Transavia,transavia,94250.0,90500,12,2025-09/2026-08,measured_12m
+deerrun,DeerRun,deerrun,75.83333333333333,90,12,2025-09/2026-08,measured_12m
+uncovered sicily,Uncovered Sicily,uncovered sicily,135.0,140,12,2025-09/2026-08,measured_12m
+babaco,Babaco,babaco,1200.0,1300,12,2025-09/2026-08,measured_12m
+finn,FINN,finn auto abbonamento,,,0,2025-09/2026-08,API_no_complete_monthly_series
+camping internazionale sirolo,Camping Internazionale Sirolo,camping internazionale sirolo,2511.6666666666665,2400,12,2025-09/2026-08,measured_12m
+intrend,Intrend,intrend,332416.6666666667,301000,12,2025-09/2026-08,measured_12m
+grover,Grover,grover,1800.0,1900,12,2025-09/2026-08,measured_12m
+terra del sole sicilia,Terra del Sole Sicilia,terra del sole sicilia,10.833333333333334,10,12,2025-09/2026-08,measured_12m
+pellein,Pellein,pellein,101.66666666666667,90,12,2025-09/2026-08,measured_12m
+eurovita,Eurovita,eurovita,1055.8333333333333,880,12,2025-09/2026-08,measured_12m
+etihad,Etihad,etihad,75041.66666666667,74000,12,2025-09/2026-08,measured_12m
+mifold,Mifold,mifold,2608.3333333333335,2400,12,2025-09/2026-08,measured_12m
+labisi,Labisi,labisi viaggi,22.5,20,12,2025-09/2026-08,measured_12m
+hotel fantini,Hotel Fantini,hotel fantini,1260.8333333333333,1300,12,2025-09/2026-08,measured_12m
+acqua di gio,Acqua di Giò,acqua di gio,17608.333333333332,18100,12,2025-09/2026-08,measured_12m
+tucano,Tucano,tucano bici,14.166666666666666,10,12,2025-09/2026-08,measured_12m
+themoire,THEMOIRè,themoire,1345.8333333333333,1300,12,2025-09/2026-08,measured_12m
+vitanuova,Vitanuova,vitanuova,2141.6666666666665,1900,12,2025-09/2026-08,measured_12m
+morganti,Morganti,morganti,2125.0,1900,12,2025-09/2026-08,measured_12m
+the travel family,The Travel Family,the travel family,71.66666666666667,70,12,2025-09/2026-08,measured_12m
+i grandi viaggi,I Grandi Viaggi,i grandi viaggi,6541.666666666667,6600,12,2025-09/2026-08,measured_12m
+villaggio san matteo resort,Villaggio San Matteo Resort,villaggio san matteo resort,465.8333333333333,480,12,2025-09/2026-08,measured_12m
+rouvy,Rouvy,rouvy,6400.0,6600,12,2025-09/2026-08,measured_12m
+camping villaggio saline,Camping Villaggio Saline,camping villaggio saline,65.83333333333333,70,12,2025-09/2026-08,measured_12m
+mappamondo,Mappamondo,mappamondo,64208.333333333336,60500,12,2025-09/2026-08,measured_12m
+savannah explorers,Savannah Explorers,savannah explorers,280.8333333333333,320,12,2025-09/2026-08,measured_12m
+tui magic life,TUI MAGIC LIFE,tui magic life,1771.6666666666667,1600,12,2025-09/2026-08,measured_12m
+twinset,Twinset,twinset,88250.0,90500,12,2025-09/2026-08,measured_12m
+camping villaggio internazionale,Camping Villaggio Internazionale,camping villaggio internazionale,195.83333333333334,210,12,2025-09/2026-08,measured_12m
+frontier,Frontier,frontier assicurazioni,1750.0,1900,12,2025-09/2026-08,measured_12m
+the kooples,The Kooples,the kooples,1450.0,1300,12,2025-09/2026-08,measured_12m
+alpha industries,Alpha Industries,alpha industries,8883.333333333334,9900,12,2025-09/2026-08,measured_12m
+skip hop,Skip Hop,skip hop,172.5,170,12,2025-09/2026-08,measured_12m
+frog,Frog,frog,12675.0,12100,12,2025-09/2026-08,measured_12m
+le cale dotranto beach resort,Le Cale d’Otranto Beach Resort,le cale dotranto beach resort,15316.666666666666,14800,12,2025-09/2026-08,measured_12m
+seabel,Seabel,seabel hotel,22.5,20,12,2025-09/2026-08,measured_12m
+lanvin,Lanvin,lanvin,46316.666666666664,49500,12,2025-09/2026-08,measured_12m
+myprotein,Myprotein,myprotein,39883.333333333336,40500,12,2025-09/2026-08,measured_12m
+rixos,Rixos,rixos hotel,463.3333333333333,480,12,2025-09/2026-08,measured_12m
+rochas,Rochas,rochas,835.8333333333334,880,12,2025-09/2026-08,measured_12m
+aku,Aku,aku,4850.0,5400,12,2025-09/2026-08,measured_12m
+vertbaudet,Vertbaudet,vertbaudet,1415.0,1600,12,2025-09/2026-08,measured_12m
+coty,Coty,coty,1550.0,1600,12,2025-09/2026-08,measured_12m
+villaggio camping arco naturale,Villaggio Camping Arco Naturale,villaggio camping arco naturale,21.666666666666668,20,12,2025-09/2026-08,measured_12m
+panda bike,Panda Bike,panda bike,815.0,880,12,2025-09/2026-08,measured_12m
+intercity,Intercity,intercity,20508.333333333332,22200,12,2025-09/2026-08,measured_12m
+villaggio campo verde,Villaggio Campo Verde,villaggio campo verde,10.833333333333334,10,12,2025-09/2026-08,measured_12m
+i provenzali,I Provenzali,i provenzali,1991.6666666666667,1900,12,2025-09/2026-08,measured_12m
+royal padel,Royal Padel,royal padel,345.8333333333333,320,12,2025-09/2026-08,measured_12m
+bhs travel,BHS Travel,bhs travel,3458.3333333333335,3600,12,2025-09/2026-08,measured_12m
+qover,Qover,qover,115.83333333333333,110,12,2025-09/2026-08,measured_12m
+licorne bike,Licorne Bike,licorne bike,381.6666666666667,390,12,2025-09/2026-08,measured_12m
+ah premium isola di pazze,Ah Premium Isola di Pazze,ah premium isola di pazze,141.66666666666666,140,12,2025-09/2026-08,measured_12m
+rentalcover,RentalCover,rentalcover,1608.3333333333333,1600,12,2025-09/2026-08,measured_12m
+villaggio nessuno,Villaggio Nessuno,villaggio nessuno,211.66666666666666,210,12,2025-09/2026-08,measured_12m
+renata travel,Renata Travel,renata travel,545.0,590,12,2025-09/2026-08,measured_12m
+iopitour,Iopitour,iopitour,,,0,2025-09/2026-08,API_no_complete_monthly_series
+klm,KLM,klm,82500.0,90500,12,2025-09/2026-08,measured_12m
+leather trend,Leather Trend,leather trend,635.0,590,12,2025-09/2026-08,measured_12m
+auto presto and bene,Auto Presto & Bene,auto presto bene,25.0,20,12,2025-09/2026-08,measured_12m
+jo loves,Jo Loves,jo loves,143.33333333333334,140,12,2025-09/2026-08,measured_12m
+baia dei turchi resort,Baia dei Turchi Resort,baia dei turchi resort,4019.1666666666665,3600,12,2025-09/2026-08,measured_12m
+farfallina,Farfallina,farfallina,2850.0,2900,12,2025-09/2026-08,measured_12m
+avon,Avon,avon,27533.333333333332,27100,12,2025-09/2026-08,measured_12m
+camping saline,Camping Saline,camping saline,515.8333333333334,590,12,2025-09/2026-08,measured_12m
+bimbo travel,Bimbo Travel,bimbo travel,47.5,40,12,2025-09/2026-08,measured_12m
+porto cesareo camping village,Porto Cesareo Camping Village,porto cesareo camping village,291.6666666666667,320,12,2025-09/2026-08,measured_12m
+taunus vacanze,Taunus Vacanze,taunus vacanze,1175.8333333333333,1000,12,2025-09/2026-08,measured_12m
+bhei,BHEI,bhei assicurazioni,,,0,2025-09/2026-08,API_no_complete_monthly_series
+consulbrokers,Consulbrokers,consulbrokers,267.5,260,12,2025-09/2026-08,measured_12m
+approdo resort thalasso,Approdo Resort Thalasso Spa,approdo resort thalasso spa,20416.666666666668,18100,12,2025-09/2026-08,measured_12m
+color palace lido family village,Color Palace Lido Family Village,color palace lido family village,1045.8333333333333,1000,12,2025-09/2026-08,measured_12m
+iana,Iana,iana abbigliamento,144.16666666666666,140,12,2025-09/2026-08,measured_12m
+u save,U-Save,u save,1716.6666666666667,1900,12,2025-09/2026-08,measured_12m
+inov 8,Inov-8,inov 8,381.6666666666667,390,12,2025-09/2026-08,measured_12m
+lido paradiso resort,Lido Paradiso Resort,lido paradiso resort,3565.0,3600,12,2025-09/2026-08,measured_12m
+canellini,Canellini,canellini,456.6666666666667,480,12,2025-09/2026-08,measured_12m
+joroto,Joroto,joroto,130.83333333333334,140,12,2025-09/2026-08,measured_12m
+eurovillage,Eurovillage,eurovillage,2531.6666666666665,2400,12,2025-09/2026-08,measured_12m
+urlife,URLIFE,urlife,301.6666666666667,390,12,2025-09/2026-08,measured_12m
+malia village,Malia Village,malia village,1821.6666666666667,1600,12,2025-09/2026-08,measured_12m
+autounion,AutoUnion,autounion,2316.6666666666665,2400,12,2025-09/2026-08,measured_12m
+organic shop,Organic Shop,organic shop,1966.6666666666667,1900,12,2025-09/2026-08,measured_12m
+focus,Focus,focus bici,1170.0,1300,12,2025-09/2026-08,measured_12m
+ferrovie del gargano,Ferrovie del Gargano,ferrovie del gargano,24375.0,22200,12,2025-09/2026-08,measured_12m
+great lakes,Great Lakes,great lakes,798.3333333333334,880,12,2025-09/2026-08,measured_12m
+carnival corporation,Carnival Corporation,carnival corporation,673.3333333333334,590,12,2025-09/2026-08,measured_12m
+matt,Matt,matt cosmetici,58.333333333333336,50,12,2025-09/2026-08,measured_12m
+smart,Smart,smart auto,3816.6666666666665,3600,12,2025-09/2026-08,measured_12m
+evolution travel,Evolution Travel,evolution travel,5641.666666666667,5400,12,2025-09/2026-08,measured_12m
+beiersdorf,Beiersdorf,beiersdorf,1641.6666666666667,1600,12,2025-09/2026-08,measured_12m
+amex,Amex,american express,155000.0,165000,12,2025-09/2026-08,measured_12m
+redskins,Redskins,redskins,887.5,880,12,2025-09/2026-08,measured_12m
+camping village mulino dacqua,Camping Village Mulino d’Acqua,camping village mulino dacqua,,,0,2025-09/2026-08,API_no_complete_monthly_series
+monki,Monki,monki,1783.3333333333333,1600,12,2025-09/2026-08,measured_12m
+turo,Turo,turo,2208.3333333333335,2400,12,2025-09/2026-08,measured_12m
+rivaverde family camping village,Rivaverde Family Camping Village,rivaverde family camping village,344.1666666666667,320,12,2025-09/2026-08,measured_12m
+fred perry,Fred Perry,fred perry,18075.0,18100,12,2025-09/2026-08,measured_12m
+cdshotels costa del salento village,CDSHotels Costa del Salento Village,cdshotels costa del salento village,3.3333333333333335,10,12,2025-09/2026-08,measured_12m
+eskute,Eskute,eskute,258.3333333333333,260,12,2025-09/2026-08,measured_12m
+oltremare,Oltremare,oltremare,50325.0,49500,12,2025-09/2026-08,measured_12m
+rc medici,RC Medici,rc medici,430.8333333333333,390,12,2025-09/2026-08,measured_12m
+assicuratrice milanese,Assicuratrice Milanese,assicuratrice milanese,943.3333333333334,880,12,2025-09/2026-08,measured_12m
+sinophant,Sinophant,sinophant,40.833333333333336,40,12,2025-09/2026-08,measured_12m
+carrera,Carrera,carrera profumo,62.5,70,12,2025-09/2026-08,measured_12m
+alverde,Alverde,alverde,582.5,590,12,2025-09/2026-08,measured_12m
+sanilog,Sanilog,sanilog,11791.666666666666,12100,12,2025-09/2026-08,measured_12m
+yagud,Yagud,yagud,10.833333333333334,10,12,2025-09/2026-08,measured_12m
+prassi broker,Prassi Broker,prassi broker,395.0,390,12,2025-09/2026-08,measured_12m
+color holidays,Color Holidays,color holidays,1328.3333333333333,1300,12,2025-09/2026-08,measured_12m
+cyrusher,Cyrusher,cyrusher,125.0,140,12,2025-09/2026-08,measured_12m
+mary and may,Mary & May,mary may,97.5,90,12,2025-09/2026-08,measured_12m
+amicoblu,AmicoBlu,amicoblu,8575.0,8100,12,2025-09/2026-08,measured_12m
+narciso rodriguez,Narciso Rodriguez,narciso rodriguez,41258.333333333336,40500,12,2025-09/2026-08,measured_12m
+fafrees,Fafrees,fafrees,434.1666666666667,480,12,2025-09/2026-08,measured_12m
+camping village costa verde,Camping Village Costa Verde,camping village costa verde,1142.5,1000,12,2025-09/2026-08,measured_12m
+liebeskind berlin,Liebeskind Berlin,liebeskind berlin,761.6666666666666,720,12,2025-09/2026-08,measured_12m
+sicily trekking,Sicily Trekking,sicily trekking,114.16666666666667,110,12,2025-09/2026-08,measured_12m
+pelletterie borghese,Pelletterie Borghese,pelletterie borghese,228.33333333333334,210,12,2025-09/2026-08,measured_12m
+ponant,Ponant,ponant,728.3333333333334,720,12,2025-09/2026-08,measured_12m
+futura club la praya,Futura Club La Praya,futura club la praya,5166.666666666667,5400,12,2025-09/2026-08,measured_12m
+palazzo belmonte,Palazzo Belmonte,palazzo belmonte,1568.3333333333333,1600,12,2025-09/2026-08,measured_12m
+giordani,Giordani,giordani,2833.3333333333335,2900,12,2025-09/2026-08,measured_12m
+zanzibar insurance corporation,Zanzibar Insurance Corporation,zanzibar insurance corporation,190.83333333333334,170,12,2025-09/2026-08,measured_12m
+baia san nicola,Baia San Nicola,baia san nicola,2843.3333333333335,2900,12,2025-09/2026-08,measured_12m
+dottorpet,Dottorpet,dottorpet,129.16666666666666,140,12,2025-09/2026-08,measured_12m
+la fenosa,La Fenosa,la fenosa,308.3333333333333,320,12,2025-09/2026-08,measured_12m
+cds hotels,CDS Hotels,cds hotels,6558.333333333333,6600,12,2025-09/2026-08,measured_12m
+trevi family resort,Trevi Family Resort,trevi family resort,1311.6666666666667,1300,12,2025-09/2026-08,measured_12m
+inoleggio,iNoleggio,inoleggio,705.8333333333334,720,12,2025-09/2026-08,measured_12m
+issey miyake,Issey Miyake,issey miyake,13750.0,14800,12,2025-09/2026-08,measured_12m
+simond,Simond,simond,2691.6666666666665,2900,12,2025-09/2026-08,measured_12m
+byd,BYD,byd,307500.0,301000,12,2025-09/2026-08,measured_12m
+color ermitage beach family village,Color Ermitage Beach Family Village,color ermitage beach family village,12.5,10,12,2025-09/2026-08,measured_12m
+allianz partners,Allianz Partners,allianz partners,514.1666666666666,480,12,2025-09/2026-08,measured_12m
+pineta sul mare,Pineta sul Mare,pineta sul mare,132.5,140,12,2025-09/2026-08,measured_12m
+rare beauty,Rare Beauty,rare beauty,16816.666666666668,14800,12,2025-09/2026-08,measured_12m
+brera,Brera,brera bici,853.3333333333334,880,12,2025-09/2026-08,measured_12m
+blauer,Blauer,blauer,96166.66666666667,90500,12,2025-09/2026-08,measured_12m
+earth cultura e natura,Earth Cultura e Natura,earth cultura e natura,26.666666666666668,30,12,2025-09/2026-08,measured_12m
+brompton,Brompton,brompton,3716.6666666666665,3600,12,2025-09/2026-08,measured_12m
+omnium,Omnium,omnium cargo,98.33333333333333,90,12,2025-09/2026-08,measured_12m
+fagottino,Fagottino,fagottino,7900.0,8100,12,2025-09/2026-08,measured_12m
+spina family camping village,Spina Family Camping Village,spina family camping village,1351.6666666666667,1300,12,2025-09/2026-08,measured_12m
+lekebaby,Lekebaby,lekebaby,10.833333333333334,10,12,2025-09/2026-08,measured_12m
+baia di gallipoli camping resort,Baia di Gallipoli Camping Resort,baia di gallipoli camping resort,825.8333333333334,880,12,2025-09/2026-08,measured_12m
+villaggio camping manacore,Villaggio Camping Manacore,villaggio camping manacore,213.33333333333334,210,12,2025-09/2026-08,measured_12m
+al rehab,Al-Rehab,al rehab,203.33333333333334,170,12,2025-09/2026-08,measured_12m
+conerobus,Conerobus,conerobus,11158.333333333334,9900,12,2025-09/2026-08,measured_12m
+villaggio lido del sole,Villaggio Lido del Sole,villaggio lido del sole,707.5,720,12,2025-09/2026-08,measured_12m
+mitomo,Mitomo,mitomo,50.0,50,12,2025-09/2026-08,measured_12m
+viva,Viva,viva wyndham,215.0,210,12,2025-09/2026-08,measured_12m
+trs,TRS,trs hotels,25.0,20,12,2025-09/2026-08,measured_12m
+costa vacanze hotels,Costa Vacanze Hotels,costa vacanze hotels,157.5,170,12,2025-09/2026-08,measured_12m
+cover4rentals,Cover4Rentals,cover4rentals,155.0,170,12,2025-09/2026-08,measured_12m
+cadiprof,Cadiprof,cadiprof,53883.333333333336,49500,12,2025-09/2026-08,measured_12m
+villaggio elisena,Villaggio Elisena,villaggio elisena,657.5,720,12,2025-09/2026-08,measured_12m
+zeporix,Zeporix,zeporix,41.666666666666664,40,12,2025-09/2026-08,measured_12m
+air france,Air France,air france,163500.0,165000,12,2025-09/2026-08,measured_12m
+mastercard,Mastercard,mastercard,19275.0,18100,12,2025-09/2026-08,measured_12m
+camping villaggio dei pini,Camping Villaggio dei Pini,camping villaggio dei pini,2635.0,2900,12,2025-09/2026-08,measured_12m
+blu suite resort,Blu Suite Resort,blu suite resort,735.0,720,12,2025-09/2026-08,measured_12m
+frederic malle,Frederic Malle,frederic malle,3708.3333333333335,3600,12,2025-09/2026-08,measured_12m
+van4you,Van4You,van4you,1225.0,1300,12,2025-09/2026-08,measured_12m
+sicily travelnet,Sicily Travelnet,sicily travelnet,18.333333333333332,20,12,2025-09/2026-08,measured_12m
+azzurro club,Azzurro Club,azzurro club,511.6666666666667,480,12,2025-09/2026-08,measured_12m
+safetywing,SafetyWing,safetywing,615.0,590,12,2025-09/2026-08,measured_12m
+clarins,Clarins,clarins,19100.0,18100,12,2025-09/2026-08,measured_12m
+secrets,Secrets,secrets,8550.0,8100,12,2025-09/2026-08,measured_12m
+soi,SOI,soi assicurazioni,,,0,2025-09/2026-08,API_no_complete_monthly_series
+persefone travel,Persefone Travel,persefone travel,,,0,2025-09/2026-08,API_no_complete_monthly_series
+chanson deau,Chanson d’Eau,chanson deau,621.6666666666666,590,12,2025-09/2026-08,measured_12m
+doria e bellisario,Doria e Bellisario,doria e bellisario,37.5,40,12,2025-09/2026-08,measured_12m
+natural village resort,Natural Village Resort,natural village resort,12266.666666666666,12100,12,2025-09/2026-08,measured_12m
+myland,Myland,myland bici,336.6666666666667,320,12,2025-09/2026-08,measured_12m
+salinello village,Salinello Village,salinello village,13583.333333333334,14800,12,2025-09/2026-08,measured_12m
+green park village,Green Park Village,green park village,1777.5,1900,12,2025-09/2026-08,measured_12m
+marella,Marella,marella abbigliamento,4433.333333333333,4400,12,2025-09/2026-08,measured_12m
+david beckham,David Beckham,david beckham,51575.0,49500,12,2025-09/2026-08,measured_12m
+camping village baia di gallipoli,Camping Village Baia di Gallipoli,camping village baia di gallipoli,77.5,70,12,2025-09/2026-08,measured_12m
+precor,Precor,precor,283.3333333333333,260,12,2025-09/2026-08,measured_12m
+fiabilandia,Fiabilandia,fiabilandia,55050.0,49500,12,2025-09/2026-08,measured_12m
+ganni,Ganni,ganni,6991.666666666667,6600,12,2025-09/2026-08,measured_12m
+ekos,Ekos,ekos cosmetici,30.833333333333332,30,12,2025-09/2026-08,measured_12m
+bnp paribas,BNP Paribas,bnp paribas,18141.666666666668,18100,12,2025-09/2026-08,measured_12m
+cnp assurances,CNP Assurances,cnp assurances,641.6666666666666,720,12,2025-09/2026-08,measured_12m
+clickrent,ClickRent,clickrent,2958.3333333333335,2900,12,2025-09/2026-08,measured_12m
+campagnolo,Campagnolo,campagnolo,9083.333333333334,9900,12,2025-09/2026-08,measured_12m
+santalucia,Santalucia,santalucia,1616.6666666666667,1600,12,2025-09/2026-08,measured_12m
+bipi,Bipi,bipi,467.5,390,12,2025-09/2026-08,measured_12m
+shock absorber,Shock Absorber,shock absorber,691.6666666666666,720,12,2025-09/2026-08,measured_12m
+thursday boot co,Thursday Boot Co.,thursday boot co,19.166666666666668,20,12,2025-09/2026-08,measured_12m
+visa,Visa,visa,14000.0,14800,12,2025-09/2026-08,measured_12m
+rbm salute,RBM Salute,rbm salute,3016.6666666666665,2900,12,2025-09/2026-08,measured_12m
+marine aviation,Marine Aviation,marine aviation,29.166666666666668,30,12,2025-09/2026-08,measured_12m
+carel paris,Carel Paris,carel paris,462.5,480,12,2025-09/2026-08,measured_12m
+boden,Boden,boden,2766.6666666666665,2900,12,2025-09/2026-08,measured_12m
+baracuta,Baracuta,baracuta,5108.333333333333,5400,12,2025-09/2026-08,measured_12m
+hotel feldberg,Hotel Feldberg,hotel feldberg,2033.3333333333333,1900,12,2025-09/2026-08,measured_12m
+cardif,Cardif,cardif assicurazioni,1351.6666666666667,1300,12,2025-09/2026-08,measured_12m
+discovering sicily,Discovering Sicily,discovering sicily,71.66666666666667,70,12,2025-09/2026-08,measured_12m
+cook s club,Cook's Club,cooks club,108.33333333333333,110,12,2025-09/2026-08,measured_12m
+squok club,Squok Club,squok club,66.66666666666667,70,12,2025-09/2026-08,measured_12m
+absolute sicily,Absolute Sicily,absolute sicily,10.0,10,12,2025-09/2026-08,measured_12m
+fondo fast,Fondo Fast,fondo fast,3083.3333333333335,2900,12,2025-09/2026-08,measured_12m
+conca d oro viaggi,Conca d'Oro Viaggi,conca doro viaggi,2050.0,1900,12,2025-09/2026-08,measured_12m
+val di kam,Val di Kam,val di kam,48.333333333333336,50,12,2025-09/2026-08,measured_12m
+cdshotels costa del salento,CDSHotels Costa del Salento,cdshotels costa del salento,,,0,2025-09/2026-08,API_no_complete_monthly_series
+villaggio baia del turco,Villaggio Baia del Turco,villaggio baia del turco,,,0,2025-09/2026-08,API_no_complete_monthly_series
+eas e,Eas-e,eas e,1350.0,1300,12,2025-09/2026-08,measured_12m
+globat sicily,Globat Sicily,globat sicily,8.333333333333334,10,12,2025-09/2026-08,measured_12m
+camping la pineta,Camping La Pineta,camping la pineta,5443.333333333333,5400,12,2025-09/2026-08,measured_12m
+solada,Solada,solada,115.0,110,12,2025-09/2026-08,measured_12m
+milecity,MileCity,milecity,30.0,30,12,2025-09/2026-08,measured_12m

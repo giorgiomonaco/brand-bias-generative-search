@@ -1,0 +1,14 @@
+{
+ "url": "https://www.bikeprotection.it/preventivo/nuovo?bundleCode=amatore",
+ "url_finale": "https://www.bikeprotection.it/preventivo/nuovo?estimateId=6ade2805d72c31b03b1b534b&step=1",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Nuovo preventivo",
+ "parole": 240,
+ "ok": true,
+ "ld": [
+  "Bike Protection protegge ogni aspetto della tua esperienza ciclistica, dalla sicurezza contro i furti alla gestione dei danni."
+ ],
+ "catturato": "2026-10-25T16:02:13.262954+00:00",
+ "sha256_html": "ad3aab7211e4e05581f26cb9f3f73690942042b109df332d4662ea08f9d45af5"
+}

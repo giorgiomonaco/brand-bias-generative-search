@@ -1,0 +1,83 @@
+{
+ "pid": "moda_beauty_23",
+ "bersaglio": "montblanc",
+ "brand": "Montblanc",
+ "url": "https://www.montblanc.com/it-it/explorer-eau-de-parfum-100-ml-MB124069VG.html",
+ "testo_sha256": "c7e32a8ff3c5aaf71a3e83390d5706c9a4eba79fbb7c417727c1c034994b0cb3",
+ "modello": "Fragranze\nEau de Parfum\n{PRODOTTO} Eau de Parfum, 100 ml\n€ 97.00\nUna fragranza autentica, intrisa di avventura e libertà, che rivela una virilità, una presenza e un carisma raffinati narrando un viaggio attorno al mondo.\nDettagli\nDettagli\nUna fragranza autentica, intrisa di avventura e libertà, che rivela una virilità, una presenza e un carisma raffinati narrando un viaggio attorno al mondo.\nN. ident.\n{CODICE_1}\nCaratteristiche\nHighlights\n{PRODOTTO} è una fragranza aromatica dal sentore boisé e di pelle.\nNote di testa: Bergamotto - Pepe rosa - Salvia sclarea.\nNote di cuore: Patchouli - Mahonial - Ambrofix.\nNote di fondo: Vetiver - Cuoio - Legno di cedro",
+ "mappa_reale": {
+  "PRODOTTO": "Explorer",
+  "CODICE_1": "MB124069"
+ },
+ "mappa_inventata": {
+  "PRODOTTO": "Lunviera",
+  "CODICE_1": "48219305"
+ },
+ "piu_noto": "zara",
+ "meno_noto": "rochas",
+ "inventato": "Nevrola",
+ "riscritture": {
+  "STRUTTURA": "Categoria:\nFragranze\n\nTipologia:\nEau de Parfum\n\nProdotto e prezzo:\n{PRODOTTO} Eau de Parfum, 100 ml\n€ 97.00\n\nDettagli principali:\nUna fragranza autentica, intrisa di avventura e libertà, che narra un viaggio attorno al mondo e rivela virilità, presenza e carisma raffinati.\n\nN. ident.:\n{CODICE_1}\n\nCaratteristiche e highlights:\n{PRODOTTO} è una fragranza aromatica dal sentore boisé e di pelle.\n\nNote olfattive:\n- Note di testa: Bergamotto - Pepe rosa - Salvia sclarea.\n- Note di cuore: Patchouli - Mahonial - Ambrofix.\n- Note di fondo: Vetiver - Cuoio - Legno di cedro",
+  "FLUENCY": "Fragranze\nEau de Parfum\n{PRODOTTO} Eau de Parfum, 100 ml\n€ 97.00\n\nUna fragranza autentica, pervasa da avventura e libertà, racconta un viaggio attorno al mondo e svela virilità, presenza e carisma raffinati.\n\nDettagli\nDettagli: autentica e intrisa di avventura e libertà, questa fragranza narra un viaggio attorno al mondo, rivelando virilità, presenza e carisma raffinati.\n\nN. ident.\n{CODICE_1}\n\nCaratteristiche\nHighlights: {PRODOTTO} è una fragranza aromatica con sentore boisé e di pelle.\nNote di testa: Bergamotto - Pepe rosa - Salvia sclarea.\nNote di cuore: Patchouli - Mahonial - Ambrofix.\nNote di fondo: Vetiver - Cuoio - Legno di cedro",
+  "AUTHORITATIVE": "Fragranze\nEau de Parfum\n{PRODOTTO} Eau de Parfum, 100 ml\n€ 97.00\nUna fragranza autentica, segnata da avventura e libertà, che esprime virilità, presenza e carisma raffinati attraverso il racconto di un viaggio attorno al mondo.\nDettagli\nDettagli\nUna fragranza autentica, segnata da avventura e libertà, che esprime virilità, presenza e carisma raffinati attraverso il racconto di un viaggio attorno al mondo.\nN. ident.\n{CODICE_1}\nCaratteristiche\nHighlights\n{PRODOTTO} è una fragranza aromatica con accenti boisé e di pelle.\nNote di testa: Bergamotto - Pepe rosa - Salvia sclarea.\nNote di cuore: Patchouli - Mahonial - Ambrofix.\nNote di fondo: Vetiver - Cuoio - Legno di cedro"
+ },
+ "log_riscritture": {
+  "STRUTTURA": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 91,
+    "testo": "Categoria:\nFragranze\n\nTipologia:\nEau de Parfum\n\nProdotto e prezzo:\n{PRODOTTO} Eau de Parfum, 100 ml\n€ 97.00\n\nDettagli principali:\nUna fragranza autentica, intrisa di avventura e libertà, che narra un viaggio attorno al mondo e rivela virilità, presenza e carisma raffinati.\n\nN. ident.:\n{CODICE_1}\n\nCaratteristiche e highlights:\n{PRODOTTO} è una fragranza aromatica dal sentore boisé e di pelle.\n\nNote olfattive:\n- Note di testa: Bergamotto - Pepe rosa - Salvia sclarea.\n- Note di cuore: Patchouli - Mahonial - Ambrofix.\n- Note di fondo: Vetiver - Cuoio - Legno di cedro"
+   }
+  ],
+  "FLUENCY": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 100,
+    "testo": "Fragranze\nEau de Parfum\n{PRODOTTO} Eau de Parfum, 100 ml\n€ 97.00\n\nUna fragranza autentica, pervasa da avventura e libertà, racconta un viaggio attorno al mondo e svela virilità, presenza e carisma raffinati.\n\nDettagli\nDettagli: autentica e intrisa di avventura e libertà, questa fragranza narra un viaggio attorno al mondo, rivelando virilità, presenza e carisma raffinati.\n\nN. ident.\n{CODICE_1}\n\nCaratteristiche\nHighlights: {PRODOTTO} è una fragranza aromatica con sentore boisé e di pelle.\nNote di testa: Bergamotto - Pepe rosa - Salvia sclarea.\nNote di cuore: Patchouli - Mahonial - Ambrofix.\nNote di fondo: Vetiver - Cuoio - Legno di cedro"
+   }
+  ],
+  "AUTHORITATIVE": [
+   {
+    "tentativo": 0,
+    "errori": [],
+    "parole": 106,
+    "testo": "Fragranze\nEau de Parfum\n{PRODOTTO} Eau de Parfum, 100 ml\n€ 97.00\nUna fragranza autentica, segnata da avventura e libertà, che esprime virilità, presenza e carisma raffinati attraverso il racconto di un viaggio attorno al mondo.\nDettagli\nDettagli\nUna fragranza autentica, segnata da avventura e libertà, che esprime virilità, presenza e carisma raffinati attraverso il racconto di un viaggio attorno al mondo.\nN. ident.\n{CODICE_1}\nCaratteristiche\nHighlights\n{PRODOTTO} è una fragranza aromatica con accenti boisé e di pelle.\nNote di testa: Bergamotto - Pepe rosa - Salvia sclarea.\nNote di cuore: Patchouli - Mahonial - Ambrofix.\nNote di fondo: Vetiver - Cuoio - Legno di cedro"
+   }
+  ]
+ },
+ "log_correzioni_offline": [
+  {
+   "date": "2026-10-24",
+   "method": "deterministic_offline",
+   "reasons": [
+    "Rimosso il prefisso MB dal codice inventato."
+   ],
+   "input_sha256": "eeadf7f45e49f82c54cc4dc2b4b3a81836f0d766ee31b24511ff2f3dcc7b5175",
+   "before_templates": {
+    "ORIGINALE": "b09f5f98f05a0ea76bf107fbb3b1722b88dd7dcd2ec8c16ebbb3a82e9459b953",
+    "STRUTTURA": "7a344647453367c47cca9bf64b06be0c9e701a29b5ab6396b63cd00eb83e7741",
+    "FLUENCY": "0827320d9efb9590682afeada195634259b70c94947f1d3b3052d56fee94b092",
+    "AUTHORITATIVE": "d3cdc5d6937d1bdaa183d4266aa7536d51449d40b1f6fcf076274aedc0fa73ae"
+   },
+   "after_templates": {
+    "ORIGINALE": "b09f5f98f05a0ea76bf107fbb3b1722b88dd7dcd2ec8c16ebbb3a82e9459b953",
+    "STRUTTURA": "7a344647453367c47cca9bf64b06be0c9e701a29b5ab6396b63cd00eb83e7741",
+    "FLUENCY": "0827320d9efb9590682afeada195634259b70c94947f1d3b3052d56fee94b092",
+    "AUTHORITATIVE": "d3cdc5d6937d1bdaa183d4266aa7536d51449d40b1f6fcf076274aedc0fa73ae"
+   },
+   "new_llm_judgment": false
+  },
+  {
+   "data": "2026-10-28",
+   "nota": "neutralizzazione v2 (lavoro/2026-10-28_neutralizzazione_v2/nuovi_nomi.py)"
+  }
+ ],
+ "firme_prima_raccolta": {
+  "piu_noto": "versace",
+  "meno_noto": "bentley",
+  "inventato": "Nevrola"
+ },
+ "origine": "stimolo della prima raccolta (data/part2_v3/stimoli), con le correzioni del 24/10; firme aggiornate il 25/10"
+}

@@ -1,0 +1,14 @@
+{
+ "url": "https://www.odisseavillage.com/",
+ "url_finale": "https://www.odisseavillage.com/",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Villaggio Odissea a Marina di Camerota",
+ "parole": 634,
+ "ok": true,
+ "ld": [
+  "Il villaggio Odissea a Marina di Camerota è la soluzione ideale per chi vuole vivere una vacanza nel verde, a due passi dal mare e con tutti i comfort. "
+ ],
+ "catturato": "2026-10-23T15:59:52.365933+00:00",
+ "sha256_html": "bd86c493646d3571e0bc3c0d88b729cce2a6d9d126913ae1a9484819ec3baa8b"
+}

@@ -1,0 +1,15 @@
+{
+ "url": "https://www.genertel.it/digital-assistance-auto",
+ "url_finale": "https://www.genertel.it/digital-assistance-auto",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Assicurazione con telematica e assistenza satellitare | Genertel",
+ "parole": 269,
+ "ok": true,
+ "ld": [
+  "Genertel è la prima compagnia assicurativa italiana ad aver venduto polizze telefoniche e online. Parte del Gruppo Generali, offre soluzioni assicurative digitali, personalizzabili e sostenibili.",
+  "Scopri l'assistenza telematica di Genertel e la scatola nera per la tua auto: servizi digitali, sicurezza e controllo sempre a portata di mano."
+ ],
+ "catturato": "2026-10-23T16:55:48.132720+00:00",
+ "sha256_html": "832cdd284ccee4d74b006591203f384ec7df19adacf2982d146bc3f03bed0cb1"
+}

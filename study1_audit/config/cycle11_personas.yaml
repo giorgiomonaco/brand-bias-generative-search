@@ -1,0 +1,302 @@
+# Ciclo 11 — buyer personas dello Studio 1 (3 per settore). Generato da analysis/cycle11_personas.py
+# dalle quote in results/cycle11/modificatori_<settore>.csv e dalle frasi in config/cycle11_frasi.yaml.
+# Unione con il prompt: config/cycle11_template.md. studio0: true = persona usata dallo Studio 0.
+# Blocco provvisorio: hash in results/cycle11/personas_hash.txt; dopo la lettura dell'autore ogni
+# modifica è una deviazione registrata.
+personas:
+- settore: assicurazioni
+  id: INS-A
+  ruolo: A
+  it: Sono genitore con una famiglia a carico. È la prima volta che stipulo una polizza. Cerco di spendere il meno possibile.
+  en: I am a parent with a family to support. It is the first time I take out a policy. I try to spend as little as possible.
+  token: 30
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: principiante
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: sotto soglia
+    esperienza: sotto soglia
+    budget: dalla domanda
+  quota_volume:
+    fase_vita: 0.0088
+    esperienza: 0.0001
+    budget: 0.0592
+  n_keyword:
+    fase_vita: 44
+    esperienza: 1
+    budget: 151
+  cambia_rispetto_ad_A: []
+  studio0: true
+- settore: assicurazioni
+  id: INS-B
+  ruolo: B
+  it: Sono genitore con una famiglia a carico. È la prima volta che stipulo una polizza. Spendo volentieri di più per la qualità.
+  en: I am a parent with a family to support. It is the first time I take out a policy. I am happy to spend more for quality.
+  token: 32
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: principiante
+    budget: spendere_per_qualita
+  origine:
+    fase_vita: sotto soglia
+    esperienza: sotto soglia
+    budget: da sintesi, non dalla domanda (polo opposto)
+  quota_volume:
+    fase_vita: 0.0088
+    esperienza: 0.0001
+    budget: 0.0
+  n_keyword:
+    fase_vita: 44
+    esperienza: 1
+    budget: 0
+  cambia_rispetto_ad_A:
+  - budget
+  studio0: false
+- settore: assicurazioni
+  id: INS-C
+  ruolo: C
+  it: Sono al primo anno di patente. È la prima volta che stipulo una polizza. Cerco di spendere il meno possibile.
+  en: I am in my first year with a driving licence. It is the first time I take out a policy. I try to spend as little as possible.
+  token: 27
+  livelli:
+    fase_vita: neopatentati
+    esperienza: principiante
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: sotto soglia
+    esperienza: sotto soglia
+    budget: dalla domanda
+  quota_volume:
+    fase_vita: 0.0046
+    esperienza: 0.0001
+    budget: 0.0592
+  n_keyword:
+    fase_vita: 12
+    esperienza: 1
+    budget: 151
+  cambia_rispetto_ad_A:
+  - fase_vita
+  studio0: false
+- settore: viaggi
+  id: TRA-A
+  ruolo: A
+  it: Sono single e viaggio senza figli. Ho un'esperienza nella media con i viaggi. Cerco di spendere il meno possibile.
+  en: I am single and travel without children. I have average experience with travel. I try to spend as little as possible.
+  token: 28
+  livelli:
+    fase_vita: single
+    esperienza: intermedio
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: dalla domanda
+    esperienza: da sintesi, non dalla domanda
+    budget: dalla domanda
+  quota_volume:
+    fase_vita: 0.0207
+    esperienza: 0.0
+    budget: 0.1312
+  n_keyword:
+    fase_vita: 29
+    esperienza: 0
+    budget: 234
+  cambia_rispetto_ad_A: []
+  studio0: true
+- settore: viaggi
+  id: TRA-B
+  ruolo: B
+  it: Sono single e viaggio senza figli. Ho un'esperienza nella media con i viaggi. Cerco il miglior rapporto tra qualità e prezzo.
+  en: I am single and travel without children. I have average experience with travel. I look for the best value for money.
+  token: 29
+  livelli:
+    fase_vita: single
+    esperienza: intermedio
+    budget: qualita_prezzo
+  origine:
+    fase_vita: dalla domanda
+    esperienza: da sintesi, non dalla domanda
+    budget: da sintesi, non dalla domanda (riscrittura per il controllo c)
+  quota_volume:
+    fase_vita: 0.0207
+    esperienza: 0.0
+    budget: 0.0
+  n_keyword:
+    fase_vita: 29
+    esperienza: 0
+    budget: 0
+  cambia_rispetto_ad_A:
+  - budget
+  studio0: false
+- settore: viaggi
+  id: TRA-C
+  ruolo: C
+  it: Sono genitore di figli piccoli. Ho un'esperienza nella media con i viaggi. Cerco di spendere il meno possibile.
+  en: I am a parent of young children. I have average experience with travel. I try to spend as little as possible.
+  token: 28
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: intermedio
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: dalla domanda
+    esperienza: da sintesi, non dalla domanda
+    budget: dalla domanda
+  quota_volume:
+    fase_vita: 0.0101
+    esperienza: 0.0
+    budget: 0.1312
+  n_keyword:
+    fase_vita: 48
+    esperienza: 0
+    budget: 234
+  cambia_rispetto_ad_A:
+  - fase_vita
+  studio0: false
+- settore: moda_beauty
+  id: FAB-A
+  ruolo: A
+  it: Sono genitore di figli piccoli. Ho un'esperienza nella media con moda e cosmetici. Cerco di spendere il meno possibile.
+  en: I am a parent of young children. I have average experience with fashion and cosmetics. I try to spend as little as possible.
+  token: 29
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: intermedio
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: sotto soglia
+    esperienza: da sintesi, non dalla domanda
+    budget: sotto soglia
+  quota_volume:
+    fase_vita: 0.0123
+    esperienza: 0.0
+    budget: 0.0171
+  n_keyword:
+    fase_vita: 65
+    esperienza: 0
+    budget: 260
+  cambia_rispetto_ad_A: []
+  studio0: true
+- settore: moda_beauty
+  id: FAB-B
+  ruolo: B
+  it: Sono genitore di figli piccoli. Ho un'esperienza nella media con moda e cosmetici. Cerco il miglior rapporto tra qualità e prezzo.
+  en: I am a parent of young children. I have average experience with fashion and cosmetics. I look for the best value for money.
+  token: 30
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: intermedio
+    budget: qualita_prezzo
+  origine:
+    fase_vita: sotto soglia
+    esperienza: da sintesi, non dalla domanda
+    budget: da sintesi, non dalla domanda (riscrittura per il controllo c)
+  quota_volume:
+    fase_vita: 0.0123
+    esperienza: 0.0
+    budget: 0.0
+  n_keyword:
+    fase_vita: 65
+    esperienza: 0
+    budget: 0
+  cambia_rispetto_ad_A:
+  - budget
+  studio0: false
+- settore: moda_beauty
+  id: FAB-C
+  ruolo: C
+  it: Sono single e non ho figli. Ho un'esperienza nella media con moda e cosmetici. Cerco di spendere il meno possibile.
+  en: I am single and have no children. I have average experience with fashion and cosmetics. I try to spend as little as possible.
+  token: 29
+  livelli:
+    fase_vita: single
+    esperienza: intermedio
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: da sintesi, non dalla domanda (quota media negli altri settori 0.0069)
+    esperienza: da sintesi, non dalla domanda
+    budget: sotto soglia
+  quota_volume:
+    fase_vita: 0.0
+    esperienza: 0.0
+    budget: 0.0171
+  n_keyword:
+    fase_vita: 0
+    esperienza: 0
+    budget: 260
+  cambia_rispetto_ad_A:
+  - fase_vita
+  studio0: false
+- settore: sport
+  id: SPO-A
+  ruolo: A
+  it: Sono genitore di figli piccoli. Ho cominciato da poco a fare sport. Cerco di spendere il meno possibile.
+  en: I am a parent of young children. I started doing sport only recently. I try to spend as little as possible.
+  token: 26
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: principiante
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: sotto soglia
+    esperienza: sotto soglia
+    budget: dalla domanda
+  quota_volume:
+    fase_vita: 0.0147
+    esperienza: 0.0024
+    budget: 0.1074
+  n_keyword:
+    fase_vita: 75
+    esperienza: 33
+    budget: 565
+  cambia_rispetto_ad_A: []
+  studio0: true
+- settore: sport
+  id: SPO-B
+  ruolo: B
+  it: Sono genitore di figli piccoli. Ho cominciato da poco a fare sport. Cerco il miglior rapporto tra qualità e prezzo.
+  en: I am a parent of young children. I started doing sport only recently. I look for the best value for money.
+  token: 27
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: principiante
+    budget: qualita_prezzo
+  origine:
+    fase_vita: sotto soglia
+    esperienza: sotto soglia
+    budget: sotto soglia (riscrittura per il controllo c)
+  quota_volume:
+    fase_vita: 0.0147
+    esperienza: 0.0024
+    budget: 0.0011
+  n_keyword:
+    fase_vita: 75
+    esperienza: 33
+    budget: 14
+  cambia_rispetto_ad_A:
+  - budget
+  studio0: false
+- settore: sport
+  id: SPO-C
+  ruolo: C
+  it: Sono genitore di figli piccoli. Faccio sport a un livello intermedio. Cerco di spendere il meno possibile.
+  en: I am a parent of young children. I do sport at an intermediate level. I try to spend as little as possible.
+  token: 25
+  livelli:
+    fase_vita: famiglia_con_figli
+    esperienza: intermedio
+    budget: attento_al_prezzo
+  origine:
+    fase_vita: sotto soglia
+    esperienza: sotto soglia
+    budget: dalla domanda
+  quota_volume:
+    fase_vita: 0.0147
+    esperienza: 0.0007
+    budget: 0.1074
+  n_keyword:
+    fase_vita: 75
+    esperienza: 18
+    budget: 565
+  cambia_rispetto_ad_A:
+  - esperienza
+  studio0: false

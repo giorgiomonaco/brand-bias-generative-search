@@ -1,0 +1,14 @@
+{
+ "url": "https://www.garnier.it/vitamina-c/siero-anti-macchie-vitamina-c",
+ "url_finale": "https://www.garnier.it/vitamina-c/siero-anti-macchie-vitamina-c",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "Siero Anti-macchie per il Viso con Vitamina C+ | Garnier",
+ "parole": 987,
+ "ok": true,
+ "ld": [
+  "Scopri ora il siero con vitamina C: l'alleato perfetto per attenuare le macchie scure e aumentare la luminosità della pelle. Scopri di più!"
+ ],
+ "catturato": "2026-10-25T15:55:03.779530+00:00",
+ "sha256_html": "7d29b3cc0d8cc26bfb3576fa6c99daa5c0de60d9a9cd3a5ff65b2d2d149df211"
+}

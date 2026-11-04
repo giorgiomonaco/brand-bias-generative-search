@@ -1,0 +1,15 @@
+{
+ "url": "https://www.paulaschoice.it/it/clinical-retinol-treatment/m8010.html",
+ "url_finale": "https://www.paulaschoice.it/it/clinical-retinol-treatment/m8010.html",
+ "stato": 200,
+ "metodo": "requests",
+ "titolo": "CLINICAL Trattamento 1% Retinolo | Paula's Choice",
+ "parole": 2506,
+ "ok": true,
+ "ld": [
+  "Paula's Choice Skincare"
+ ],
+ "catturato": "2026-10-23T15:59:22.149872+00:00",
+ "sha256_html": "73b205f1ee5816b809289b6915343cbbca1f76edc0d72af5532afd75d28ba9e2",
+ "testo_v3": "senza rimozione dei form"
+}
