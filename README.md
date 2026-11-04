@@ -1,6 +1,6 @@
-# Replication package (anonymous version for review)
+# Replication package
 
-Data and code for the two studies in the paper: an audit of three generative search engines on Italian
+Data and code for the two studies in the paper: an audit of three generative search engines on
 commercial prompts (Study 1) and a controlled ranking experiment on product pages (Study 2).
 
 Every figure and table in the paper can be rebuilt from the files in this repository with no API calls and
